@@ -23,24 +23,47 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
+        
+        def parse_filters(filters: list = None,
+                          required_filters: list = None,
+                          required_2_filters: list = None,
+                          forbidden_filters: list = None) -> str:
+
+            def to_or_query(words: list):
+                return " OR ".join(f'all:"{w}"' for w in words) if words else ""
+        
+            parts = []
+        
+            # Optional keywords
+            optional_query = to_or_query(filters)
+            if optional_query:
+                parts.append(f'({optional_query})')
+        
+            # Required keywords
+            required_query = to_or_query(required_filters)
+            if required_query:
+                parts.append(f'({required_query})')
+
+            # Required keywords
+            required_2_query = to_or_query(required_2_filters)
+            if required_2_query:
+                parts.append(f'({required_2_query})')
+                
+            # Forbidden keywords
+            forbidden_query = to_or_query(forbidden_filters)
+            if forbidden_query:
+                parts.append(f'NOT ({forbidden_query})')
+        
+            # Combine all with AND
+            if not parts:
+                return ""
+            return " AND ".join(parts)
+        
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            keywords[k] = parse_filters(v['filters'], v['required'], v['required_2'], v['forbidden'])
         return keywords
-    with open(config_file,'r') as f:
+        
+    with open(config_file,'r', encoding="utf-8") as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
@@ -258,7 +281,7 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding="utf-8") as f:
         content = f.read()
         if not content:
             data = {}
@@ -266,12 +289,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+", encoding="utf-8") as f:  # truncate file
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
-
+    with open(md_filename,"a+", encoding="utf-8") as f:
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
         
@@ -338,20 +360,20 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
+                     f"contributors/Ytang520/cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/Ytang520/"
                      f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Ytang520/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
+            f.write((f"[forks-url]: https://github.com/Ytang520/"
                      f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Ytang520/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
+            f.write((f"[stars-url]: https://github.com/Ytang520/"
                      f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Ytang520/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
+            f.write((f"[issues-url]: https://github.com/Ytang520/"
                      f"cv-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
@@ -374,6 +396,7 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
+            logging.info(f"Keyword_detail: {keyword}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)

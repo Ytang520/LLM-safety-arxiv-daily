@@ -5,10 +5,10 @@ repo_name: "LLM-safety-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 3000  # ori: 10 papers, here we first set it to be 1600 to get all previous papers
 
 publish_readme: True
-publish_gitpage: True
+publish_gitpage: False
 publish_wechat: False
 
 # file paths
@@ -22,7 +22,13 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "AI safety":
-        filters: ["jailbreaking", "jailbreak", "defense", "red team", "red teaming", "LLM safety", "AI safety"]
-
-
+    "LLM Jailbreak & Defense":
+        filters: ["jailbreaking", "jailbreak", "jailbreaks", "defense", "defend", "defending", "red team", "red teaming"]
+        required: ["language model", "language models"]
+        required_2: []
+        forbidden: ["MultiModal", "Multi-Modal", "multi-modal", "multimodal", "vision", "audio", "image"]
+    "MultiModal Jailbreak & Defense":
+        filters: ["jailbreaking", "jailbreak", "jailbreaks", "defense", "defend", "defending", "red team", "red teaming"]
+        required: ["MultiModal", "Multi-Modal", "multi-modal", "multimodal", "vision", "audio", "image"]
+        required_2: ["large", "language model", "language models"]
+        forbidden: []
