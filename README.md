@@ -1,4 +1,4 @@
-## Updated on 2025.11.15
+## Updated on 2025.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1998,7 +1998,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2010,11 +2010,11 @@
 |**2025-11-13**|**MTAttack: Multi-Target Backdoor Attacks against Large Vision-Language Models**|Zihan Wang et.al.|[2511.10098](http://arxiv.org/abs/2511.10098)|null|
 |**2025-11-13**|**Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks**|Xuancun Lu et.al.|[2511.10008](http://arxiv.org/abs/2511.10008)|null|
 |**2025-11-12**|**Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models**|Tiansheng Huang et.al.|[2511.09682](http://arxiv.org/abs/2511.09682)|null|
-|**2025-11-12**|**Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference**|Chengze Jiang et.al.|[2511.09064](http://arxiv.org/abs/2511.09064)|**[link](https://github.com/bookman233/DOC)**|
+|**2025-11-12**|**Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference**|Chengze Jiang et.al.|[2511.09064](http://arxiv.org/abs/2511.09064)|null|
 |**2025-11-11**|**Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs**|Yuxuan Zhou et.al.|[2511.08367](http://arxiv.org/abs/2511.08367)|null|
-|**2025-11-10**|**Diffusion Guided Adversarial State Perturbations in Reinforcement Learning**|Xiaolin Sun et.al.|[2511.07701](http://arxiv.org/abs/2511.07701)|**[link](https://github.com/SliencerX/Diffusion_Guided_Adversarial_State_Perturbations_in_Reinforcement_Learning)**|
+|**2025-11-10**|**Diffusion Guided Adversarial State Perturbations in Reinforcement Learning**|Xiaolin Sun et.al.|[2511.07701](http://arxiv.org/abs/2511.07701)|null|
 |**2025-11-10**|**JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework**|Yuxuan Zhou et.al.|[2511.07315](http://arxiv.org/abs/2511.07315)|null|
-|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
 |**2025-11-08**|**CGCE: Classifier-Guided Concept Erasure in Generative Models**|Viet Nguyen et.al.|[2511.05865](http://arxiv.org/abs/2511.05865)|null|
 |**2025-11-07**|**Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots**|Justin Williams et.al.|[2511.05642](http://arxiv.org/abs/2511.05642)|null|
 |**2025-11-07**|**Associative Poisoning to Generative Machine Learning**|Mathias Lundteigen Mohus et.al.|[2511.05177](http://arxiv.org/abs/2511.05177)|null|
@@ -2976,5 +2976,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
