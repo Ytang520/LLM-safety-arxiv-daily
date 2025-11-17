@@ -15,9 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis**|Farhad Abtahi et.al.|[2511.11020](http://arxiv.org/abs/2511.11020)|null|
+|**2025-11-14**|**ICX360: In-Context eXplainability 360 Toolkit**|Dennis Wei et.al.|[2511.10879](http://arxiv.org/abs/2511.10879)|null|
+|**2025-11-13**|**Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging**|Qinfeng Li et.al.|[2511.10712](http://arxiv.org/abs/2511.10712)|null|
 |**2025-11-13**|**Say It Differently: Linguistic Styles as Jailbreak Vectors**|Srikant Panda et.al.|[2511.10519](http://arxiv.org/abs/2511.10519)|null|
 |**2025-11-13**|**Generalized Intelligence for Tactical Decision-Making: Large Language Model-Driven Dynamic Weapon Target Assignment**|Johannes Autenrieb et.al.|[2511.10207](http://arxiv.org/abs/2511.10207)|null|
-|**2025-11-13**|**EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models**|Jialin Wu et.al.|[2511.09880](http://arxiv.org/abs/2511.09880)|**[link](https://github.com/AntCPLab/EnchTable)**|
+|**2025-11-13**|**EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models**|Jialin Wu et.al.|[2511.09880](http://arxiv.org/abs/2511.09880)|null|
 |**2025-11-13**|**Unlearning Imperative: Securing Trustworthy and Responsible LLMs through Engineered Forgetting**|James Jin Kang et.al.|[2511.09855](http://arxiv.org/abs/2511.09855)|null|
 |**2025-11-12**|**Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO**|Nikolay Blagoev et.al.|[2511.09780](http://arxiv.org/abs/2511.09780)|null|
 |**2025-11-11**|**Convergence dynamics of Agent-to-Agent Interactions with Misaligned objectives**|Romain Cosentino et.al.|[2511.08710](http://arxiv.org/abs/2511.08710)|null|
@@ -2006,7 +2009,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2025-11-13**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
+|**2025-11-14**|**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment**|Ruoxi Cheng et.al.|[2511.11301](http://arxiv.org/abs/2511.11301)|null|
+|**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
+|**2025-11-12**|**StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak**|Hongyi Li et.al.|[2511.10692](http://arxiv.org/abs/2511.10692)|null|
+|**2025-11-14**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
 |**2025-11-13**|**MTAttack: Multi-Target Backdoor Attacks against Large Vision-Language Models**|Zihan Wang et.al.|[2511.10098](http://arxiv.org/abs/2511.10098)|null|
 |**2025-11-13**|**Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks**|Xuancun Lu et.al.|[2511.10008](http://arxiv.org/abs/2511.10008)|null|
 |**2025-11-12**|**Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models**|Tiansheng Huang et.al.|[2511.09682](http://arxiv.org/abs/2511.09682)|null|
