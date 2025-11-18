@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**ForgeDAN: An Evolutionary Framework for Jailbreaking Aligned Large Language Models**|Siyang Cheng et.al.|[2511.13548](http://arxiv.org/abs/2511.13548)|null|
+|**2025-11-16**|**LLM Reinforcement in Context**|Thomas Rivasseau et.al.|[2511.12782](http://arxiv.org/abs/2511.12782)|**[link](https://github.com/LiaoMengqi/LLM4Game24)**|
+|**2025-11-16**|**Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs**|Yunhao Chen et.al.|[2511.12710](http://arxiv.org/abs/2511.12710)|null|
+|**2025-11-16**|**Evolving Prompts for Toxicity Search in Large Language Models**|Onkar Shelar et.al.|[2511.12487](http://arxiv.org/abs/2511.12487)|null|
+|**2025-11-15**|**AlignTree: Efficient Defense Against LLM Jailbreak Attacks**|Gil Goren et.al.|[2511.12217](http://arxiv.org/abs/2511.12217)|**[link](https://github.com/Gilgo2/AlignTree)**|
+|**2025-11-15**|**BudgetLeak: Membership Inference Attacks on RAG Systems via the Generation Budget Side Channel**|Hao Li et.al.|[2511.12043](http://arxiv.org/abs/2511.12043)|null|
+|**2025-11-13**|**Can AI Models be Jailbroken to Phish Elderly Victims? An End-to-End Evaluation**|Fred Heiding et.al.|[2511.11759](http://arxiv.org/abs/2511.11759)|null|
 |**2025-11-14**|**Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis**|Farhad Abtahi et.al.|[2511.11020](http://arxiv.org/abs/2511.11020)|null|
 |**2025-11-14**|**ICX360: In-Context eXplainability 360 Toolkit**|Dennis Wei et.al.|[2511.10879](http://arxiv.org/abs/2511.10879)|null|
 |**2025-11-13**|**Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging**|Qinfeng Li et.al.|[2511.10712](http://arxiv.org/abs/2511.10712)|null|
@@ -2009,6 +2016,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-11-17**|**Robust Defense Strategies for Multimodal Contrastive Learning: Efficient Fine-tuning Against Backdoor Attacks**|Md. Iqbal Hossain et.al.|[2511.13545](http://arxiv.org/abs/2511.13545)|null|
+|**2025-11-17**|**VEIL: Jailbreaking Text-to-Video Models via Visual Exploitation from Implicit Language**|Zonghao Ying et.al.|[2511.13127](http://arxiv.org/abs/2511.13127)|null|
+|**2025-11-14**|**A Systematic Study of Model Extraction Attacks on Graph Foundation Models**|Haoyan Xu et.al.|[2511.11912](http://arxiv.org/abs/2511.11912)|null|
+|**2025-11-14**|**Defending Unauthorized Model Merging via Dual-Stage Weight Protection**|Wei-Jia Chen et.al.|[2511.11851](http://arxiv.org/abs/2511.11851)|null|
 |**2025-11-14**|**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment**|Ruoxi Cheng et.al.|[2511.11301](http://arxiv.org/abs/2511.11301)|null|
 |**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
 |**2025-11-12**|**StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak**|Hongyi Li et.al.|[2511.10692](http://arxiv.org/abs/2511.10692)|null|
