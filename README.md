@@ -15,8 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
+|**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
+|**2025-11-18**|**Steganographic Backdoor Attacks in NLP: Ultra-Low Poisoning and Defense Evasion**|Eric Xue et.al.|[2511.14301](http://arxiv.org/abs/2511.14301)|null|
+|**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140](http://arxiv.org/abs/2511.14140)|null|
+|**2025-11-17**|**Show and Tell: Prompt Strategies for Style Control in Multi-Turn LLM Code Generation**|Jeremiah Bohr et.al.|[2511.13972](http://arxiv.org/abs/2511.13972)|null|
+|**2025-11-16**|**Uncovering and Aligning Anomalous Attention Heads to Defend Against NLP Backdoor Attacks**|Haotian Jin et.al.|[2511.13789](http://arxiv.org/abs/2511.13789)|null|
+|**2025-11-16**|**Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments**|Samuel Nathanson et.al.|[2511.13788](http://arxiv.org/abs/2511.13788)|null|
 |**2025-11-17**|**ForgeDAN: An Evolutionary Framework for Jailbreaking Aligned Large Language Models**|Siyang Cheng et.al.|[2511.13548](http://arxiv.org/abs/2511.13548)|null|
-|**2025-11-16**|**LLM Reinforcement in Context**|Thomas Rivasseau et.al.|[2511.12782](http://arxiv.org/abs/2511.12782)|**[link](https://github.com/LiaoMengqi/LLM4Game24)**|
+|**2025-11-16**|**LLM Reinforcement in Context**|Thomas Rivasseau et.al.|[2511.12782](http://arxiv.org/abs/2511.12782)|null|
 |**2025-11-16**|**Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs**|Yunhao Chen et.al.|[2511.12710](http://arxiv.org/abs/2511.12710)|null|
 |**2025-11-16**|**Evolving Prompts for Toxicity Search in Large Language Models**|Onkar Shelar et.al.|[2511.12487](http://arxiv.org/abs/2511.12487)|null|
 |**2025-11-15**|**AlignTree: Efficient Defense Against LLM Jailbreak Attacks**|Gil Goren et.al.|[2511.12217](http://arxiv.org/abs/2511.12217)|**[link](https://github.com/Gilgo2/AlignTree)**|
@@ -2016,6 +2023,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-11-18**|**Stealth Fine-Tuning: Efficiently Breaking Alignment in RVLMs Using Self-Generated CoT**|Le Yu et.al.|[2511.14106](http://arxiv.org/abs/2511.14106)|null|
+|**2025-11-18**|**GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards**|Yule Liu et.al.|[2511.14045](http://arxiv.org/abs/2511.14045)|null|
+|**2025-11-18**|**Certified but Fooled! Breaking Certified Defences with Ghost Certificates**|Quoc Viet Vo et.al.|[2511.14003](http://arxiv.org/abs/2511.14003)|null|
+|**2025-11-17**|**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**|Badhan Chandra Das et.al.|[2511.13892](http://arxiv.org/abs/2511.13892)|null|
 |**2025-11-17**|**Robust Defense Strategies for Multimodal Contrastive Learning: Efficient Fine-tuning Against Backdoor Attacks**|Md. Iqbal Hossain et.al.|[2511.13545](http://arxiv.org/abs/2511.13545)|null|
 |**2025-11-17**|**VEIL: Jailbreaking Text-to-Video Models via Visual Exploitation from Implicit Language**|Zonghao Ying et.al.|[2511.13127](http://arxiv.org/abs/2511.13127)|null|
 |**2025-11-14**|**A Systematic Study of Model Extraction Attacks on Graph Foundation Models**|Haoyan Xu et.al.|[2511.11912](http://arxiv.org/abs/2511.11912)|null|
