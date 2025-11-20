@@ -15,11 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
+|**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
 |**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|**[link](https://github.com/xinykou/TSSF)**|
 |**2025-11-18**|**Steganographic Backdoor Attacks in NLP: Ultra-Low Poisoning and Defense Evasion**|Eric Xue et.al.|[2511.14301](http://arxiv.org/abs/2511.14301)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140](http://arxiv.org/abs/2511.14140)|null|
-|**2025-11-17**|**Show and Tell: Prompt Strategies for Style Control in Multi-Turn LLM Code Generation**|Jeremiah Bohr et.al.|[2511.13972](http://arxiv.org/abs/2511.13972)|**[link](https://github.com/jeremiahbohr/show-and-tell)**|
+|**2025-11-17**|**Show and Tell: Prompt Strategies for Style Control in Multi-Turn LLM Code Generation**|Jeremiah Bohr et.al.|[2511.13972](http://arxiv.org/abs/2511.13972)|null|
 |**2025-11-16**|**Uncovering and Aligning Anomalous Attention Heads to Defend Against NLP Backdoor Attacks**|Haotian Jin et.al.|[2511.13789](http://arxiv.org/abs/2511.13789)|null|
 |**2025-11-16**|**Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments**|Samuel Nathanson et.al.|[2511.13788](http://arxiv.org/abs/2511.13788)|null|
 |**2025-11-17**|**ForgeDAN: An Evolutionary Framework for Jailbreaking Aligned Large Language Models**|Siyang Cheng et.al.|[2511.13548](http://arxiv.org/abs/2511.13548)|null|
@@ -2023,6 +2025,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](http://arxiv.org/abs/2511.15206)|null|
+|**2025-11-19**|**Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments**|Jingzhuo Zhou et.al.|[2511.15165](http://arxiv.org/abs/2511.15165)|null|
 |**2025-11-18**|**Stealth Fine-Tuning: Efficiently Breaking Alignment in RVLMs Using Self-Generated CoT**|Le Yu et.al.|[2511.14106](http://arxiv.org/abs/2511.14106)|null|
 |**2025-11-18**|**GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards**|Yule Liu et.al.|[2511.14045](http://arxiv.org/abs/2511.14045)|null|
 |**2025-11-18**|**Certified but Fooled! Breaking Certified Defences with Ghost Certificates**|Quoc Viet Vo et.al.|[2511.14003](http://arxiv.org/abs/2511.14003)|null|
