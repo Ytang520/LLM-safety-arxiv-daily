@@ -1,4 +1,4 @@
-## Updated on 2025.11.20
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@
 |**2025-11-19**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
-|**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|**[link](https://github.com/xinykou/TSSF)**|
+|**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
 |**2025-11-18**|**Steganographic Backdoor Attacks in NLP: Ultra-Low Poisoning and Defense Evasion**|Eric Xue et.al.|[2511.14301](http://arxiv.org/abs/2511.14301)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140](http://arxiv.org/abs/2511.14140)|null|
 |**2025-11-17**|**Show and Tell: Prompt Strategies for Style Control in Multi-Turn LLM Code Generation**|Jeremiah Bohr et.al.|[2511.13972](http://arxiv.org/abs/2511.13972)|null|
@@ -2017,7 +2017,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3008,5 +3008,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20251120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
 
