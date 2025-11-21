@@ -15,7 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-19**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
+|**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
+|**2025-11-20**|**PSM: Prompt Sensitivity Minimization via LLM-Guided Black-Box Optimization**|Huseein Jawad et.al.|[2511.16209](http://arxiv.org/abs/2511.16209)|null|
+|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|**[link](https://github.com/proventra/proventra-core)**|
+|**2025-11-20**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
 |**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
@@ -2025,6 +2028,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-11-20**|**The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks**|Chunyang Li et.al.|[2511.16347](http://arxiv.org/abs/2511.16347)|null|
+|**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
+|**2025-11-20**|**Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models**|Yijun Yang et.al.|[2511.16110](http://arxiv.org/abs/2511.16110)|null|
 |**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](http://arxiv.org/abs/2511.15206)|null|
 |**2025-11-19**|**Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments**|Jingzhuo Zhou et.al.|[2511.15165](http://arxiv.org/abs/2511.15165)|null|
 |**2025-11-18**|**Stealth Fine-Tuning: Efficiently Breaking Alignment in RVLMs Using Self-Generated CoT**|Le Yu et.al.|[2511.14106](http://arxiv.org/abs/2511.14106)|null|
