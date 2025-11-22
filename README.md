@@ -1,4 +1,4 @@
-## Updated on 2025.11.21
+## Updated on 2025.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
 |**2025-11-20**|**PSM: Prompt Sensitivity Minimization via LLM-Guided Black-Box Optimization**|Huseein Jawad et.al.|[2511.16209](http://arxiv.org/abs/2511.16209)|null|
-|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|**[link](https://github.com/proventra/proventra-core)**|
+|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|null|
 |**2025-11-20**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
@@ -2020,7 +2020,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251122>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3014,5 +3014,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251122>back to top</a>)</p>
 
