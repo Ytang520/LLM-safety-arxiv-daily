@@ -1,4 +1,4 @@
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -2020,7 +2020,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2032,7 +2032,7 @@
 |**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
 |**2025-11-20**|**Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models**|Yijun Yang et.al.|[2511.16110](http://arxiv.org/abs/2511.16110)|null|
 |**2025-11-19**|**Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks**|Bui Duc Son et.al.|[2511.15206](http://arxiv.org/abs/2511.15206)|null|
-|**2025-11-19**|**Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments**|Jingzhuo Zhou et.al.|[2511.15165](http://arxiv.org/abs/2511.15165)|null|
+|**2025-11-19**|**Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments**|Jingzhuo Zhou et.al.|[2511.15165](http://arxiv.org/abs/2511.15165)|**[link](https://github.com/A220013/data)**|
 |**2025-11-18**|**Stealth Fine-Tuning: Efficiently Breaking Alignment in RVLMs Using Self-Generated CoT**|Le Yu et.al.|[2511.14106](http://arxiv.org/abs/2511.14106)|null|
 |**2025-11-18**|**GRPO Privacy Is at Risk: A Membership Inference Attack Against Reinforcement Learning With Verifiable Rewards**|Yule Liu et.al.|[2511.14045](http://arxiv.org/abs/2511.14045)|null|
 |**2025-11-18**|**Certified but Fooled! Breaking Certified Defences with Ghost Certificates**|Quoc Viet Vo et.al.|[2511.14003](http://arxiv.org/abs/2511.14003)|null|
@@ -3014,5 +3014,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
