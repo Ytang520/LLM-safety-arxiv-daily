@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-24**|**An Invariant Latent Space Perspective on Language Model Inversion**|Wentao Ye et.al.|[2511.19569](http://arxiv.org/abs/2511.19569)|**[link](https://github.com/yyy01/Invariant_Attacker)**|
+|**2025-11-24**|**EAGER: Edge-Aligned LLM Defense for Robust, Efficient, and Accurate Cybersecurity Question Answering**|Onat Gungor et.al.|[2511.19523](http://arxiv.org/abs/2511.19523)|null|
+|**2025-11-24**|**Automating Deception: Scalable Multi-Turn LLM Jailbreaks**|Adarsh Kumarappan et.al.|[2511.19517](http://arxiv.org/abs/2511.19517)|null|
 |**2025-11-24**|**Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization**|Xurui Li et.al.|[2511.19218](http://arxiv.org/abs/2511.19218)|null|
 |**2025-11-24**|**Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion**|Yu Cui et.al.|[2511.19171](http://arxiv.org/abs/2511.19171)|**[link](https://github.com/cuiyu-ai/ExistBench)**|
 |**2025-11-24**|**Understanding and Mitigating Over-refusal for Large Language Models via Safety Representation**|Junbo Zhang et.al.|[2511.19009](http://arxiv.org/abs/2511.19009)|null|
@@ -2040,6 +2043,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-11-25**|**Adversarial Confusion Attack: Disrupting Multimodal Large Language Models**|Jakub Hoscilowicz et.al.|[2511.20494](http://arxiv.org/abs/2511.20494)|null|
 |**2025-11-24**|**Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation**|Yingjia Shang et.al.|[2511.19257](http://arxiv.org/abs/2511.19257)|null|
 |**2025-11-24**|**BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models**|Juncheng Li et.al.|[2511.18921](http://arxiv.org/abs/2511.18921)|null|
 |**2025-11-23**|**Vision Token Masking Alone Cannot Prevent PHI Leakage in Medical Document OCR: A Systematic Evaluation**|Richard J. Young et.al.|[2511.18272](http://arxiv.org/abs/2511.18272)|null|
