@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|null|
+|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|**[link](https://github.com/Graph-COM/CKA-Agent)**|
+|**2025-12-01**|**EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations**|Xinyun Zhou et.al.|[2512.01335](http://arxiv.org/abs/2512.01335)|null|
+|**2025-12-01**|**Securing Large Language Models (LLMs) from Prompt Injection Attacks**|Omar Farooq Khan Suri et.al.|[2512.01326](http://arxiv.org/abs/2512.01326)|**[link](https://github.com/riya1964/ShieldAI-Cloud-Native-Framework-for-Preventing-Prompt-Injection-AI-Phishing)**|
+|**2025-11-30**|**Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis**|Mintong Kang et.al.|[2512.00966](http://arxiv.org/abs/2512.00966)|null|
+|**2025-11-30**|**Bias Injection Attacks on RAG Databases and Sanitization Defenses**|Hao Wu et.al.|[2512.00804](http://arxiv.org/abs/2512.00804)|null|
+|**2025-11-29**|**Red Teaming Large Reasoning Models**|Jiawei Chen et.al.|[2512.00412](http://arxiv.org/abs/2512.00412)|null|
+|**2025-11-28**|**An Empirical Study on the Security Vulnerabilities of GPTs**|Tong Wu et.al.|[2512.00136](http://arxiv.org/abs/2512.00136)|null|
 |**2025-11-28**|**AgentShield: Make MAS more secure and efficient**|Kaixiang Wang et.al.|[2511.22924](http://arxiv.org/abs/2511.22924)|null|
 |**2025-11-27**|**Evaluating the Robustness of Large Language Model Safety Guardrails Against Adversarial Attacks**|Richard J. Young et.al.|[2511.22047](http://arxiv.org/abs/2511.22047)|null|
 |**2025-11-27**|**Distillability of LLM Security Logic: Predicting Attack Success Rate of Outline Filling Attack via Ranking Regression**|Tianyu Zhang et.al.|[2511.22044](http://arxiv.org/abs/2511.22044)|null|
@@ -2047,12 +2055,15 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
+|**2025-12-01**|**DefenSee: Dissecting Threat from Sight and Text - A Multi-View Defensive Pipeline for Multi-modal Jailbreaks**|Zihao Wang et.al.|[2512.01185](http://arxiv.org/abs/2512.01185)|null|
+|**2025-11-30**|**Concept-Guided Backdoor Attack on Vision Language Models**|Haoyu Shen et.al.|[2512.00713](http://arxiv.org/abs/2512.00713)|null|
 |**2025-11-27**|**GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents**|Xinyu Zhang et.al.|[2511.22441](http://arxiv.org/abs/2511.22441)|null|
 |**2025-11-27**|**PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**|Mingzhe Li et.al.|[2511.22119](http://arxiv.org/abs/2511.22119)|null|
-|**2025-11-26**|**When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models**|Hui Lu et.al.|[2511.21192](http://arxiv.org/abs/2511.21192)|null|
+|**2025-11-30**|**When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models**|Hui Lu et.al.|[2511.21192](http://arxiv.org/abs/2511.21192)|null|
 |**2025-11-26**|**GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision**|Yuxiao Xiang et.al.|[2511.20994](http://arxiv.org/abs/2511.20994)|null|
 |**2025-11-20**|**AssurAI: Experience with Constructing Korean Socio-cultural Datasets to Discover Potential Risks of Generative AI**|Chae-Gyun Lim et.al.|[2511.20686](http://arxiv.org/abs/2511.20686)|null|
-|**2025-11-28**|**Adversarial Confusion Attack: Disrupting Multimodal Large Language Models**|Jakub Hoscilowicz et.al.|[2511.20494](http://arxiv.org/abs/2511.20494)|null|
+|**2025-12-01**|**Adversarial Confusion Attack: Disrupting Multimodal Large Language Models**|Jakub Hoscilowicz et.al.|[2511.20494](http://arxiv.org/abs/2511.20494)|null|
 |**2025-11-24**|**Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation**|Yingjia Shang et.al.|[2511.19257](http://arxiv.org/abs/2511.19257)|null|
 |**2025-11-24**|**BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models**|Juncheng Li et.al.|[2511.18921](http://arxiv.org/abs/2511.18921)|null|
 |**2025-11-23**|**Vision Token Masking Alone Cannot Prevent PHI Leakage in Medical Document OCR: A Systematic Evaluation**|Richard J. Young et.al.|[2511.18272](http://arxiv.org/abs/2511.18272)|null|
