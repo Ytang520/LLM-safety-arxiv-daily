@@ -1,4 +1,4 @@
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,10 +17,10 @@
 |---|---|---|---|---|
 |**2025-12-02**|**Invasive Context Engineering to Control Large Language Models**|Thomas Rivasseau et.al.|[2512.03001](http://arxiv.org/abs/2512.03001)|null|
 |**2025-12-01**|**Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI**|Aaron Sandoval et.al.|[2512.02157](http://arxiv.org/abs/2512.02157)|null|
-|**2025-12-02**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|**[link](https://github.com/Gang-Zong-Gae/Adversarial-Text-Protocols)**|
-|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|**[link](https://github.com/Graph-COM/CKA-Agent)**|
+|**2025-12-02**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|null|
+|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
 |**2025-12-01**|**EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations**|Xinyun Zhou et.al.|[2512.01335](http://arxiv.org/abs/2512.01335)|null|
-|**2025-12-01**|**Securing Large Language Models (LLMs) from Prompt Injection Attacks**|Omar Farooq Khan Suri et.al.|[2512.01326](http://arxiv.org/abs/2512.01326)|**[link](https://github.com/riya1964/ShieldAI-Cloud-Native-Framework-for-Preventing-Prompt-Injection-AI-Phishing)**|
+|**2025-12-01**|**Securing Large Language Models (LLMs) from Prompt Injection Attacks**|Omar Farooq Khan Suri et.al.|[2512.01326](http://arxiv.org/abs/2512.01326)|null|
 |**2025-11-30**|**Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis**|Mintong Kang et.al.|[2512.00966](http://arxiv.org/abs/2512.00966)|null|
 |**2025-11-30**|**Bias Injection Attacks on RAG Databases and Sanitization Defenses**|Hao Wu et.al.|[2512.00804](http://arxiv.org/abs/2512.00804)|null|
 |**2025-11-29**|**Red Teaming Large Reasoning Models**|Jiawei Chen et.al.|[2512.00412](http://arxiv.org/abs/2512.00412)|null|
@@ -2049,7 +2049,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2057,7 +2057,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|**[link](https://github.com/xiongyuaay/Contextual-Image-Attack)**|
+|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
 |**2025-12-02**|**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**|Junyu Wang et.al.|[2512.02318](http://arxiv.org/abs/2512.02318)|null|
 |**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
 |**2025-12-01**|**DefenSee: Dissecting Threat from Sight and Text - A Multi-View Defensive Pipeline for Multi-modal Jailbreaks**|Zihao Wang et.al.|[2512.01185](http://arxiv.org/abs/2512.01185)|null|
@@ -3058,5 +3058,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251204>back to top</a>)</p>
 
