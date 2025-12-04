@@ -15,10 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models**|Jun Leng et.al.|[2512.03356](http://arxiv.org/abs/2512.03356)|null|
+|**2025-12-01**|**Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks**|Haowei Fu et.al.|[2512.03100](http://arxiv.org/abs/2512.03100)|null|
 |**2025-12-02**|**Invasive Context Engineering to Control Large Language Models**|Thomas Rivasseau et.al.|[2512.03001](http://arxiv.org/abs/2512.03001)|null|
 |**2025-12-01**|**Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI**|Aaron Sandoval et.al.|[2512.02157](http://arxiv.org/abs/2512.02157)|null|
-|**2025-12-02**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|null|
-|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
+|**2025-12-02**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](http://arxiv.org/abs/2512.01354)|**[link](https://github.com/Gang-Zong-Gae/Adversarial-Text-Protocols)**|
+|**2025-12-02**|**The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
 |**2025-12-01**|**EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations**|Xinyun Zhou et.al.|[2512.01335](http://arxiv.org/abs/2512.01335)|null|
 |**2025-12-01**|**Securing Large Language Models (LLMs) from Prompt Injection Attacks**|Omar Farooq Khan Suri et.al.|[2512.01326](http://arxiv.org/abs/2512.01326)|null|
 |**2025-11-30**|**Mitigating Indirect Prompt Injection via Instruction-Following Intent Analysis**|Mintong Kang et.al.|[2512.00966](http://arxiv.org/abs/2512.00966)|null|
@@ -2058,7 +2060,7 @@
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
 |**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
-|**2025-12-02**|**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**|Junyu Wang et.al.|[2512.02318](http://arxiv.org/abs/2512.02318)|null|
+|**2025-12-03**|**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**|Junyu Wang et.al.|[2512.02318](http://arxiv.org/abs/2512.02318)|null|
 |**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
 |**2025-12-01**|**DefenSee: Dissecting Threat from Sight and Text - A Multi-View Defensive Pipeline for Multi-modal Jailbreaks**|Zihao Wang et.al.|[2512.01185](http://arxiv.org/abs/2512.01185)|null|
 |**2025-11-30**|**Concept-Guided Backdoor Attack on Vision Language Models**|Haoyu Shen et.al.|[2512.00713](http://arxiv.org/abs/2512.00713)|null|
