@@ -1027,10 +1027,10 @@
 |**2025-02-02**|**Safety Alignment Depth in Large Language Models: A Markov Chain Perspective**|Ching-Chia Kao et.al.|[2502.00669](http://arxiv.org/abs/2502.00669)|null|
 |**2025-09-25**|**Reformulation is All You Need: Addressing Malicious Text Features in DNNs**|Yi Jiang et.al.|[2502.00652](http://arxiv.org/abs/2502.00652)|null|
 |**2025-02-01**|**Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation**|Stuart Armstrong et.al.|[2502.00580](http://arxiv.org/abs/2502.00580)|null|
-|**2025-07-08**|**Agents Are All You Need for LLM Unlearning**|Debdeep Sanyal et.al.|[2502.00406](http://arxiv.org/abs/2502.00406)|null|
+|**2025-07-08**|**Agents Are All You Need for LLM Unlearning**|Debdeep Sanyal et.al.|[2502.00406](http://arxiv.org/abs/2502.00406)|**[link](https://github.com/respailab/agentic-llm-unlearning)**|
 |**2025-06-30**|**Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation**|Ali Naseh et.al.|[2502.00306](http://arxiv.org/abs/2502.00306)|null|
 |**2025-01-31**|**LLM Cyber Evaluations Don't Capture Real-World Risk**|Kamilė Lukošiūtė et.al.|[2502.00072](http://arxiv.org/abs/2502.00072)|null|
-|**2025-09-25**|**Improving LLM Unlearning Robustness via Random Perturbations**|Dang Huu-Tien et.al.|[2501.19202](http://arxiv.org/abs/2501.19202)|null|
+|**2025-09-25**|**Improving LLM Unlearning Robustness via Random Perturbations**|Dang Huu-Tien et.al.|[2501.19202](http://arxiv.org/abs/2501.19202)|**[link](https://github.com/RebelsNLU-jaist/llmu-robustness)**|
 |**2025-01-31**|**Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning**|Xianglin Yang et.al.|[2501.19180](http://arxiv.org/abs/2501.19180)|null|
 |**2025-10-08**|**Towards the Worst-case Robustness of Large Language Models**|Huanran Chen et.al.|[2501.19040](http://arxiv.org/abs/2501.19040)|null|
 |**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012](http://arxiv.org/abs/2501.19012)|null|
@@ -1722,7 +1722,7 @@
 |**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329](http://arxiv.org/abs/2312.10329)|null|
 |**2023-12-04**|**Generative AI in Writing Research Papers: A New Type of Algorithmic Bias and Uncertainty in Scholarly Work**|Rishab Jain et.al.|[2312.10057](http://arxiv.org/abs/2312.10057)|null|
 |**2023-12-13**|**Causality Analysis for Evaluating the Security of Large Language Models**|Wei Zhao et.al.|[2312.07876](http://arxiv.org/abs/2312.07876)|null|
-|**2024-07-23**|**AI Control: Improving Safety Despite Intentional Subversion**|Ryan Greenblatt et.al.|[2312.06942](http://arxiv.org/abs/2312.06942)|null|
+|**2024-07-23**|**AI Control: Improving Safety Despite Intentional Subversion**|Ryan Greenblatt et.al.|[2312.06942](http://arxiv.org/abs/2312.06942)|**[link](https://github.com/haz-g/avoiding_intentional_subversion)**|
 |**2024-05-30**|**Privacy Issues in Large Language Models: A Survey**|Seth Neel et.al.|[2312.06717](http://arxiv.org/abs/2312.06717)|null|
 |**2024-04-02**|**HALO: An Ontology for Representing and Categorizing Hallucinations in Large Language Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
 |**2023-12-12**|**DeceptPrompt: Exploiting LLM-driven Code Generation via Adversarial Natural Language Instructions**|Fangzhou Wu et.al.|[2312.04730](http://arxiv.org/abs/2312.04730)|null|
@@ -2400,7 +2400,7 @@
 |**2025-03-10**|**ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration**|Youngseok Kim et.al.|[2503.06986](http://arxiv.org/abs/2503.06986)|null|
 |**2025-03-14**|**Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation**|Yinuo Liu et.al.|[2503.06254](http://arxiv.org/abs/2503.06254)|null|
 |**2025-11-11**|**RedDiffuser: Red Teaming Vision-Language Models for Toxic Continuation via Reinforced Stable Diffusion**|Ruofan Wang et.al.|[2503.06223](http://arxiv.org/abs/2503.06223)|null|
-|**2025-03-18**|**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**|Liming Lu et.al.|[2503.04833](http://arxiv.org/abs/2503.04833)|null|
+|**2025-03-18**|**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**|Liming Lu et.al.|[2503.04833](http://arxiv.org/abs/2503.04833)|**[link](https://github.com/xiyuzzz-njust/EAT)**|
 |**2025-03-21**|**TAET: Two-Stage Adversarial Equalization Training on Long-Tailed Distributions**|Wang YuHang et.al.|[2503.01924](http://arxiv.org/abs/2503.01924)|null|
 |**2025-03-03**|**Jailbreaking Safeguarded Text-to-Image Models via Large Language Models**|Zhengyuan Jiang et.al.|[2503.01839](http://arxiv.org/abs/2503.01839)|null|
 |**2025-03-05**|**Exploiting Vulnerabilities in Speech Translation Systems through Targeted Adversarial Attacks**|Chang Liu et.al.|[2503.00957](http://arxiv.org/abs/2503.00957)|null|
