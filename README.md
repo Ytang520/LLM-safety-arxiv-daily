@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Matching Ranks Over Probability Yields Truly Deep Safety Alignment**|Jason Vega et.al.|[2512.05518](http://arxiv.org/abs/2512.05518)|null|
+|**2025-12-05**|**TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations**|Xiuyuan Chen et.al.|[2512.05485](http://arxiv.org/abs/2512.05485)|null|
+|**2025-12-04**|**Engagement in Code Review: Emotional, Behavioral, and Cognitive Dimensions in Peer vs. LLM Interactions**|Adam Alami et.al.|[2512.05309](http://arxiv.org/abs/2512.05309)|null|
+|**2025-12-04**|**Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification**|Feijiang Han et.al.|[2512.05288](http://arxiv.org/abs/2512.05288)|null|
 |**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
 |**2025-12-02**|**When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models**|Afshin Khadangi et.al.|[2512.04124](http://arxiv.org/abs/2512.04124)|null|
 |**2025-12-03**|**Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models**|Jun Leng et.al.|[2512.03356](http://arxiv.org/abs/2512.03356)|null|
@@ -2061,13 +2065,15 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
+|**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
 |**2025-12-04**|**Counterfeit Answers: Adversarial Forgery against OCR-Free Document Visual Question Answering**|Marco Pintore et.al.|[2512.04554](http://arxiv.org/abs/2512.04554)|null|
-|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|**[link](https://github.com/xiongyuaay/Contextual-Image-Attack)**|
+|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
 |**2025-12-03**|**COGNITION: From Evaluation to Defense against Multimodal LLM CAPTCHA Solvers**|Junyu Wang et.al.|[2512.02318](http://arxiv.org/abs/2512.02318)|null|
 |**2025-12-01**|**VideoScoop: A Non-Traditional Domain-Independent Framework For Video Analysis**|Hafsa Billah et.al.|[2512.01769](http://arxiv.org/abs/2512.01769)|null|
 |**2025-12-01**|**DefenSee: Dissecting Threat from Sight and Text - A Multi-View Defensive Pipeline for Multi-modal Jailbreaks**|Zihao Wang et.al.|[2512.01185](http://arxiv.org/abs/2512.01185)|null|
-|**2025-11-30**|**Concept-Guided Backdoor Attack on Vision Language Models**|Haoyu Shen et.al.|[2512.00713](http://arxiv.org/abs/2512.00713)|null|
+|**2025-12-05**|**Concept-Guided Backdoor Attack on Vision Language Models**|Haoyu Shen et.al.|[2512.00713](http://arxiv.org/abs/2512.00713)|null|
 |**2025-11-27**|**GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents**|Xinyu Zhang et.al.|[2511.22441](http://arxiv.org/abs/2511.22441)|null|
 |**2025-11-27**|**PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**|Mingzhe Li et.al.|[2511.22119](http://arxiv.org/abs/2511.22119)|null|
 |**2025-11-30**|**When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models**|Hui Lu et.al.|[2511.21192](http://arxiv.org/abs/2511.21192)|null|
