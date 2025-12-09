@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](http://arxiv.org/abs/2512.07814)|null|
+|**2025-12-08**|**RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models**|Xiqiao Xiong et.al.|[2512.07761](http://arxiv.org/abs/2512.07761)|null|
+|**2025-12-08**|**Replicating TEMPEST at Scale: Multi-Turn Adversarial Attacks Against Trillion-Parameter Frontier Models**|Richard Young et.al.|[2512.07059](http://arxiv.org/abs/2512.07059)|null|
+|**2025-12-07**|**FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations**|Mayank Ravishankara et.al.|[2512.07015](http://arxiv.org/abs/2512.07015)|null|
+|**2025-12-07**|**SoK: Trust-Authorization Mismatch in LLM Agent Interactions**|Guanquan Shi et.al.|[2512.06914](http://arxiv.org/abs/2512.06914)|null|
+|**2025-12-07**|**Patronus: Identifying and Mitigating Transferable Backdoors in Pre-trained Language Models**|Tianhang Zhao et.al.|[2512.06899](http://arxiv.org/abs/2512.06899)|null|
+|**2025-12-07**|**Cognitive Control Architecture (CCA): A Lifecycle Supervision Framework for Robustly Aligned AI Agents**|Zhibo Liang et.al.|[2512.06716](http://arxiv.org/abs/2512.06716)|null|
+|**2025-12-07**|**Towards Small Language Models for Security Query Generation in SOC Workflows**|Saleha Muzammil et.al.|[2512.06660](http://arxiv.org/abs/2512.06660)|null|
+|**2025-12-07**|**GSAE: Graph-Regularized Sparse Autoencoders for Robust LLM Safety Steering**|Jehyeok Yeon et.al.|[2512.06655](http://arxiv.org/abs/2512.06655)|null|
+|**2025-12-06**|**Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks**|Saeid Jamshidi et.al.|[2512.06556](http://arxiv.org/abs/2512.06556)|null|
 |**2025-12-05**|**Matching Ranks Over Probability Yields Truly Deep Safety Alignment**|Jason Vega et.al.|[2512.05518](http://arxiv.org/abs/2512.05518)|null|
 |**2025-12-05**|**TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations**|Xiuyuan Chen et.al.|[2512.05485](http://arxiv.org/abs/2512.05485)|null|
 |**2025-12-04**|**Engagement in Code Review: Emotional, Behavioral, and Cognitive Dimensions in Peer vs. LLM Interactions**|Adam Alami et.al.|[2512.05309](http://arxiv.org/abs/2512.05309)|null|
@@ -2065,7 +2075,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
+|**2025-12-08**|**Think-Reflect-Revise: A Policy-Guided Reflective Framework for Safety Alignment in Large Vision Language Models**|Fenghua Weng et.al.|[2512.07141](http://arxiv.org/abs/2512.07141)|null|
+|**2025-12-06**|**OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack-Defense Evaluation**|Xiaojun Jia et.al.|[2512.06589](http://arxiv.org/abs/2512.06589)|null|
+|**2025-12-06**|**Spoofing-aware Prompt Learning for Unified Physical-Digital Facial Attack Detection**|Jiabao Guo et.al.|[2512.06363](http://arxiv.org/abs/2512.06363)|null|
+|**2025-12-08**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
 |**2025-12-04**|**Counterfeit Answers: Adversarial Forgery against OCR-Free Document Visual Question Answering**|Marco Pintore et.al.|[2512.04554](http://arxiv.org/abs/2512.04554)|null|
