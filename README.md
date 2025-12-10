@@ -15,7 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-08**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](http://arxiv.org/abs/2512.07814)|null|
+|**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
+|**2025-12-09**|**PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration**|Yi Liu et.al.|[2512.08809](http://arxiv.org/abs/2512.08809)|null|
+|**2025-12-09**|**Biothreat Benchmark Generation Framework for Evaluating Frontier AI Models II: Benchmark Generation Process**|Gary Ackerman et.al.|[2512.08451](http://arxiv.org/abs/2512.08451)|null|
+|**2025-12-09**|**Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs**|Yinan Zhong et.al.|[2512.08417](http://arxiv.org/abs/2512.08417)|null|
+|**2025-12-09**|**Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**|Shiva Gaire et.al.|[2512.08290](http://arxiv.org/abs/2512.08290)|null|
+|**2025-12-09**|**A Practical Framework for Evaluating Medical AI Security: Reproducible Assessment of Jailbreaking and Privacy Vulnerabilities Across Clinical Specialties**|Jinghao Wang et.al.|[2512.08185](http://arxiv.org/abs/2512.08185)|null|
+|**2025-12-09**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](http://arxiv.org/abs/2512.07814)|null|
 |**2025-12-08**|**RL-MTJail: Reinforcement Learning for Automated Black-Box Multi-Turn Jailbreaking of Large Language Models**|Xiqiao Xiong et.al.|[2512.07761](http://arxiv.org/abs/2512.07761)|null|
 |**2025-12-08**|**Replicating TEMPEST at Scale: Multi-Turn Adversarial Attacks Against Trillion-Parameter Frontier Models**|Richard Young et.al.|[2512.07059](http://arxiv.org/abs/2512.07059)|null|
 |**2025-12-07**|**FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations**|Mayank Ravishankara et.al.|[2512.07015](http://arxiv.org/abs/2512.07015)|null|
@@ -2075,6 +2081,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-09**|**Exposing and Defending Membership Leakage in Vulnerability Prediction Models**|Yihan Liao et.al.|[2512.08291](http://arxiv.org/abs/2512.08291)|null|
+|**2025-12-08**|**Detecting Ambiguity Aversion in Cyberattack Behavior to Inform Cognitive Defense Strategies**|Stephan Carney et.al.|[2512.08107](http://arxiv.org/abs/2512.08107)|null|
 |**2025-12-08**|**Think-Reflect-Revise: A Policy-Guided Reflective Framework for Safety Alignment in Large Vision Language Models**|Fenghua Weng et.al.|[2512.07141](http://arxiv.org/abs/2512.07141)|null|
 |**2025-12-06**|**OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack-Defense Evaluation**|Xiaojun Jia et.al.|[2512.06589](http://arxiv.org/abs/2512.06589)|null|
 |**2025-12-06**|**Spoofing-aware Prompt Learning for Unified Physical-Digital Facial Attack Detection**|Jiabao Guo et.al.|[2512.06363](http://arxiv.org/abs/2512.06363)|null|
