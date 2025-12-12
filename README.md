@@ -15,13 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**LLM-Assisted AHP for Explainable Cyber Range Evaluation**|Vyron Kampourakis et.al.|[2512.10487](http://arxiv.org/abs/2512.10487)|null|
+|**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
+|**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
 |**2025-12-10**|**CNFinBench: A Benchmark for Safety and Compliance of Large Language Models in Finance**|Jinru Ding et.al.|[2512.09506](http://arxiv.org/abs/2512.09506)|null|
 |**2025-12-10**|**Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks**|Xinye Cao et.al.|[2512.09485](http://arxiv.org/abs/2512.09485)|**[link](https://github.com/caoxinye/SecLoop)**|
 |**2025-12-10**|**Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs**|Sohely Jahan et.al.|[2512.09403](http://arxiv.org/abs/2512.09403)|null|
 |**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
 |**2025-12-09**|**PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration**|Yi Liu et.al.|[2512.08809](http://arxiv.org/abs/2512.08809)|null|
 |**2025-12-09**|**Biothreat Benchmark Generation Framework for Evaluating Frontier AI Models II: Benchmark Generation Process**|Gary Ackerman et.al.|[2512.08451](http://arxiv.org/abs/2512.08451)|null|
-|**2025-12-09**|**Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs**|Yinan Zhong et.al.|[2512.08417](http://arxiv.org/abs/2512.08417)|null|
+|**2025-12-11**|**Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs**|Yinan Zhong et.al.|[2512.08417](http://arxiv.org/abs/2512.08417)|null|
 |**2025-12-09**|**Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**|Shiva Gaire et.al.|[2512.08290](http://arxiv.org/abs/2512.08290)|null|
 |**2025-12-09**|**A Practical Framework for Evaluating Medical AI Security: Reproducible Assessment of Jailbreaking and Privacy Vulnerabilities Across Clinical Specialties**|Jinghao Wang et.al.|[2512.08185](http://arxiv.org/abs/2512.08185)|null|
 |**2025-12-09**|**Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach**|Hua Yang et.al.|[2512.07814](http://arxiv.org/abs/2512.07814)|null|
