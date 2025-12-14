@@ -19,7 +19,7 @@
 |**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
 |**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
 |**2025-12-10**|**CNFinBench: A Benchmark for Safety and Compliance of Large Language Models in Finance**|Jinru Ding et.al.|[2512.09506](http://arxiv.org/abs/2512.09506)|null|
-|**2025-12-10**|**Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks**|Xinye Cao et.al.|[2512.09485](http://arxiv.org/abs/2512.09485)|null|
+|**2025-12-10**|**Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks**|Xinye Cao et.al.|[2512.09485](http://arxiv.org/abs/2512.09485)|**[link](https://github.com/caoxinye/SecLoop)**|
 |**2025-12-10**|**Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs**|Sohely Jahan et.al.|[2512.09403](http://arxiv.org/abs/2512.09403)|null|
 |**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
 |**2025-12-09**|**PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration**|Yi Liu et.al.|[2512.08809](http://arxiv.org/abs/2512.08809)|null|
