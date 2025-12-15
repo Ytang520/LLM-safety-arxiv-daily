@@ -321,7 +321,7 @@
 |**2025-09-23**|**Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs**|Alexander Panfilov et.al.|[2509.18058](http://arxiv.org/abs/2509.18058)|null|
 |**2025-09-22**|**D-REX: A Benchmark for Detecting Deceptive Reasoning in Large Language Models**|Satyapriya Krishna et.al.|[2509.17938](http://arxiv.org/abs/2509.17938)|null|
 |**2025-09-21**|**Localizing Malicious Outputs from CodeLLM**|Mayukh Borana et.al.|[2509.17070](http://arxiv.org/abs/2509.17070)|null|
-|**2025-09-21**|**DecipherGuard: Understanding and Deciphering Jailbreak Prompts for a Safer Deployment of Intelligent Software Systems**|Rui Yang et.al.|[2509.16870](http://arxiv.org/abs/2509.16870)|null|
+|**2025-09-21**|**DecipherGuard: Understanding and Deciphering Jailbreak Prompts for a Safer Deployment of Intelligent Software Systems**|Rui Yang et.al.|[2509.16870](http://arxiv.org/abs/2509.16870)|**[link](https://github.com/awsm-research/DecipherGuard_Archived)**|
 |**2025-09-21**|**AdaptiveGuard: Towards Adaptive Runtime Safety for LLM-Powered Software**|Rui Yang et.al.|[2509.16861](http://arxiv.org/abs/2509.16861)|null|
 |**2025-09-20**|**Design and Development of an Intelligent LLM-based LDAP Honeypot**|Javier Jiménez-Román et.al.|[2509.16682](http://arxiv.org/abs/2509.16682)|null|
 |**2025-09-20**|**"Digital Camouflage": The LLVM Challenge in LLM-Based Malware Detection**|Ekin Böke et.al.|[2509.16671](http://arxiv.org/abs/2509.16671)|null|
@@ -441,7 +441,7 @@
 |**2025-08-06**|**Assessing Representation Stability for Transformer Models**|Bryan E. Tuck et.al.|[2508.11667](http://arxiv.org/abs/2508.11667)|null|
 |**2025-08-15**|**Tapas are free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments**|Jinwei Hu et.al.|[2508.11425](http://arxiv.org/abs/2508.11425)|null|
 |**2025-08-22**|**MCP-Guard: A Defense Framework for Model Context Protocol Integrity in Large Language Model Applications**|Wenpeng Xing et.al.|[2508.10991](http://arxiv.org/abs/2508.10991)|null|
-|**2025-09-25**|**Searching for Privacy Risks in LLM Agents via Simulation**|Yanzhe Zhang et.al.|[2508.10880](http://arxiv.org/abs/2508.10880)|null|
+|**2025-09-25**|**Searching for Privacy Risks in LLM Agents via Simulation**|Yanzhe Zhang et.al.|[2508.10880](http://arxiv.org/abs/2508.10880)|**[link](https://github.com/SALT-NLP/search_privacy_risk)**|
 |**2025-08-14**|**REFN: A Reinforcement-Learning-From-Network Framework against 1-day/n-day Exploitations**|Tianlong Yu et.al.|[2508.10701](http://arxiv.org/abs/2508.10701)|null|
 |**2025-08-14**|**Layer-Wise Perturbations via Sparse Autoencoders for Adversarial Text Generation**|Huizhen Shu et.al.|[2508.10404](http://arxiv.org/abs/2508.10404)|null|
 |**2025-10-11**|**Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts**|Chiyu Zhang et.al.|[2508.10390](http://arxiv.org/abs/2508.10390)|null|
@@ -843,7 +843,7 @@
 |**2025-10-04**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564](http://arxiv.org/abs/2504.18564)|**[link](https://github.com/hxz-sec/DualBreach)**|
 |**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333](http://arxiv.org/abs/2504.18333)|null|
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
-|**2025-05-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704](http://arxiv.org/abs/2504.17704)|null|
+|**2025-05-24**|**Safety in Large Reasoning Models: A Survey**|Cheng Wang et.al.|[2504.17704](http://arxiv.org/abs/2504.17704)|**[link](https://github.com/WangCheng0116/Awesome-LRMs-Safety)**|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-28**|**Exploring the Role of Large Language Models in Cybersecurity: A Systematic Survey**|Shuang Tian et.al.|[2504.15622](http://arxiv.org/abs/2504.15622)|null|
 |**2025-09-26**|**MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
@@ -2132,12 +2132,12 @@
 |**2025-11-13**|**MTAttack: Multi-Target Backdoor Attacks against Large Vision-Language Models**|Zihan Wang et.al.|[2511.10098](http://arxiv.org/abs/2511.10098)|null|
 |**2025-11-13**|**Phantom Menace: Exploring and Enhancing the Robustness of VLA Models against Physical Sensor Attacks**|Xuancun Lu et.al.|[2511.10008](http://arxiv.org/abs/2511.10008)|null|
 |**2025-11-12**|**Rebellion: Noise-Robust Reasoning Training for Audio Reasoning Models**|Tiansheng Huang et.al.|[2511.09682](http://arxiv.org/abs/2511.09682)|null|
-|**2025-11-12**|**Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference**|Chengze Jiang et.al.|[2511.09064](http://arxiv.org/abs/2511.09064)|null|
+|**2025-11-12**|**Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference**|Chengze Jiang et.al.|[2511.09064](http://arxiv.org/abs/2511.09064)|**[link](https://github.com/bookman233/DOC)**|
 |**2025-11-11**|**Why does weak-OOD help? A Further Step Towards Understanding Jailbreaking VLMs**|Yuxuan Zhou et.al.|[2511.08367](http://arxiv.org/abs/2511.08367)|null|
-|**2025-11-10**|**Diffusion Guided Adversarial State Perturbations in Reinforcement Learning**|Xiaolin Sun et.al.|[2511.07701](http://arxiv.org/abs/2511.07701)|null|
+|**2025-11-10**|**Diffusion Guided Adversarial State Perturbations in Reinforcement Learning**|Xiaolin Sun et.al.|[2511.07701](http://arxiv.org/abs/2511.07701)|**[link](https://github.com/SliencerX/Diffusion_Guided_Adversarial_State_Perturbations_in_Reinforcement_Learning)**|
 |**2025-11-10**|**JPRO: Automated Multimodal Jailbreaking via Multi-Agent Collaboration Framework**|Yuxuan Zhou et.al.|[2511.07315](http://arxiv.org/abs/2511.07315)|null|
-|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
-|**2025-11-08**|**CGCE: Classifier-Guided Concept Erasure in Generative Models**|Viet Nguyen et.al.|[2511.05865](http://arxiv.org/abs/2511.05865)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
+|**2025-11-08**|**CGCE: Classifier-Guided Concept Erasure in Generative Models**|Viet Nguyen et.al.|[2511.05865](http://arxiv.org/abs/2511.05865)|**[link](https://github.com/viettmab/CGCE)**|
 |**2025-11-07**|**Lite VLA: Efficient Vision-Language-Action Control on CPU-Bound Edge Robots**|Justin Williams et.al.|[2511.05642](http://arxiv.org/abs/2511.05642)|null|
 |**2025-11-07**|**Associative Poisoning to Generative Machine Learning**|Mathias Lundteigen Mohus et.al.|[2511.05177](http://arxiv.org/abs/2511.05177)|null|
 |**2025-11-05**|**SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking**|Wenyuan Yang et.al.|[2511.04711](http://arxiv.org/abs/2511.04711)|null|
@@ -2540,7 +2540,7 @@
 |**2024-12-04**|**Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization**|Yuhao He et.al.|[2411.03752](http://arxiv.org/abs/2411.03752)|null|
 |**2024-11-06**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
 |**2025-01-02**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974](http://arxiv.org/abs/2411.02974)|null|
-|**2025-05-24**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
+|**2025-05-24**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|**[link](https://github.com/SALT-NLP/PopupAttack)**|
 |**2025-01-31**|**UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models**|Sejoon Oh et.al.|[2411.01703](http://arxiv.org/abs/2411.01703)|null|
 |**2024-11-01**|**Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing**|Weizhi Gao et.al.|[2411.00899](http://arxiv.org/abs/2411.00899)|null|
 |**2025-09-25**|**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|**[link](https://github.com/roywang021/IDEATOR)**|
@@ -2947,7 +2947,7 @@
 |**2021-03-22**|**RA-BNN: Constructing Robust & Accurate Binary Neural Network to Simultaneously Defend Adversarial Bit-Flip Attack and Improve Accuracy**|Adnan Siraj Rakin et.al.|[2103.13813](http://arxiv.org/abs/2103.13813)|null|
 |**2021-03-24**|**Jupiter's third largest and longest-lived oval: Color changes and dynamics**|N. Barrado-Izagirre et.al.|[2103.13168](http://arxiv.org/abs/2103.13168)|null|
 |**2021-03-19**|**Boosting Adversarial Transferability through Enhanced Momentum**|Xiaosen Wang et.al.|[2103.10609](http://arxiv.org/abs/2103.10609)|null|
-|**2021-03-18**|**RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection**|Lue Fan et.al.|[2103.10039](http://arxiv.org/abs/2103.10039)|null|
+|**2021-03-18**|**RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection**|Lue Fan et.al.|[2103.10039](http://arxiv.org/abs/2103.10039)|**[link](https://github.com/tusen-ai/RangeDet)**|
 |**2021-02-23**|**Adversarial Examples Detection beyond Image Space**|Kejiang Chen et.al.|[2102.11586](http://arxiv.org/abs/2102.11586)|null|
 |**2021-02-19**|**NEOExchange -- An online portal for NEO and Solar System science**|T. A. Lister et.al.|[2102.10144](http://arxiv.org/abs/2102.10144)|null|
 |**2022-02-02**|**Realizable Universal Adversarial Perturbations for Malware**|Raphael Labaca-Castro et.al.|[2102.06747](http://arxiv.org/abs/2102.06747)|null|
