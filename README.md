@@ -15,11 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models**|Mohamed Afane et.al.|[2512.10998](http://arxiv.org/abs/2512.10998)|null|
 |**2025-12-11**|**LLM-Assisted AHP for Explainable Cyber Range Evaluation**|Vyron Kampourakis et.al.|[2512.10487](http://arxiv.org/abs/2512.10487)|null|
 |**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
 |**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
 |**2025-12-10**|**CNFinBench: A Benchmark for Safety and Compliance of Large Language Models in Finance**|Jinru Ding et.al.|[2512.09506](http://arxiv.org/abs/2512.09506)|null|
-|**2025-12-10**|**Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks**|Xinye Cao et.al.|[2512.09485](http://arxiv.org/abs/2512.09485)|**[link](https://github.com/caoxinye/SecLoop)**|
+|**2025-12-10**|**Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks**|Xinye Cao et.al.|[2512.09485](http://arxiv.org/abs/2512.09485)|null|
 |**2025-12-10**|**Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs**|Sohely Jahan et.al.|[2512.09403](http://arxiv.org/abs/2512.09403)|null|
 |**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
 |**2025-12-09**|**PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration**|Yi Liu et.al.|[2512.08809](http://arxiv.org/abs/2512.08809)|null|
@@ -2087,6 +2088,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-12**|**Beyond Memorization: Gradient Projection Enables Selective Learning in Diffusion Models**|Divya Kothandaraman et.al.|[2512.11194](http://arxiv.org/abs/2512.11194)|null|
 |**2025-12-10**|**FlipLLM: Efficient Bit-Flip Attacks on Multimodal LLMs using Reinforcement Learning**|Khurram Khalil et.al.|[2512.09872](http://arxiv.org/abs/2512.09872)|null|
 |**2025-12-09**|**Exposing and Defending Membership Leakage in Vulnerability Prediction Models**|Yihan Liao et.al.|[2512.08291](http://arxiv.org/abs/2512.08291)|null|
 |**2025-12-08**|**Detecting Ambiguity Aversion in Cyberattack Behavior to Inform Cognitive Defense Strategies**|Stephan Carney et.al.|[2512.08107](http://arxiv.org/abs/2512.08107)|null|
