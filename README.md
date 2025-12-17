@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
+|**2025-12-14**|**The Laminar Flow Hypothesis: Detecting Jailbreaks via Semantic Turbulence in Large Language Models**|Md. Hasib Ur Rahman et.al.|[2512.13741](http://arxiv.org/abs/2512.13741)|null|
 |**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|null|
 |**2025-12-13**|**Large Language Models have Chain-of-Affective**|Junjie Xu et.al.|[2512.12283](http://arxiv.org/abs/2512.12283)|null|
 |**2025-12-12**|**Neural Chameleons: Language Models Can Learn to Hide Their Thoughts from Unseen Activation Monitors**|Max McGuinness et.al.|[2512.11949](http://arxiv.org/abs/2512.11949)|null|
