@@ -15,9 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations**|Hongbin Na et.al.|[2512.15601](http://arxiv.org/abs/2512.15601)|null|
+|**2025-12-17**|**Adversarial versification in portuguese as a jailbreak operator in LLMs**|Joao Queiroz et.al.|[2512.15353](http://arxiv.org/abs/2512.15353)|null|
+|**2025-12-17**|**MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers**|Xuanjun Zong et.al.|[2512.15163](http://arxiv.org/abs/2512.15163)|null|
+|**2025-12-17**|**Quantifying Return on Security Controls in LLM Systems**|Richard Helder Moulton et.al.|[2512.15081](http://arxiv.org/abs/2512.15081)|null|
+|**2025-12-16**|**MALCDF: A Distributed Multi-Agent LLM Framework for Real-Time Cyber**|Arth Bhardwaj et.al.|[2512.14846](http://arxiv.org/abs/2512.14846)|null|
+|**2025-12-14**|**One Leak Away: How Pretrained Model Exposure Amplifies Jailbreak Risks in Finetuned LLMs**|Yixin Tan et.al.|[2512.14751](http://arxiv.org/abs/2512.14751)|null|
 |**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
 |**2025-12-14**|**The Laminar Flow Hypothesis: Detecting Jailbreaks via Semantic Turbulence in Large Language Models**|Md. Hasib Ur Rahman et.al.|[2512.13741](http://arxiv.org/abs/2512.13741)|null|
-|**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|**[link](https://github.com/packguard-dev/MalPackSlice)**|
+|**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|null|
 |**2025-12-13**|**Large Language Models have Chain-of-Affective**|Junjie Xu et.al.|[2512.12283](http://arxiv.org/abs/2512.12283)|null|
 |**2025-12-12**|**Neural Chameleons: Language Models Can Learn to Hide Their Thoughts from Unseen Activation Monitors**|Max McGuinness et.al.|[2512.11949](http://arxiv.org/abs/2512.11949)|null|
 |**2025-12-10**|**SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models**|Mohamed Afane et.al.|[2512.10998](http://arxiv.org/abs/2512.10998)|null|
@@ -2093,6 +2099,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-17**|**SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification**|Hongbo Wang et.al.|[2512.15052](http://arxiv.org/abs/2512.15052)|null|
+|**2025-12-09**|**How a Bit Becomes a Story: Semantic Steering via Differentiable Fault Injection**|Zafaryab Haider et.al.|[2512.14715](http://arxiv.org/abs/2512.14715)|null|
 |**2025-12-15**|**Cisco Integrated AI Security and Safety Framework Report**|Amy Chang et.al.|[2512.12921](http://arxiv.org/abs/2512.12921)|null|
 |**2025-12-12**|**Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring**|Peichun Hua et.al.|[2512.12069](http://arxiv.org/abs/2512.12069)|null|
 |**2025-12-10**|**Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models**|Futa Waseda et.al.|[2512.11899](http://arxiv.org/abs/2512.11899)|null|
