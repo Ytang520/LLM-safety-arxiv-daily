@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
+|**2025-12-19**|**Cryptanalysis of Pseudorandom Error-Correcting Codes**|Tianrui Wang et.al.|[2512.17310](http://arxiv.org/abs/2512.17310)|null|
+|**2025-12-19**|**AlignDP: Hybrid Differential Privacy with Rarity-Aware Protection for LLMs**|Madhava Gaikwad et.al.|[2512.17251](http://arxiv.org/abs/2512.17251)|null|
+|**2025-12-18**|**MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval**|Saksham Sahai Srivastava et.al.|[2512.16962](http://arxiv.org/abs/2512.16962)|null|
 |**2025-12-18**|**From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection**|Hao Li et.al.|[2512.16439](http://arxiv.org/abs/2512.16439)|null|
 |**2025-12-18**|**Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams**|Gilad Gressel et.al.|[2512.16280](http://arxiv.org/abs/2512.16280)|null|
 |**2025-12-18**|**DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack**|Hao Li et.al.|[2512.16182](http://arxiv.org/abs/2512.16182)|null|
@@ -2103,7 +2107,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2025-12-18**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|null|
+|**2025-12-19**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|null|
 |**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
 |**2025-12-17**|**SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification**|Hongbo Wang et.al.|[2512.15052](http://arxiv.org/abs/2512.15052)|null|
 |**2025-12-09**|**How a Bit Becomes a Story: Semantic Steering via Differentiable Fault Injection**|Zafaryab Haider et.al.|[2512.14715](http://arxiv.org/abs/2512.14715)|null|
