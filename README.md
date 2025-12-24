@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
+|**2025-12-23**|**AprielGuard**|Jaykumar Kasundra et.al.|[2512.20293](http://arxiv.org/abs/2512.20293)|null|
+|**2025-12-23**|**AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications**|Honglin Mu et.al.|[2512.20164](http://arxiv.org/abs/2512.20164)|null|
 |**2025-12-22**|**Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models**|Linzhi Chen et.al.|[2512.19297](http://arxiv.org/abs/2512.19297)|null|
 |**2025-12-22**|**DREAM: Dynamic Red-teaming across Environments for AI Models**|Liming Lu et.al.|[2512.19016](http://arxiv.org/abs/2512.19016)|null|
 |**2025-12-22**|**Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline**|Akshaj Prashanth Rao et.al.|[2512.19011](http://arxiv.org/abs/2512.19011)|null|
@@ -2113,8 +2116,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2025-12-23**|**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**|Zhongyu Xia et.al.|[2512.20299](http://arxiv.org/abs/2512.20299)|null|
+|**2025-12-23**|**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**|Songze Li et.al.|[2512.20168](http://arxiv.org/abs/2512.20168)|null|
 |**2025-12-22**|**SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models**|A. A. Gde Yogi Pramana et.al.|[2512.19317](http://arxiv.org/abs/2512.19317)|null|
-|**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058](http://arxiv.org/abs/2512.19058)|**[link](https://github.com/Gjhhui/6DAttack)**|
+|**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058](http://arxiv.org/abs/2512.19058)|null|
 |**2025-12-19**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|null|
 |**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
 |**2025-12-17**|**SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification**|Hongbo Wang et.al.|[2512.15052](http://arxiv.org/abs/2512.15052)|null|
