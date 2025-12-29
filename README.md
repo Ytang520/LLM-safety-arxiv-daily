@@ -140,8 +140,8 @@
 |**2025-11-09**|**KG-DF: A Black-box Defense Framework against Jailbreak Attacks Based on Knowledge Graphs**|Shuyuan Liu et.al.|[2511.07480](http://arxiv.org/abs/2511.07480)|null|
 |**2025-11-10**|**Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents**|Hanlin Cai et.al.|[2511.07176](http://arxiv.org/abs/2511.07176)|null|
 |**2025-11-10**|**MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Risks in LLMs on Domain Tasks**|Liang Shan et.al.|[2511.07107](http://arxiv.org/abs/2511.07107)|null|
-|**2025-11-11**|**Differentiated Directional Intervention A Framework for Evading LLM Safety Alignment**|Peng Zhang et.al.|[2511.06852](http://arxiv.org/abs/2511.06852)|null|
-|**2025-11-09**|**EASE: Practical and Efficient Safety Alignment for Small Language Models**|Haonan Shi et.al.|[2511.06512](http://arxiv.org/abs/2511.06512)|null|
+|**2025-11-11**|**Differentiated Directional Intervention A Framework for Evading LLM Safety Alignment**|Peng Zhang et.al.|[2511.06852](http://arxiv.org/abs/2511.06852)|**[link](https://github.com/PeiJieSun/DBDI-main)**|
+|**2025-11-09**|**EASE: Practical and Efficient Safety Alignment for Small Language Models**|Haonan Shi et.al.|[2511.06512](http://arxiv.org/abs/2511.06512)|**[link](https://github.com/horanshi/EASE)**|
 |**2025-11-09**|**Efficient LLM Safety Evaluation through Multi-Agent Debate**|Dachuan Lin et.al.|[2511.06396](http://arxiv.org/abs/2511.06396)|null|
 |**2025-11-09**|**Enhancing Adversarial Robustness of IoT Intrusion Detection via SHAP-Based Attribution Fingerprinting**|Dilli Prasad Sharma et.al.|[2511.06197](http://arxiv.org/abs/2511.06197)|null|
 |**2025-11-07**|**TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems**|Ishan Kavathekar et.al.|[2511.05269](http://arxiv.org/abs/2511.05269)|null|
@@ -266,7 +266,7 @@
 |**2025-10-08**|**VelLMes: A high-interaction AI-based deception framework**|Muris Sladić et.al.|[2510.06975](http://arxiv.org/abs/2510.06975)|null|
 |**2025-10-08**|**Exposing Citation Vulnerabilities in Generative Engines**|Riku Mochizuki et.al.|[2510.06823](http://arxiv.org/abs/2510.06823)|null|
 |**2025-10-09**|**Do Internal Layers of LLMs Reveal Patterns for Jailbreak Detection?**|Sri Durga Sai Sowmya Kadali et.al.|[2510.06594](http://arxiv.org/abs/2510.06594)|null|
-|**2025-10-07**|**A Survey on Agentic Security: Applications, Threats and Defenses**|Asif Shahriar et.al.|[2510.06445](http://arxiv.org/abs/2510.06445)|null|
+|**2025-10-07**|**A Survey on Agentic Security: Applications, Threats and Defenses**|Asif Shahriar et.al.|[2510.06445](http://arxiv.org/abs/2510.06445)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-10-07**|**Membership Inference Attacks on Tokenizers of Large Language Models**|Meng Tong et.al.|[2510.05699](http://arxiv.org/abs/2510.05699)|null|
 |**2025-10-06**|**Adversarial Reinforcement Learning for Large Language Model Agent Safety**|Zizhao Wang et.al.|[2510.05442](http://arxiv.org/abs/2510.05442)|null|
 |**2025-10-08**|**AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling**|Xiaogeng Liu et.al.|[2510.05379](http://arxiv.org/abs/2510.05379)|null|
@@ -1019,9 +1019,9 @@
 |**2025-02-21**|**Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment**|Pedram Zaree et.al.|[2502.15334](http://arxiv.org/abs/2502.15334)|null|
 |**2025-06-12**|**Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models**|Mark Russinovich et.al.|[2502.15010](http://arxiv.org/abs/2502.15010)|null|
 |**2025-06-02**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
-|**2025-06-03**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
+|**2025-06-03**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|**[link](https://github.com/cooperleong00/TASA)**|
 |**2025-02-25**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603](http://arxiv.org/abs/2502.13603)|null|
-|**2025-02-19**|**Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking**|Yanzeng Li et.al.|[2502.13527](http://arxiv.org/abs/2502.13527)|null|
+|**2025-02-19**|**Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking**|Yanzeng Li et.al.|[2502.13527](http://arxiv.org/abs/2502.13527)|**[link](https://github.com/lsvih/attackPrefixTree)**|
 |**2025-09-22**|**Language Models Can Predict Their Own Behavior**|Dhananjay Ashok et.al.|[2502.13329](http://arxiv.org/abs/2502.13329)|null|
 |**2025-02-16**|**ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs**|Ziyi Ni et.al.|[2502.13162](http://arxiv.org/abs/2502.13162)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
@@ -1262,7 +1262,7 @@
 |**2024-10-20**|**Faster-GCG: Efficient Discrete Optimization Jailbreak Attacks against Aligned Large Language Models**|Xiao Li et.al.|[2410.15362](http://arxiv.org/abs/2410.15362)|null|
 |**2025-02-10**|**Teaching Models to Balance Resisting and Accepting Persuasion**|Elias Stengel-Eskin et.al.|[2410.14596](http://arxiv.org/abs/2410.14596)|null|
 |**2025-05-20**|**Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2410.14425](http://arxiv.org/abs/2410.14425)|null|
-|**2025-02-03**|**NSmark: Null Space Based Black-box Watermarking Defense Framework for Language Models**|Haodong Zhao et.al.|[2410.13907](http://arxiv.org/abs/2410.13907)|null|
+|**2025-02-03**|**NSmark: Null Space Based Black-box Watermarking Defense Framework for Language Models**|Haodong Zhao et.al.|[2410.13907](http://arxiv.org/abs/2410.13907)|**[link](https://github.com/dongdongzhaoUP/NSmark)**|
 |**2025-10-16**|**CoreGuard: Safeguarding Foundational Capabilities of LLMs Against Model Stealing in Edge Deployment**|Qinfeng Li et.al.|[2410.13903](http://arxiv.org/abs/2410.13903)|null|
 |**2024-10-16**|**SoK: Prompt Hacking of Large Language Models**|Baha Rababah et.al.|[2410.13901](http://arxiv.org/abs/2410.13901)|null|
 |**2024-10-21**|**Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents**|Priyanshu Kumar et.al.|[2410.13886](http://arxiv.org/abs/2410.13886)|null|
@@ -1598,7 +1598,7 @@
 |**2025-02-18**|**Explainable Fake News Detection With Large Language Model via Defense Among Competing Wisdom**|Bo Wang et.al.|[2405.03371](http://arxiv.org/abs/2405.03371)|null|
 |**2025-01-12**|**ModelShield: Adaptive and Robust Watermark against Model Extraction Attack**|Kaiyi Pang et.al.|[2405.02365](http://arxiv.org/abs/2405.02365)|null|
 |**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
-|**2024-05-02**|**Generative AI in Cybersecurity**|Shivani Metta et.al.|[2405.01674](http://arxiv.org/abs/2405.01674)|null|
+|**2024-05-02**|**Generative AI in Cybersecurity**|Shivani Metta et.al.|[2405.01674](http://arxiv.org/abs/2405.01674)|**[link](https://github.com/Cybonto/OllaDeck)**|
 |**2025-03-02**|**Boosting Jailbreak Attack with Momentum**|Yihao Zhang et.al.|[2405.01229](http://arxiv.org/abs/2405.01229)|null|
 |**2025-06-01**|**Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment**|Zhili Liu et.al.|[2405.00557](http://arxiv.org/abs/2405.00557)|null|
 |**2024-05-02**|**Adversarial Attacks and Defense for Conversation Entailment Task**|Zhenning Yang et.al.|[2405.00289](http://arxiv.org/abs/2405.00289)|null|
@@ -1702,7 +1702,7 @@
 |**2024-06-06**|**TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification**|Martin Gubri et.al.|[2402.12991](http://arxiv.org/abs/2402.12991)|null|
 |**2024-03-29**|**Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning**|Shuai Zhao et.al.|[2402.12168](http://arxiv.org/abs/2402.12168)|null|
 |**2024-02-19**|**SPML: A DSL for Defending Language Models Against Prompt Attacks**|Reshabh K Sharma et.al.|[2402.11755](http://arxiv.org/abs/2402.11755)|null|
-|**2024-10-29**|**Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**|Wenkai Yang et.al.|[2402.11208](http://arxiv.org/abs/2402.11208)|null|
+|**2024-10-29**|**Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**|Wenkai Yang et.al.|[2402.11208](http://arxiv.org/abs/2402.11208)|**[link](https://github.com/lancopku/agent-backdoor-attacks)**|
 |**2024-08-16**|**ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages**|Junjie Ye et.al.|[2402.10753](http://arxiv.org/abs/2402.10753)|null|
 |**2025-10-14**|**When "Competency" in Reasoning Opens the Door to Vulnerability: Jailbreaking LLMs via Novel Complex Ciphers**|Divij Handa et.al.|[2402.10601](http://arxiv.org/abs/2402.10601)|null|
 |**2024-08-27**|**A StrongREJECT for Empty Jailbreaks**|Alexandra Souly et.al.|[2402.10260](http://arxiv.org/abs/2402.10260)|null|
@@ -1975,7 +1975,7 @@
 |**2022-10-01**|**Synthetic Text Detection: Systemic Literature Review**|Jesus Guerrero et.al.|[2210.06336](http://arxiv.org/abs/2210.06336)|null|
 |**2022-10-03**|**Enriching Vulnerability Reports Through Automated and Augmented Description Summarization**|Hattan Althebeiti et.al.|[2210.01260](http://arxiv.org/abs/2210.01260)|null|
 |**2022-11-22**|**Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned**|Deep Ganguli et.al.|[2209.07858](http://arxiv.org/abs/2209.07858)|null|
-|**2023-06-16**|**Fact-Saboteurs: A Taxonomy of Evidence Manipulation Attacks against Fact-Verification Systems**|Sahar Abdelnabi et.al.|[2209.03755](http://arxiv.org/abs/2209.03755)|null|
+|**2023-06-16**|**Fact-Saboteurs: A Taxonomy of Evidence Manipulation Attacks against Fact-Verification Systems**|Sahar Abdelnabi et.al.|[2209.03755](http://arxiv.org/abs/2209.03755)|**[link](https://github.com/S-Abdelnabi/Fact-Saboteurs)**|
 |**2023-10-13**|**Red Teaming with Mind Reading: White-Box Adversarial Policies Against RL Agents**|Stephen Casper et.al.|[2209.02167](http://arxiv.org/abs/2209.02167)|null|
 |**2022-08-26**|**Living-off-the-Land Abuse Detection Using Natural Language Processing and Supervised Learning**|Ryan Stamp et.al.|[2208.12836](http://arxiv.org/abs/2208.12836)|null|
 |**2022-07-21**|**Rethinking Textual Adversarial Defense for Pre-trained Language Models**|Jiayi Wang et.al.|[2208.10251](http://arxiv.org/abs/2208.10251)|null|
@@ -2953,7 +2953,7 @@
 |**2021-12-08**|**SNEAK: Synonymous Sentences-Aware Adversarial Attack on Natural Language Video Localization**|Wenbo Gou et.al.|[2112.04154](http://arxiv.org/abs/2112.04154)|null|
 |**2022-04-12**|**Catch Me If You Can: Blackbox Adversarial Attacks on Automatic Speech Recognition using Frequency Masking**|Xiaoliang Wu et.al.|[2112.01821](http://arxiv.org/abs/2112.01821)|null|
 |**2021-11-29**|**MedRDF: A Robust and Retrain-Less Diagnostic Framework for Medical Pretrained Models Against Adversarial Attack**|Mengting Xu et.al.|[2111.14564](http://arxiv.org/abs/2111.14564)|null|
-|**2021-11-22**|**Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes**|Utku Ozbulak et.al.|[2111.11056](http://arxiv.org/abs/2111.11056)|null|
+|**2021-11-22**|**Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes**|Utku Ozbulak et.al.|[2111.11056](http://arxiv.org/abs/2111.11056)|**[link](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)**|
 |**2022-02-12**|**Measuring the Contribution of Multiple Model Representations in Detecting Adversarial Instances**|Daniel Steinberg et.al.|[2111.07035](http://arxiv.org/abs/2111.07035)|null|
 |**2021-11-13**|**Understanding and Assessment of Mission-Centric Key Cyber Terrains for joint Military Operations**|Álvaro Luis Martínez et.al.|[2111.07005](http://arxiv.org/abs/2111.07005)|null|
 |**2021-11-10**|**Are Transformers More Robust Than CNNs?**|Yutong Bai et.al.|[2111.05464](http://arxiv.org/abs/2111.05464)|null|
