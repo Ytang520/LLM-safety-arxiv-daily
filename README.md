@@ -15,10 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-25**|**Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation**|Tian Li et.al.|[2512.21681](http://arxiv.org/abs/2512.21681)|**[link](https://github.com/mli-tian/VenomRACG)**|
+|**2025-12-24**|**LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors**|Tianwei Lan et.al.|[2512.21404](http://arxiv.org/abs/2512.21404)|null|
 |**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|**[link](https://github.com/Navigator129/SPELL)**|
 |**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
 |**2025-12-23**|**Safety Alignment of LMs via Non-cooperative Games**|Anselm Paulus et.al.|[2512.20806](http://arxiv.org/abs/2512.20806)|**[link](https://github.com/facebookresearch/advgame)**|
-|**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
+|**2025-12-25**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
 |**2025-12-23**|**AprielGuard**|Jaykumar Kasundra et.al.|[2512.20293](http://arxiv.org/abs/2512.20293)|null|
 |**2025-12-23**|**AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications**|Honglin Mu et.al.|[2512.20164](http://arxiv.org/abs/2512.20164)|null|
 |**2025-12-22**|**Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models**|Linzhi Chen et.al.|[2512.19297](http://arxiv.org/abs/2512.19297)|null|
@@ -2119,7 +2121,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-26**|**Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models**|Zongmin Zhang et.al.|[2512.22046](http://arxiv.org/abs/2512.22046)|null|
+|**2025-12-26**|**Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?**|Naen Xu et.al.|[2512.21871](http://arxiv.org/abs/2512.21871)|null|
+|**2025-12-24**|**The Imitation Game: Using Large Language Models as Chatbots to Combat Chat-Based Cybercrimes**|Yifan Yao et.al.|[2512.21371](http://arxiv.org/abs/2512.21371)|null|
+|**2025-12-26**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
 |**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
 |**2025-12-23**|**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**|Zhongyu Xia et.al.|[2512.20299](http://arxiv.org/abs/2512.20299)|null|
 |**2025-12-23**|**Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography**|Songze Li et.al.|[2512.20168](http://arxiv.org/abs/2512.20168)|null|
