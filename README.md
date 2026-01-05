@@ -417,7 +417,7 @@
 |**2025-09-04**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372](http://arxiv.org/abs/2509.05372)|null|
 |**2025-09-12**|**Between a Rock and a Hard Place: Exploiting Ethical Reasoning to Jailbreak LLMs**|Shei Pern Chua et.al.|[2509.05367](http://arxiv.org/abs/2509.05367)|null|
 |**2025-08-30**|**Backdoor Samples Detection Based on Perturbation Discrepancy Consistency in Pre-trained Language Models**|Zuquan Peng et.al.|[2509.05318](http://arxiv.org/abs/2509.05318)|null|
-|**2025-09-05**|**The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models**|Danielle Ensign et.al.|[2509.04781](http://arxiv.org/abs/2509.04781)|null|
+|**2025-09-05**|**The LLM Has Left The Chat: Evidence of Bail Preferences in Large Language Models**|Danielle Ensign et.al.|[2509.04781](http://arxiv.org/abs/2509.04781)|**[link](https://github.com/Phylliida/BailStudy)**|
 |**2025-09-04**|**NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models**|Chuhan Zhang et.al.|[2509.03985](http://arxiv.org/abs/2509.03985)|null|
 |**2025-09-04**|**SAMVAD: A Multi-Agent System for Simulating Judicial Deliberation Dynamics in India**|Prathamesh Devadiga et.al.|[2509.03793](http://arxiv.org/abs/2509.03793)|null|
 |**2025-10-08**|**From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models**|Yue Li et.al.|[2509.03122](http://arxiv.org/abs/2509.03122)|null|
@@ -1022,11 +1022,11 @@
 |**2025-02-18**|**OCCULT: Evaluating Large Language Models for Offensive Cyber Operation Capabilities**|Michael Kouremetis et.al.|[2502.15797](http://arxiv.org/abs/2502.15797)|null|
 |**2025-02-18**|**Pruning as a Defense: Reducing Memorization in Large Language Models**|Mansi Gupta et.al.|[2502.15796](http://arxiv.org/abs/2502.15796)|null|
 |**2025-05-23**|**SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention**|Jiaqi Wu et.al.|[2502.15594](http://arxiv.org/abs/2502.15594)|null|
-|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576](http://arxiv.org/abs/2502.15576)|null|
+|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576](http://arxiv.org/abs/2502.15576)|**[link](https://github.com/JacksonWuxs/SteeringLLMs_with_MIExplanations)**|
 |**2025-02-21**|**Single-pass Detection of Jailbreaking Input in Large Language Models**|Leyla Naz Candogan et.al.|[2502.15435](http://arxiv.org/abs/2502.15435)|null|
 |**2025-02-21**|**Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs**|Giulio Zizzo et.al.|[2502.15427](http://arxiv.org/abs/2502.15427)|null|
 |**2025-02-21**|**Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment**|Pedram Zaree et.al.|[2502.15334](http://arxiv.org/abs/2502.15334)|null|
-|**2025-06-12**|**Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models**|Mark Russinovich et.al.|[2502.15010](http://arxiv.org/abs/2502.15010)|null|
+|**2025-06-12**|**Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models**|Mark Russinovich et.al.|[2502.15010](http://arxiv.org/abs/2502.15010)|**[link](https://github.com/microsoft/Obliviate-Unmemorization)**|
 |**2025-06-02**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
 |**2025-06-03**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|**[link](https://github.com/cooperleong00/TASA)**|
 |**2025-02-25**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603](http://arxiv.org/abs/2502.13603)|null|
@@ -1732,11 +1732,11 @@
 |**2025-10-12**|**DeAL: Decoding-time Alignment for Large Language Models**|James Y. Huang et.al.|[2402.06147](http://arxiv.org/abs/2402.06147)|null|
 |**2025-03-20**|**EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs**|Sam Lin et.al.|[2402.05868](http://arxiv.org/abs/2402.05868)|null|
 |**2024-02-08**|**Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia**|Guangyu Shen et.al.|[2402.05467](http://arxiv.org/abs/2402.05467)|null|
-|**2024-10-24**|**Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications**|Boyi Wei et.al.|[2402.05162](http://arxiv.org/abs/2402.05162)|null|
+|**2024-10-24**|**Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications**|Boyi Wei et.al.|[2402.05162](http://arxiv.org/abs/2402.05162)|**[link](https://github.com/boyiwei/alignment-attribution-code)**|
 |**2024-06-07**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044](http://arxiv.org/abs/2402.05044)|null|
-|**2024-02-05**|**Arabic Synonym BERT-based Adversarial Examples for Text Classification**|Norah Alshahrani et.al.|[2402.03477](http://arxiv.org/abs/2402.03477)|null|
-|**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303](http://arxiv.org/abs/2402.03303)|null|
-|**2024-10-07**|**Reconstruct Your Previous Conversations! Comprehensively Investigating Privacy Leakage Risks in Conversations with GPT Models**|Junjie Chu et.al.|[2402.02987](http://arxiv.org/abs/2402.02987)|null|
+|**2024-02-05**|**Arabic Synonym BERT-based Adversarial Examples for Text Classification**|Norah Alshahrani et.al.|[2402.03477](http://arxiv.org/abs/2402.03477)|**[link](https://github.com/NorahAlshahrani/bert_synonym_attack)**|
+|**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303](http://arxiv.org/abs/2402.03303)|**[link](https://github.com/edk208/nevermind)**|
+|**2024-10-07**|**Reconstruct Your Previous Conversations! Comprehensively Investigating Privacy Leakage Risks in Conversations with GPT Models**|Junjie Chu et.al.|[2402.02987](http://arxiv.org/abs/2402.02987)|**[link](https://github.com/TrustAIRLab/Conversation_Reconstruction_Attack)**|
 |**2025-06-02**|**Data Poisoning for In-context Learning**|Pengfei He et.al.|[2402.02160](http://arxiv.org/abs/2402.02160)|null|
 |**2024-10-08**|**Preference Poisoning Attacks on Reward Model Learning**|Junlin Wu et.al.|[2402.01920](http://arxiv.org/abs/2402.01920)|null|
 |**2024-01-25**|**MULTIVERSE: Exposing Large Language Model Alignment Problems in Diverse Worlds**|Xiaolong Jin et.al.|[2402.01706](http://arxiv.org/abs/2402.01706)|null|
@@ -2276,9 +2276,9 @@
 |**2025-09-25**|**EvoMail: Self-Evolving Cognitive Agents for Adaptive Spam and Phishing Email Defense**|Wei Huang et.al.|[2509.21129](http://arxiv.org/abs/2509.21129)|null|
 |**2025-09-26**|**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**|Runqi Lin et.al.|[2509.21029](http://arxiv.org/abs/2509.21029)|null|
 |**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Xin Wang et.al.|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
-|**2025-09-23**|**Algorithms for Adversarially Robust Deep Learning**|Alexander Robey et.al.|[2509.19100](http://arxiv.org/abs/2509.19100)|null|
+|**2025-09-23**|**Algorithms for Adversarially Robust Deep Learning**|Alexander Robey et.al.|[2509.19100](http://arxiv.org/abs/2509.19100)|**[link](https://github.com/paril-01/Neural-Architecture-Mutation-Fuzzer-)**|
 |**2025-09-23**|**Enhancing the Effectiveness and Durability of Backdoor Attacks in Federated Learning through Maximizing Task Distinction**|Zhaoxin Wang et.al.|[2509.18904](http://arxiv.org/abs/2509.18904)|null|
-|**2025-09-23**|**Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment**|Tong Zhang et.al.|[2509.18717](http://arxiv.org/abs/2509.18717)|null|
+|**2025-09-23**|**Pre-training CLIP against Data Poisoning with Optimal Transport-based Matching and Alignment**|Tong Zhang et.al.|[2509.18717](http://arxiv.org/abs/2509.18717)|**[link](https://github.com/tongzhang111/OTCCLIP)**|
 |**2025-09-19**|**Robust Vision-Language Models via Tensor Decomposition: A Defense Against Adversarial Attacks**|Het Patel et.al.|[2509.16163](http://arxiv.org/abs/2509.16163)|null|
 |**2025-09-19**|**Randomized Smoothing Meets Vision-Language Models**|Emmanouil Seferis et.al.|[2509.16088](http://arxiv.org/abs/2509.16088)|null|
 |**2025-10-14**|**Backdoor Mitigation via Invertible Pruning Masks**|Kealan Dunnett et.al.|[2509.15497](http://arxiv.org/abs/2509.15497)|null|
