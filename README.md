@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**Defensive M2S: Training Guardrail Models on Compressed Multi-turn Conversations**|Hyunjun Kim et.al.|[2601.00454](http://arxiv.org/abs/2601.00454)|null|
+|**2026-01-01**|**Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems**|Weijie Wang et.al.|[2601.00274](http://arxiv.org/abs/2601.00274)|null|
+|**2026-01-01**|**Overlooked Safety Vulnerability in LLMs: Malicious Intelligent Optimization Algorithm Request and its Jailbreak**|Haoran Gu et.al.|[2601.00213](http://arxiv.org/abs/2601.00213)|null|
 |**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
 |**2025-12-30**|**RAGPart & RAGMask: Retrieval-Stage Defenses Against Corpus Poisoning in Retrieval-Augmented Generation**|Pankayaraj Pathmanathan et.al.|[2512.24268](http://arxiv.org/abs/2512.24268)|null|
 |**2025-12-30**|**Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?**|Yuan Xin et.al.|[2512.24044](http://arxiv.org/abs/2512.24044)|null|
