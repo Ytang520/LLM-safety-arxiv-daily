@@ -15,10 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
+|**2026-01-04**|**JMedEthicBench: A Multi-Turn Conversational Benchmark for Evaluating Medical Safety in Japanese Large Language Models**|Junyu Liu et.al.|[2601.01627](http://arxiv.org/abs/2601.01627)|null|
+|**2026-01-03**|**Aggressive Compression Enables LLM Weight Theft**|Davis Brown et.al.|[2601.01296](http://arxiv.org/abs/2601.01296)|null|
+|**2026-01-02**|**Emoji-Based Jailbreaking of Large Language Models**|M P V S Gopinadh et.al.|[2601.00936](http://arxiv.org/abs/2601.00936)|null|
+|**2025-12-30**|**The Silicon Psyche: Anthropomorphic Vulnerabilities in Large Language Models**|Giuseppe Canale et.al.|[2601.00867](http://arxiv.org/abs/2601.00867)|null|
 |**2026-01-01**|**Defensive M2S: Training Guardrail Models on Compressed Multi-turn Conversations**|Hyunjun Kim et.al.|[2601.00454](http://arxiv.org/abs/2601.00454)|null|
 |**2026-01-01**|**Making Theft Useless: Adulteration-Based Protection of Proprietary Knowledge Graphs in GraphRAG Systems**|Weijie Wang et.al.|[2601.00274](http://arxiv.org/abs/2601.00274)|null|
 |**2026-01-01**|**Overlooked Safety Vulnerability in LLMs: Malicious Intelligent Optimization Algorithm Request and its Jailbreak**|Haoran Gu et.al.|[2601.00213](http://arxiv.org/abs/2601.00213)|null|
-|**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
+|**2026-01-04**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
 |**2025-12-30**|**RAGPart & RAGMask: Retrieval-Stage Defenses Against Corpus Poisoning in Retrieval-Augmented Generation**|Pankayaraj Pathmanathan et.al.|[2512.24268](http://arxiv.org/abs/2512.24268)|null|
 |**2025-12-30**|**Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?**|Yuan Xin et.al.|[2512.24044](http://arxiv.org/abs/2512.24044)|null|
 |**2025-12-29**|**Agentic AI for Autonomous Defense in Software Supply Chain Security: Beyond Provenance to Vulnerability Mitigation**|Toqeer Ali Syed et.al.|[2512.23480](http://arxiv.org/abs/2512.23480)|null|
@@ -2131,9 +2136,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-05**|**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**|Jiwei Guan et.al.|[2601.01747](http://arxiv.org/abs/2601.01747)|null|
+|**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
 |**2025-12-30**|**Training-Free Color-Aware Adversarial Diffusion Sanitization for Diffusion Stegomalware Defense at Security Gateways**|Vladimir Frants et.al.|[2512.24499](http://arxiv.org/abs/2512.24499)|null|
 |**2025-12-30**|**DivQAT: Enhancing Robustness of Quantized Convolutional Neural Networks against Model Extraction Attacks**|Kacem Khaled et.al.|[2512.23948](http://arxiv.org/abs/2512.23948)|null|
-|**2025-12-29**|**ProGuard: Towards Proactive Multimodal Safeguard**|Shaohan Yu et.al.|[2512.23573](http://arxiv.org/abs/2512.23573)|**[link](https://github.com/yushaohan/ProGuard)**|
+|**2025-12-29**|**ProGuard: Towards Proactive Multimodal Safeguard**|Shaohan Yu et.al.|[2512.23573](http://arxiv.org/abs/2512.23573)|null|
 |**2025-12-29**|**Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks**|Toqeer Ali Syed et.al.|[2512.23557](http://arxiv.org/abs/2512.23557)|null|
 |**2025-12-28**|**An Architecture-Led Hybrid Report on Body Language Detection Project**|Thomson Tong et.al.|[2512.23028](http://arxiv.org/abs/2512.23028)|null|
 |**2025-12-28**|**M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models**|Ju-Hsuan Weng et.al.|[2512.22877](http://arxiv.org/abs/2512.22877)|null|
