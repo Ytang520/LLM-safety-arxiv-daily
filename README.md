@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification**|Xi Wang et.al.|[2601.03005](http://arxiv.org/abs/2601.03005)|null|
+|**2026-01-06**|**Adversarial Contrastive Learning for LLM Quantization Attacks**|Dinghong Song et.al.|[2601.02680](http://arxiv.org/abs/2601.02680)|**[link](https://github.com/dinghongsong/ACL)**|
+|**2026-01-06**|**Extracting books from production language models**|Ahmed Ahmed et.al.|[2601.02671](http://arxiv.org/abs/2601.02671)|null|
 |**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
 |**2026-01-04**|**JMedEthicBench: A Multi-Turn Conversational Benchmark for Evaluating Medical Safety in Japanese Large Language Models**|Junyu Liu et.al.|[2601.01627](http://arxiv.org/abs/2601.01627)|null|
 |**2026-01-03**|**Aggressive Compression Enables LLM Weight Theft**|Davis Brown et.al.|[2601.01296](http://arxiv.org/abs/2601.01296)|null|
@@ -2136,6 +2139,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
 |**2026-01-05**|**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**|Jiwei Guan et.al.|[2601.01747](http://arxiv.org/abs/2601.01747)|null|
 |**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
 |**2025-12-30**|**Training-Free Color-Aware Adversarial Diffusion Sanitization for Diffusion Stegomalware Defense at Security Gateways**|Vladimir Frants et.al.|[2512.24499](http://arxiv.org/abs/2512.24499)|null|
