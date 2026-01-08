@@ -15,8 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
+|**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|**[link](https://github.com/knoveleng/redeval)**|
+|**2026-01-07**|**ALERT: Zero-shot LLM Jailbreak Detection via Internal Discrepancy Amplification**|Xiao Lin et.al.|[2601.03600](http://arxiv.org/abs/2601.03600)|null|
+|**2026-01-07**|**From Risk Perception to Behavior Large Language Models-Based Simulation of Pandemic Prevention Behaviors**|Lujia Bo et.al.|[2601.03552](http://arxiv.org/abs/2601.03552)|null|
+|**2026-01-07**|**STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules**|Di Wu et.al.|[2601.03537](http://arxiv.org/abs/2601.03537)|null|
+|**2026-01-06**|**Jailbreaking LLMs Without Gradients or Priors: Effective and Transferable Attacks**|Zhakshylyk Nurlanov et.al.|[2601.03420](http://arxiv.org/abs/2601.03420)|null|
+|**2026-01-06**|**Autonomous Threat Detection and Response in Cloud Security: A Comprehensive Survey of AI-Driven Strategies**|Gaurav Sarraf et.al.|[2601.03303](http://arxiv.org/abs/2601.03303)|null|
+|**2026-01-06**|**TRYLOCK: Defense-in-Depth Against LLM Jailbreaks via Layered Preference and Representation Engineering**|Scott Thornton et.al.|[2601.03300](http://arxiv.org/abs/2601.03300)|null|
 |**2026-01-06**|**JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification**|Xi Wang et.al.|[2601.03005](http://arxiv.org/abs/2601.03005)|null|
-|**2026-01-06**|**Adversarial Contrastive Learning for LLM Quantization Attacks**|Dinghong Song et.al.|[2601.02680](http://arxiv.org/abs/2601.02680)|**[link](https://github.com/dinghongsong/ACL)**|
+|**2026-01-06**|**Adversarial Contrastive Learning for LLM Quantization Attacks**|Dinghong Song et.al.|[2601.02680](http://arxiv.org/abs/2601.02680)|null|
 |**2026-01-06**|**Extracting books from production language models**|Ahmed Ahmed et.al.|[2601.02671](http://arxiv.org/abs/2601.02671)|null|
 |**2026-01-05**|**Exploring Approaches for Detecting Memorization of Recommender System Data in Large Language Models**|Antonio Colacicco et.al.|[2601.02002](http://arxiv.org/abs/2601.02002)|null|
 |**2026-01-04**|**JMedEthicBench: A Multi-Turn Conversational Benchmark for Evaluating Medical Safety in Japanese Large Language Models**|Junyu Liu et.al.|[2601.01627](http://arxiv.org/abs/2601.01627)|null|
@@ -2139,6 +2147,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|**[link](https://github.com/hwanchang00/doc-pp)**|
+|**2026-01-07**|**Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation**|Binh Nguyen et.al.|[2601.03615](http://arxiv.org/abs/2601.03615)|null|
+|**2026-01-07**|**Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense**|Zejian Chen et.al.|[2601.03594](http://arxiv.org/abs/2601.03594)|null|
+|**2026-01-06**|**GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models**|Xiangdong Hu et.al.|[2601.03416](http://arxiv.org/abs/2601.03416)|null|
 |**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
 |**2026-01-05**|**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**|Jiwei Guan et.al.|[2601.01747](http://arxiv.org/abs/2601.01747)|null|
 |**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
