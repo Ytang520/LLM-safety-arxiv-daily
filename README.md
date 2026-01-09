@@ -1,4 +1,4 @@
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,8 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation**|Huawei Zheng et.al.|[2601.04740](http://arxiv.org/abs/2601.04740)|null|
+|**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
+|**2026-01-08**|**Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning**|Zhiyuan Chang et.al.|[2601.04666](http://arxiv.org/abs/2601.04666)|null|
+|**2026-01-08**|**Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks**|Hoagy Cunningham et.al.|[2601.04603](http://arxiv.org/abs/2601.04603)|null|
+|**2026-01-07**|**Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models**|San Kim et.al.|[2601.04448](http://arxiv.org/abs/2601.04448)|null|
+|**2026-01-07**|**MiJaBench: Revealing Minority Biases in Large Language Models via Hate Speech Jailbreaking**|Iago Alves Brito et.al.|[2601.04389](http://arxiv.org/abs/2601.04389)|null|
 |**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
-|**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|**[link](https://github.com/knoveleng/redeval)**|
+|**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|null|
 |**2026-01-07**|**ALERT: Zero-shot LLM Jailbreak Detection via Internal Discrepancy Amplification**|Xiao Lin et.al.|[2601.03600](http://arxiv.org/abs/2601.03600)|null|
 |**2026-01-07**|**From Risk Perception to Behavior Large Language Models-Based Simulation of Pandemic Prevention Behaviors**|Lujia Bo et.al.|[2601.03552](http://arxiv.org/abs/2601.03552)|null|
 |**2026-01-07**|**STAR-S: Improving Safety Alignment through Self-Taught Reasoning on Safety Rules**|Di Wu et.al.|[2601.03537](http://arxiv.org/abs/2601.03537)|null|
@@ -2139,7 +2145,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2147,12 +2153,12 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|**[link](https://github.com/hwanchang00/doc-pp)**|
+|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|null|
 |**2026-01-07**|**Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation**|Binh Nguyen et.al.|[2601.03615](http://arxiv.org/abs/2601.03615)|null|
 |**2026-01-07**|**Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense**|Zejian Chen et.al.|[2601.03594](http://arxiv.org/abs/2601.03594)|null|
 |**2026-01-06**|**GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models**|Xiangdong Hu et.al.|[2601.03416](http://arxiv.org/abs/2601.03416)|null|
 |**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
-|**2026-01-05**|**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**|Jiwei Guan et.al.|[2601.01747](http://arxiv.org/abs/2601.01747)|null|
+|**2026-01-08**|**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**|Jiwei Guan et.al.|[2601.01747](http://arxiv.org/abs/2601.01747)|null|
 |**2026-01-04**|**OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs**|Xin Wang et.al.|[2601.01592](http://arxiv.org/abs/2601.01592)|null|
 |**2025-12-30**|**Training-Free Color-Aware Adversarial Diffusion Sanitization for Diffusion Stegomalware Defense at Security Gateways**|Vladimir Frants et.al.|[2512.24499](http://arxiv.org/abs/2512.24499)|null|
 |**2025-12-30**|**DivQAT: Enhancing Robustness of Quantized Convolutional Neural Networks against Model Extraction Attacks**|Kacem Khaled et.al.|[2512.23948](http://arxiv.org/abs/2512.23948)|null|
@@ -3188,5 +3194,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
