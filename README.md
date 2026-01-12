@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**The Echo Chamber Multi-Turn LLM Jailbreak**|Ahmad Alobaid et.al.|[2601.05742](http://arxiv.org/abs/2601.05742)|null|
+|**2026-01-09**|**Memory Poisoning Attack and Defense on Memory Based LLM-Agents**|Balachandra Devarangadi Sunil et.al.|[2601.05504](http://arxiv.org/abs/2601.05504)|null|
+|**2026-01-09**|**Jailbreaking Large Language Models through Iterative Tool-Disguised Attacks via Reinforcement Learning**|Zhaoqi Wang et.al.|[2601.05466](http://arxiv.org/abs/2601.05466)|null|
+|**2026-01-09**|**Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models**|Songze Li et.al.|[2601.05445](http://arxiv.org/abs/2601.05445)|null|
 |**2026-01-08**|**RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation**|Huawei Zheng et.al.|[2601.04740](http://arxiv.org/abs/2601.04740)|null|
 |**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
 |**2026-01-08**|**Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning**|Zhiyuan Chang et.al.|[2601.04666](http://arxiv.org/abs/2601.04666)|null|
@@ -2153,6 +2157,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-09**|**TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents**|Dawei Wang et.al.|[2601.05899](http://arxiv.org/abs/2601.05899)|null|
+|**2026-01-09**|**PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility**|G M Shahariar et.al.|[2601.05739](http://arxiv.org/abs/2601.05739)|null|
+|**2026-01-08**|**Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models**|Badhan Chandra Das et.al.|[2601.05339](http://arxiv.org/abs/2601.05339)|null|
 |**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|null|
 |**2026-01-07**|**Analyzing Reasoning Shifts in Audio Deepfake Detection under Adversarial Attacks: The Reasoning Tax versus Shield Bifurcation**|Binh Nguyen et.al.|[2601.03615](http://arxiv.org/abs/2601.03615)|null|
 |**2026-01-07**|**Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense**|Zejian Chen et.al.|[2601.03594](http://arxiv.org/abs/2601.03594)|null|
