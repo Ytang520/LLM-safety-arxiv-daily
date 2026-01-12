@@ -528,7 +528,7 @@
 |**2025-08-24**|**Jinx: Unlimited LLMs for Probing Alignment Failures**|Jiahao Zhao et.al.|[2508.08243](http://arxiv.org/abs/2508.08243)|null|
 |**2025-08-11**|**Can You Trick the Grader? Adversarial Persuasion of LLM Judges**|Yerin Hwang et.al.|[2508.07805](http://arxiv.org/abs/2508.07805)|null|
 |**2025-08-11**|**Multi-Turn Jailbreaks Are Simpler Than They Seem**|Xiaoxue Yang et.al.|[2508.07646](http://arxiv.org/abs/2508.07646)|null|
-|**2025-08-10**|**Gradient Surgery for Safe LLM Fine-Tuning**|Biao Yi et.al.|[2508.07172](http://arxiv.org/abs/2508.07172)|null|
+|**2025-08-10**|**Gradient Surgery for Safe LLM Fine-Tuning**|Biao Yi et.al.|[2508.07172](http://arxiv.org/abs/2508.07172)|**[link](https://github.com/FondH/SafeGrad)**|
 |**2025-08-09**|**Many-Turn Jailbreaking**|Xianjun Yang et.al.|[2508.06755](http://arxiv.org/abs/2508.06755)|null|
 |**2025-08-08**|**Quantifying Conversation Drift in MCP via Latent Polytope**|Haoran Shi et.al.|[2508.06418](http://arxiv.org/abs/2508.06418)|null|
 |**2025-08-08**|**In-Training Defenses against Emergent Misalignment in Language Models**|David Kaczér et.al.|[2508.06249](http://arxiv.org/abs/2508.06249)|null|
@@ -1260,7 +1260,7 @@
 |**2024-12-11**|**Plentiful Jailbreaks with String Compositions**|Brian R. Y. Huang et.al.|[2411.01084](http://arxiv.org/abs/2411.01084)|null|
 |**2025-08-16**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|null|
 |**2025-09-26**|**When Speculation Spills Secrets: Side Channels via Speculative Decoding In LLMs**|Jiankun Wei et.al.|[2411.01076](http://arxiv.org/abs/2411.01076)|null|
-|**2025-08-02**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
+|**2025-08-02**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|**[link](https://github.com/LukeChen-go/pia-defense-by-attack)**|
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2025-11-06**|**Transferable & Stealthy Ensemble Attacks: A Black-Box Jailbreaking Framework for Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
@@ -1636,7 +1636,7 @@
 |**2025-03-02**|**Boosting Jailbreak Attack with Momentum**|Yihao Zhang et.al.|[2405.01229](http://arxiv.org/abs/2405.01229)|null|
 |**2025-06-01**|**Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment**|Zhili Liu et.al.|[2405.00557](http://arxiv.org/abs/2405.00557)|null|
 |**2024-05-02**|**Adversarial Attacks and Defense for Conversation Entailment Task**|Zhenning Yang et.al.|[2405.00289](http://arxiv.org/abs/2405.00289)|null|
-|**2024-07-20**|**Constrained Decoding for Secure Code Generation**|Yanjun Fu et.al.|[2405.00218](http://arxiv.org/abs/2405.00218)|null|
+|**2024-07-20**|**Constrained Decoding for Secure Code Generation**|Yanjun Fu et.al.|[2405.00218](http://arxiv.org/abs/2405.00218)|**[link](https://github.com/CodeGuardPlus/CodeGuardPlus)**|
 |**2025-03-17**|**TuBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning**|Xuanli He et.al.|[2404.19597](http://arxiv.org/abs/2404.19597)|null|
 |**2025-03-07**|**Double Backdoored: Converting Code Large Language Model Backdoors to Traditional Malware via Adversarial Instruction Tuning Attacks**|Md Imran Hossen et.al.|[2404.18567](http://arxiv.org/abs/2404.18567)|null|
 |**2024-05-10**|**Evaluating and Mitigating Linguistic Discrimination in Large Language Models**|Guoliang Dong et.al.|[2404.18534](http://arxiv.org/abs/2404.18534)|null|
@@ -2303,7 +2303,7 @@
 |**2025-09-26**|**Jailbreaking on Text-to-Video Models via Scene Splitting Strategy**|Wonjun Lee et.al.|[2509.22292](http://arxiv.org/abs/2509.22292)|null|
 |**2025-10-10**|**Benchmarking and Mitigate Sycophancy in Medical Vision-Language Models**|Zikun Guo et.al.|[2509.21979](http://arxiv.org/abs/2509.21979)|null|
 |**2025-10-22**|**JaiLIP: Jailbreaking Vision-Language Models via Loss Guided Image Perturbation**|Md Jueal Mia et.al.|[2509.21401](http://arxiv.org/abs/2509.21401)|null|
-|**2025-09-24**|**SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models**|Xiyu Zeng et.al.|[2509.21400](http://arxiv.org/abs/2509.21400)|null|
+|**2025-09-24**|**SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models**|Xiyu Zeng et.al.|[2509.21400](http://arxiv.org/abs/2509.21400)|**[link](https://github.com/xiyuzzz-njust/SafeSteer)**|
 |**2025-09-21**|**Multimodal Prompt Decoupling Attack on the Safety Filters in Text-to-Image Models**|Xingkai Peng et.al.|[2509.21360](http://arxiv.org/abs/2509.21360)|null|
 |**2025-09-25**|**EvoMail: Self-Evolving Cognitive Agents for Adaptive Spam and Phishing Email Defense**|Wei Huang et.al.|[2509.21129](http://arxiv.org/abs/2509.21129)|null|
 |**2025-09-26**|**FORCE: Transferable Visual Jailbreaking Attacks via Feature Over-Reliance CorrEction**|Runqi Lin et.al.|[2509.21029](http://arxiv.org/abs/2509.21029)|null|
@@ -2676,7 +2676,7 @@
 |**2024-09-23**|**Attack Atlas: A Practitioner's Perspective on Challenges and Pitfalls in Red Teaming GenAI**|Ambrish Rawat et.al.|[2409.15398](http://arxiv.org/abs/2409.15398)|null|
 |**2025-01-06**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|null|
 |**2024-09-20**|**PureDiffusion: Using Backdoor to Counter Backdoor in Generative Diffusion Models**|Vu Tuan Truong et.al.|[2409.13945](http://arxiv.org/abs/2409.13945)|null|
-|**2024-09-18**|**Understanding Implosion in Text-to-Image Generative Models**|Wenxin Ding et.al.|[2409.12314](http://arxiv.org/abs/2409.12314)|null|
+|**2024-09-18**|**Understanding Implosion in Text-to-Image Generative Models**|Wenxin Ding et.al.|[2409.12314](http://arxiv.org/abs/2409.12314)|**[link](https://github.com/wenxind/implosion)**|
 |**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
 |**2024-09-13**|**Byzantine-Robust and Communication-Efficient Distributed Learning via Compressed Momentum Filtering**|Changxin Liu et.al.|[2409.08640](http://arxiv.org/abs/2409.08640)|null|
 |**2024-09-13**|**Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights**|Dixi Yao et.al.|[2409.08482](http://arxiv.org/abs/2409.08482)|null|
