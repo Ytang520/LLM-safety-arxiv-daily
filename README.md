@@ -15,8 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent**|Xinyi Wu et.al.|[2601.07263](http://arxiv.org/abs/2601.07263)|null|
+|**2026-01-12**|**Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment**|Haozhong Wang et.al.|[2601.07200](http://arxiv.org/abs/2601.07200)|null|
+|**2026-01-12**|**Defenses Against Prompt Attacks Learn Surface Heuristics**|Shawn Li et.al.|[2601.07185](http://arxiv.org/abs/2601.07185)|null|
+|**2026-01-12**|**Safe-FedLLM: Delving into the Safety of Federated Large Language Models**|Mingxiang Tao et.al.|[2601.07177](http://arxiv.org/abs/2601.07177)|null|
+|**2026-01-12**|**Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework**|Yixiao Peng et.al.|[2601.07122](http://arxiv.org/abs/2601.07122)|null|
+|**2026-01-11**|**When Should We Introduce Safety Interventions During Pretraining?**|Dylan Sam et.al.|[2601.07087](http://arxiv.org/abs/2601.07087)|null|
+|**2026-01-11**|**Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems**|Hongyan Chang et.al.|[2601.07072](http://arxiv.org/abs/2601.07072)|null|
+|**2026-01-10**|**Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity**|Hongjun An et.al.|[2601.06596](http://arxiv.org/abs/2601.06596)|null|
 |**2026-01-09**|**The Echo Chamber Multi-Turn LLM Jailbreak**|Ahmad Alobaid et.al.|[2601.05742](http://arxiv.org/abs/2601.05742)|null|
-|**2026-01-09**|**Memory Poisoning Attack and Defense on Memory Based LLM-Agents**|Balachandra Devarangadi Sunil et.al.|[2601.05504](http://arxiv.org/abs/2601.05504)|null|
+|**2026-01-12**|**Memory Poisoning Attack and Defense on Memory Based LLM-Agents**|Balachandra Devarangadi Sunil et.al.|[2601.05504](http://arxiv.org/abs/2601.05504)|null|
 |**2026-01-09**|**Jailbreaking Large Language Models through Iterative Tool-Disguised Attacks via Reinforcement Learning**|Zhaoqi Wang et.al.|[2601.05466](http://arxiv.org/abs/2601.05466)|null|
 |**2026-01-09**|**Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models**|Songze Li et.al.|[2601.05445](http://arxiv.org/abs/2601.05445)|null|
 |**2026-01-08**|**RiskAtlas: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation**|Huawei Zheng et.al.|[2601.04740](http://arxiv.org/abs/2601.04740)|null|
@@ -2157,6 +2165,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-12**|**SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations**|Mohammed Himayath Ali et.al.|[2601.07835](http://arxiv.org/abs/2601.07835)|null|
+|**2026-01-12**|**Proof of Reasoning for Privacy Enhanced Federated Blockchain Learning at the Edge**|James Calo et.al.|[2601.07134](http://arxiv.org/abs/2601.07134)|null|
 |**2026-01-09**|**TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents**|Dawei Wang et.al.|[2601.05899](http://arxiv.org/abs/2601.05899)|null|
 |**2026-01-09**|**PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility**|G M Shahariar et.al.|[2601.05739](http://arxiv.org/abs/2601.05739)|null|
 |**2026-01-08**|**Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models**|Badhan Chandra Das et.al.|[2601.05339](http://arxiv.org/abs/2601.05339)|null|
