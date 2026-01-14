@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**BenchOverflow: Measuring Overflow in Large Language Models via Plain-Text Prompts**|Erin Feiglin et.al.|[2601.08490](http://arxiv.org/abs/2601.08490)|null|
+|**2026-01-13**|**YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation**|Abdelaziz Bounhar et.al.|[2601.08441](http://arxiv.org/abs/2601.08441)|**[link](https://github.com/MBZUAI-Paris/YaPO)**|
+|**2026-01-13**|**Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment**|Qitao Tan et.al.|[2601.08089](http://arxiv.org/abs/2601.08089)|null|
 |**2026-01-12**|**When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent**|Xinyi Wu et.al.|[2601.07263](http://arxiv.org/abs/2601.07263)|null|
 |**2026-01-12**|**Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment**|Haozhong Wang et.al.|[2601.07200](http://arxiv.org/abs/2601.07200)|null|
 |**2026-01-12**|**Defenses Against Prompt Attacks Learn Surface Heuristics**|Shawn Li et.al.|[2601.07185](http://arxiv.org/abs/2601.07185)|null|
@@ -2165,6 +2168,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-13**|**YOLOBirDrone: Dataset for Bird vs Drone Detection and Classification and a YOLO based enhanced learning architecture**|Dapinder Kaur et.al.|[2601.08319](http://arxiv.org/abs/2601.08319)|null|
 |**2026-01-12**|**SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations**|Mohammed Himayath Ali et.al.|[2601.07835](http://arxiv.org/abs/2601.07835)|null|
 |**2026-01-12**|**Proof of Reasoning for Privacy Enhanced Federated Blockchain Learning at the Edge**|James Calo et.al.|[2601.07134](http://arxiv.org/abs/2601.07134)|null|
 |**2026-01-09**|**TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents**|Dawei Wang et.al.|[2601.05899](http://arxiv.org/abs/2601.05899)|null|
