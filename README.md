@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Hao Wang et.al.|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
+|**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
+|**2026-01-15**|**The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models**|Christina Lu et.al.|[2601.10387](http://arxiv.org/abs/2601.10387)|null|
+|**2026-01-15**|**The Straight and Narrow: Do LLMs Possess an Internal Moral Path?**|Luoming Hu et.al.|[2601.10307](http://arxiv.org/abs/2601.10307)|null|
+|**2026-01-15**|**ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack**|Hao Li et.al.|[2601.10173](http://arxiv.org/abs/2601.10173)|null|
+|**2026-01-15**|**Understanding and Preserving Safety in Fine-Tuned LLMs**|Jiawen Zhang et.al.|[2601.10141](http://arxiv.org/abs/2601.10141)|null|
+|**2026-01-15**|**SoK: Privacy-aware LLM in Healthcare: Threat Model, Privacy Techniques, Challenges and Recommendations**|Mohoshin Ara Tahera et.al.|[2601.10004](http://arxiv.org/abs/2601.10004)|null|
 |**2026-01-14**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware**|Ben Nassi et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|null|
 |**2026-01-14**|**SpatialJB: How Text Distribution Art Becomes the "Jailbreak Key" for LLM Guardrails**|Zhiyi Mou et.al.|[2601.09321](http://arxiv.org/abs/2601.09321)|null|
 |**2026-01-14**|**Identity-Robust Language Model Generation via Content Integrity Preservation**|Miao Zhang et.al.|[2601.09141](http://arxiv.org/abs/2601.09141)|null|
