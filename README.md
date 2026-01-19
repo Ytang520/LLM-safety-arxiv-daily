@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
+|**2026-01-16**|**AJAR: Adaptive Jailbreak Architecture for Red-teaming**|Yipu Dou et.al.|[2601.10971](http://arxiv.org/abs/2601.10971)|**[link](https://github.com/douyipu/ajar)**|
 |**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Hao Wang et.al.|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
 |**2026-01-15**|**The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models**|Christina Lu et.al.|[2601.10387](http://arxiv.org/abs/2601.10387)|null|
