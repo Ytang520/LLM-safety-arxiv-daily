@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions**|Fan Huang et.al.|[2601.13590](http://arxiv.org/abs/2601.13590)|null|
+|**2026-01-20**|**SCRIPTMIND: Crime Script Inference and Cognitive Evaluation for LLM-based Social Engineering Scam Detection System**|Heedou Kim et.al.|[2601.13581](http://arxiv.org/abs/2601.13581)|null|
+|**2026-01-20**|**TruthTensor: Evaluating LLMs Human Imitation through Prediction Market Drift and Holistic Reasoning**|Shirin Shahabi et.al.|[2601.13545](http://arxiv.org/abs/2601.13545)|null|
+|**2026-01-19**|**Sockpuppetting: Jailbreaking LLMs Without Optimization Through Output Prefix Injection**|Asen Dotsinski et.al.|[2601.13359](http://arxiv.org/abs/2601.13359)|null|
+|**2026-01-19**|**What's it like to be a chat? On the co-simulation of artificial minds in human-AI conversations**|Geoff Keeling et.al.|[2601.13081](http://arxiv.org/abs/2601.13081)|null|
+|**2026-01-19**|**KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing**|Zhenhua Xu et.al.|[2601.12986](http://arxiv.org/abs/2601.12986)|null|
+|**2026-01-19**|**Ethical Risks in Deploying Large Language Models: An Evaluation of Medical Ethics Jailbreaking**|Chutian Huang et.al.|[2601.12652](http://arxiv.org/abs/2601.12652)|null|
+|**2026-01-18**|**TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning**|Zhixin Xie et.al.|[2601.12460](http://arxiv.org/abs/2601.12460)|null|
+|**2026-01-18**|**A Scalable Entity-Based Framework for Auditing Bias in LLMs**|Akram Elbouanani et.al.|[2601.12374](http://arxiv.org/abs/2601.12374)|null|
+|**2026-01-17**|**Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework**|Zimo Ji et.al.|[2601.11893](http://arxiv.org/abs/2601.11893)|null|
 |**2026-01-16**|**Building Production-Ready Probes For Gemini**|János Kramár et.al.|[2601.11516](http://arxiv.org/abs/2601.11516)|null|
 |**2026-01-16**|**AJAR: Adaptive Jailbreak Architecture for Red-teaming**|Yipu Dou et.al.|[2601.10971](http://arxiv.org/abs/2601.10971)|**[link](https://github.com/douyipu/ajar)**|
 |**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Hao Wang et.al.|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
@@ -2181,6 +2191,12 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-19**|**Proxy Robustness in Vision Language Models is Effortlessly Transferable**|Xiaowei Fu et.al.|[2601.12865](http://arxiv.org/abs/2601.12865)|null|
+|**2026-01-18**|**DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity**|Ashish Raj Shekhar et.al.|[2601.12505](http://arxiv.org/abs/2601.12505)|null|
+|**2026-01-18**|**Adversarial Defense in Vision-Language Models: An Overview**|Xiaowei Fu et.al.|[2601.12443](http://arxiv.org/abs/2601.12443)|null|
+|**2026-01-17**|**A Unified Masked Jigsaw Puzzle Framework for Vision and Language Models**|Weixin Ye et.al.|[2601.12051](http://arxiv.org/abs/2601.12051)|null|
+|**2026-01-17**|**Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models**|Xiaomei Zhang et.al.|[2601.12042](http://arxiv.org/abs/2601.12042)|null|
+|**2026-01-17**|**Decoder Gradient Shields: A Family of Provable and High-Fidelity Methods Against Gradient-Based Box-Free Watermark Removal**|Haonan An et.al.|[2601.11952](http://arxiv.org/abs/2601.11952)|null|
 |**2026-01-14**|**Identifying Models Behind Text-to-Image Leaderboards**|Ali Naseh et.al.|[2601.09647](http://arxiv.org/abs/2601.09647)|null|
 |**2026-01-13**|**YOLOBirDrone: Dataset for Bird vs Drone Detection and Classification and a YOLO based enhanced learning architecture**|Dapinder Kaur et.al.|[2601.08319](http://arxiv.org/abs/2601.08319)|null|
 |**2026-01-12**|**SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations**|Mohammed Himayath Ali et.al.|[2601.07835](http://arxiv.org/abs/2601.07835)|null|
