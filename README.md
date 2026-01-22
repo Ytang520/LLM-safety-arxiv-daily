@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems**|Yijin Zhou et.al.|[2601.14667](http://arxiv.org/abs/2601.14667)|null|
+|**2026-01-21**|**NeuroFilter: Privacy Guardrails for Conversational LLM Agents**|Saswat Das et.al.|[2601.14660](http://arxiv.org/abs/2601.14660)|null|
+|**2026-01-21**|**An LLM Agent-based Framework for Whaling Countermeasures**|Daisuke Miyamoto et.al.|[2601.14606](http://arxiv.org/abs/2601.14606)|null|
+|**2026-01-20**|**LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation**|Luis Lazo et.al.|[2601.14528](http://arxiv.org/abs/2601.14528)|null|
+|**2026-01-20**|**Turn-Based Structural Triggers: Prompt-Free Backdoors in Multi-Turn LLMs**|Yiyang Lu et.al.|[2601.14340](http://arxiv.org/abs/2601.14340)|null|
 |**2026-01-20**|**Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions**|Fan Huang et.al.|[2601.13590](http://arxiv.org/abs/2601.13590)|null|
 |**2026-01-20**|**SCRIPTMIND: Crime Script Inference and Cognitive Evaluation for LLM-based Social Engineering Scam Detection System**|Heedou Kim et.al.|[2601.13581](http://arxiv.org/abs/2601.13581)|null|
 |**2026-01-20**|**TruthTensor: Evaluating LLMs Human Imitation through Prediction Market Drift and Holistic Reasoning**|Shirin Shahabi et.al.|[2601.13545](http://arxiv.org/abs/2601.13545)|null|
