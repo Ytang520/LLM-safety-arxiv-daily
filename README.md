@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models**|Fengheng Chu et.al.|[2601.15801](http://arxiv.org/abs/2601.15801)|null|
+|**2026-01-21**|**AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains**|Adam Szelestey et.al.|[2601.15511](http://arxiv.org/abs/2601.15511)|null|
+|**2026-01-20**|**RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models**|Rishit Chugh et.al.|[2601.15331](http://arxiv.org/abs/2601.15331)|null|
 |**2026-01-21**|**INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems**|Yijin Zhou et.al.|[2601.14667](http://arxiv.org/abs/2601.14667)|**[link](https://github.com/yjzscode/INFA-Guard)**|
 |**2026-01-21**|**NeuroFilter: Privacy Guardrails for Conversational LLM Agents**|Saswat Das et.al.|[2601.14660](http://arxiv.org/abs/2601.14660)|null|
 |**2026-01-21**|**An LLM Agent-based Framework for Whaling Countermeasures**|Daisuke Miyamoto et.al.|[2601.14606](http://arxiv.org/abs/2601.14606)|null|
@@ -2196,6 +2199,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
 |**2026-01-19**|**Proxy Robustness in Vision Language Models is Effortlessly Transferable**|Xiaowei Fu et.al.|[2601.12865](http://arxiv.org/abs/2601.12865)|null|
 |**2026-01-18**|**DoPE: Decoy Oriented Perturbation Encapsulation Human-Readable, AI-Hostile Documents for Academic Integrity**|Ashish Raj Shekhar et.al.|[2601.12505](http://arxiv.org/abs/2601.12505)|null|
 |**2026-01-18**|**Adversarial Defense in Vision-Language Models: An Overview**|Xiaowei Fu et.al.|[2601.12443](http://arxiv.org/abs/2601.12443)|null|
