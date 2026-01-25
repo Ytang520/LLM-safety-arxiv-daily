@@ -18,7 +18,7 @@
 |**2026-01-22**|**Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models**|Fengheng Chu et.al.|[2601.15801](http://arxiv.org/abs/2601.15801)|null|
 |**2026-01-21**|**AdversaRiskQA: An Adversarial Factuality Benchmark for High-Risk Domains**|Adam Szelestey et.al.|[2601.15511](http://arxiv.org/abs/2601.15511)|null|
 |**2026-01-20**|**RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models**|Rishit Chugh et.al.|[2601.15331](http://arxiv.org/abs/2601.15331)|null|
-|**2026-01-21**|**INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems**|Yijin Zhou et.al.|[2601.14667](http://arxiv.org/abs/2601.14667)|null|
+|**2026-01-21**|**INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems**|Yijin Zhou et.al.|[2601.14667](http://arxiv.org/abs/2601.14667)|**[link](https://github.com/yjzscode/INFA-Guard)**|
 |**2026-01-21**|**NeuroFilter: Privacy Guardrails for Conversational LLM Agents**|Saswat Das et.al.|[2601.14660](http://arxiv.org/abs/2601.14660)|null|
 |**2026-01-21**|**An LLM Agent-based Framework for Whaling Countermeasures**|Daisuke Miyamoto et.al.|[2601.14606](http://arxiv.org/abs/2601.14606)|null|
 |**2026-01-20**|**LLM Security and Safety: Insights from Homotopy-Inspired Prompt Obfuscation**|Luis Lazo et.al.|[2601.14528](http://arxiv.org/abs/2601.14528)|null|
