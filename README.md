@@ -93,7 +93,7 @@
 |**2025-12-29**|**RobustMask: Certified Robustness against Adversarial Neural Ranking Attack via Randomized Masking**|Jiawei Liu et.al.|[2512.23307](http://arxiv.org/abs/2512.23307)|null|
 |**2025-12-29**|**EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion**|Zhen Liang et.al.|[2512.23173](http://arxiv.org/abs/2512.23173)|null|
 |**2025-12-28**|**Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations**|Tao Li et.al.|[2512.22883](http://arxiv.org/abs/2512.22883)|null|
-|**2025-12-25**|**Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation**|Tian Li et.al.|[2512.21681](http://arxiv.org/abs/2512.21681)|null|
+|**2025-12-25**|**Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation**|Tian Li et.al.|[2512.21681](http://arxiv.org/abs/2512.21681)|**[link](https://github.com/mli-tian/VenomRACG)**|
 |**2025-12-24**|**LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors**|Tianwei Lan et.al.|[2512.21404](http://arxiv.org/abs/2512.21404)|null|
 |**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|null|
 |**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
@@ -430,7 +430,7 @@
 |**2025-09-23**|**Generative Propaganda**|Madeleine I. G. Daepp et.al.|[2509.19147](http://arxiv.org/abs/2509.19147)|null|
 |**2025-09-23**|**Trigger Where It Hurts: Unveiling Hidden Backdoors through Sensitivity with Sensitron**|Gejian Zhao et.al.|[2509.19101](http://arxiv.org/abs/2509.19101)|null|
 |**2025-09-23**|**Coherence-driven inference for cybersecurity**|Steve Huntsman et.al.|[2509.18520](http://arxiv.org/abs/2509.18520)|null|
-|**2025-09-23**|**Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs**|Alexander Panfilov et.al.|[2509.18058](http://arxiv.org/abs/2509.18058)|null|
+|**2025-09-23**|**Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs**|Alexander Panfilov et.al.|[2509.18058](http://arxiv.org/abs/2509.18058)|**[link](https://github.com/kotekjedi/strategic_dishonesty_mcq)**|
 |**2025-09-22**|**D-REX: A Benchmark for Detecting Deceptive Reasoning in Large Language Models**|Satyapriya Krishna et.al.|[2509.17938](http://arxiv.org/abs/2509.17938)|null|
 |**2025-09-21**|**Localizing Malicious Outputs from CodeLLM**|Mayukh Borana et.al.|[2509.17070](http://arxiv.org/abs/2509.17070)|null|
 |**2025-09-21**|**DecipherGuard: Understanding and Deciphering Jailbreak Prompts for a Safer Deployment of Intelligent Software Systems**|Rui Yang et.al.|[2509.16870](http://arxiv.org/abs/2509.16870)|**[link](https://github.com/awsm-research/DecipherGuard_Archived)**|
@@ -737,16 +737,16 @@
 |**2025-06-15**|**SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware Prompt Compression**|Yucheng Li et.al.|[2506.12707](http://arxiv.org/abs/2506.12707)|null|
 |**2025-06-15**|**Alphabet Index Mapping: Jailbreaking LLMs through Semantic Dissimilarity**|Bilal Saleh Husain et.al.|[2506.12685](http://arxiv.org/abs/2506.12685)|null|
 |**2025-06-13**|**InfoFlood: Jailbreaking Large Language Models with Information Overload**|Advait Yadav et.al.|[2506.12274](http://arxiv.org/abs/2506.12274)|null|
-|**2025-10-24**|**DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents**|Hao Li et.al.|[2506.12104](http://arxiv.org/abs/2506.12104)|null|
+|**2025-10-24**|**DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents**|Hao Li et.al.|[2506.12104](http://arxiv.org/abs/2506.12104)|**[link](https://github.com/SaFo-Lab/DRIFT)**|
 |**2025-07-26**|**Risks & Benefits of LLMs & GenAI for Platform Integrity, Healthcare Diagnostics, Financial Trust and Compliance, Cybersecurity, Privacy & AI Safety: A Comprehensive Survey, Roadmap & Implementation Blueprint**|Kiarash Ahi et.al.|[2506.12088](http://arxiv.org/abs/2506.12088)|null|
 |**2025-05-31**|**Organizational Adaptation to Generative AI in Cybersecurity: A Systematic Review**|Christopher Nott et.al.|[2506.12060](http://arxiv.org/abs/2506.12060)|null|
 |**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|null|
 |**2025-06-13**|**TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**|Qihai Zhang et.al.|[2506.11844](http://arxiv.org/abs/2506.11844)|null|
 |**2025-06-13**|**Bias Amplification in RAG: Poisoning Knowledge Retrieval to Steer LLMs**|Linlin Wang et.al.|[2506.11415](http://arxiv.org/abs/2506.11415)|null|
 |**2025-10-09**|**RedDebate: Safer Responses through Multi-Agent Red Teaming Debates**|Ali Asad et.al.|[2506.11083](http://arxiv.org/abs/2506.11083)|null|
-|**2025-09-24**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|null|
-|**2025-10-16**|**SoK: Evaluating Jailbreak Guardrails for Large Language Models**|Xunguang Wang et.al.|[2506.10597](http://arxiv.org/abs/2506.10597)|null|
-|**2025-06-12**|**SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks**|Kaiyuan Zhang et.al.|[2506.10424](http://arxiv.org/abs/2506.10424)|null|
+|**2025-09-24**|**How Well Can Reasoning Models Identify and Recover from Unhelpful Thoughts?**|Sohee Yang et.al.|[2506.10979](http://arxiv.org/abs/2506.10979)|**[link](https://github.com/soheeyang/reevaluating-unhelpful-thoughts)**|
+|**2025-10-16**|**SoK: Evaluating Jailbreak Guardrails for Large Language Models**|Xunguang Wang et.al.|[2506.10597](http://arxiv.org/abs/2506.10597)|**[link](https://github.com/xunguangwang/SoK4JailbreakGuardrails)**|
+|**2025-06-12**|**SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks**|Kaiyuan Zhang et.al.|[2506.10424](http://arxiv.org/abs/2506.10424)|**[link](https://github.com/KaiyuanZh/SOFT)**|
 |**2025-06-09**|**Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models**|Elena Sofia Ruzzetti et.al.|[2506.10024](http://arxiv.org/abs/2506.10024)|null|
 |**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|null|
 |**2025-06-07**|**From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment**|Kyubyung Chae et.al.|[2506.10020](http://arxiv.org/abs/2506.10020)|null|
@@ -902,8 +902,8 @@
 |**2025-05-15**|**Dark LLMs: The Growing Threat of Unaligned AI Models**|Michael Fire et.al.|[2505.10066](http://arxiv.org/abs/2505.10066)|null|
 |**2025-09-17**|**Analysing Safety Risks in LLMs Fine-Tuned with Pseudo-Malicious Cyber Security Data**|Adel ElZemity et.al.|[2505.09974](http://arxiv.org/abs/2505.09974)|null|
 |**2025-05-16**|**PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**|Yidan Wang et.al.|[2505.09921](http://arxiv.org/abs/2505.09921)|null|
-|**2025-05-14**|**Adversarial Attack on Large Language Models using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2505.09820](http://arxiv.org/abs/2505.09820)|null|
-|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**Adversarial Attack on Large Language Models using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2505.09820](http://arxiv.org/abs/2505.09820)|**[link](https://github.com/sinclair-29/egd)**|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|**[link](https://github.com/Davidobot/adversarial-suffix-filtering)**|
 |**2025-05-13**|**Federated Large Language Models: Feasibility, Robustness, Security and Future Directions**|Wenhao Jiang et.al.|[2505.08830](http://arxiv.org/abs/2505.08830)|null|
 |**2025-05-19**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/abs/2505.07610)|null|
 |**2025-09-19**|**SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models**|Huining Cui et.al.|[2505.07584](http://arxiv.org/abs/2505.07584)|null|
@@ -1653,7 +1653,7 @@
 |**2024-05-23**|**Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models**|Johan S Daniel et.al.|[2405.14490](http://arxiv.org/abs/2405.14490)|null|
 |**2024-05-23**|**MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability**|Yanrui Du et.al.|[2405.14488](http://arxiv.org/abs/2405.14488)|null|
 |**2024-05-22**|**WordGame: Efficient & Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response**|Tianrong Zhang et.al.|[2405.14023](http://arxiv.org/abs/2405.14023)|null|
-|**2024-07-07**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401](http://arxiv.org/abs/2405.13401)|null|
+|**2024-07-07**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401](http://arxiv.org/abs/2405.13401)|**[link](https://github.com/Charles-ydd/TrojanRAG)**|
 |**2024-10-15**|**GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation**|Govind Ramesh et.al.|[2405.13077](http://arxiv.org/abs/2405.13077)|null|
 |**2024-06-19**|**Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation**|Yuxi Li et.al.|[2405.13068](http://arxiv.org/abs/2405.13068)|null|
 |**2024-05-10**|**An Assessment of Model-On-Model Deception**|Julius Heitkoetter et.al.|[2405.12999](http://arxiv.org/abs/2405.12999)|null|
@@ -1999,14 +1999,14 @@
 |**2023-10-18**|**A Black-Box Attack on Code Models via Representation Nearest Neighbor Search**|Jie Zhang et.al.|[2305.05896](http://arxiv.org/abs/2305.05896)|null|
 |**2023-05-08**|**Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**|Zhiyuan Zhang et.al.|[2305.04547](http://arxiv.org/abs/2305.04547)|null|
 |**2024-04-01**|**The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples**|Heng Yang et.al.|[2305.04067](http://arxiv.org/abs/2305.04067)|null|
-|**2023-10-19**|**Automatic Prompt Optimization with "Gradient Descent" and Beam Search**|Reid Pryzant et.al.|[2305.03495](http://arxiv.org/abs/2305.03495)|null|
-|**2023-08-07**|**Defending against Insertion-based Textual Backdoor Attacks via Attribution**|Jiazhao Li et.al.|[2305.02394](http://arxiv.org/abs/2305.02394)|null|
+|**2023-10-19**|**Automatic Prompt Optimization with "Gradient Descent" and Beam Search**|Reid Pryzant et.al.|[2305.03495](http://arxiv.org/abs/2305.03495)|**[link](https://github.com/subhasmitasahoo/basic-auto-prompt-optimization)**|
+|**2023-08-07**|**Defending against Insertion-based Textual Backdoor Attacks via Attribution**|Jiazhao Li et.al.|[2305.02394](http://arxiv.org/abs/2305.02394)|**[link](https://github.com/JiazhaoLi/AttDef)**|
 |**2023-05-01**|**Poisoning Language Models During Instruction Tuning**|Alexander Wan et.al.|[2305.00944](http://arxiv.org/abs/2305.00944)|null|
 |**2023-04-13**|**Automated Mapping of CVE Vulnerability Records to MITRE CWE Weaknesses**|Ashraf Haddad et.al.|[2304.11130](http://arxiv.org/abs/2304.11130)|null|
 |**2023-04-17**|**Training Automated Defense Strategies Using Graph-based Cyber Attack Simulations**|Jakob Nyberg et.al.|[2304.11084](http://arxiv.org/abs/2304.11084)|null|
 |**2024-06-03**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082](http://arxiv.org/abs/2304.11082)|null|
 |**2024-01-28**|**Masked Language Model Based Textual Adversarial Example Detection**|Xiaomei Zhang et.al.|[2304.08767](http://arxiv.org/abs/2304.08767)|null|
-|**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|null|
+|**2023-11-01**|**Multi-step Jailbreaking Privacy Attacks on ChatGPT**|Haoran Li et.al.|[2304.05197](http://arxiv.org/abs/2304.05197)|**[link](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)**|
 |**2023-03-25**|**Backdoor Attacks with Input-unique Triggers in NLP**|Xukun Zhou et.al.|[2303.14325](http://arxiv.org/abs/2303.14325)|**[link](https://github.com/zxk19981227/Backdoor-Attacks-with-Input-unique-Triggers-in-NLP)**|
 |**2023-10-18**|**Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense**|Kalpesh Krishna et.al.|[2303.13408](http://arxiv.org/abs/2303.13408)|**[link](https://github.com/martiansideofthemoon/ai-detection-paraphrases)**|
 |**2023-03-21**|**Fundamentals of Generative Large Language Models and Perspectives in Cyber-Defense**|Andrei Kucharavy et.al.|[2303.12132](http://arxiv.org/abs/2303.12132)|null|
@@ -2168,7 +2168,7 @@
 |**2021-06-15**|**Natural Language Adversarial Defense through Synonym Encoding**|Xiaosen Wang et.al.|[1909.06723](http://arxiv.org/abs/1909.06723)|null|
 |**2019-08-04**|**Defence Against the Modern Arts: the Curse of Statistics -- FRStat**|Cedric Neumann et.al.|[1908.01408](http://arxiv.org/abs/1908.01408)|null|
 |**2019-06-06**|**Robust Neural Machine Translation with Doubly Adversarial Inputs**|Yong Cheng et.al.|[1906.02443](http://arxiv.org/abs/1906.02443)|null|
-|**2020-12-11**|**Defending Against Neural Fake News**|Rowan Zellers et.al.|[1905.12616](http://arxiv.org/abs/1905.12616)|null|
+|**2020-12-11**|**Defending Against Neural Fake News**|Rowan Zellers et.al.|[1905.12616](http://arxiv.org/abs/1905.12616)|**[link](https://github.com/rowanz/grover)**|
 |**2019-08-29**|**Combating Adversarial Misspellings with Robust Word Recognition**|Danish Pruthi et.al.|[1905.11268](http://arxiv.org/abs/1905.11268)|null|
 |**2019-09-19**|**AMSI-Based Detection of Malicious PowerShell Code Using Contextual Embeddings**|Amir Rubin et.al.|[1905.09538](http://arxiv.org/abs/1905.09538)|null|
 |**2019-02-14**|**Spectre is here to stay: An analysis of side-channels and speculative execution**|Ross Mcilroy et.al.|[1902.05178](http://arxiv.org/abs/1902.05178)|null|
@@ -2546,7 +2546,7 @@
 |**2025-04-16**|**On the Feasibility of Using MultiModal LLMs to Execute AR Social Engineering Attacks**|Ting Bi et.al.|[2504.13209](http://arxiv.org/abs/2504.13209)|null|
 |**2025-07-31**|**CEE: An Inference-Time Jailbreak Defense for Embodied Intelligence via Subspace Concept Rotation**|Jirui Yang et.al.|[2504.13201](http://arxiv.org/abs/2504.13201)|null|
 |**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
-|**2025-08-27**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
+|**2025-08-27**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Lijun Sheng et.al.|[2504.11195](http://arxiv.org/abs/2504.11195)|**[link](https://github.com/TomSheng21/R-TPT)**|
 |**2025-04-14**|**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**|Yanbo Wang et.al.|[2504.10000](http://arxiv.org/abs/2504.10000)|null|
 |**2025-04-09**|**SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models**|Junfeng Fang et.al.|[2504.08813](http://arxiv.org/abs/2504.08813)|null|
 |**2025-04-11**|**Steering CLIP's vision transformer with sparse autoencoders**|Sonia Joseph et.al.|[2504.08729](http://arxiv.org/abs/2504.08729)|null|
@@ -2772,8 +2772,8 @@
 |**2024-07-18**|**Turning Generative Models Degenerate: The Power of Data Poisoning Attacks**|Shuli Jiang et.al.|[2407.12281](http://arxiv.org/abs/2407.12281)|null|
 |**2024-07-16**|**UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening**|Siyuan Cheng et.al.|[2407.11372](http://arxiv.org/abs/2407.11372)|null|
 |**2024-12-04**|**Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off**|Cheng-Yi Lee et.al.|[2407.10180](http://arxiv.org/abs/2407.10180)|null|
-|**2024-07-17**|**Augmented Neural Fine-Tuning for Efficient Backdoor Purification**|Nazmul Karim et.al.|[2407.10052](http://arxiv.org/abs/2407.10052)|null|
-|**2025-06-13**|**Self-interpreting Adversarial Images**|Tingwei Zhang et.al.|[2407.08970](http://arxiv.org/abs/2407.08970)|null|
+|**2024-07-17**|**Augmented Neural Fine-Tuning for Efficient Backdoor Purification**|Nazmul Karim et.al.|[2407.10052](http://arxiv.org/abs/2407.10052)|**[link](https://github.com/nazmul-karim170/NFT)**|
+|**2025-06-13**|**Self-interpreting Adversarial Images**|Tingwei Zhang et.al.|[2407.08970](http://arxiv.org/abs/2407.08970)|**[link](https://github.com/Tingwei-Zhang/Soft-Prompts-Go-Hard)**|
 |**2024-09-05**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572](http://arxiv.org/abs/2407.08572)|null|
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2025-10-14**|**Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning**|Yuqi Jia et.al.|[2407.07221](http://arxiv.org/abs/2407.07221)|null|
@@ -2935,12 +2935,12 @@
 |**2024-08-05**|**Open Sesame! Universal Black Box Jailbreaking of Large Language Models**|Raz Lapid et.al.|[2309.01446](http://arxiv.org/abs/2309.01446)|null|
 |**2024-08-06**|**Adv3D: Generating 3D Adversarial Examples for 3D Object Detection in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-04**|**Baseline Defenses for Adversarial Attacks Against Aligned Language Models**|Neel Jain et.al.|[2309.00614](http://arxiv.org/abs/2309.00614)|null|
-|**2025-09-09**|**FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning**|Yanxin Yang et.al.|[2308.11333](http://arxiv.org/abs/2308.11333)|null|
+|**2025-09-09**|**FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning**|Yanxin Yang et.al.|[2308.11333](http://arxiv.org/abs/2308.11333)|**[link](https://github.com/easywood0204/FilterFL)**|
 |**2023-12-09**|**Temporal-Distributed Backdoor Attack Against Video Based Action Recognition**|Xi Li et.al.|[2308.11070](http://arxiv.org/abs/2308.11070)|null|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|null|
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874](http://arxiv.org/abs/2308.07874)|null|
-|**2025-04-05**|**Beating Backdoor Attack at Its Own Game**|Min Liu et.al.|[2307.15539](http://arxiv.org/abs/2307.15539)|null|
-|**2023-10-10**|**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**|Erfan Shayegani et.al.|[2307.14539](http://arxiv.org/abs/2307.14539)|null|
+|**2025-04-05**|**Beating Backdoor Attack at Its Own Game**|Min Liu et.al.|[2307.15539](http://arxiv.org/abs/2307.15539)|**[link](https://github.com/minliu01/non-adversarial_backdoor)**|
+|**2023-10-10**|**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**|Erfan Shayegani et.al.|[2307.14539](http://arxiv.org/abs/2307.14539)|**[link](https://github.com/erfanshayegani/Jailbreak-In-Pieces)**|
 |**2024-07-14**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499](http://arxiv.org/abs/2307.12499)|null|
 |**2023-08-14**|**Downstream-agnostic Adversarial Examples**|Ziqi Zhou et.al.|[2307.12280](http://arxiv.org/abs/2307.12280)|null|
 |**2023-07-18**|**Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning**|Byung-Kwan Lee et.al.|[2307.07250](http://arxiv.org/abs/2307.07250)|null|
@@ -3064,7 +3064,7 @@
 |**2022-04-12**|**Catch Me If You Can: Blackbox Adversarial Attacks on Automatic Speech Recognition using Frequency Masking**|Xiaoliang Wu et.al.|[2112.01821](http://arxiv.org/abs/2112.01821)|null|
 |**2021-11-29**|**MedRDF: A Robust and Retrain-Less Diagnostic Framework for Medical Pretrained Models Against Adversarial Attack**|Mengting Xu et.al.|[2111.14564](http://arxiv.org/abs/2111.14564)|null|
 |**2021-11-22**|**Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes**|Utku Ozbulak et.al.|[2111.11056](http://arxiv.org/abs/2111.11056)|**[link](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)**|
-|**2022-02-12**|**Measuring the Contribution of Multiple Model Representations in Detecting Adversarial Instances**|Daniel Steinberg et.al.|[2111.07035](http://arxiv.org/abs/2111.07035)|null|
+|**2022-02-12**|**Measuring the Contribution of Multiple Model Representations in Detecting Adversarial Instances**|Daniel Steinberg et.al.|[2111.07035](http://arxiv.org/abs/2111.07035)|**[link](https://github.com/dstein64/multi-adv-detect)**|
 |**2021-11-13**|**Understanding and Assessment of Mission-Centric Key Cyber Terrains for joint Military Operations**|Álvaro Luis Martínez et.al.|[2111.07005](http://arxiv.org/abs/2111.07005)|null|
 |**2021-11-10**|**Are Transformers More Robust Than CNNs?**|Yutong Bai et.al.|[2111.05464](http://arxiv.org/abs/2111.05464)|null|
 |**2022-02-04**|**Knowledge Cross-Distillation for Membership Privacy**|Rishav Chourasia et.al.|[2111.01363](http://arxiv.org/abs/2111.01363)|null|
@@ -3227,10 +3227,10 @@
 |**2018-09-24**|**Generating Natural Language Adversarial Examples**|Moustafa Alzantot et.al.|[1804.07998](http://arxiv.org/abs/1804.07998)|null|
 |**2018-03-21**|**Adversarial Defense based on Structure-to-Signal Autoencoders**|Joachim Folz et.al.|[1803.07994](http://arxiv.org/abs/1803.07994)|null|
 |**2019-06-01**|**Improving Transferability of Adversarial Examples with Input Diversity**|Cihang Xie et.al.|[1803.06978](http://arxiv.org/abs/1803.06978)|null|
-|**2018-12-20**|**Deep Defense: Training DNNs with Improved Adversarial Robustness**|Ziang Yan et.al.|[1803.00404](http://arxiv.org/abs/1803.00404)|null|
+|**2018-12-20**|**Deep Defense: Training DNNs with Improved Adversarial Robustness**|Ziang Yan et.al.|[1803.00404](http://arxiv.org/abs/1803.00404)|**[link](https://github.com/ZiangYan/deepdefense.pytorch)**|
 |**2018-02-28**|**Room-temperature lasing action in GaN quantum wells in the infrared 1.5 micron region**|V. X. Ho et.al.|[1802.10456](http://arxiv.org/abs/1802.10456)|null|
-|**2018-02-19**|**Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression**|Nilaksh Das et.al.|[1802.06816](http://arxiv.org/abs/1802.06816)|null|
-|**2018-05-31**|**DARTS: Deceiving Autonomous Cars with Toxic Signs**|Chawin Sitawarin et.al.|[1802.06430](http://arxiv.org/abs/1802.06430)|null|
+|**2018-02-19**|**Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression**|Nilaksh Das et.al.|[1802.06816](http://arxiv.org/abs/1802.06816)|**[link](https://github.com/poloclub/jpeg-defense)**|
+|**2018-05-31**|**DARTS: Deceiving Autonomous Cars with Toxic Signs**|Chawin Sitawarin et.al.|[1802.06430](http://arxiv.org/abs/1802.06430)|**[link](https://github.com/inspire-group/advml-traffic-sign)**|
 |**2018-10-31**|**Lipschitz-Margin Training: Scalable Certification of Perturbation Invariance for Deep Neural Networks**|Yusuke Tsuzuku et.al.|[1802.04034](http://arxiv.org/abs/1802.04034)|**[link](https://github.com/ytsmiling/lmt)**|
 |**2018-01-28**|**Securing On-Body IoT Devices By Exploiting Creeping Wave Propagation**|Wei Wang et.al.|[1801.09224](http://arxiv.org/abs/1801.09224)|null|
 |**2018-03-14**|**Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality**|Xingjun Ma et.al.|[1801.02613](http://arxiv.org/abs/1801.02613)|**[link](https://github.com/xingjunm/lid_adversarial_subspace_detection)**|
