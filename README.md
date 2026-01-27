@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**Demographic Probing of Large Language Models Lacks Construct Validity**|Manuel Tonneau et.al.|[2601.18486](http://arxiv.org/abs/2601.18486)|null|
+|**2026-01-26**|**TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment**|Zhewen Tan et.al.|[2601.18292](http://arxiv.org/abs/2601.18292)|null|
+|**2026-01-26**|**AttenMIA: LLM Membership Inference Attack through Attention Signals**|Pedram Zaree et.al.|[2601.18110](http://arxiv.org/abs/2601.18110)|null|
 |**2026-01-23**|**SafeThinker: Reasoning about Risk to Deepen Safety Beyond Shallow Alignment**|Xianya Fang et.al.|[2601.16506](http://arxiv.org/abs/2601.16506)|null|
 |**2026-01-23**|**Persona Jailbreaking in Large Language Models**|Jivnesh Sandhan et.al.|[2601.16466](http://arxiv.org/abs/2601.16466)|null|
 |**2026-01-22**|**NOIR: Privacy-Preserving Generation of Code with Open-Source LLMs**|Khoa Nguyen et.al.|[2601.16354](http://arxiv.org/abs/2601.16354)|null|
@@ -2202,6 +2205,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-24**|**Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems**|Narek Maloyan et.al.|[2601.17548](http://arxiv.org/abs/2601.17548)|null|
 |**2026-01-23**|**DeMark: A Query-Free Black-Box Attack on Deepfake Watermarking Defenses**|Wei Song et.al.|[2601.16473](http://arxiv.org/abs/2601.16473)|null|
 |**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](http://arxiv.org/abs/2601.16231)|null|
 |**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
