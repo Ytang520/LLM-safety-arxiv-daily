@@ -15,8 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo et.al.|[2601.20679](http://arxiv.org/abs/2601.20679)|null|
+|**2026-01-28**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
+|**2026-01-27**|**Membership Inference Attacks Against Fine-tuned Diffusion Language Models**|Yuetian Chen et.al.|[2601.20125](http://arxiv.org/abs/2601.20125)|null|
 |**2026-01-27**|**RvB: Automating AI System Hardening via Iterative Red-Blue Games**|Lige Huang et.al.|[2601.19726](http://arxiv.org/abs/2601.19726)|null|
-|**2026-01-27**|**Thought-Transfer: Indirect Targeted Poisoning Attacks on Chain-of-Thought Reasoning Models**|Harsh Chaudhari et.al.|[2601.19061](http://arxiv.org/abs/2601.19061)|null|
+|**2026-01-28**|**Thought-Transfer: Indirect Targeted Poisoning Attacks on Chain-of-Thought Reasoning Models**|Harsh Chaudhari et.al.|[2601.19061](http://arxiv.org/abs/2601.19061)|null|
 |**2026-01-26**|**Malicious Repurposing of Open Science Artefacts by Using Large Language Models**|Zahra Hashemi et.al.|[2601.18998](http://arxiv.org/abs/2601.18998)|null|
 |**2026-01-25**|**CanaryBench: Stress Testing Privacy Leakage in Cluster-Level Conversation Summaries**|Deep Mehta et.al.|[2601.18834](http://arxiv.org/abs/2601.18834)|null|
 |**2026-01-26**|**Demographic Probing of Large Language Models Lacks Construct Validity**|Manuel Tonneau et.al.|[2601.18486](http://arxiv.org/abs/2601.18486)|null|
@@ -2209,6 +2212,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-28**|**Multimodal Multi-Agent Ransomware Analysis Using AutoGen**|Asifullah Khan et.al.|[2601.20346](http://arxiv.org/abs/2601.20346)|null|
 |**2026-01-27**|**From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense**|Binyan Xu et.al.|[2601.19448](http://arxiv.org/abs/2601.19448)|null|
 |**2026-01-27**|**Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**|Sen Nie et.al.|[2601.19210](http://arxiv.org/abs/2601.19210)|null|
 |**2026-01-27**|**Evaluating Nova 2.0 Lite model under Amazon's Frontier Model Safety Framework**|Satyapriya Krishna et.al.|[2601.19134](http://arxiv.org/abs/2601.19134)|null|
