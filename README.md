@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2026-01-28**|**ShieldedCode: Learning Robust Representations for Virtual Machine Protected Code**|Mingqiao Mo et.al.|[2601.20679](http://arxiv.org/abs/2601.20679)|null|
 |**2026-01-28**|**DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning**|Yanlin Wang et.al.|[2601.20615](http://arxiv.org/abs/2601.20615)|null|
-|**2026-01-27**|**Membership Inference Attacks Against Fine-tuned Diffusion Language Models**|Yuetian Chen et.al.|[2601.20125](http://arxiv.org/abs/2601.20125)|null|
+|**2026-01-27**|**Membership Inference Attacks Against Fine-tuned Diffusion Language Models**|Yuetian Chen et.al.|[2601.20125](http://arxiv.org/abs/2601.20125)|**[link](https://github.com/Stry233/SAMA)**|
 |**2026-01-27**|**RvB: Automating AI System Hardening via Iterative Red-Blue Games**|Lige Huang et.al.|[2601.19726](http://arxiv.org/abs/2601.19726)|null|
 |**2026-01-28**|**Thought-Transfer: Indirect Targeted Poisoning Attacks on Chain-of-Thought Reasoning Models**|Harsh Chaudhari et.al.|[2601.19061](http://arxiv.org/abs/2601.19061)|null|
 |**2026-01-26**|**Malicious Repurposing of Open Science Artefacts by Using Large Language Models**|Zahra Hashemi et.al.|[2601.18998](http://arxiv.org/abs/2601.18998)|null|
@@ -2204,7 +2204,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3274,5 +3274,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
