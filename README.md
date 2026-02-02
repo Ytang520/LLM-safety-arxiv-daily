@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures**|Yanghao Su et.al.|[2601.23081](http://arxiv.org/abs/2601.23081)|null|
+|**2026-01-30**|**Protecting Private Code in IDE Autocomplete using Differential Privacy**|Evgeny Grigorenko et.al.|[2601.22935](http://arxiv.org/abs/2601.22935)|null|
+|**2026-01-30**|**Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models**|Charles Westphal et.al.|[2601.22818](http://arxiv.org/abs/2601.22818)|null|
+|**2026-01-30**|**Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling**|Mingqian Feng et.al.|[2601.22636](http://arxiv.org/abs/2601.22636)|null|
+|**2026-01-30**|**Whispers of Wealth: Red-Teaming Google's Agent Payments Protocol via Prompt Injection**|Tanusree Debi et.al.|[2601.22569](http://arxiv.org/abs/2601.22569)|null|
+|**2026-01-30**|**FraudShield: Knowledge Graph Empowered Defense for LLMs against Fraud Attacks**|Naen Xu et.al.|[2601.22485](http://arxiv.org/abs/2601.22485)|null|
+|**2026-01-30**|**ScamPilot: Simulating Conversations with LLMs to Protect Against Online Scams**|Owen Hoffman et.al.|[2601.22426](http://arxiv.org/abs/2601.22426)|null|
+|**2026-01-29**|**Hair-Trigger Alignment: Black-Box Evaluation Cannot Guarantee Post-Update Alignment**|Yavuz Bakman et.al.|[2601.22313](http://arxiv.org/abs/2601.22313)|null|
+|**2026-01-29**|**A Systematic Literature Review on LLM Defenses Against Prompt Injection and Jailbreaking: Expanding NIST Taxonomy**|Pedro H. Barcha Correia et.al.|[2601.22240](http://arxiv.org/abs/2601.22240)|null|
 |**2026-01-29**|**ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses**|Ningyuan He et.al.|[2601.21586](http://arxiv.org/abs/2601.21586)|null|
 |**2026-01-28**|**OpenSec: Measuring Incident Response Agent Calibration Under Adversarial Evidence**|Jarrod Barnes et.al.|[2601.21083](http://arxiv.org/abs/2601.21083)|null|
 |**2026-01-28**|**Diversifying Toxicity Search in Large Language Models Through Speciation**|Onkar Shelar et.al.|[2601.20981](http://arxiv.org/abs/2601.20981)|null|
@@ -2217,6 +2226,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
+|**2026-01-30**|**Beauty and the Beast: Imperceptible Perturbations Against Diffusion-Based Face Swapping via Directional Attribute Editing**|Yilong Huang et.al.|[2601.22744](http://arxiv.org/abs/2601.22744)|null|
+|**2026-01-30**|**Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models**|Enyi Shi et.al.|[2601.22737](http://arxiv.org/abs/2601.22737)|null|
+|**2026-01-29**|**Jailbreaks on Vision Language Model via Multimodal Reasoning**|Aarush Noheria et.al.|[2601.22398](http://arxiv.org/abs/2601.22398)|null|
 |**2026-01-29**|**TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention**|Chuancheng Shi et.al.|[2601.21900](http://arxiv.org/abs/2601.21900)|null|
 |**2026-01-29**|**TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning**|Mingzu Liu et.al.|[2601.21692](http://arxiv.org/abs/2601.21692)|null|
 |**2026-01-29**|**On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**|Xinwei Zhang et.al.|[2601.21531](http://arxiv.org/abs/2601.21531)|null|
