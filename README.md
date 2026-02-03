@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
+|**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
+|**2026-02-02**|**Human Society-Inspired Approaches to Agentic AI Security: The 4C Framework**|Alsharif Abuadbba et.al.|[2602.01942](http://arxiv.org/abs/2602.01942)|null|
+|**2026-02-02**|**RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse**|Mingrui Liu et.al.|[2602.01795](http://arxiv.org/abs/2602.01795)|null|
+|**2026-02-02**|**Provable Defense Framework for LLM Jailbreaks via Noise-Augumented Alignment**|Zehua Cheng et.al.|[2602.01587](http://arxiv.org/abs/2602.01587)|null|
+|**2026-02-02**|**MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety**|Xiaoyu Wen et.al.|[2602.01539](http://arxiv.org/abs/2602.01539)|null|
+|**2026-02-01**|**GradingAttack: Attacking Large Language Models Towards Short Answer Grading Ability**|Xueyi Li et.al.|[2602.00979](http://arxiv.org/abs/2602.00979)|null|
+|**2026-01-31**|**Provably Protecting Fine-Tuned LLMs from Training Data Extraction**|Tom Segal et.al.|[2602.00688](http://arxiv.org/abs/2602.00688)|null|
+|**2026-01-31**|**Jailbreaking LLMs via Calibration**|Yuxuan Lu et.al.|[2602.00619](http://arxiv.org/abs/2602.00619)|null|
+|**2026-01-31**|**When Agents "Misremember" Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems**|Naen Xu et.al.|[2602.00428](http://arxiv.org/abs/2602.00428)|null|
 |**2026-01-30**|**Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures**|Yanghao Su et.al.|[2601.23081](http://arxiv.org/abs/2601.23081)|null|
 |**2026-01-30**|**Protecting Private Code in IDE Autocomplete using Differential Privacy**|Evgeny Grigorenko et.al.|[2601.22935](http://arxiv.org/abs/2601.22935)|null|
 |**2026-01-30**|**Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models**|Charles Westphal et.al.|[2601.22818](http://arxiv.org/abs/2601.22818)|null|
@@ -2226,11 +2236,15 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-02**|**SGHA-Attack: Semantic-Guided Hierarchical Alignment for Transferable Targeted Attacks on Vision-Language Models**|Haobo Wang et.al.|[2602.01574](http://arxiv.org/abs/2602.01574)|null|
+|**2026-02-01**|**Toward Universal and Transferable Jailbreak Attacks on Vision-Language Models**|Kaiyuan Cui et.al.|[2602.01025](http://arxiv.org/abs/2602.01025)|null|
+|**2026-01-31**|**Text is All You Need for Vision-Language Model Jailbreaking**|Yihang Chen et.al.|[2602.00420](http://arxiv.org/abs/2602.00420)|null|
+|**2026-01-30**|**The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization**|Manyi Li et.al.|[2602.00175](http://arxiv.org/abs/2602.00175)|null|
 |**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
 |**2026-01-30**|**Beauty and the Beast: Imperceptible Perturbations Against Diffusion-Based Face Swapping via Directional Attribute Editing**|Yilong Huang et.al.|[2601.22744](http://arxiv.org/abs/2601.22744)|null|
 |**2026-01-30**|**Lingua-SafetyBench: A Benchmark for Safety Evaluation of Multilingual Vision-Language Models**|Enyi Shi et.al.|[2601.22737](http://arxiv.org/abs/2601.22737)|null|
 |**2026-01-29**|**Jailbreaks on Vision Language Model via Multimodal Reasoning**|Aarush Noheria et.al.|[2601.22398](http://arxiv.org/abs/2601.22398)|null|
-|**2026-01-29**|**TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention**|Chuancheng Shi et.al.|[2601.21900](http://arxiv.org/abs/2601.21900)|null|
+|**2026-01-31**|**TraceRouter: Robust Safety for Large Foundation Models via Path-Level Intervention**|Chuancheng Shi et.al.|[2601.21900](http://arxiv.org/abs/2601.21900)|null|
 |**2026-01-29**|**TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning**|Mingzu Liu et.al.|[2601.21692](http://arxiv.org/abs/2601.21692)|null|
 |**2026-01-29**|**On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**|Xinwei Zhang et.al.|[2601.21531](http://arxiv.org/abs/2601.21531)|null|
 |**2026-01-28**|**Multimodal Multi-Agent Ransomware Analysis Using AutoGen**|Asifullah Khan et.al.|[2601.20346](http://arxiv.org/abs/2601.20346)|null|
