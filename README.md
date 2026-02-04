@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**Towards Distillation-Resistant Large Language Models: An Information-Theoretic Perspective**|Hao Fang et.al.|[2602.03396](http://arxiv.org/abs/2602.03396)|null|
+|**2026-02-03**|**Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models**|Hicham Eddoubi et.al.|[2602.03265](http://arxiv.org/abs/2602.03265)|null|
+|**2026-02-03**|**Is It Possible to Make Chatbots Virtuous? Investigating a Virtue-Based Design Methodology Applied to LLMs**|Matthew P. Lad et.al.|[2602.03155](http://arxiv.org/abs/2602.03155)|null|
+|**2026-02-03**|**The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor Triggers**|Blake Bullwinkel et.al.|[2602.03085](http://arxiv.org/abs/2602.03085)|null|
+|**2026-02-02**|**Monotonicity as an Architectural Bias for Robust Language Models**|Patrick Cooper et.al.|[2602.02686](http://arxiv.org/abs/2602.02686)|null|
+|**2026-02-02**|**Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection**|Najmul Hasan et.al.|[2602.02641](http://arxiv.org/abs/2602.02641)|null|
 |**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
 |**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
 |**2026-02-02**|**Human Society-Inspired Approaches to Agentic AI Security: The 4C Framework**|Alsharif Abuadbba et.al.|[2602.01942](http://arxiv.org/abs/2602.01942)|null|
@@ -2236,6 +2242,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-03**|**Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility**|Mengxuan Wang et.al.|[2602.03402](http://arxiv.org/abs/2602.03402)|null|
+|**2026-02-03**|**DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers**|Xiaozuo Shen et.al.|[2602.03040](http://arxiv.org/abs/2602.03040)|null|
 |**2026-02-02**|**SGHA-Attack: Semantic-Guided Hierarchical Alignment for Transferable Targeted Attacks on Vision-Language Models**|Haobo Wang et.al.|[2602.01574](http://arxiv.org/abs/2602.01574)|null|
 |**2026-02-01**|**Toward Universal and Transferable Jailbreak Attacks on Vision-Language Models**|Kaiyuan Cui et.al.|[2602.01025](http://arxiv.org/abs/2602.01025)|null|
 |**2026-01-31**|**Text is All You Need for Vision-Language Model Jailbreaking**|Yihang Chen et.al.|[2602.00420](http://arxiv.org/abs/2602.00420)|null|
