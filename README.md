@@ -15,11 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models**|Jiacheng Liang et.al.|[2602.04448](http://arxiv.org/abs/2602.04448)|null|
+|**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
+|**2026-02-04**|**How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks**|Yanshu Wang et.al.|[2602.04294](http://arxiv.org/abs/2602.04294)|**[link](https://github.com/PKULab1806/Pangu-Bench)**|
+|**2026-02-04**|**RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**|Zeming Wei et.al.|[2602.04224](http://arxiv.org/abs/2602.04224)|null|
+|**2026-02-04**|**Semantic Consensus Decoding: Backdoor Defense for Verilog Code Generation**|Guang Yang et.al.|[2602.04195](http://arxiv.org/abs/2602.04195)|**[link](https://github.com/NTDXYG/SCD)**|
 |**2026-02-03**|**Towards Distillation-Resistant Large Language Models: An Information-Theoretic Perspective**|Hao Fang et.al.|[2602.03396](http://arxiv.org/abs/2602.03396)|null|
 |**2026-02-03**|**Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models**|Hicham Eddoubi et.al.|[2602.03265](http://arxiv.org/abs/2602.03265)|null|
 |**2026-02-03**|**Is It Possible to Make Chatbots Virtuous? Investigating a Virtue-Based Design Methodology Applied to LLMs**|Matthew P. Lad et.al.|[2602.03155](http://arxiv.org/abs/2602.03155)|null|
 |**2026-02-03**|**The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor Triggers**|Blake Bullwinkel et.al.|[2602.03085](http://arxiv.org/abs/2602.03085)|null|
-|**2026-02-02**|**Monotonicity as an Architectural Bias for Robust Language Models**|Patrick Cooper et.al.|[2602.02686](http://arxiv.org/abs/2602.02686)|**[link](https://github.com/Aryia-Behroziuan/References)**|
+|**2026-02-02**|**Monotonicity as an Architectural Bias for Robust Language Models**|Patrick Cooper et.al.|[2602.02686](http://arxiv.org/abs/2602.02686)|null|
 |**2026-02-02**|**Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection**|Najmul Hasan et.al.|[2602.02641](http://arxiv.org/abs/2602.02641)|null|
 |**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
 |**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
@@ -2242,6 +2247,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
 |**2026-02-03**|**Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility**|Mengxuan Wang et.al.|[2602.03402](http://arxiv.org/abs/2602.03402)|null|
 |**2026-02-03**|**DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers**|Xiaozuo Shen et.al.|[2602.03040](http://arxiv.org/abs/2602.03040)|null|
 |**2026-02-02**|**SGHA-Attack: Semantic-Guided Hierarchical Alignment for Transferable Targeted Attacks on Vision-Language Models**|Haobo Wang et.al.|[2602.01574](http://arxiv.org/abs/2602.01574)|null|
