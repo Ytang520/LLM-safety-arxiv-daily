@@ -1,4 +1,4 @@
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2026-02-03**|**Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models**|Hicham Eddoubi et.al.|[2602.03265](http://arxiv.org/abs/2602.03265)|null|
 |**2026-02-03**|**Is It Possible to Make Chatbots Virtuous? Investigating a Virtue-Based Design Methodology Applied to LLMs**|Matthew P. Lad et.al.|[2602.03155](http://arxiv.org/abs/2602.03155)|null|
 |**2026-02-03**|**The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor Triggers**|Blake Bullwinkel et.al.|[2602.03085](http://arxiv.org/abs/2602.03085)|null|
-|**2026-02-02**|**Monotonicity as an Architectural Bias for Robust Language Models**|Patrick Cooper et.al.|[2602.02686](http://arxiv.org/abs/2602.02686)|null|
+|**2026-02-02**|**Monotonicity as an Architectural Bias for Robust Language Models**|Patrick Cooper et.al.|[2602.02686](http://arxiv.org/abs/2602.02686)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2026-02-02**|**Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection**|Najmul Hasan et.al.|[2602.02641](http://arxiv.org/abs/2602.02641)|null|
 |**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395](http://arxiv.org/abs/2602.02395)|null|
 |**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
@@ -2234,7 +2234,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3317,5 +3317,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
