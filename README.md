@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Alignment Verifiability in Large Language Models: Normative Indistinguishability under Behavioral Evaluation**|Igor Santos-Grueiro et.al.|[2602.05656](http://arxiv.org/abs/2602.05656)|null|
+|**2026-02-05**|**Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs**|Yao Zhou et.al.|[2602.05444](http://arxiv.org/abs/2602.05444)|null|
+|**2026-02-05**|**BadTemplate: A Training-Free Backdoor Attack via Chat Template Against Large Language Models**|Zihan Wang et.al.|[2602.05401](http://arxiv.org/abs/2602.05401)|null|
+|**2026-02-05**|**Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening**|Zhenxiong Yu et.al.|[2602.05386](http://arxiv.org/abs/2602.05386)|null|
+|**2026-02-05**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
 |**2026-02-04**|**RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models**|Jiacheng Liang et.al.|[2602.04448](http://arxiv.org/abs/2602.04448)|null|
 |**2026-02-04**|**Mixture of Masters: Sparse Chess Language Models with Player Routing**|Giacomo Frisoni et.al.|[2602.04447](http://arxiv.org/abs/2602.04447)|null|
 |**2026-02-04**|**How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks**|Yanshu Wang et.al.|[2602.04294](http://arxiv.org/abs/2602.04294)|null|
@@ -2247,6 +2252,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-05**|**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**|Tao Huang et.al.|[2602.05535](http://arxiv.org/abs/2602.05535)|null|
+|**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|Takashi Koide et.al.|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
 |**2026-02-03**|**Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility**|Mengxuan Wang et.al.|[2602.03402](http://arxiv.org/abs/2602.03402)|null|
 |**2026-02-03**|**DF-LoGiT: Data-Free Logic-Gated Backdoor Attacks in Vision Transformers**|Xiaozuo Shen et.al.|[2602.03040](http://arxiv.org/abs/2602.03040)|null|
