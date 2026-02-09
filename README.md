@@ -1,4 +1,4 @@
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1189,7 +1189,7 @@
 |**2025-02-11**|**JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation**|Shenyi Zhang et.al.|[2502.07557](http://arxiv.org/abs/2502.07557)|null|
 |**2025-02-09**|**Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks**|Bowei He et.al.|[2502.06892](http://arxiv.org/abs/2502.06892)|null|
 |**2025-08-25**|**Head-Specific Intervention Can Induce Misaligned AI Coordination in Large Language Models**|Paul Darm et.al.|[2502.05945](http://arxiv.org/abs/2502.05945)|null|
-|**2025-05-27**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|null|
+|**2025-05-27**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|**[link](https://github.com/OPTML-Group/Unlearn-Smooth)**|
 |**2025-02-06**|**BitAbuse: A Dataset of Visually Perturbed Texts for Defending Phishing Attacks**|Hanyong Lee et.al.|[2502.05225](http://arxiv.org/abs/2502.05225)|null|
 |**2025-02-06**|**A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations**|Yihe Zhou et.al.|[2502.05224](http://arxiv.org/abs/2502.05224)|null|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
@@ -2150,7 +2150,7 @@
 |**2021-11-16**|**Improving the robustness and accuracy of biomedical language models through adversarial training**|Milad Moradi et.al.|[2111.08529](http://arxiv.org/abs/2111.08529)|null|
 |**2022-04-27**|**Triggerless Backdoor Attack for NLP Tasks with Clean Labels**|Leilei Gan et.al.|[2111.07970](http://arxiv.org/abs/2111.07970)|null|
 |**2024-04-01**|**LSA: Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation**|Heng Yang et.al.|[2110.08604](http://arxiv.org/abs/2110.08604)|null|
-|**2021-10-15**|**RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**|Wenkai Yang et.al.|[2110.07831](http://arxiv.org/abs/2110.07831)|null|
+|**2021-10-15**|**RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**|Wenkai Yang et.al.|[2110.07831](http://arxiv.org/abs/2110.07831)|**[link](https://github.com/lancopku/RAP)**|
 |**2023-09-19**|**Attacking Open-domain Question Answering by Injecting Misinformation**|Liangming Pan et.al.|[2110.07803](http://arxiv.org/abs/2110.07803)|**[link](https://github.com/teacherpeterpan/ContraQA)**|
 |**2022-05-05**|**SaFeRDialogues: Taking Feedback Gracefully after Conversational Safety Failures**|Megan Ung et.al.|[2110.07518](http://arxiv.org/abs/2110.07518)|null|
 |**2021-10-13**|**SEPP: Similarity Estimation of Predicted Probabilities for Defending and Detecting Adversarial Text**|Hoang-Quoc Nguyen-Son et.al.|[2110.05748](http://arxiv.org/abs/2110.05748)|**[link](https://github.com/quocnsh/SEPP)**|
@@ -2244,7 +2244,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2675,9 +2675,9 @@
 |**2025-09-20**|**FC-Attack: Jailbreaking Multimodal Large Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
 |**2025-09-21**|**Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP**|Jiawei Kong et.al.|[2502.19269](http://arxiv.org/abs/2502.19269)|null|
 |**2025-03-02**|**A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**|Vu Tuan Truong et.al.|[2502.19047](http://arxiv.org/abs/2502.19047)|null|
-|**2025-03-02**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|null|
-|**2025-10-08**|**MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**|Hyeonjeong Ha et.al.|[2502.17832](http://arxiv.org/abs/2502.17832)|null|
-|**2025-02-24**|**How Do Large Language Monkeys Get Their Power (Laws)?**|Rylan Schaeffer et.al.|[2502.17578](http://arxiv.org/abs/2502.17578)|null|
+|**2025-03-02**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|**[link](https://github.com/ZhangMingKun1/CLIPure)**|
+|**2025-10-08**|**MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**|Hyeonjeong Ha et.al.|[2502.17832](http://arxiv.org/abs/2502.17832)|**[link](https://github.com/HyeonjeongHa/MM-PoisonRAG)**|
+|**2025-02-24**|**How Do Large Language Monkeys Get Their Power (Laws)?**|Rylan Schaeffer et.al.|[2502.17578](http://arxiv.org/abs/2502.17578)|**[link](https://github.com/RylanSchaeffer/KoyejoLab-Large-How-Do-Language-Monkey-Power-Get-Their-Power)**|
 |**2025-02-20**|**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**|Nastaran Darabi et.al.|[2502.14976](http://arxiv.org/abs/2502.14976)|null|
 |**2025-06-06**|**A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models**|Changhoon Kim et.al.|[2502.14896](http://arxiv.org/abs/2502.14896)|null|
 |**2025-02-14**|**A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations**|Mang Ye et.al.|[2502.14881](http://arxiv.org/abs/2502.14881)|null|
@@ -3330,5 +3330,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
