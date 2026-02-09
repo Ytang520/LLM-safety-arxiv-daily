@@ -15,8 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering**|Saad Hossain et.al.|[2602.06911](http://arxiv.org/abs/2602.06911)|null|
+|**2026-02-06**|**Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations**|Chen Chen et.al.|[2602.06887](http://arxiv.org/abs/2602.06887)|null|
+|**2026-02-06**|**SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks**|Mingqian Feng et.al.|[2602.06854](http://arxiv.org/abs/2602.06854)|null|
+|**2026-02-06**|**Next-generation cyberattack detection with large language models: anomaly analysis across heterogeneous logs**|Yassine Chagna et.al.|[2602.06777](http://arxiv.org/abs/2602.06777)|null|
+|**2026-02-06**|**Confundo: Learning to Generate Robust Poison for Practical RAG Systems**|Haoyang Hu et.al.|[2602.06616](http://arxiv.org/abs/2602.06616)|null|
+|**2026-02-06**|**TrailBlazer: History-Guided Reinforcement Learning for Black-Box LLM Jailbreaking**|Sung-Hoon Yoon et.al.|[2602.06440](http://arxiv.org/abs/2602.06440)|null|
+|**2026-02-06**|**MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs**|Junhyeok Lee et.al.|[2602.06268](http://arxiv.org/abs/2602.06268)|null|
+|**2026-02-05**|**Steering Safely or Off a Cliff? Rethinking Specificity and Robustness in Inference-Time Interventions**|Navita Goyal et.al.|[2602.06256](http://arxiv.org/abs/2602.06256)|null|
 |**2026-02-05**|**Alignment Verifiability in Large Language Models: Normative Indistinguishability under Behavioral Evaluation**|Igor Santos-Grueiro et.al.|[2602.05656](http://arxiv.org/abs/2602.05656)|null|
-|**2026-02-05**|**Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs**|Yao Zhou et.al.|[2602.05444](http://arxiv.org/abs/2602.05444)|null|
+|**2026-02-06**|**Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs**|Yao Zhou et.al.|[2602.05444](http://arxiv.org/abs/2602.05444)|null|
 |**2026-02-05**|**BadTemplate: A Training-Free Backdoor Attack via Chat Template Against Large Language Models**|Zihan Wang et.al.|[2602.05401](http://arxiv.org/abs/2602.05401)|null|
 |**2026-02-05**|**Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening**|Zhenxiong Yu et.al.|[2602.05386](http://arxiv.org/abs/2602.05386)|null|
 |**2026-02-05**|**Surgery: Mitigating Harmful Fine-Tuning for Large Language Models via Attention Sink**|Guozhi Liu et.al.|[2602.05228](http://arxiv.org/abs/2602.05228)|null|
