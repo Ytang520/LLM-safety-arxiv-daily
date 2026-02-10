@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
+|**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|null|
+|**2026-02-08**|**Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation**|Shayan Ali Hassan et.al.|[2602.08062](http://arxiv.org/abs/2602.08062)|null|
+|**2026-02-07**|**MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots**|Yuhao Wang et.al.|[2602.07517](http://arxiv.org/abs/2602.07517)|null|
+|**2026-02-07**|**Patch-to-PoC: A Systematic Study of Agentic LLM Systems for Linux Kernel N-Day Reproduction**|Juefei Pu et.al.|[2602.07287](http://arxiv.org/abs/2602.07287)|null|
+|**2026-02-06**|**ShallowJail: Steering Jailbreaks against Large Language Models**|Shang Liu et.al.|[2602.07107](http://arxiv.org/abs/2602.07107)|null|
 |**2026-02-06**|**TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering**|Saad Hossain et.al.|[2602.06911](http://arxiv.org/abs/2602.06911)|null|
 |**2026-02-06**|**Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations**|Chen Chen et.al.|[2602.06887](http://arxiv.org/abs/2602.06887)|null|
 |**2026-02-06**|**SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks**|Mingqian Feng et.al.|[2602.06854](http://arxiv.org/abs/2602.06854)|null|
@@ -2252,7 +2258,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2260,6 +2266,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-09**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
+|**2026-02-09**|**Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense**|Jiacheng Liu et.al.|[2602.09012](http://arxiv.org/abs/2602.09012)|null|
+|**2026-02-08**|**Robustness of Vision Language Models Against Split-Image Harmful Input Attacks**|Md Rafi Ur Rashid et.al.|[2602.08136](http://arxiv.org/abs/2602.08136)|null|
+|**2026-02-07**|**Aegis: Towards Governance, Integrity, and Security of AI Voice Agents**|Xiang Li et.al.|[2602.07379](http://arxiv.org/abs/2602.07379)|null|
+|**2026-02-06**|**Extended to Reality: Prompt Injection in 3D Environments**|Zhuoheng Li et.al.|[2602.07104](http://arxiv.org/abs/2602.07104)|null|
 |**2026-02-05**|**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**|Tao Huang et.al.|[2602.05535](http://arxiv.org/abs/2602.05535)|null|
 |**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|Takashi Koide et.al.|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
@@ -3338,5 +3349,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260210>back to top</a>)</p>
 
