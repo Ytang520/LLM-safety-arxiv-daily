@@ -15,11 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Trustworthy Agentic AI Requires Deterministic Architectural Boundaries**|Manish Bhattarai et.al.|[2602.09947](http://arxiv.org/abs/2602.09947)|null|
 |**2026-02-10**|**Towards Poisoning Robustness Certification for Natural Language Generation**|Mihnea Ghitu et.al.|[2602.09757](http://arxiv.org/abs/2602.09757)|null|
 |**2026-02-10**|**Stop Testing Attacks, Start Diagnosing Defenses: The Four-Checkpoint Framework Reveals Where LLM Safety Breaks**|Hayfa Dhabhi et.al.|[2602.09629](http://arxiv.org/abs/2602.09629)|null|
 |**2026-02-09**|**MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks**|Georgios Syros et.al.|[2602.09222](http://arxiv.org/abs/2602.09222)|null|
 |**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
-|**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|**[link](https://github.com/TrustAIRLab/UnsafeMoE)**|
+|**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|null|
 |**2026-02-08**|**Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation**|Shayan Ali Hassan et.al.|[2602.08062](http://arxiv.org/abs/2602.08062)|null|
 |**2026-02-07**|**MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots**|Yuhao Wang et.al.|[2602.07517](http://arxiv.org/abs/2602.07517)|null|
 |**2026-02-07**|**Patch-to-PoC: A Systematic Study of Agentic LLM Systems for Linux Kernel N-Day Reproduction**|Juefei Pu et.al.|[2602.07287](http://arxiv.org/abs/2602.07287)|null|
