@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
+|**2026-02-11**|**Protecting Context and Prompts: Deterministic Security for Non-Deterministic AI**|Mohan Rajagopalan et.al.|[2602.10481](http://arxiv.org/abs/2602.10481)|null|
+|**2026-02-11**|**The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis**|Peiran Wang et.al.|[2602.10453](http://arxiv.org/abs/2602.10453)|null|
+|**2026-02-11**|**Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models**|Théo Lasnier et.al.|[2602.10382](http://arxiv.org/abs/2602.10382)|null|
 |**2026-02-10**|**Trustworthy Agentic AI Requires Deterministic Architectural Boundaries**|Manish Bhattarai et.al.|[2602.09947](http://arxiv.org/abs/2602.09947)|null|
 |**2026-02-10**|**Towards Poisoning Robustness Certification for Natural Language Generation**|Mihnea Ghitu et.al.|[2602.09757](http://arxiv.org/abs/2602.09757)|null|
 |**2026-02-10**|**Stop Testing Attacks, Start Diagnosing Defenses: The Four-Checkpoint Framework Reveals Where LLM Safety Breaks**|Hayfa Dhabhi et.al.|[2602.09629](http://arxiv.org/abs/2602.09629)|null|
@@ -2270,9 +2274,13 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
+|**2026-02-10**|**When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models**|Jiacheng Hou et.al.|[2602.10179](http://arxiv.org/abs/2602.10179)|null|
+|**2026-02-09**|**Red-teaming the Multimodal Reasoning: Jailbreaking Vision-Language Models via Cross-modal Entanglement Attacks**|Yu Yan et.al.|[2602.10148](http://arxiv.org/abs/2602.10148)|null|
+|**2026-02-08**|**Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible**|Lepeng Zhao et.al.|[2602.10139](http://arxiv.org/abs/2602.10139)|null|
 |**2026-02-10**|**SWE-Bench Mobile: Can Large Language Model Agents Develop Industry-Level Mobile Applications?**|Muxin Tian et.al.|[2602.09540](http://arxiv.org/abs/2602.09540)|null|
 |**2026-02-10**|**Understanding and Enhancing Encoder-based Adversarial Transferability against Large Vision-Language Models**|Xinwei Zhang et.al.|[2602.09431](http://arxiv.org/abs/2602.09431)|null|
-|**2026-02-10**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
+|**2026-02-11**|**CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection**|Fatemeh Nejati et.al.|[2602.09015](http://arxiv.org/abs/2602.09015)|null|
 |**2026-02-09**|**Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense**|Jiacheng Liu et.al.|[2602.09012](http://arxiv.org/abs/2602.09012)|null|
 |**2026-02-08**|**Robustness of Vision Language Models Against Split-Image Harmful Input Attacks**|Md Rafi Ur Rashid et.al.|[2602.08136](http://arxiv.org/abs/2602.08136)|null|
 |**2026-02-07**|**Aegis: Towards Governance, Integrity, and Security of AI Voice Agents**|Xiang Li et.al.|[2602.07379](http://arxiv.org/abs/2602.07379)|null|
