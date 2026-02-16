@@ -850,7 +850,7 @@
 |**2025-06-06**|**Benchmarking Misuse Mitigation Against Covert Adversaries**|Davis Brown et.al.|[2506.06414](http://arxiv.org/abs/2506.06414)|null|
 |**2025-06-05**|**Detection Method for Prompt Injection by Integrating Pre-trained Model and Heuristic Feature Engineering**|Yi Ji et.al.|[2506.06384](http://arxiv.org/abs/2506.06384)|null|
 |**2025-06-06**|**Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models**|Yingqi Hu et.al.|[2506.06060](http://arxiv.org/abs/2506.06060)|null|
-|**2025-06-06**|**When to Trust Context: Self-Reflective Debates for Context Reliability**|Zeqi Zhou et.al.|[2506.06020](http://arxiv.org/abs/2506.06020)|null|
+|**2025-06-06**|**When to Trust Context: Self-Reflective Debates for Context Reliability**|Zeqi Zhou et.al.|[2506.06020](http://arxiv.org/abs/2506.06020)|**[link](https://github.com/smiles724/Self-Reflective-Debates)**|
 |**2025-06-06**|**Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG**|Zarreen Reza et.al.|[2506.05925](http://arxiv.org/abs/2506.05925)|null|
 |**2025-06-09**|**A Red Teaming Roadmap Towards System-Level Safety**|Zifan Wang et.al.|[2506.05376](http://arxiv.org/abs/2506.05376)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
@@ -1410,10 +1410,10 @@
 |**2024-10-23**|**BadFair: Backdoored Fairness Attacks with Group-conditioned Triggers**|Jiaqi Xue et.al.|[2410.17492](http://arxiv.org/abs/2410.17492)|null|
 |**2025-05-31**|**AdvAgent: Controllable Blackbox Red-teaming on Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
 |**2024-10-22**|**Remote Timing Attacks on Efficient Language Model Inference**|Nicholas Carlini et.al.|[2410.17175](http://arxiv.org/abs/2410.17175)|null|
-|**2025-09-22**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|null|
+|**2025-09-22**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
 |**2024-11-16**|**Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis**|Jonathan Brokman et.al.|[2410.16527](http://arxiv.org/abs/2410.16527)|null|
 |**2025-07-08**|**Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**|Rui Pu et.al.|[2410.16327](http://arxiv.org/abs/2410.16327)|null|
-|**2025-05-30**|**An Interpretable N-gram Perplexity Threat Model for Large Language Model Jailbreaks**|Valentyn Boreiko et.al.|[2410.16222](http://arxiv.org/abs/2410.16222)|null|
+|**2025-05-30**|**An Interpretable N-gram Perplexity Threat Model for Large Language Model Jailbreaks**|Valentyn Boreiko et.al.|[2410.16222](http://arxiv.org/abs/2410.16222)|**[link](https://github.com/valentyn1boreiko/llm-threat-model)**|
 |**2025-06-26**|**A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns**|Tianyi Men et.al.|[2410.16155](http://arxiv.org/abs/2410.16155)|null|
 |**2024-11-03**|**Boosting Jailbreak Transferability for Large Language Models**|Hanqing Liu et.al.|[2410.15645](http://arxiv.org/abs/2410.15645)|**[link](https://github.com/HqingLiu/SI-GCG)**|
 |**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
@@ -1926,7 +1926,7 @@
 |**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883](http://arxiv.org/abs/2401.01883)|null|
 |**2024-01-02**|**Detection and Defense Against Prominent Attacks on Preconditioned LLM-Integrated Virtual Assistants**|Chun Fai Chan et.al.|[2401.00994](http://arxiv.org/abs/2401.00994)|null|
 |**2023-12-30**|**Red Teaming for Large Language Models At Scale: Tackling Hallucinations on Mathematics Tasks**|Aleksander Buszydlik et.al.|[2401.00290](http://arxiv.org/abs/2401.00290)|null|
-|**2023-12-30**|**The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness**|Neeraj Varshney et.al.|[2401.00287](http://arxiv.org/abs/2401.00287)|null|
+|**2023-12-30**|**The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness**|Neeraj Varshney et.al.|[2401.00287](http://arxiv.org/abs/2401.00287)|**[link](https://github.com/nrjvarshney/SODE)**|
 |**2024-01-08**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|null|
 |**2023-12-26**|**Punctuation Matters! Stealthy Backdoor Attack for Language Models**|Xuan Sheng et.al.|[2312.15867](http://arxiv.org/abs/2312.15867)|null|
 |**2025-01-06**|**Using large language models to promote health equity**|Emma Pierson et.al.|[2312.14804](http://arxiv.org/abs/2312.14804)|null|
@@ -2218,9 +2218,9 @@
 |**2021-01-21**|**Quantitative Security Risk Modeling and Analysis with RisQFLan**|Maurice H. ter Beek et.al.|[2101.08677](http://arxiv.org/abs/2101.08677)|null|
 |**2020-12-26**|**Assessment of the Relative Importance of different hyper-parameters of LSTM for an IDS**|Mohit Sewak et.al.|[2012.14427](http://arxiv.org/abs/2012.14427)|null|
 |**2020-12-14**|**Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model**|Mohammadreza Ebrahimi et.al.|[2012.07994](http://arxiv.org/abs/2012.07994)|null|
-|**2021-05-06**|**A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks**|Thai Le et.al.|[2011.10492](http://arxiv.org/abs/2011.10492)|null|
-|**2021-11-03**|**ONION: A Simple and Effective Defense Against Textual Backdoor Attacks**|Fanchao Qi et.al.|[2011.10369](http://arxiv.org/abs/2011.10369)|null|
-|**2022-03-16**|**SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**|Thai Le et.al.|[2011.08908](http://arxiv.org/abs/2011.08908)|null|
+|**2021-05-06**|**A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks**|Thai Le et.al.|[2011.10492](http://arxiv.org/abs/2011.10492)|**[link](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)**|
+|**2021-11-03**|**ONION: A Simple and Effective Defense Against Textual Backdoor Attacks**|Fanchao Qi et.al.|[2011.10369](http://arxiv.org/abs/2011.10369)|**[link](https://github.com/thunlp/ONION)**|
+|**2022-03-16**|**SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**|Thai Le et.al.|[2011.08908](http://arxiv.org/abs/2011.08908)|**[link](https://github.com/lethaiq/shield-defend-adversarial-texts)**|
 |**2021-04-12**|**Concealed Data Poisoning Attacks on NLP Models**|Eric Wallace et.al.|[2010.12563](http://arxiv.org/abs/2010.12563)|null|
 |**2020-11-16**|**AI-lead Court Debate Case Investigation**|Changzhen Ji et.al.|[2010.11604](http://arxiv.org/abs/2010.11604)|null|
 |**2021-01-16**|**Explain2Attack: Text Adversarial Attacks via Cross-Domain Interpretability**|Mahmoud Hossam et.al.|[2010.06812](http://arxiv.org/abs/2010.06812)|null|
@@ -2290,7 +2290,7 @@
 |**2026-02-08**|**Robustness of Vision Language Models Against Split-Image Harmful Input Attacks**|Md Rafi Ur Rashid et.al.|[2602.08136](http://arxiv.org/abs/2602.08136)|null|
 |**2026-02-07**|**Aegis: Towards Governance, Integrity, and Security of AI Voice Agents**|Xiang Li et.al.|[2602.07379](http://arxiv.org/abs/2602.07379)|null|
 |**2026-02-06**|**Extended to Reality: Prompt Injection in 3D Environments**|Zhuoheng Li et.al.|[2602.07104](http://arxiv.org/abs/2602.07104)|null|
-|**2026-02-05**|**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**|Tao Huang et.al.|[2602.05535](http://arxiv.org/abs/2602.05535)|null|
+|**2026-02-05**|**Detecting Misbehaviors of Large Vision-Language Models by Evidential Uncertainty Quantification**|Tao Huang et.al.|[2602.05535](http://arxiv.org/abs/2602.05535)|**[link](https://github.com/HT86159/EUQ)**|
 |**2026-02-05**|**Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting LLM-based Phishing Detection**|Takashi Koide et.al.|[2602.05484](http://arxiv.org/abs/2602.05484)|null|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
 |**2026-02-03**|**Risk Awareness Injection: Calibrating Vision-Language Models for Safety without Compromising Utility**|Mengxuan Wang et.al.|[2602.03402](http://arxiv.org/abs/2602.03402)|null|
@@ -2746,8 +2746,8 @@
 |**2025-03-04**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
 |**2025-01-20**|**DEFEND: A Large-scale 1M Dataset and Foundation Model for Tobacco Addiction Prevention**|Naga VS Raviteja Chappa et.al.|[2501.13950](http://arxiv.org/abs/2501.13950)|null|
 |**2025-06-01**|**Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models**|Hao Cheng et.al.|[2501.13772](http://arxiv.org/abs/2501.13772)|null|
-|**2025-01-22**|**Bad-PFL: Exploring Backdoor Attacks against Personalized Federated Learning**|Mingyuan Fan et.al.|[2501.12736](http://arxiv.org/abs/2501.12736)|null|
-|**2025-07-25**|**T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation**|Lijun Li et.al.|[2501.12612](http://arxiv.org/abs/2501.12612)|null|
+|**2025-01-22**|**Bad-PFL: Exploring Backdoor Attacks against Personalized Federated Learning**|Mingyuan Fan et.al.|[2501.12736](http://arxiv.org/abs/2501.12736)|**[link](https://github.com/fmy266/Bad-PFL)**|
+|**2025-07-25**|**T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation**|Lijun Li et.al.|[2501.12612](http://arxiv.org/abs/2501.12612)|**[link](https://github.com/adwardlee/t2i_safety)**|
 |**2025-01-17**|**Differentiable Adversarial Attacks for Marked Temporal Point Processes**|Pritish Chakraborty et.al.|[2501.10606](http://arxiv.org/abs/2501.10606)|null|
 |**2025-04-07**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
 |**2025-01-14**|**Playing Devil's Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models**|Abdulkadir Erol et.al.|[2501.09039](http://arxiv.org/abs/2501.09039)|null|
@@ -3026,7 +3026,7 @@
 |**2025-09-07**|**Support or Refute: Analyzing the Stance of Evidence to Detect Out-of-Context Mis- and Disinformation**|Xin Yuan et.al.|[2311.01766](http://arxiv.org/abs/2311.01766)|**[link](https://github.com/yx3266/SEN)**|
 |**2023-11-02**|**Efficient Vision Transformer for Accurate Traffic Sign Detection**|Javad Mirzapour Kaleybar et.al.|[2311.01429](http://arxiv.org/abs/2311.01429)|null|
 |**2023-10-30**|**Maximum Knowledge Orthogonality Reconstruction with Gradients in Federated Learning**|Feng Wang et.al.|[2310.19222](http://arxiv.org/abs/2310.19222)|**[link](https://github.com/wfwf10/MKOR)**|
-|**2024-03-17**|**PubDef: Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645](http://arxiv.org/abs/2310.17645)|null|
+|**2024-03-17**|**PubDef: Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645](http://arxiv.org/abs/2310.17645)|**[link](https://github.com/wagner-group/pubdef)**|
 |**2025-01-16**|**Asteroid 2023 NT1: A Cautionary Tale**|Brin K. Bailey et.al.|[2310.13112](http://arxiv.org/abs/2310.13112)|null|
 |**2023-10-19**|**SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models**|Boyang Zhang et.al.|[2310.12665](http://arxiv.org/abs/2310.12665)|null|
 |**2023-10-16**|**Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**|Erfan Shayegani et.al.|[2310.10844](http://arxiv.org/abs/2310.10844)|null|
@@ -3137,7 +3137,7 @@
 |**2022-07-15**|**Demystifying the Adversarial Robustness of Random Transformation Defenses**|Chawin Sitawarin et.al.|[2207.03574](http://arxiv.org/abs/2207.03574)|null|
 |**2022-07-05**|**Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms**|Ehsan Hallaji et.al.|[2207.02337](http://arxiv.org/abs/2207.02337)|null|
 |**2022-07-30**|**Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis**|Ruinan Jin et.al.|[2207.00762](http://arxiv.org/abs/2207.00762)|null|
-|**2022-06-21**|**Natural Backdoor Datasets**|Emily Wenger et.al.|[2206.10673](http://arxiv.org/abs/2206.10673)|null|
+|**2022-06-21**|**Natural Backdoor Datasets**|Emily Wenger et.al.|[2206.10673](http://arxiv.org/abs/2206.10673)|**[link](https://github.com/uchicago-sandlab/naturalbackdoors)**|
 |**2022-09-30**|**Adversarial Scrutiny of Evidentiary Statistical Software**|Rediet Abebe et.al.|[2206.09305](http://arxiv.org/abs/2206.09305)|null|
 |**2022-06-16**|**Backdoor Attacks on Vision Transformers**|Akshayvarun Subramanya et.al.|[2206.08477](http://arxiv.org/abs/2206.08477)|**[link](https://github.com/DevT02/backdoor-attacks-on-ViTs-with-LoRA)**|
 |**2023-02-08**|**On the Permanence of Backdoors in Evolving Models**|Huiying Li et.al.|[2206.04677](http://arxiv.org/abs/2206.04677)|null|
