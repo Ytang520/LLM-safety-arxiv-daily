@@ -1,4 +1,4 @@
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**GPTZero: Robust Detection of LLM-Generated Texts**|George Alexandru Adam et.al.|[2602.13042](http://arxiv.org/abs/2602.13042)|null|
+|**2026-02-12**|**Sparse Autoencoders are Capable LLM Jailbreak Mitigators**|Yannick Assogba et.al.|[2602.12418](http://arxiv.org/abs/2602.12418)|null|
+|**2026-02-12**|**Abstractive Red-Teaming of Language Model Character**|Nate Rahn et.al.|[2602.12318](http://arxiv.org/abs/2602.12318)|null|
 |**2026-02-12**|**Stop Tracking Me! Proactive Defense Against Attribute Inference Attack in LLMs**|Dong Yan et.al.|[2602.11528](http://arxiv.org/abs/2602.11528)|**[link](https://github.com/Jasper-Yan/TRACE-RPS)**|
 |**2026-02-12**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[2602.11495](http://arxiv.org/abs/2602.11495)|null|
 |**2026-02-11**|**The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates**|John M. Willis et.al.|[2602.11301](http://arxiv.org/abs/2602.11301)|null|
 |**2026-02-11**|**TRACE: Timely Retrieval and Alignment for Cybersecurity Knowledge Graph Construction and Expansion**|Zijing Xu et.al.|[2602.11211](http://arxiv.org/abs/2602.11211)|null|
-|**2026-02-12**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
+|**2026-02-13**|**Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System**|Zhenhua Zou et.al.|[2602.10915](http://arxiv.org/abs/2602.10915)|null|
 |**2026-02-11**|**Protecting Context and Prompts: Deterministic Security for Non-Deterministic AI**|Mohan Rajagopalan et.al.|[2602.10481](http://arxiv.org/abs/2602.10481)|null|
 |**2026-02-11**|**The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis**|Peiran Wang et.al.|[2602.10453](http://arxiv.org/abs/2602.10453)|null|
 |**2026-02-11**|**Triggers Hijack Language Circuits: A Mechanistic Analysis of Backdoor Behaviors in Large Language Models**|Théo Lasnier et.al.|[2602.10382](http://arxiv.org/abs/2602.10382)|null|
@@ -2270,7 +2273,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3368,5 +3371,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
 
