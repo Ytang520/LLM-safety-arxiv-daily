@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks**|Lukas Struppek et.al.|[2602.14689](http://arxiv.org/abs/2602.14689)|null|
+|**2026-02-16**|**Competition for attention predicts good-to-bad tipping in AI**|Neil F. Johnson et.al.|[2602.14370](http://arxiv.org/abs/2602.14370)|null|
+|**2026-02-15**|**Anticipating Adversary Behavior in DevSecOps Scenarios through Large Language Models**|Mario Marín Caballero et.al.|[2602.14106](http://arxiv.org/abs/2602.14106)|null|
+|**2026-02-14**|**AISA: Awakening Intrinsic Safety Awareness in Large Language Models against Jailbreak Attacks**|Weiming Song et.al.|[2602.13547](http://arxiv.org/abs/2602.13547)|null|
+|**2026-02-13**|**SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs**|Mohamed Shaaban et.al.|[2602.13529](http://arxiv.org/abs/2602.13529)|null|
+|**2026-02-13**|**OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage**|Akshat Naik et.al.|[2602.13477](http://arxiv.org/abs/2602.13477)|null|
+|**2026-02-13**|**Backdooring Bias in Large Language Models**|Anudeep Das et.al.|[2602.13427](http://arxiv.org/abs/2602.13427)|null|
+|**2026-02-13**|**Assessing Spear-Phishing Website Generation in Large Language Model Coding Agents**|Tailia Malloy et.al.|[2602.13363](http://arxiv.org/abs/2602.13363)|null|
 |**2026-02-13**|**GPTZero: Robust Detection of LLM-Generated Texts**|George Alexandru Adam et.al.|[2602.13042](http://arxiv.org/abs/2602.13042)|null|
 |**2026-02-12**|**Sparse Autoencoders are Capable LLM Jailbreak Mitigators**|Yannick Assogba et.al.|[2602.12418](http://arxiv.org/abs/2602.12418)|null|
 |**2026-02-12**|**Abstractive Red-Teaming of Language Model Character**|Nate Rahn et.al.|[2602.12318](http://arxiv.org/abs/2602.12318)|null|
@@ -2281,6 +2289,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-16**|**Multi-Turn Adaptive Prompting Attack on Large Vision-Language Models**|In Chong Choi et.al.|[2602.14399](http://arxiv.org/abs/2602.14399)|null|
+|**2026-02-09**|**NutVLM: A Self-Adaptive Defense Framework against Full-Dimension Attacks for Vision Language Models in Autonomous Driving**|Xiaoxu Peng et.al.|[2602.13293](http://arxiv.org/abs/2602.13293)|null|
 |**2026-02-12**|**SafeNeuron: Neuron-Level Safety Alignment for Large Language Models**|Zhaoxin Wang et.al.|[2602.12158](http://arxiv.org/abs/2602.12158)|null|
 |**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
 |**2026-02-10**|**When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models**|Jiacheng Hou et.al.|[2602.10179](http://arxiv.org/abs/2602.10179)|null|
