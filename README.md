@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety**|Max Springer et.al.|[2602.15799](http://arxiv.org/abs/2602.15799)|null|
+|**2026-02-17**|**A Content-Based Framework for Cybersecurity Refusal Decisions in Large Language Models**|Meirav Segal et.al.|[2602.15689](http://arxiv.org/abs/2602.15689)|null|
+|**2026-02-17**|**Revisiting Backdoor Threat in Federated Instruction Tuning from a Signal Aggregation Perspective**|Haodong Zhao et.al.|[2602.15671](http://arxiv.org/abs/2602.15671)|null|
 |**2026-02-16**|**Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks**|Lukas Struppek et.al.|[2602.14689](http://arxiv.org/abs/2602.14689)|null|
 |**2026-02-16**|**Competition for attention predicts good-to-bad tipping in AI**|Neil F. Johnson et.al.|[2602.14370](http://arxiv.org/abs/2602.14370)|null|
 |**2026-02-15**|**Anticipating Adversary Behavior in DevSecOps Scenarios through Large Language Models**|Mario Marín Caballero et.al.|[2602.14106](http://arxiv.org/abs/2602.14106)|null|
