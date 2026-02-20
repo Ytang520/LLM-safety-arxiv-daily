@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning**|Jyotin Goel et.al.|[2602.17546](http://arxiv.org/abs/2602.17546)|null|
+|**2026-02-19**|**AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue**|Adib Sakhawat et.al.|[2602.17443](http://arxiv.org/abs/2602.17443)|null|
+|**2026-02-19**|**What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?**|Boyang Ma et.al.|[2602.17345](http://arxiv.org/abs/2602.17345)|null|
+|**2026-02-19**|**Fail-Closed Alignment for Large Language Models**|Zachary Coalson et.al.|[2602.16977](http://arxiv.org/abs/2602.16977)|null|
+|**2026-02-18**|**Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents**|Arnold Cartagena et.al.|[2602.16943](http://arxiv.org/abs/2602.16943)|null|
+|**2026-02-18**|**DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs**|Justin Albrethsen et.al.|[2602.16935](http://arxiv.org/abs/2602.16935)|null|
+|**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)|null|
+|**2026-02-18**|**The Vulnerability of LLM Rankers to Prompt Injection Attacks**|Yu Yin et.al.|[2602.16752](http://arxiv.org/abs/2602.16752)|null|
 |**2026-02-18**|**AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models**|Adib Sakhawat et.al.|[2602.16639](http://arxiv.org/abs/2602.16639)|null|
 |**2026-02-18**|**Recursive language models for jailbreak detection: a procedural defense for tool-augmented agents**|Doron Shavit et.al.|[2602.16520](http://arxiv.org/abs/2602.16520)|null|
 |**2026-02-17**|**The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety**|Max Springer et.al.|[2602.15799](http://arxiv.org/abs/2602.15799)|null|
@@ -2294,6 +2302,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-19**|**BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning**|Siyuan Liang et.al.|[2602.17168](http://arxiv.org/abs/2602.17168)|null|
 |**2026-02-16**|**Multi-Turn Adaptive Prompting Attack on Large Vision-Language Models**|In Chong Choi et.al.|[2602.14399](http://arxiv.org/abs/2602.14399)|null|
 |**2026-02-09**|**NutVLM: A Self-Adaptive Defense Framework against Full-Dimension Attacks for Vision Language Models in Autonomous Driving**|Xiaoxu Peng et.al.|[2602.13293](http://arxiv.org/abs/2602.13293)|null|
 |**2026-02-12**|**SafeNeuron: Neuron-Level Safety Alignment for Large Language Models**|Zhaoxin Wang et.al.|[2602.12158](http://arxiv.org/abs/2602.12158)|null|
