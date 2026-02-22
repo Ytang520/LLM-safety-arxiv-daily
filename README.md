@@ -18,7 +18,7 @@
 |**2026-02-19**|**Learning to Stay Safe: Adaptive Regularization Against Safety Degradation during Fine-Tuning**|Jyotin Goel et.al.|[2602.17546](http://arxiv.org/abs/2602.17546)|null|
 |**2026-02-19**|**AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue**|Adib Sakhawat et.al.|[2602.17443](http://arxiv.org/abs/2602.17443)|null|
 |**2026-02-19**|**What Breaks Embodied AI Security:LLM Vulnerabilities, CPS Flaws,or Something Else?**|Boyang Ma et.al.|[2602.17345](http://arxiv.org/abs/2602.17345)|null|
-|**2026-02-19**|**Fail-Closed Alignment for Large Language Models**|Zachary Coalson et.al.|[2602.16977](http://arxiv.org/abs/2602.16977)|null|
+|**2026-02-19**|**Fail-Closed Alignment for Large Language Models**|Zachary Coalson et.al.|[2602.16977](http://arxiv.org/abs/2602.16977)|**[link](https://github.com/ztcoalson/Fail-Closed-Alignment)**|
 |**2026-02-18**|**Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents**|Arnold Cartagena et.al.|[2602.16943](http://arxiv.org/abs/2602.16943)|null|
 |**2026-02-18**|**DeepContext: Stateful Real-Time Detection of Multi-Turn Adversarial Intent Drift in LLMs**|Justin Albrethsen et.al.|[2602.16935](http://arxiv.org/abs/2602.16935)|null|
 |**2026-02-18**|**IndicJR: A Judge-Free Benchmark of Jailbreak Robustness in South Asian Languages**|Priyaranjan Pattnayak et.al.|[2602.16832](http://arxiv.org/abs/2602.16832)|null|
