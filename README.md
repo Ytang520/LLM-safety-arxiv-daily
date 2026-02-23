@@ -1259,7 +1259,7 @@
 |**2025-02-03**|**Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale**|Elisa Tsai et.al.|[2502.01798](http://arxiv.org/abs/2502.01798)|null|
 |**2025-06-25**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|null|
 |**2025-04-14**|**Towards Safer Chatbots: A Framework for Policy Compliance Evaluation of Custom GPTs**|David Rodriguez et.al.|[2502.01436](http://arxiv.org/abs/2502.01436)|null|
-|**2025-02-25**|**Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models**|Yuyang Gong et.al.|[2502.01386](http://arxiv.org/abs/2502.01386)|null|
+|**2025-02-25**|**Topic-FlipRAG: Topic-Orientated Adversarial Opinion Manipulation Attacks to Retrieval-Augmented Generation Models**|Yuyang Gong et.al.|[2502.01386](http://arxiv.org/abs/2502.01386)|**[link](https://github.com/LauJames/Topic-FlipRAG)**|
 |**2025-02-03**|**Peering Behind the Shield: Guardrail Identification in Large Language Models**|Ziqing Yang et.al.|[2502.01241](http://arxiv.org/abs/2502.01241)|null|
 |**2025-02-03**|**Eliciting Language Model Behaviors with Investigator Agents**|Xiang Lisa Li et.al.|[2502.01236](http://arxiv.org/abs/2502.01236)|null|
 |**2025-02-03**|**Jailbreaking with Universal Multi-Prompts**|Yu-Ling Hsu et.al.|[2502.01154](http://arxiv.org/abs/2502.01154)|null|
@@ -2951,8 +2951,8 @@
 |**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822](http://arxiv.org/abs/2405.19822)|null|
 |**2024-05-30**|**AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization**|Jiawei Chen et.al.|[2405.19668](http://arxiv.org/abs/2405.19668)|null|
 |**2024-10-11**|**ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users**|Guanlin Li et.al.|[2405.19360](http://arxiv.org/abs/2405.19360)|null|
-|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|null|
-|**2024-05-29**|**Voice Jailbreak Attacks Against GPT-4o**|Xinyue Shen et.al.|[2405.19103](http://arxiv.org/abs/2405.19103)|null|
+|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
+|**2024-05-29**|**Voice Jailbreak Attacks Against GPT-4o**|Xinyue Shen et.al.|[2405.19103](http://arxiv.org/abs/2405.19103)|**[link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)**|
 |**2025-11-12**|**Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships**|Futa Waseda et.al.|[2405.18770](http://arxiv.org/abs/2405.18770)|null|
 |**2024-10-14**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
 |**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|null|
@@ -3118,11 +3118,11 @@
 |**2023-12-19**|**Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks**|Wenhan Yang et.al.|[2303.06854](http://arxiv.org/abs/2303.06854)|null|
 |**2023-03-10**|**MIXPGD: Hybrid Adversarial Training for Speech Recognition Systems**|Aminul Huq et.al.|[2303.05758](http://arxiv.org/abs/2303.05758)|null|
 |**2023-03-07**|**CUDA: Convolution-based Unlearnable Datasets**|Vinu Sankar Sadasivan et.al.|[2303.04278](http://arxiv.org/abs/2303.04278)|null|
-|**2023-08-06**|**ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms**|Minzhou Pan et.al.|[2302.11408](http://arxiv.org/abs/2302.11408)|null|
-|**2023-06-25**|**Identifying Adversarially Attackable and Robust Samples**|Vyas Raina et.al.|[2301.12896](http://arxiv.org/abs/2301.12896)|null|
+|**2023-08-06**|**ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms**|Minzhou Pan et.al.|[2302.11408](http://arxiv.org/abs/2302.11408)|**[link](https://github.com/reds-lab/ASSET)**|
+|**2023-06-25**|**Identifying Adversarially Attackable and Robust Samples**|Vyas Raina et.al.|[2301.12896](http://arxiv.org/abs/2301.12896)|**[link](https://github.com/romainf28/ood_detection)**|
 |**2023-07-23**|**In-situ Water quality monitoring in Oil and Gas operations**|Satish Kumar et.al.|[2301.08800](http://arxiv.org/abs/2301.08800)|null|
 |**2023-08-02**|**Warning: Humans Cannot Reliably Detect Speech Deepfakes**|Kimberly T. Mai et.al.|[2301.07829](http://arxiv.org/abs/2301.07829)|null|
-|**2023-01-03**|**Backdoor Attacks Against Dataset Distillation**|Yugeng Liu et.al.|[2301.01197](http://arxiv.org/abs/2301.01197)|null|
+|**2023-01-03**|**Backdoor Attacks Against Dataset Distillation**|Yugeng Liu et.al.|[2301.01197](http://arxiv.org/abs/2301.01197)|**[link](https://github.com/liuyugeng/baadd)**|
 |**2022-12-30**|**Guidance Through Surrogate: Towards a Generic Diagnostic Attack**|Muzammal Naseer et.al.|[2212.14875](http://arxiv.org/abs/2212.14875)|null|
 |**2022-12-24**|**Frequency Regularization for Improving Adversarial Robustness**|Binxiao Huang et.al.|[2212.12732](http://arxiv.org/abs/2212.12732)|null|
 |**2022-12-22**|**Chatbots in a Botnet World**|Forrest McKee et.al.|[2212.11126](http://arxiv.org/abs/2212.11126)|null|
@@ -3354,9 +3354,9 @@
 |**2020-05-09**|**SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems**|Edward Chou et.al.|[1812.00292](http://arxiv.org/abs/1812.00292)|null|
 |**2018-11-26**|**Noisy Computations during Inference: Harmful or Helpful?**|Minghai Qin et.al.|[1811.10649](http://arxiv.org/abs/1811.10649)|null|
 |**2018-11-20**|**MimicGAN: Corruption-Mimicking for Blind Image Recovery & Adversarial Defense**|Rushil Anirudh et.al.|[1811.08484](http://arxiv.org/abs/1811.08484)|null|
-|**2018-11-04**|**Adversarial Gain**|Peter Henderson et.al.|[1811.01302](http://arxiv.org/abs/1811.01302)|null|
-|**2019-03-15**|**Improving the Generalization of Adversarial Training with Domain Adaptation**|Chuanbiao Song et.al.|[1810.00740](http://arxiv.org/abs/1810.00740)|null|
-|**2018-09-22**|**Unrestricted Adversarial Examples**|Tom B. Brown et.al.|[1809.08352](http://arxiv.org/abs/1809.08352)|null|
+|**2018-11-04**|**Adversarial Gain**|Peter Henderson et.al.|[1811.01302](http://arxiv.org/abs/1811.01302)|**[link](https://github.com/jsyoon0823/GAIN)**|
+|**2019-03-15**|**Improving the Generalization of Adversarial Training with Domain Adaptation**|Chuanbiao Song et.al.|[1810.00740](http://arxiv.org/abs/1810.00740)|**[link](https://github.com/JHL-HUST/ATDA)**|
+|**2018-09-22**|**Unrestricted Adversarial Examples**|Tom B. Brown et.al.|[1809.08352](http://arxiv.org/abs/1809.08352)|**[link](https://github.com/openphilanthropy/unrestricted-adversarial-examples)**|
 |**2019-05-29**|**Adversarial Training Towards Robust Multimedia Recommender System**|Jinhui Tang et.al.|[1809.07062](http://arxiv.org/abs/1809.07062)|**[link](https://github.com/duxy-me/AMR)**|
 |**2018-09-18**|**HashTran-DNN: A Framework for Enhancing Robustness of Deep Neural Networks against Adversarial Malware Samples**|Deqiang Li et.al.|[1809.06498](http://arxiv.org/abs/1809.06498)|null|
 |**2018-09-11**|**Isolated and Ensemble Audio Preprocessing Methods for Detecting Adversarial Examples against Automatic Speech Recognition**|Krishan Rajaratnam et.al.|[1809.04397](http://arxiv.org/abs/1809.04397)|null|
