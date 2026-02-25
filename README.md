@@ -15,12 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
+|**2026-02-24**|**AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs**|Che Wang et.al.|[2602.20720](http://arxiv.org/abs/2602.20720)|null|
 |**2026-02-23**|**The LLMbda Calculus: AI Agents, Conversations, and Information Flow**|Zac Garby et.al.|[2602.20064](http://arxiv.org/abs/2602.20064)|null|
 |**2026-02-23**|**Agents of Chaos**|Natalie Shapira et.al.|[2602.20021](http://arxiv.org/abs/2602.20021)|**[link](https://github.com/zszszszsz/.config)**|
 |**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
 |**2026-02-23**|**LLM-enabled Applications Require System-Level Threat Monitoring**|Yedi Zhang et.al.|[2602.19844](http://arxiv.org/abs/2602.19844)|null|
 |**2026-02-23**|**Agentic AI as a Cybersecurity Attack Surface: Threats, Exploits, and Defenses in Runtime Supply Chains**|Xiaochong Jiang et.al.|[2602.19555](http://arxiv.org/abs/2602.19555)|null|
-|**2026-02-23**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|**[link](https://github.com/kunmukh/tee-redbench)**|
+|**2026-02-23**|**Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments**|Kunal Mukherjee et.al.|[2602.19450](http://arxiv.org/abs/2602.19450)|null|
 |**2026-02-23**|**Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement**|Amirhossein Farzam et.al.|[2602.19396](http://arxiv.org/abs/2602.19396)|null|
 |**2026-02-22**|**Dark and Bright Side of Participatory Red-Teaming with Targets of Stereotyping for Eliciting Harmful Behaviors from Large Language Models**|Sieun Kim et.al.|[2602.19124](http://arxiv.org/abs/2602.19124)|null|
 |**2026-02-22**|**LLM Scalability Risk for Agentic-AI and Model Supply Chain Security**|Kiarash Ahi et.al.|[2602.19021](http://arxiv.org/abs/2602.19021)|null|
@@ -2312,6 +2314,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-24**|**ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction**|Che Wang et.al.|[2602.20708](http://arxiv.org/abs/2602.20708)|null|
 |**2026-02-23**|**VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense**|Nadav Kadvil et.al.|[2602.19570](http://arxiv.org/abs/2602.19570)|null|
 |**2026-02-20**|**FENCE: A Financial and Multimodal Jailbreak Detection Dataset**|Mirae Kim et.al.|[2602.18154](http://arxiv.org/abs/2602.18154)|null|
 |**2026-02-19**|**BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning**|Siyuan Liang et.al.|[2602.17168](http://arxiv.org/abs/2602.17168)|null|
