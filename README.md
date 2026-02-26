@@ -15,10 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**A Multi-Turn Framework for Evaluating AI Misuse in Fraud and Cybercrime Scenarios**|Kimberly T. Mai et.al.|[2602.21831](http://arxiv.org/abs/2602.21831)|null|
+|**2026-02-25**|**Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information**|Umid Suleymanov et.al.|[2602.21496](http://arxiv.org/abs/2602.21496)|null|
+|**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)|null|
 |**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
 |**2026-02-24**|**AdapTools: Adaptive Tool-based Indirect Prompt Injection Attacks on Agentic LLMs**|Che Wang et.al.|[2602.20720](http://arxiv.org/abs/2602.20720)|null|
 |**2026-02-23**|**The LLMbda Calculus: AI Agents, Conversations, and Information Flow**|Zac Garby et.al.|[2602.20064](http://arxiv.org/abs/2602.20064)|null|
-|**2026-02-23**|**Agents of Chaos**|Natalie Shapira et.al.|[2602.20021](http://arxiv.org/abs/2602.20021)|**[link](https://github.com/zszszszsz/.config)**|
+|**2026-02-23**|**Agents of Chaos**|Natalie Shapira et.al.|[2602.20021](http://arxiv.org/abs/2602.20021)|null|
 |**2026-02-23**|**Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming**|Ian Steenstra et.al.|[2602.19948](http://arxiv.org/abs/2602.19948)|null|
 |**2026-02-23**|**LLM-enabled Applications Require System-Level Threat Monitoring**|Yedi Zhang et.al.|[2602.19844](http://arxiv.org/abs/2602.19844)|null|
 |**2026-02-23**|**Agentic AI as a Cybersecurity Attack Surface: Threats, Exploits, and Defenses in Runtime Supply Chains**|Xiaochong Jiang et.al.|[2602.19555](http://arxiv.org/abs/2602.19555)|null|
@@ -2314,6 +2317,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
 |**2026-02-24**|**ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction**|Che Wang et.al.|[2602.20708](http://arxiv.org/abs/2602.20708)|null|
 |**2026-02-23**|**VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense**|Nadav Kadvil et.al.|[2602.19570](http://arxiv.org/abs/2602.19570)|null|
 |**2026-02-20**|**FENCE: A Financial and Multimodal Jailbreak Detection Dataset**|Mirae Kim et.al.|[2602.18154](http://arxiv.org/abs/2602.18154)|null|
