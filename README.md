@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Assessing Deanonymization Risks with Stylometry-Assisted LLM Agent**|Boyang Zhang et.al.|[2602.23079](http://arxiv.org/abs/2602.23079)|null|
+|**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)|null|
+|**2026-02-26**|**AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification**|Tian Zhang et.al.|[2602.22724](http://arxiv.org/abs/2602.22724)|null|
+|**2026-02-25**|**Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace**|Qianlong Lan et.al.|[2602.22450](http://arxiv.org/abs/2602.22450)|null|
+|**2026-02-25**|**HubScan: Detecting Hubness Poisoning in Retrieval-Augmented Generation Systems**|Idan Habler et.al.|[2602.22427](http://arxiv.org/abs/2602.22427)|null|
+|**2026-02-24**|**A Lightweight Defense Mechanism against Next Generation of Phishing Emails using Distilled Attention-Augmented BiLSTM**|Morteza Eskandarian et.al.|[2602.22250](http://arxiv.org/abs/2602.22250)|null|
 |**2026-02-25**|**A Multi-Turn Framework for Evaluating AI Misuse in Fraud and Cybercrime Scenarios**|Kimberly T. Mai et.al.|[2602.21831](http://arxiv.org/abs/2602.21831)|null|
 |**2026-02-25**|**Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information**|Umid Suleymanov et.al.|[2602.21496](http://arxiv.org/abs/2602.21496)|null|
 |**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)|null|
@@ -2317,6 +2323,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-02-24**|**Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models**|Guangnian Wan et.al.|[2602.22246](http://arxiv.org/abs/2602.22246)|null|
 |**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
 |**2026-02-24**|**ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction**|Che Wang et.al.|[2602.20708](http://arxiv.org/abs/2602.20708)|null|
 |**2026-02-23**|**VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense**|Nadav Kadvil et.al.|[2602.19570](http://arxiv.org/abs/2602.19570)|null|
