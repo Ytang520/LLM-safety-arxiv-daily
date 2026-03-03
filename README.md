@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Ignore All Previous Instructions: Jailbreaking as a de-escalatory peace building practise to resist LLM social media bots**|Huw Day et.al.|[2603.01942](http://arxiv.org/abs/2603.01942)|null|
+|**2026-03-02**|**DualSentinel: A Lightweight Framework for Detecting Targeted Attacks in Black-box LLM via Dual Entropy Lull Pattern**|Xiaoyi Pang et.al.|[2603.01574](http://arxiv.org/abs/2603.01574)|null|
+|**2026-03-02**|**From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions**|Zhihang Deng et.al.|[2603.01564](http://arxiv.org/abs/2603.01564)|null|
+|**2026-03-02**|**Jailbreaking Embodied LLMs via Action-level Manipulation**|Xinyu Huang et.al.|[2603.01414](http://arxiv.org/abs/2603.01414)|null|
+|**2026-03-01**|**JailNewsBench: Multi-Lingual and Regional Benchmark for Fake News Generation under Jailbreak Attacks**|Masahiro Kaneko et.al.|[2603.01291](http://arxiv.org/abs/2603.01291)|null|
+|**2026-03-01**|**NeuroSCA: Neuro-Symbolic Constraint Abstraction for Smart Contract Hybrid Fuzzing**|Haochen Liang et.al.|[2603.01272](http://arxiv.org/abs/2603.01272)|null|
+|**2026-03-01**|**Defensive Refusal Bias: How Safety Alignment Fails Cyber Defenders**|David Campbell et.al.|[2603.01246](http://arxiv.org/abs/2603.01246)|null|
+|**2026-03-01**|**Token-level Data Selection for Safe LLM Fine-tuning**|Yanping Li et.al.|[2603.01185](http://arxiv.org/abs/2603.01185)|null|
+|**2026-02-28**|**ProtegoFed: Backdoor-Free Federated Instruction Tuning with Interspersed Poisoned Data**|Haodong Zhao et.al.|[2603.00516](http://arxiv.org/abs/2603.00516)|null|
+|**2026-02-28**|**Antibody: Strengthening Defense Against Harmful Fine-Tuning for Large Language Models via Attenuating Harmful Gradient Influence**|Quoc Minh Nguyen et.al.|[2603.00498](http://arxiv.org/abs/2603.00498)|null|
 |**2026-02-27**|**Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking**|Zhicheng Fang et.al.|[2602.24009](http://arxiv.org/abs/2602.24009)|null|
 |**2026-02-24**|**Detoxifying LLMs via Representation Erasure-Based Preference Optimization**|Nazanin Mohammadi Sepahvand et.al.|[2602.23391](http://arxiv.org/abs/2602.23391)|null|
 |**2026-02-26**|**Assessing Deanonymization Risks with Stylometry-Assisted LLM Agent**|Boyang Zhang et.al.|[2602.23079](http://arxiv.org/abs/2602.23079)|null|
@@ -2325,6 +2335,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-03-02**|**Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution**|Guoxin Shi et.al.|[2603.01784](http://arxiv.org/abs/2603.01784)|null|
+|**2026-02-28**|**MIDAS: Multi-Image Dispersion and Semantic Reconstruction for Jailbreaking MLLMs**|Yilian Liu et.al.|[2603.00565](http://arxiv.org/abs/2603.00565)|null|
+|**2026-02-28**|**CaptionFool: Universal Image Captioning Model Attacks**|Swapnil Parekh et.al.|[2603.00529](http://arxiv.org/abs/2603.00529)|null|
+|**2026-02-28**|**2024 YR4: Identification of Possible Precoveries in 2016 IPTF Data**|Sam Deen et.al.|[2603.00449](http://arxiv.org/abs/2603.00449)|null|
+|**2026-02-26**|**Hidden in the Metadata: Stealth Poisoning Attacks on Multimodal Retrieval-Augmented Generation**|Kennedy Edemacu et.al.|[2603.00172](http://arxiv.org/abs/2603.00172)|null|
 |**2026-02-27**|**GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models**|Xingyu Zhu et.al.|[2602.24027](http://arxiv.org/abs/2602.24027)|null|
 |**2026-02-24**|**Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models**|Guangnian Wan et.al.|[2602.22246](http://arxiv.org/abs/2602.22246)|null|
 |**2026-02-25**|**Resilient Federated Chain: Transforming Blockchain Consensus into an Active Defense Layer for Federated Learning**|Mario García-Márquez et.al.|[2602.21841](http://arxiv.org/abs/2602.21841)|null|
