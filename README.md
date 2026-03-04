@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models**|Zhi Xu et.al.|[2603.03081](http://arxiv.org/abs/2603.03081)|null|
+|**2026-03-03**|**From Shallow to Deep: Pinning Semantic Intent via Causal GRPO**|Shuyi Zhou et.al.|[2603.02675](http://arxiv.org/abs/2603.02675)|null|
+|**2026-03-02**|**TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models**|Zhen Guo et.al.|[2603.02436](http://arxiv.org/abs/2603.02436)|null|
 |**2026-03-02**|**Ignore All Previous Instructions: Jailbreaking as a de-escalatory peace building practise to resist LLM social media bots**|Huw Day et.al.|[2603.01942](http://arxiv.org/abs/2603.01942)|null|
 |**2026-03-02**|**DualSentinel: A Lightweight Framework for Detecting Targeted Attacks in Black-box LLM via Dual Entropy Lull Pattern**|Xiaoyi Pang et.al.|[2603.01574](http://arxiv.org/abs/2603.01574)|null|
 |**2026-03-02**|**From Secure Agentic AI to Secure Agentic Web: Challenges, Threats, and Future Directions**|Zhihang Deng et.al.|[2603.01564](http://arxiv.org/abs/2603.01564)|null|
@@ -2335,6 +2338,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zixuan Xu et.al.|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
+|**2026-03-03**|**MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models**|Zhongxi Wang et.al.|[2603.02482](http://arxiv.org/abs/2603.02482)|null|
 |**2026-03-02**|**Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution**|Guoxin Shi et.al.|[2603.01784](http://arxiv.org/abs/2603.01784)|null|
 |**2026-02-28**|**MIDAS: Multi-Image Dispersion and Semantic Reconstruction for Jailbreaking MLLMs**|Yilian Liu et.al.|[2603.00565](http://arxiv.org/abs/2603.00565)|null|
 |**2026-02-28**|**CaptionFool: Universal Image Captioning Model Attacks**|Swapnil Parekh et.al.|[2603.00529](http://arxiv.org/abs/2603.00529)|null|
