@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Efficient Refusal Ablation in LLM through Optimal Transport**|Geraldin Nanfack et.al.|[2603.04355](http://arxiv.org/abs/2603.04355)|null|
+|**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
 |**2026-03-03**|**TAO-Attack: Toward Advanced Optimization-Based Jailbreak Attacks for Large Language Models**|Zhi Xu et.al.|[2603.03081](http://arxiv.org/abs/2603.03081)|null|
 |**2026-03-03**|**From Shallow to Deep: Pinning Semantic Intent via Causal GRPO**|Shuyi Zhou et.al.|[2603.02675](http://arxiv.org/abs/2603.02675)|null|
 |**2026-03-02**|**TraceGuard: Process-Guided Firewall against Reasoning Backdoors in Large Language Models**|Zhen Guo et.al.|[2603.02436](http://arxiv.org/abs/2603.02436)|null|
@@ -2338,6 +2340,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-03-04**|**Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions**|Neha Nagaraja et.al.|[2603.03637](http://arxiv.org/abs/2603.03637)|null|
+|**2026-03-03**|**Zero-Knowledge Federated Learning with Lattice-Based Hybrid Encryption for Quantum-Resilient Medical AI**|Edouard Lansiaux et.al.|[2603.03398](http://arxiv.org/abs/2603.03398)|null|
 |**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zixuan Xu et.al.|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
 |**2026-03-03**|**MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models**|Zhongxi Wang et.al.|[2603.02482](http://arxiv.org/abs/2603.02482)|null|
 |**2026-03-02**|**Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution**|Guoxin Shi et.al.|[2603.01784](http://arxiv.org/abs/2603.01784)|null|
