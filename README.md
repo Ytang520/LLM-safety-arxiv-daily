@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-03-06**|**Sensitivity-Aware Retrieval-Augmented Intent Clarification**|Maik Larooij et.al.|[2603.06025](http://arxiv.org/abs/2603.06025)|null|
-|**2026-03-06**|**Knowing without Acting: The Disentangled Geometry of Safety Mechanisms in Large Language Models**|Jinman Wu et.al.|[2603.05773](http://arxiv.org/abs/2603.05773)|**[link](https://github.com/security-WJM/DSH)**|
+|**2026-03-06**|**Knowing without Acting: The Disentangled Geometry of Safety Mechanisms in Large Language Models**|Jinman Wu et.al.|[2603.05773](http://arxiv.org/abs/2603.05773)|null|
 |**2026-03-06**|**Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads**|Jinman Wu et.al.|[2603.05772](http://arxiv.org/abs/2603.05772)|null|
 |**2026-03-05**|**Good-Enough LLM Obfuscation (GELO)**|Anatoly Belikov et.al.|[2603.05035](http://arxiv.org/abs/2603.05035)|null|
 |**2026-03-05**|**Design Behaviour Codes (DBCs): A Taxonomy-Driven Layered Governance Benchmark for Large Language Models**|G. Madan Mohan et.al.|[2603.04837](http://arxiv.org/abs/2603.04837)|null|
