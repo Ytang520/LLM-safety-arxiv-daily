@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-07**|**Can Safety Emerge from Weak Supervision? A Systematic Analysis of Small Language Models**|Punyajoy Saha et.al.|[2603.07017](http://arxiv.org/abs/2603.07017)|null|
+|**2026-03-06**|**Safe Transformer: An Explicit Safety Bit For Interpretable And Controllable Alignment**|Jingyuan Feng et.al.|[2603.06727](http://arxiv.org/abs/2603.06727)|null|
 |**2026-03-06**|**Sensitivity-Aware Retrieval-Augmented Intent Clarification**|Maik Larooij et.al.|[2603.06025](http://arxiv.org/abs/2603.06025)|null|
 |**2026-03-06**|**Knowing without Acting: The Disentangled Geometry of Safety Mechanisms in Large Language Models**|Jinman Wu et.al.|[2603.05773](http://arxiv.org/abs/2603.05773)|null|
 |**2026-03-06**|**Depth Charge: Jailbreak Large Language Models from Deep Safety Attention Heads**|Jinman Wu et.al.|[2603.05772](http://arxiv.org/abs/2603.05772)|null|
@@ -2338,7 +2340,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2350,7 +2352,7 @@
 |**2026-03-03**|**Zero-Knowledge Federated Learning with Lattice-Based Hybrid Encryption for Quantum-Resilient Medical AI**|Edouard Lansiaux et.al.|[2603.03398](http://arxiv.org/abs/2603.03398)|null|
 |**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zixuan Xu et.al.|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
 |**2026-03-03**|**MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models**|Zhongxi Wang et.al.|[2603.02482](http://arxiv.org/abs/2603.02482)|null|
-|**2026-03-02**|**Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution**|Guoxin Shi et.al.|[2603.01784](http://arxiv.org/abs/2603.01784)|null|
+|**2026-03-02**|**Co-Evolutionary Multi-Modal Alignment via Structured Adversarial Evolution**|Guoxin Shi et.al.|[2603.01784](http://arxiv.org/abs/2603.01784)|**[link](https://github.com/muteyaki/cemma)**|
 |**2026-02-28**|**MIDAS: Multi-Image Dispersion and Semantic Reconstruction for Jailbreaking MLLMs**|Yilian Liu et.al.|[2603.00565](http://arxiv.org/abs/2603.00565)|null|
 |**2026-02-28**|**CaptionFool: Universal Image Captioning Model Attacks**|Swapnil Parekh et.al.|[2603.00529](http://arxiv.org/abs/2603.00529)|null|
 |**2026-02-28**|**2024 YR4: Identification of Possible Precoveries in 2016 IPTF Data**|Sam Deen et.al.|[2603.00449](http://arxiv.org/abs/2603.00449)|null|
@@ -3454,5 +3456,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
