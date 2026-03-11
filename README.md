@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation**|Sihong Wu et.al.|[2603.09723](http://arxiv.org/abs/2603.09723)|null|
 |**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
 |**2026-03-09**|**The Struggle Between Continuation and Refusal: A Mechanistic Analysis of the Continuation-Triggered Jailbreak in LLMs**|Yonghong Deng et.al.|[2603.08234](http://arxiv.org/abs/2603.08234)|null|
 |**2026-03-08**|**From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents**|Xiaolei Zhang et.al.|[2603.07496](http://arxiv.org/abs/2603.07496)|null|
