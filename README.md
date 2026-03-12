@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services**|Fabrizio Dimino et.al.|[2603.10807](http://arxiv.org/abs/2603.10807)|null|
+|**2026-03-11**|**CacheSolidarity: Preventing Prefix Caching Side Channels in Multi-tenant LLM Serving Systems**|Panagiotis Georgios Pennas et.al.|[2603.10726](http://arxiv.org/abs/2603.10726)|null|
+|**2026-03-11**|**Don't Let the Claw Grip Your Hand: A Security Analysis and Defense Framework for OpenClaw**|Zhengyang Shan et.al.|[2603.10387](http://arxiv.org/abs/2603.10387)|null|
+|**2026-03-10**|**Multi-Stream Perturbation Attack: Breaking Safety Alignment of Thinking LLMs Through Concurrent Task Interference**|Fan Yang et.al.|[2603.10091](http://arxiv.org/abs/2603.10091)|null|
+|**2026-03-10**|**Amnesia: Adversarial Semantic Layer Specific Activation Steering in Large Language Models**|Ali Raza et.al.|[2603.10080](http://arxiv.org/abs/2603.10080)|null|
+|**2026-03-10**|**ADVERSA: Measuring Multi-Turn Guardrail Degradation and Judge Reliability in Large Language Models**|Harry Owiredu-Ashley et.al.|[2603.10068](http://arxiv.org/abs/2603.10068)|null|
 |**2026-03-10**|**RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation**|Sihong Wu et.al.|[2603.09723](http://arxiv.org/abs/2603.09723)|null|
 |**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
 |**2026-03-09**|**The Struggle Between Continuation and Refusal: A Mechanistic Analysis of the Continuation-Triggered Jailbreak in LLMs**|Yonghong Deng et.al.|[2603.08234](http://arxiv.org/abs/2603.08234)|null|
@@ -2347,7 +2353,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3467,5 +3473,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
