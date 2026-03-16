@@ -2373,7 +2373,7 @@
 |**2026-03-13**|**Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch**|Qichen Zhao et.al.|[2603.13028](http://arxiv.org/abs/2603.13028)|null|
 |**2026-03-13**|**Test-Time Attention Purification for Backdoored Large Vision Language Models**|Zhifang Zhang et.al.|[2603.12989](http://arxiv.org/abs/2603.12989)|null|
 |**2026-03-12**|**Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies**|Siddharth Srikanth et.al.|[2603.12510](http://arxiv.org/abs/2603.12510)|null|
-|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Siquan Huang et.al.|[2603.11664](http://arxiv.org/abs/2603.11664)|null|
+|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Siquan Huang et.al.|[2603.11664](http://arxiv.org/abs/2603.11664)|**[link](https://github.com/siquanhuang/BackdoorIDS)**|
 |**2026-03-10**|**Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models**|Quanchen Zou et.al.|[2603.09246](http://arxiv.org/abs/2603.09246)|null|
 |**2026-03-09**|**Online Sparse Synthetic Aperture Radar Imaging**|Conor Flynn et.al.|[2603.08582](http://arxiv.org/abs/2603.08582)|null|
 |**2026-03-10**|**SlowBA: An efficiency backdoor attack towards VLM-based GUI agents**|Junxian Li et.al.|[2603.08316](http://arxiv.org/abs/2603.08316)|null|
