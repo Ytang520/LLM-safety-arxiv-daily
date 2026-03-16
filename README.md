@@ -2097,7 +2097,7 @@
 |**2024-01-27**|**Low-Resource Languages Jailbreak GPT-4**|Zheng-Xin Yong et.al.|[2310.02446](http://arxiv.org/abs/2310.02446)|null|
 |**2023-10-03**|**Jailbreaker in Jail: Moving Target Defense for Large Language Models**|Bocheng Chen et.al.|[2310.02417](http://arxiv.org/abs/2310.02417)|null|
 |**2024-08-04**|**LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples**|Jia-Yu Yao et.al.|[2310.01469](http://arxiv.org/abs/2310.01469)|null|
-|**2024-06-09**|**Fooling the Textual Fooler via Randomizing Latent Representations**|Duy C. Hoang et.al.|[2310.01452](http://arxiv.org/abs/2310.01452)|null|
+|**2024-06-09**|**Fooling the Textual Fooler via Randomizing Latent Representations**|Duy C. Hoang et.al.|[2310.01452](http://arxiv.org/abs/2310.01452)|**[link](https://github.com/mail-research/AdvFooler-text-defender)**|
 |**2024-01-22**|**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**|Jen-tse Huang et.al.|[2310.01386](http://arxiv.org/abs/2310.01386)|null|
 |**2023-10-02**|**No Offense Taken: Eliciting Offensiveness from Language Models**|Anugya Srivastava et.al.|[2310.00892](http://arxiv.org/abs/2310.00892)|null|
 |**2024-07-28**|**Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games**|Chengdong Ma et.al.|[2310.00322](http://arxiv.org/abs/2310.00322)|null|
@@ -3287,7 +3287,7 @@
 |**2022-01-01**|**Rethinking Feature Uncertainty in Stochastic Neural Networks for Adversarial Robustness**|Hao Yang et.al.|[2201.00148](http://arxiv.org/abs/2201.00148)|null|
 |**2022-01-11**|**The Economics of Interstellar Flight**|Philip Lubin et.al.|[2112.13911](http://arxiv.org/abs/2112.13911)|null|
 |**2024-08-19**|**Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence**|Ruoxi Chen et.al.|[2112.13060](http://arxiv.org/abs/2112.13060)|null|
-|**2021-12-21**|**Input-Specific Robustness Certification for Randomized Smoothing**|Ruoxin Chen et.al.|[2112.12084](http://arxiv.org/abs/2112.12084)|null|
+|**2021-12-21**|**Input-Specific Robustness Certification for Randomized Smoothing**|Ruoxin Chen et.al.|[2112.12084](http://arxiv.org/abs/2112.12084)|**[link](https://github.com/roy-ch/Input-Specific-Certification)**|
 |**2022-03-18**|**All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines**|Yuxuan Zhang et.al.|[2112.09219](http://arxiv.org/abs/2112.09219)|null|
 |**2023-06-08**|**Towards Robust Neural Image Compression: Adversarial Attack and Model Finetuning**|Tong Chen et.al.|[2112.08691](http://arxiv.org/abs/2112.08691)|null|
 |**2022-05-03**|**Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation**|Giscard Biamby et.al.|[2112.08594](http://arxiv.org/abs/2112.08594)|null|
