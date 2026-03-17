@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-14**|**GroupGuard: A Framework for Modeling and Defending Collusive Attacks in Multi-Agent Systems**|Yiling Tao et.al.|[2603.13940](http://arxiv.org/abs/2603.13940)|null|
+|**2026-03-14**|**DeceptGuard :A Constitutional Oversight Framework For Detecting Deception in LLM Agents**|Snehasis Mukhopadhyay et.al.|[2603.13791](http://arxiv.org/abs/2603.13791)|null|
+|**2026-03-12**|**Accelerating Suffix Jailbreak attacks with Prefix-Shared KV-cache**|Xinhai Wang et.al.|[2603.13420](http://arxiv.org/abs/2603.13420)|**[link](https://github.com/626619403/PSKV)**|
 |**2026-03-13**|**Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw**|Zonghao Ying et.al.|[2603.12644](http://arxiv.org/abs/2603.12644)|null|
 |**2026-03-12**|**CLASP: Defending Hybrid Large Language Models Against Hidden State Poisoning Attacks**|Alexandre Le Mercier et.al.|[2603.12206](http://arxiv.org/abs/2603.12206)|null|
 |**2026-03-12**|**Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems**|Sarbartha Banerjee et.al.|[2603.12023](http://arxiv.org/abs/2603.12023)|null|
@@ -2362,7 +2365,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2370,10 +2373,12 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-03-14**|**Sirens' Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**|Zijian Ling et.al.|[2603.13847](http://arxiv.org/abs/2603.13847)|null|
+|**2026-03-11**|**VisualLeakBench: Auditing the Fragility of Large Vision-Language Models against PII Leakage and Social Engineering**|Youting Wang et.al.|[2603.13385](http://arxiv.org/abs/2603.13385)|null|
 |**2026-03-13**|**Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch**|Qichen Zhao et.al.|[2603.13028](http://arxiv.org/abs/2603.13028)|null|
 |**2026-03-13**|**Test-Time Attention Purification for Backdoored Large Vision Language Models**|Zhifang Zhang et.al.|[2603.12989](http://arxiv.org/abs/2603.12989)|null|
 |**2026-03-12**|**Red-Teaming Vision-Language-Action Models via Quality Diversity Prompt Generation for Robust Robot Policies**|Siddharth Srikanth et.al.|[2603.12510](http://arxiv.org/abs/2603.12510)|null|
-|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Siquan Huang et.al.|[2603.11664](http://arxiv.org/abs/2603.11664)|**[link](https://github.com/siquanhuang/BackdoorIDS)**|
+|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Siquan Huang et.al.|[2603.11664](http://arxiv.org/abs/2603.11664)|null|
 |**2026-03-10**|**Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models**|Quanchen Zou et.al.|[2603.09246](http://arxiv.org/abs/2603.09246)|null|
 |**2026-03-09**|**Online Sparse Synthetic Aperture Radar Imaging**|Conor Flynn et.al.|[2603.08582](http://arxiv.org/abs/2603.08582)|null|
 |**2026-03-10**|**SlowBA: An efficiency backdoor attack towards VLM-based GUI agents**|Junxian Li et.al.|[2603.08316](http://arxiv.org/abs/2603.08316)|null|
@@ -3486,5 +3491,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
