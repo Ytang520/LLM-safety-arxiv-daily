@@ -19,7 +19,7 @@
 |**2026-03-19**|**Network and Device Level Cyber Deception for Contested Environments Using RL and LLMs**|Abhijeet Sahu et.al.|[2603.17272](http://arxiv.org/abs/2603.17272)|null|
 |**2026-03-18**|**LAAF: Logic-layer Automated Attack Framework A Systematic Red-Teaming Methodology for LPCI Vulnerabilities in Agentic Large Language Model Systems**|Hammad Atta et.al.|[2603.17239](http://arxiv.org/abs/2603.17239)|null|
 |**2026-03-17**|**Detecting Data Poisoning in Code Generation LLMs via Black-Box, Vulnerability-Oriented Scanning**|Shenao Yan et.al.|[2603.17174](http://arxiv.org/abs/2603.17174)|null|
-|**2026-03-17**|**Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework**|Taiwo Onitiju et.al.|[2603.17123](http://arxiv.org/abs/2603.17123)|**[link](https://github.com/T-Oni-01/Security-Assessment-and-Mitigation-Strategies-for-Large-Language-Models)**|
+|**2026-03-17**|**Security Assessment and Mitigation Strategies for Large Language Models: A Comprehensive Defensive Framework**|Taiwo Onitiju et.al.|[2603.17123](http://arxiv.org/abs/2603.17123)|null|
 |**2026-03-17**|**Differential Harm Propensity in Personalized LLM Agents: The Curious Case of Mental Health Disclosure**|Caglar Yildirim et.al.|[2603.16734](http://arxiv.org/abs/2603.16734)|null|
 |**2026-03-17**|**BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs**|Sangyeon Yoon et.al.|[2603.16557](http://arxiv.org/abs/2603.16557)|null|
 |**2026-03-17**|**Rotated Robustness: A Training-Free Defense against Bit-Flip Attacks on Large Language Models**|Deng Liu et.al.|[2603.16382](http://arxiv.org/abs/2603.16382)|null|
