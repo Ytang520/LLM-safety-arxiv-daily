@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models**|Wenjing Hong et.al.|[2603.20122](http://arxiv.org/abs/2603.20122)|null|
 |**2026-03-20**|**Utility-Guided Agent Orchestration for Efficient LLM Tool Use**|Boyan Liu et.al.|[2603.19896](http://arxiv.org/abs/2603.19896)|**[link](https://github.com/kagami-kasumi/Utility-Guided-Agent-Orchestration-for-Efficient-LLM-Tool-Use)**|
 |**2026-03-19**|**The Autonomy Tax: Defense Training Breaks LLM Agents**|Shawn Li et.al.|[2603.19423](http://arxiv.org/abs/2603.19423)|null|
 |**2026-03-19**|**Prompt Control-Flow Integrity: A Priority-Aware Runtime Defense Against Prompt Injection in LLM Systems**|Md Takrim Ul Alam et.al.|[2603.18433](http://arxiv.org/abs/2603.18433)|null|
