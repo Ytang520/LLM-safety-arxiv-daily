@@ -290,7 +290,7 @@
 |**2025-12-28**|**Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations**|Tao Li et.al.|[2512.22883](http://arxiv.org/abs/2512.22883)|null|
 |**2025-12-25**|**Exploring the Security Threats of Retriever Backdoors in Retrieval-Augmented Code Generation**|Tian Li et.al.|[2512.21681](http://arxiv.org/abs/2512.21681)|**[link](https://github.com/mli-tian/VenomRACG)**|
 |**2025-12-24**|**LLM-Driven Feature-Level Adversarial Attacks on Android Malware Detectors**|Tianwei Lan et.al.|[2512.21404](http://arxiv.org/abs/2512.21404)|null|
-|**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|null|
+|**2025-12-24**|**Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking**|Yifan Huang et.al.|[2512.21236](http://arxiv.org/abs/2512.21236)|**[link](https://github.com/Navigator129/SPELL)**|
 |**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
 |**2025-12-23**|**Safety Alignment of LMs via Non-cooperative Games**|Anselm Paulus et.al.|[2512.20806](http://arxiv.org/abs/2512.20806)|**[link](https://github.com/facebookresearch/advgame)**|
 |**2025-12-25**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
@@ -729,7 +729,7 @@
 |**2025-08-17**|**Passive Hack-Back Strategies for Cyber Attribution: Covert Vectors in Denied Environment**|Abraham Itzhak Weinberg et.al.|[2508.16637](http://arxiv.org/abs/2508.16637)|null|
 |**2025-08-22**|**HAMSA: Hijacking Aligned Compact Models via Stealthy Automation**|Alexey Krylov et.al.|[2508.16484](http://arxiv.org/abs/2508.16484)|null|
 |**2025-11-03**|**Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models**|Guangyu Yang et.al.|[2508.16406](http://arxiv.org/abs/2508.16406)|null|
-|**2025-09-15**|**Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs**|Yu Yan et.al.|[2508.16347](http://arxiv.org/abs/2508.16347)|null|
+|**2025-09-15**|**Confusion is the Final Barrier: Rethinking Jailbreak Evaluation and Investigating the Real Misuse Threat of LLMs**|Yu Yan et.al.|[2508.16347](http://arxiv.org/abs/2508.16347)|**[link](https://github.com/qzqdz/venom)**|
 |**2025-08-22**|**LLMSymGuard: A Symbolic Safety Guardrail Framework Leveraging Interpretable Jailbreak Concepts**|Darpan Aswal et.al.|[2508.16325](http://arxiv.org/abs/2508.16325)|null|
 |**2025-08-26**|**SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models**|Peng Ding et.al.|[2508.15648](http://arxiv.org/abs/2508.15648)|null|
 |**2025-08-21**|**Reliable Unlearning Harmful Information in LLMs with Metamorphosis Representation Projection**|Chengcan Wu et.al.|[2508.15449](http://arxiv.org/abs/2508.15449)|null|
@@ -1469,7 +1469,7 @@
 |**2025-03-09**|**DIESEL -- Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs**|Ben Ganon et.al.|[2411.19038](http://arxiv.org/abs/2411.19038)|null|
 |**2024-11-27**|**Neutralizing Backdoors through Information Conflicts for Large Language Models**|Chen Chen et.al.|[2411.18280](http://arxiv.org/abs/2411.18280)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
-|**2025-06-10**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453](http://arxiv.org/abs/2411.17453)|null|
+|**2025-06-10**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453](http://arxiv.org/abs/2411.17453)|**[link](https://github.com/Vincent-HKUSTGZ/PEFTGuard)**|
 |**2025-01-14**|**Don't Command, Cultivate: An Exploratory Study of System-2 Alignment**|Yuhang Wang et.al.|[2411.17075](http://arxiv.org/abs/2411.17075)|null|
 |**2024-11-23**|**ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain**|Haochen Zhao et.al.|[2411.16736](http://arxiv.org/abs/2411.16736)|null|
 |**2025-03-20**|**"Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks**|Libo Wang et.al.|[2411.16730](http://arxiv.org/abs/2411.16730)|null|
