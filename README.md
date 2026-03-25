@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-24**|**Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs**|Wenyu Chen et.al.|[2603.23269](http://arxiv.org/abs/2603.23269)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-24**|**SafeSeek: Universal Attribution of Safety Circuits in Language Models**|Miao Yu et.al.|[2603.23268](http://arxiv.org/abs/2603.23268)|null|
 |**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171](http://arxiv.org/abs/2603.23171)|null|
 |**2026-03-24**|**ProGRank: Probe-Gradient Reranking to Defend Dense-Retriever RAG from Corpus Poisoning**|Xiangyu Yin et.al.|[2603.22934](http://arxiv.org/abs/2603.22934)|null|
 |**2026-03-24**|**SoK: The Attack Surface of Agentic AI -- Tools, and Autonomy**|Ali Dehghantanha et.al.|[2603.22928](http://arxiv.org/abs/2603.22928)|null|
