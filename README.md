@@ -1,4 +1,4 @@
-## Updated on 2026.03.30
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|**[link](https://github.com/Roberock/ScenarioRBDO)**|
+|**2026-03-31**|**Security in LLM-as-a-Judge: A Comprehensive SoK**|Aiman Almasoud et.al.|[2603.29403](http://arxiv.org/abs/2603.29403)|null|
+|**2026-03-30**|**Design Principles for the Construction of a Benchmark Evaluating Security Operation Capabilities of Multi-agent AI Systems**|Yicheng Cai et.al.|[2603.28998](http://arxiv.org/abs/2603.28998)|null|
+|**2026-03-28**|**GUARD-SLM: Token Activation-Based Defense Against Jailbreak Attacks for Small Language Models**|Md Jueal Mia et.al.|[2603.28817](http://arxiv.org/abs/2603.28817)|null|
+|**2026-03-30**|**Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries**|Md Raz et.al.|[2603.28655](http://arxiv.org/abs/2603.28655)|null|
+|**2026-03-30**|**Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification**|Masnun Nuha Chowdhury et.al.|[2603.28488](http://arxiv.org/abs/2603.28488)|null|
+|**2026-03-29**|**Multi-Agent Dialectical Refinement for Enhanced Argument Classification**|Jakub Bąba et.al.|[2603.27451](http://arxiv.org/abs/2603.27451)|null|
+|**2026-03-28**|**Defend: Automated Rebuttals for Peer Review with Minimal Author Guidance**|Jyotsana Khatri et.al.|[2603.27360](http://arxiv.org/abs/2603.27360)|null|
+|**2026-03-27**|**Sparse Auto-Encoders and Holism about Large Language Models**|Jumbly Grindrod et.al.|[2603.26207](http://arxiv.org/abs/2603.26207)|null|
+|**2026-03-27**|**Are LLM-Enhanced Graph Neural Networks Robust against Poisoning Attacks?**|Yuhang Ma et.al.|[2603.26105](http://arxiv.org/abs/2603.26105)|null|
 |**2026-03-26**|**Prompt Attack Detection with LLM-as-a-Judge and Mixture-of-Models**|Hieu Xuan Le et.al.|[2603.25176](http://arxiv.org/abs/2603.25176)|null|
 |**2026-03-25**|**Invisible Threats from Model Context Protocol: Generating Stealthy Injection Payload via Tree-based Adaptive Search**|Yulin Shen et.al.|[2603.24203](http://arxiv.org/abs/2603.24203)|null|
 |**2026-03-24**|**The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense**|Qianlong Lan et.al.|[2603.23791](http://arxiv.org/abs/2603.23791)|null|
@@ -2403,7 +2413,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2411,6 +2421,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-30**|**Adversarial Attacks on Multimodal Large Language Models: A Comprehensive Survey**|Bhavuk Jain et.al.|[2603.27918](http://arxiv.org/abs/2603.27918)|null|
+|**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao et.al.|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
+|**2026-03-28**|**Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection**|Jinhu Fu et.al.|[2603.27240](http://arxiv.org/abs/2603.27240)|null|
+|**2026-03-31**|**A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models**|Mujtaba Hussain Mirza et.al.|[2603.26984](http://arxiv.org/abs/2603.26984)|null|
 |**2026-03-26**|**TacSIm: A Dataset and Benchmark for Football Tactical Style Imitation**|Peng Wen et.al.|[2603.25199](http://arxiv.org/abs/2603.25199)|null|
 |**2026-03-25**|**AI Security in the Foundation Model Era: A Comprehensive Survey from a Unified Perspective**|Zhenyi Wang et.al.|[2603.24857](http://arxiv.org/abs/2603.24857)|null|
 |**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
@@ -3547,5 +3562,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
