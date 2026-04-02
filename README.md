@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**Thinking Wrong in Silence: Backdoor Attacks on Continuous Latent Reasoning**|Swapnil Parekh et.al.|[2604.00770](http://arxiv.org/abs/2604.00770)|null|
 |**2026-03-31**|**Performative Scenario Optimization**|Quanyan Zhu et.al.|[2603.29982](http://arxiv.org/abs/2603.29982)|**[link](https://github.com/Roberock/ScenarioRBDO)**|
 |**2026-03-31**|**Security in LLM-as-a-Judge: A Comprehensive SoK**|Aiman Almasoud et.al.|[2603.29403](http://arxiv.org/abs/2603.29403)|null|
 |**2026-03-30**|**Design Principles for the Construction of a Benchmark Evaluating Security Operation Capabilities of Multi-agent AI Systems**|Yicheng Cai et.al.|[2603.28998](http://arxiv.org/abs/2603.28998)|null|
@@ -2413,7 +2414,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3562,5 +3563,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
