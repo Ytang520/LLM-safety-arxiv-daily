@@ -2461,7 +2461,7 @@
 |**2026-04-10**|**AudioGuard: Toward Comprehensive Audio Safety Protection Across Diverse Threat Models**|Mintong Kang et.al.|[2604.08867](http://arxiv.org/abs/2604.08867)|null|
 |**2026-04-09**|**Phantasia: Context-Adaptive Backdoors in Vision Language Models**|Nam Duong Tran et.al.|[2604.08395](http://arxiv.org/abs/2604.08395)|null|
 |**2026-04-08**|**CAAP: Capture-Aware Adversarial Patch Attacks on Palmprint Recognition Models**|Renyang Liu et.al.|[2604.06987](http://arxiv.org/abs/2604.06987)|null|
-|**2026-04-09**|**Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation**|Zhiheng Li et.al.|[2604.06950](http://arxiv.org/abs/2604.06950)|**[link](https://github.com/zhihengli-casia/Smugglebench)**|
+|**2026-04-09**|**Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation**|Zhiheng Li et.al.|[2604.06950](http://arxiv.org/abs/2604.06950)|null|
 |**2026-04-08**|**Variational Feature Compression for Model-Specific Representations**|Zinan Guo et.al.|[2604.06644](http://arxiv.org/abs/2604.06644)|null|
 |**2026-04-07**|**VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts**|Peigui Qi et.al.|[2604.06502](http://arxiv.org/abs/2604.06502)|null|
 |**2026-04-07**|**Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization**|Igor Maljkovic et.al.|[2604.06285](http://arxiv.org/abs/2604.06285)|null|
