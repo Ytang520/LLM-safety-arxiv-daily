@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection**|Wei Zhao et.al.|[2604.11790](http://arxiv.org/abs/2604.11790)|null|
+|**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666](http://arxiv.org/abs/2604.11666)|null|
 |**2026-04-13**|**RedShell: A Generative AI-Based Approach to Ethical Hacking**|Ricardo Bessa et.al.|[2604.11506](http://arxiv.org/abs/2604.11506)|null|
 |**2026-04-12**|**Detecting RAG Extraction Attack via Dual-Path Runtime Integrity Game**|Yuanbo Xie et.al.|[2604.10717](http://arxiv.org/abs/2604.10717)|null|
 |**2026-04-12**|**Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models**|Vu Tuan Truong et.al.|[2604.10681](http://arxiv.org/abs/2604.10681)|null|
@@ -2462,6 +2464,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-04-13**|**CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity**|Xuefeng Wei et.al.|[2604.11632](http://arxiv.org/abs/2604.11632)|null|
 |**2026-04-13**|**The Salami Slicing Threat: Exploiting Cumulative Risks in LLM Systems**|Yihao Zhang et.al.|[2604.11309](http://arxiv.org/abs/2604.11309)|null|
 |**2026-04-11**|**Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking**|Jingru Li et.al.|[2604.10299](http://arxiv.org/abs/2604.10299)|null|
 |**2026-04-10**|**Mosaic: Multimodal Jailbreak against Closed-Source VLMs via Multi-View Ensemble Optimization**|Yuqin Lan et.al.|[2604.09253](http://arxiv.org/abs/2604.09253)|null|
