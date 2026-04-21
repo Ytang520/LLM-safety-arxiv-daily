@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks**|Md Rysul Kabir et.al.|[2604.18510](http://arxiv.org/abs/2604.18510)|null|
+|**2026-04-20**|**Beyond Pattern Matching: Seven Cross-Domain Techniques for Prompt Injection Detection**|Thamilvendhan Munirathinam et.al.|[2604.18248](http://arxiv.org/abs/2604.18248)|null|
 |**2026-04-20**|**Domain-oriented RAG Assessment (DoRA): Synthetic Benchmarking for RAG-based Question Answering on Defense Documents**|Bao Gia Doan et.al.|[2604.17943](http://arxiv.org/abs/2604.17943)|null|
 |**2026-04-20**|**TitanCA: Lessons from Orchestrating LLM Agents to Discover 100+ CVEs**|Ting Zhang et.al.|[2604.17860](http://arxiv.org/abs/2604.17860)|null|
 |**2026-04-20**|**Adversarial Arena: Crowdsourcing Data Generation through Interactive Competition**|Prasoon Goyal et.al.|[2604.17803](http://arxiv.org/abs/2604.17803)|null|
