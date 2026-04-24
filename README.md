@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,8 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
+|**2026-04-23**|**Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers**|Jiali Wei et.al.|[2604.21700](http://arxiv.org/abs/2604.21700)|null|
+|**2026-04-23**|**Toward Efficient Membership Inference Attacks against Federated Large Language Models: A Projection Residual Approach**|Guilin Deng et.al.|[2604.21197](http://arxiv.org/abs/2604.21197)|null|
+|**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)|null|
+|**2026-04-22**|**Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models**|Yannis Belkhiter et.al.|[2604.20994](http://arxiv.org/abs/2604.20994)|null|
+|**2026-04-22**|**Breaking Bad: Interpretability-Based Safety Audits of State-of-the-Art LLMs**|Krishiv Agarwal et.al.|[2604.20945](http://arxiv.org/abs/2604.20945)|null|
+|**2026-04-22**|**HARBOR: Automated Harness Optimization**|Biswa Sengupta et.al.|[2604.20938](http://arxiv.org/abs/2604.20938)|null|
 |**2026-04-22**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833](http://arxiv.org/abs/2604.20833)|null|
-|**2026-04-22**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
+|**2026-04-23**|**Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps**|Alankrit Chona et.al.|[2604.19533](http://arxiv.org/abs/2604.19533)|null|
 |**2026-04-21**|**HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing**|Euntae Kim et.al.|[2604.19274](http://arxiv.org/abs/2604.19274)|null|
 |**2026-04-21**|**STAR-Teaming: A Strategy-Response Multiplex Network Approach to Automated LLM Red Teaming**|MinJae Jung et.al.|[2604.18976](http://arxiv.org/abs/2604.18976)|null|
 |**2026-04-20**|**ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System**|Jiacheng Liang et.al.|[2604.18789](http://arxiv.org/abs/2604.18789)|null|
@@ -2487,7 +2494,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3663,5 +3670,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
