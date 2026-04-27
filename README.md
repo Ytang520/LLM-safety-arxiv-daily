@@ -15,10 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-24**|**Train in Vain: Functionality-Preserving Poisoning to Prevent Unauthorized Use of Code Datasets**|Yuan Xiao et.al.|[2604.22291](http://arxiv.org/abs/2604.22291)|**[link](https://github.com/xiaoyuanpigo/FunPoison)**|
+|**2026-04-24**|**Train in Vain: Functionality-Preserving Poisoning to Prevent Unauthorized Use of Code Datasets**|Yuan Xiao et.al.|[2604.22291](http://arxiv.org/abs/2604.22291)|null|
 |**2026-04-24**|**SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs**|Sihang et.al.|[2604.22134](http://arxiv.org/abs/2604.22134)|null|
 |**2026-04-23**|**PermaFrost-Attack: Stealth Pretraining Seeding(SPS) for planting Logic Landmines During LLM Training**|Harsh Kumar et.al.|[2604.22117](http://arxiv.org/abs/2604.22117)|null|
-|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|**[link](https://github.com/Arxiv-to-code/arxiv-260421860-transient-turn-injection-exposing-stateless-multi-turn-vulne)**|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
 |**2026-04-23**|**Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers**|Jiali Wei et.al.|[2604.21700](http://arxiv.org/abs/2604.21700)|null|
 |**2026-04-23**|**Toward Efficient Membership Inference Attacks against Federated Large Language Models: A Projection Residual Approach**|Guilin Deng et.al.|[2604.21197](http://arxiv.org/abs/2604.21197)|null|
 |**2026-04-22**|**Dialect vs Demographics: Quantifying LLM Bias from Implicit Linguistic Signals vs. Explicit User Profiles**|Irti Haq et.al.|[2604.21152](http://arxiv.org/abs/2604.21152)|null|
