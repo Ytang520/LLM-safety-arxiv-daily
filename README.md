@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-27**|**Green Shielding: A User-Centric Approach Towards Trustworthy AI**|Aaron J. Li et.al.|[2604.24700](http://arxiv.org/abs/2604.24700)|null|
 |**2026-04-27**|**AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents**|Yixiang Zhang et.al.|[2604.24657](http://arxiv.org/abs/2604.24657)|null|
 |**2026-04-27**|**Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application**|William Oliveira et.al.|[2604.24636](http://arxiv.org/abs/2604.24636)|null|
 |**2026-04-27**|**Layerwise Convergence Fingerprints for Runtime Misbehavior Detection in Large Language Models**|Nay Myat Min et.al.|[2604.24542](http://arxiv.org/abs/2604.24542)|null|
