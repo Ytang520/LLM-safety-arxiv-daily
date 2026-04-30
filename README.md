@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control**|Mahiro Nakao et.al.|[2604.26577](http://arxiv.org/abs/2604.26577)|null|
+|**2026-04-29**|**SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts**|Yuan Xin et.al.|[2604.26506](http://arxiv.org/abs/2604.26506)|null|
+|**2026-04-29**|**Enforcing Benign Trajectories: A Behavioral Firewall for Structured-Workflow AI Agents**|Hung Dang et.al.|[2604.26274](http://arxiv.org/abs/2604.26274)|null|
 |**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|
 |**2026-04-27**|**Green Shielding: A User-Centric Approach Towards Trustworthy AI**|Aaron J. Li et.al.|[2604.24700](http://arxiv.org/abs/2604.24700)|null|
 |**2026-04-27**|**AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents**|Yixiang Zhang et.al.|[2604.24657](http://arxiv.org/abs/2604.24657)|null|
@@ -2509,7 +2512,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3690,5 +3693,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
