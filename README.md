@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|
+|**2026-04-30**|**TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning**|Bowen Sun et.al.|[2604.27861](http://arxiv.org/abs/2604.27861)|null|
+|**2026-04-30**|**MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks**|Jona te Lintelo et.al.|[2604.27818](http://arxiv.org/abs/2604.27818)|null|
+|**2026-04-30**|**Trace-Level Analysis of Information Contamination in Multi-Agent Systems**|Anna Mazhar et.al.|[2604.27586](http://arxiv.org/abs/2604.27586)|null|
+|**2026-04-30**|**Low Rank Adaptation for Adversarial Perturbation**|Han Liu et.al.|[2604.27487](http://arxiv.org/abs/2604.27487)|null|
+|**2026-04-30**|**Security Attack and Defense Strategies for Autonomous Agent Frameworks: A Layered Review with OpenClaw as a Case Study**|Luyao Xu et.al.|[2604.27464](http://arxiv.org/abs/2604.27464)|null|
+|**2026-04-29**|**Dynamic Adversarial Fine-Tuning Reorganizes Refusal Geometry**|Wenhao Lan et.al.|[2604.27019](http://arxiv.org/abs/2604.27019)|null|
 |**2026-04-29**|**Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control**|Mahiro Nakao et.al.|[2604.26577](http://arxiv.org/abs/2604.26577)|null|
 |**2026-04-29**|**SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts**|Yuan Xin et.al.|[2604.26506](http://arxiv.org/abs/2604.26506)|null|
 |**2026-04-29**|**Enforcing Benign Trajectories: A Behavioral Firewall for Structured-Workflow AI Agents**|Hung Dang et.al.|[2604.26274](http://arxiv.org/abs/2604.26274)|null|
@@ -2512,7 +2519,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3693,5 +3700,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
