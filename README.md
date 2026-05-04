@@ -534,7 +534,7 @@
 |**2025-11-16**|**Uncovering and Aligning Anomalous Attention Heads to Defend Against NLP Backdoor Attacks**|Haotian Jin et.al.|[2511.13789](http://arxiv.org/abs/2511.13789)|null|
 |**2025-11-16**|**Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments**|Samuel Nathanson et.al.|[2511.13788](http://arxiv.org/abs/2511.13788)|null|
 |**2025-11-17**|**ForgeDAN: An Evolutionary Framework for Jailbreaking Aligned Large Language Models**|Siyang Cheng et.al.|[2511.13548](http://arxiv.org/abs/2511.13548)|null|
-|**2025-11-16**|**LLM Reinforcement in Context**|Thomas Rivasseau et.al.|[2511.12782](http://arxiv.org/abs/2511.12782)|null|
+|**2025-11-16**|**LLM Reinforcement in Context**|Thomas Rivasseau et.al.|[2511.12782](http://arxiv.org/abs/2511.12782)|**[link](https://github.com/LiaoMengqi/LLM4Game24)**|
 |**2025-11-16**|**Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs**|Yunhao Chen et.al.|[2511.12710](http://arxiv.org/abs/2511.12710)|null|
 |**2025-11-16**|**Evolving Prompts for Toxicity Search in Large Language Models**|Onkar Shelar et.al.|[2511.12487](http://arxiv.org/abs/2511.12487)|null|
 |**2025-11-15**|**AlignTree: Efficient Defense Against LLM Jailbreak Attacks**|Gil Goren et.al.|[2511.12217](http://arxiv.org/abs/2511.12217)|**[link](https://github.com/Gilgo2/AlignTree)**|
@@ -2578,7 +2578,7 @@
 |**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
 |**2026-03-24**|**TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration**|Chunxiao Li et.al.|[2603.22882](http://arxiv.org/abs/2603.22882)|null|
 |**2026-03-25**|**Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models**|Xingyu Zhu et.al.|[2603.22094](http://arxiv.org/abs/2603.22094)|null|
-|**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)|null|
+|**2026-03-23**|**Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models**|Rui Yang Tan et.al.|[2603.21697](http://arxiv.org/abs/2603.21697)|**[link](https://github.com/Social-AI-Studio/ComicJailbreak)**|
 |**2026-03-26**|**JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization**|Haolun Zheng et.al.|[2603.21208](http://arxiv.org/abs/2603.21208)|null|
 |**2026-03-19**|**On Optimizing Multimodal Jailbreaks for Spoken Language Models**|Aravind Krishnan et.al.|[2603.19127](http://arxiv.org/abs/2603.19127)|null|
 |**2026-03-19**|**MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning**|Zhihui Chen et.al.|[2603.18577](http://arxiv.org/abs/2603.18577)|null|
