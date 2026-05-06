@@ -1,4 +1,4 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Exposing LLM Safety Gaps Through Mathematical Encoding:New Attacks and Systematic Analysis**|Haoyu Zhang et.al.|[2605.03441](http://arxiv.org/abs/2605.03441)|null|
+|**2026-05-05**|**ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection**|Shihao Weng et.al.|[2605.03378](http://arxiv.org/abs/2605.03378)|null|
+|**2026-05-05**|**Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios**|Zuoyu Zhang et.al.|[2605.03242](http://arxiv.org/abs/2605.03242)|null|
+|**2026-05-04**|**MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory**|Yuhui Wang et.al.|[2605.03228](http://arxiv.org/abs/2605.03228)|null|
+|**2026-05-04**|**Self-Mined Hardness for Safety Fine-Tuning**|Prakhar Gupta et.al.|[2605.03226](http://arxiv.org/abs/2605.03226)|null|
+|**2026-05-04**|**Revisiting JBShield: Breaking and Rebuilding Representation-Level Jailbreak Defenses**|Kemal Derya et.al.|[2605.03095](http://arxiv.org/abs/2605.03095)|null|
+|**2026-05-04**|**Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation**|Francesco Sovrano et.al.|[2605.03058](http://arxiv.org/abs/2605.03058)|null|
 |**2026-05-04**|**ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming**|Mario Rodríguez Béjar et.al.|[2605.02647](http://arxiv.org/abs/2605.02647)|null|
 |**2026-05-04**|**APIOT: Autonomous Vulnerability Management Across Bare-Metal Industrial OT Networks**|Adel ElZemity et.al.|[2605.02346](http://arxiv.org/abs/2605.02346)|null|
-|**2026-05-03**|**How Compliant Are GitHub Actions Workflows? A Checklist-Based Study with LLM-Assisted Auditing**|Edward Abrokwah et.al.|[2605.02091](http://arxiv.org/abs/2605.02091)|**[link](https://github.com/Taher-Ghaleb/GHACompliance-EASE2026)**|
+|**2026-05-03**|**How Compliant Are GitHub Actions Workflows? A Checklist-Based Study with LLM-Assisted Auditing**|Edward Abrokwah et.al.|[2605.02091](http://arxiv.org/abs/2605.02091)|null|
 |**2026-05-03**|**Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment**|Jiajia Li et.al.|[2605.01899](http://arxiv.org/abs/2605.01899)|null|
 |**2026-05-03**|**Needle-in-RAG: Prompt-Conditioned Character-Level Traceback of Poisoned Spans in Retrieved Evidence**|Huining Cui et.al.|[2605.01782](http://arxiv.org/abs/2605.01782)|null|
 |**2026-05-03**|**MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety**|Jialin Song et.al.|[2605.01687](http://arxiv.org/abs/2605.01687)|null|
@@ -2536,7 +2543,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2547,7 +2554,7 @@
 |**2026-05-03**|**TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks**|Quanchen Zou et.al.|[2605.01761](http://arxiv.org/abs/2605.01761)|null|
 |**2026-05-03**|**Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems**|Yue Ma et.al.|[2605.01758](http://arxiv.org/abs/2605.01758)|null|
 |**2026-05-01**|**STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack**|Xutao Mao et.al.|[2605.00699](http://arxiv.org/abs/2605.00699)|null|
-|**2026-05-01**|**Jailbreaking Vision-Language Models Through the Visual Modality**|Aharon Azulay et.al.|[2605.00583](http://arxiv.org/abs/2605.00583)|null|
+|**2026-05-01**|**Jailbreaking Vision-Language Models Through the Visual Modality**|Aharon Azulay et.al.|[2605.00583](http://arxiv.org/abs/2605.00583)|**[link](https://github.com/AzulEye/vlm-jailbreaks)**|
 |**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
 |**2026-04-28**|**One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations**|Ravikumar Balakrishnan et.al.|[2604.25102](http://arxiv.org/abs/2604.25102)|null|
 |**2026-04-25**|**Semantic Denial of Service in LLM-controlled robots**|Jonathan Steinberg et.al.|[2604.24790](http://arxiv.org/abs/2604.24790)|null|
@@ -3721,5 +3728,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
