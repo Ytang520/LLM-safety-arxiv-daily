@@ -1,4 +1,4 @@
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**GLiGuard: Schema-Conditioned Classification for LLM Safeguard**|Urchade Zaratiana et.al.|[2605.07982](http://arxiv.org/abs/2605.07982)|null|
+|**2026-05-08**|**Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs**|Hanlin Cai et.al.|[2605.07961](http://arxiv.org/abs/2605.07961)|**[link](https://github.com/GuangLun2000/AugMP)**|
+|**2026-05-08**|**Adaptive Negative Reinforcement for LLM Reasoning:Dynamically Balancing Correction and Diversity in RLVR**|Yash Ingle et.al.|[2605.07137](http://arxiv.org/abs/2605.07137)|null|
 |**2026-05-07**|**How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation**|Shai Feldman et.al.|[2605.06605](http://arxiv.org/abs/2605.06605)|null|
 |**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601](http://arxiv.org/abs/2605.06601)|null|
 |**2026-05-07**|**Autonomous Adversary: Red-Teaming in the age of LLM**|Mohammad Mamun et.al.|[2605.06486](http://arxiv.org/abs/2605.06486)|null|
 |**2026-05-07**|**Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models**|Zeyuan Chen et.al.|[2605.06423](http://arxiv.org/abs/2605.06423)|null|
-|**2026-05-07**|**Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks**|Guoxin Lu et.al.|[2605.05995](http://arxiv.org/abs/2605.05995)|null|
+|**2026-05-08**|**Safety Anchor: Defending Harmful Fine-tuning via Geometric Bottlenecks**|Guoxin Lu et.al.|[2605.05995](http://arxiv.org/abs/2605.05995)|null|
 |**2026-05-07**|**SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety**|Zhe Liu et.al.|[2605.05704](http://arxiv.org/abs/2605.05704)|null|
 |**2026-05-07**|**DataDignity: Training Data Attribution for Large Language Models**|Xiaomin Li et.al.|[2605.05687](http://arxiv.org/abs/2605.05687)|null|
 |**2026-05-07**|**One Turn Too Late: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue**|Xinjie Shen et.al.|[2605.05630](http://arxiv.org/abs/2605.05630)|null|
@@ -2553,7 +2556,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|null|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2561,13 +2564,16 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-08**|**Cross-Modal Backdoors in Multimodal Large Language Models**|Runhe Wang et.al.|[2605.07490](http://arxiv.org/abs/2605.07490)|null|
+|**2026-05-08**|**GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**|Yu Pan et.al.|[2605.07399](http://arxiv.org/abs/2605.07399)|null|
+|**2026-05-08**|**Membership Inference Attacks on Vision-Language-Action Models**|Yuefeng Peng et.al.|[2605.07088](http://arxiv.org/abs/2605.07088)|null|
 |**2026-05-07**|**Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks**|Guanmeng Xian et.al.|[2605.06238](http://arxiv.org/abs/2605.06238)|null|
 |**2026-05-07**|**Stego Battlefield: Evaluating Image Steganography Attacks and Steganalysis Defenses**|Zhen Sun et.al.|[2605.05789](http://arxiv.org/abs/2605.05789)|null|
 |**2026-05-07**|**Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs**|Md Farhamdur Reza et.al.|[2605.05709](http://arxiv.org/abs/2605.05709)|null|
 |**2026-05-06**|**Sparse Tokens Suffice: Jailbreaking Audio Language Models via Token-Aware Gradient Optimization**|Zheng Fang et.al.|[2605.04700](http://arxiv.org/abs/2605.04700)|null|
 |**2026-05-05**|**Laundering AI Authority with Adversarial Examples**|Jie Zhang et.al.|[2605.04261](http://arxiv.org/abs/2605.04261)|null|
 |**2026-05-03**|**TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks**|Quanchen Zou et.al.|[2605.01761](http://arxiv.org/abs/2605.01761)|null|
-|**2026-05-03**|**Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems**|Yue Ma et.al.|[2605.01758](http://arxiv.org/abs/2605.01758)|null|
+|**2026-05-08**|**Catching the Infection Before It Spreads: Foresight-Guided Defense in Multi-Agent Systems**|Yue Ma et.al.|[2605.01758](http://arxiv.org/abs/2605.01758)|null|
 |**2026-05-07**|**STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack**|Xutao Mao et.al.|[2605.00699](http://arxiv.org/abs/2605.00699)|null|
 |**2026-05-01**|**Jailbreaking Vision-Language Models Through the Visual Modality**|Aharon Azulay et.al.|[2605.00583](http://arxiv.org/abs/2605.00583)|null|
 |**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
@@ -3743,5 +3749,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
