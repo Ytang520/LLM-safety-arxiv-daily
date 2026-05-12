@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers**|Nikita Kezins et.al.|[2605.10901](http://arxiv.org/abs/2605.10901)|**[link](https://github.com/entfane/formal_verification_guardrails)**|
+|**2026-05-11**|**LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges**|Johann Knechtel et.al.|[2605.10807](http://arxiv.org/abs/2605.10807)|null|
+|**2026-05-11**|**Locking Pretrained Weights via Deep Low-Rank Residual Distillation**|Keitaro Sakamoto et.al.|[2605.10777](http://arxiv.org/abs/2605.10777)|null|
+|**2026-05-11**|**Re-Triggering Safeguards within LLMs for Jailbreak Detection**|Zheng Lin et.al.|[2605.10611](http://arxiv.org/abs/2605.10611)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-11**|**Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing**|Zheng Lin et.al.|[2605.10582](http://arxiv.org/abs/2605.10582)|null|
 |**2026-05-11**|**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization**|Huilin Zhou et.al.|[2605.10067](http://arxiv.org/abs/2605.10067)|null|
 |**2026-05-10**|**CALYREX: Cross-Attention LaYeR EXtended Transformers for System Prompt Anchoring**|Li Lixing et.al.|[2605.09737](http://arxiv.org/abs/2605.09737)|null|
 |**2026-05-10**|**Modeling Implicit Conflict Monitoring Mechanisms against Stereotypes in LLMs**|Jingshen Zhang et.al.|[2605.09647](http://arxiv.org/abs/2605.09647)|null|
@@ -2574,6 +2579,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-11**|**Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition**|David F. Ramirez et.al.|[2605.10772](http://arxiv.org/abs/2605.10772)|null|
+|**2026-05-11**|**Break the Brake, Not the Wheel: Untargeted Jailbreak via Entropy Maximization**|Mengqi He et.al.|[2605.10764](http://arxiv.org/abs/2605.10764)|null|
+|**2026-05-11**|**Geospatial-Temporal Sensemaking of Remote Sensing Activity Detections with Multimodal Large Language Model**|David F. Ramirez et.al.|[2605.10739](http://arxiv.org/abs/2605.10739)|null|
 |**2026-05-10**|**On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models**|Yule Liu et.al.|[2605.09606](http://arxiv.org/abs/2605.09606)|null|
 |**2026-05-10**|**Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces**|Yilin Zhang et.al.|[2605.09497](http://arxiv.org/abs/2605.09497)|null|
 |**2026-05-09**|**UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning**|Hongrui Li et.al.|[2605.08709](http://arxiv.org/abs/2605.08709)|null|
