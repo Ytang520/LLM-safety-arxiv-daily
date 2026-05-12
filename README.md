@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization**|Huilin Zhou et.al.|[2605.10067](http://arxiv.org/abs/2605.10067)|null|
+|**2026-05-10**|**CALYREX: Cross-Attention LaYeR EXtended Transformers for System Prompt Anchoring**|Li Lixing et.al.|[2605.09737](http://arxiv.org/abs/2605.09737)|null|
+|**2026-05-10**|**Modeling Implicit Conflict Monitoring Mechanisms against Stereotypes in LLMs**|Jingshen Zhang et.al.|[2605.09647](http://arxiv.org/abs/2605.09647)|null|
+|**2026-05-10**|**TSNBench: Benchmarking LLM Proficiency in Time-Sensitive Networking**|Rubi Debnath et.al.|[2605.09481](http://arxiv.org/abs/2605.09481)|null|
+|**2026-05-10**|**BadDLM: Backdooring Diffusion Language Models with Diverse Targets**|Shengfang Zhai et.al.|[2605.09397](http://arxiv.org/abs/2605.09397)|null|
+|**2026-05-10**|**NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning**|Tiehan Cui et.al.|[2605.09387](http://arxiv.org/abs/2605.09387)|null|
+|**2026-05-09**|**Why Do Aligned LLMs Remain Jailbreakable: Refusal-Escape Directions, Operator-Level Sources, and Safety-Utility Trade-off**|Yu Chen et.al.|[2605.08878](http://arxiv.org/abs/2605.08878)|null|
+|**2026-05-09**|**OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents**|Xinyu Li et.al.|[2605.08876](http://arxiv.org/abs/2605.08876)|null|
+|**2026-05-08**|**Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms**|Linh Le et.al.|[2605.08496](http://arxiv.org/abs/2605.08496)|null|
+|**2026-05-08**|**When Child Inherits: Modeling and Exploiting Subagent Spawn in Multi-Agent Networks**|Ziwen Cai et.al.|[2605.08460](http://arxiv.org/abs/2605.08460)|null|
 |**2026-05-08**|**GLiGuard: Schema-Conditioned Classification for LLM Safeguard**|Urchade Zaratiana et.al.|[2605.07982](http://arxiv.org/abs/2605.07982)|null|
 |**2026-05-08**|**Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs**|Hanlin Cai et.al.|[2605.07961](http://arxiv.org/abs/2605.07961)|**[link](https://github.com/GuangLun2000/AugMP)**|
 |**2026-05-08**|**Adaptive Negative Reinforcement for LLM Reasoning:Dynamically Balancing Correction and Diversity in RLVR**|Yash Ingle et.al.|[2605.07137](http://arxiv.org/abs/2605.07137)|null|
@@ -2556,7 +2566,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2564,8 +2574,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-10**|**On the Generation and Mitigation of Harmful Geometry in Image-to-3D Models**|Yule Liu et.al.|[2605.09606](http://arxiv.org/abs/2605.09606)|null|
+|**2026-05-10**|**Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces**|Yilin Zhang et.al.|[2605.09497](http://arxiv.org/abs/2605.09497)|null|
+|**2026-05-09**|**UniShield: Unified Face Attack Detection via KG-Informed Multimodal Reasoning**|Hongrui Li et.al.|[2605.08709](http://arxiv.org/abs/2605.08709)|null|
 |**2026-05-08**|**Cross-Modal Backdoors in Multimodal Large Language Models**|Runhe Wang et.al.|[2605.07490](http://arxiv.org/abs/2605.07490)|null|
-|**2026-05-08**|**GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**|Yu Pan et.al.|[2605.07399](http://arxiv.org/abs/2605.07399)|null|
+|**2026-05-11**|**GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**|Yu Pan et.al.|[2605.07399](http://arxiv.org/abs/2605.07399)|null|
 |**2026-05-08**|**Membership Inference Attacks on Vision-Language-Action Models**|Yuefeng Peng et.al.|[2605.07088](http://arxiv.org/abs/2605.07088)|null|
 |**2026-05-07**|**Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks**|Guanmeng Xian et.al.|[2605.06238](http://arxiv.org/abs/2605.06238)|null|
 |**2026-05-07**|**Stego Battlefield: Evaluating Image Steganography Attacks and Steganalysis Defenses**|Zhen Sun et.al.|[2605.05789](http://arxiv.org/abs/2605.05789)|null|
@@ -3749,5 +3762,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
 
