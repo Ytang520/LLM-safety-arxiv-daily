@@ -1,4 +1,4 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-11**|**Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers**|Nikita Kezins et.al.|[2605.10901](http://arxiv.org/abs/2605.10901)|**[link](https://github.com/entfane/formal_verification_guardrails)**|
+|**2026-05-12**|**Targeted Neuron Modulation via Contrastive Pair Search**|Sam Herring et.al.|[2605.12290](http://arxiv.org/abs/2605.12290)|null|
+|**2026-05-12**|**Metaphor Is Not All Attention Needs**|Olga Sorokoletova et.al.|[2605.12128](http://arxiv.org/abs/2605.12128)|null|
+|**2026-05-12**|**BadSKP: Backdoor Attacks on Knowledge Graph-Enhanced LLMs with Soft Prompts**|Xiaoting Lyu et.al.|[2605.11996](http://arxiv.org/abs/2605.11996)|null|
+|**2026-05-12**|**FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems**|Fanxiao Li et.al.|[2605.11514](http://arxiv.org/abs/2605.11514)|null|
+|**2026-05-12**|**Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection**|Zi Liang et.al.|[2605.11442](http://arxiv.org/abs/2605.11442)|null|
+|**2026-05-11**|**Adversarial SQL Injection Generation with LLM-Based Architectures**|Ali Karakoc et.al.|[2605.11188](http://arxiv.org/abs/2605.11188)|null|
+|**2026-05-11**|**Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers**|Nikita Kezins et.al.|[2605.10901](http://arxiv.org/abs/2605.10901)|null|
 |**2026-05-11**|**LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges**|Johann Knechtel et.al.|[2605.10807](http://arxiv.org/abs/2605.10807)|null|
 |**2026-05-11**|**Locking Pretrained Weights via Deep Low-Rank Residual Distillation**|Keitaro Sakamoto et.al.|[2605.10777](http://arxiv.org/abs/2605.10777)|null|
-|**2026-05-11**|**Re-Triggering Safeguards within LLMs for Jailbreak Detection**|Zheng Lin et.al.|[2605.10611](http://arxiv.org/abs/2605.10611)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-11**|**Re-Triggering Safeguards within LLMs for Jailbreak Detection**|Zheng Lin et.al.|[2605.10611](http://arxiv.org/abs/2605.10611)|null|
 |**2026-05-11**|**Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing**|Zheng Lin et.al.|[2605.10582](http://arxiv.org/abs/2605.10582)|null|
 |**2026-05-11**|**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization**|Huilin Zhou et.al.|[2605.10067](http://arxiv.org/abs/2605.10067)|null|
 |**2026-05-10**|**CALYREX: Cross-Attention LaYeR EXtended Transformers for System Prompt Anchoring**|Li Lixing et.al.|[2605.09737](http://arxiv.org/abs/2605.09737)|null|
@@ -2571,7 +2577,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2579,6 +2585,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-12**|**SafeSteer: A Decoding-level Defense Mechanism for Multimodal Large Language Models**|Xinyi Zeng et.al.|[2605.11716](http://arxiv.org/abs/2605.11716)|null|
+|**2026-05-12**|**HamBR: Active Decision Boundary Restoration Based on Hamiltonian Dynamics for Learning with Noisy Labels**|Ningkang Peng et.al.|[2605.11383](http://arxiv.org/abs/2605.11383)|null|
+|**2026-05-11**|**Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data**|Elham Pourabbas Vafa et.al.|[2605.11268](http://arxiv.org/abs/2605.11268)|null|
 |**2026-05-11**|**Towards a Large Language-Vision Question Answering Model for MSTAR Automatic Target Recognition**|David F. Ramirez et.al.|[2605.10772](http://arxiv.org/abs/2605.10772)|null|
 |**2026-05-11**|**Break the Brake, Not the Wheel: Untargeted Jailbreak via Entropy Maximization**|Mengqi He et.al.|[2605.10764](http://arxiv.org/abs/2605.10764)|null|
 |**2026-05-11**|**Geospatial-Temporal Sensemaking of Remote Sensing Activity Detections with Multimodal Large Language Model**|David F. Ramirez et.al.|[2605.10739](http://arxiv.org/abs/2605.10739)|null|
@@ -3770,5 +3779,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
