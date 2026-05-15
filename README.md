@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
+|**2026-05-14**|**Defenses at Odds: Measuring and Explaining Defense Conflicts in Large Language Models**|Xiangtao Meng et.al.|[2605.14514](http://arxiv.org/abs/2605.14514)|null|
 |**2026-05-13**|**Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution**|Xiaozhe Zhang et.al.|[2605.13411](http://arxiv.org/abs/2605.13411)|null|
 |**2026-05-13**|**Adaptive Steering and Remasking for Safe Generation in Diffusion Language Models**|Yejin Lee et.al.|[2605.13043](http://arxiv.org/abs/2605.13043)|null|
 |**2026-05-13**|**Quantifying LLM Safety Degradation Under Repeated Attacks Using Survival Analysis**|Zvi Topol et.al.|[2605.12869](http://arxiv.org/abs/2605.12869)|null|
@@ -2581,7 +2583,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2589,6 +2591,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-14**|**EVA: Editing for Versatile Alignment against Jailbreaks**|Yi Wang et.al.|[2605.14750](http://arxiv.org/abs/2605.14750)|null|
+|**2026-05-14**|**To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model**|Chengshuai Zhao et.al.|[2605.14291](http://arxiv.org/abs/2605.14291)|null|
 |**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-12**|**SafeSteer: A Decoding-level Defense Mechanism for Multimodal Large Language Models**|Xinyi Zeng et.al.|[2605.11716](http://arxiv.org/abs/2605.11716)|null|
 |**2026-05-12**|**HamBR: Active Decision Boundary Restoration Based on Hamiltonian Dynamics for Learning with Noisy Labels**|Ningkang Peng et.al.|[2605.11383](http://arxiv.org/abs/2605.11383)|null|
@@ -3784,5 +3788,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
