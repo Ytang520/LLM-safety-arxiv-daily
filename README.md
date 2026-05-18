@@ -1,4 +1,4 @@
-## Updated on 2026.05.16
+## Updated on 2026.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -64,7 +64,7 @@
 |**2026-05-04**|**Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation**|Francesco Sovrano et.al.|[2605.03058](http://arxiv.org/abs/2605.03058)|null|
 |**2026-05-04**|**ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming**|Mario Rodríguez Béjar et.al.|[2605.02647](http://arxiv.org/abs/2605.02647)|null|
 |**2026-05-04**|**APIOT: Autonomous Vulnerability Management Across Bare-Metal Industrial OT Networks**|Adel ElZemity et.al.|[2605.02346](http://arxiv.org/abs/2605.02346)|null|
-|**2026-05-03**|**How Compliant Are GitHub Actions Workflows? A Checklist-Based Study with LLM-Assisted Auditing**|Edward Abrokwah et.al.|[2605.02091](http://arxiv.org/abs/2605.02091)|null|
+|**2026-05-03**|**How Compliant Are GitHub Actions Workflows? A Checklist-Based Study with LLM-Assisted Auditing**|Edward Abrokwah et.al.|[2605.02091](http://arxiv.org/abs/2605.02091)|**[link](https://github.com/Taher-Ghaleb/GHACompliance-EASE2026)**|
 |**2026-05-03**|**Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment**|Jiajia Li et.al.|[2605.01899](http://arxiv.org/abs/2605.01899)|null|
 |**2026-05-03**|**Needle-in-RAG: Prompt-Conditioned Character-Level Traceback of Poisoned Spans in Retrieved Evidence**|Huining Cui et.al.|[2605.01782](http://arxiv.org/abs/2605.01782)|null|
 |**2026-05-03**|**MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety**|Jialin Song et.al.|[2605.01687](http://arxiv.org/abs/2605.01687)|null|
@@ -1433,7 +1433,7 @@
 |**2025-03-12**|**JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing**|Vasudev Gohil et.al.|[2503.08990](http://arxiv.org/abs/2503.08990)|null|
 |**2025-04-08**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
 |**2025-03-11**|**Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation**|Wenlong Meng et.al.|[2503.08195](http://arxiv.org/abs/2503.08195)|null|
-|**2025-03-10**|**Safety Guardrails for LLM-Enabled Robots**|Zachary Ravichandran et.al.|[2503.07885](http://arxiv.org/abs/2503.07885)|null|
+|**2025-03-10**|**Safety Guardrails for LLM-Enabled Robots**|Zachary Ravichandran et.al.|[2503.07885](http://arxiv.org/abs/2503.07885)|**[link](https://github.com/KumarRobotics/RoboGuard)**|
 |**2025-06-05**|**PoisonedParrot: Subtle Data Poisoning Attacks to Elicit Copyright-Infringing Content from Large Language Models**|Michael-Andrei Panaitescu-Liess et.al.|[2503.07697](http://arxiv.org/abs/2503.07697)|null|
 |**2025-03-10**|**CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation**|Runqi Sui et.al.|[2503.06950](http://arxiv.org/abs/2503.06950)|null|
 |**2025-03-09**|**Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation**|Wenhui Zhang et.al.|[2503.06519](http://arxiv.org/abs/2503.06519)|null|
@@ -2292,7 +2292,7 @@
 |**2024-03-10**|**From Chatbots to PhishBots? -- Preventing Phishing scams created using ChatGPT, Google Bard and Claude**|Sayak Saha Roy et.al.|[2310.19181](http://arxiv.org/abs/2310.19181)|null|
 |**2023-10-28**|**Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots**|Ruixiang Tang et.al.|[2310.18633](http://arxiv.org/abs/2310.18633)|null|
 |**2023-10-28**|**Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers**|Wencong You et.al.|[2310.18603](http://arxiv.org/abs/2310.18603)|null|
-|**2023-10-31**|**Preventing Language Models From Hiding Their Reasoning**|Fabien Roger et.al.|[2310.18512](http://arxiv.org/abs/2310.18512)|null|
+|**2023-10-31**|**Preventing Language Models From Hiding Their Reasoning**|Fabien Roger et.al.|[2310.18512](http://arxiv.org/abs/2310.18512)|**[link](https://github.com/redwoodresearch/Text-Steganography-Benchmark)**|
 |**2024-03-22**|**Self-Guard: Empower the LLM to Safeguard Itself**|Zezhong Wang et.al.|[2310.15851](http://arxiv.org/abs/2310.15851)|null|
 |**2023-10-24**|**A Survey on Detection of LLMs-Generated Content**|Xianjun Yang et.al.|[2310.15654](http://arxiv.org/abs/2310.15654)|null|
 |**2023-12-14**|**AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models**|Sicheng Zhu et.al.|[2310.15140](http://arxiv.org/abs/2310.15140)|null|
@@ -2583,7 +2583,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3788,5 +3788,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
 
