@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-15**|**Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs**|Reinelle Jan Bugnot et.al.|[2605.15598](http://arxiv.org/abs/2605.15598)|null|
+|**2026-05-15**|**uGen: An Agentic Framework for Generating Microarchitectural Attack PoCs**|Debopriya Roy Dipta et.al.|[2605.15503](http://arxiv.org/abs/2605.15503)|**[link](https://github.com/anonymoushei4444/uGEN)**|
 |**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
 |**2026-05-14**|**Defenses at Odds: Measuring and Explaining Defense Conflicts in Large Language Models**|Xiangtao Meng et.al.|[2605.14514](http://arxiv.org/abs/2605.14514)|null|
 |**2026-05-13**|**Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution**|Xiaozhe Zhang et.al.|[2605.13411](http://arxiv.org/abs/2605.13411)|null|
@@ -2591,7 +2593,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2026-05-14**|**EVA: Editing for Versatile Alignment against Jailbreaks**|Yi Wang et.al.|[2605.14750](http://arxiv.org/abs/2605.14750)|null|
+|**2026-05-15**|**EntropyScan: Towards Model-level Backdoor Detection in LVLMs via Visual Attention Entropy**|Xuanyu Ge et.al.|[2605.15711](http://arxiv.org/abs/2605.15711)|null|
+|**2026-05-15**|**AGC: Adaptive Geodesic Correction for Adversarial Robustness on Vision-Language Models**|Zhiwei Li et.al.|[2605.15584](http://arxiv.org/abs/2605.15584)|null|
+|**2026-05-14**|**EVA: Editing for Versatile Alignment against Jailbreaks**|Yi Wang et.al.|[2605.14750](http://arxiv.org/abs/2605.14750)|**[link](https://github.com/wanglne/EVA)**|
 |**2026-05-14**|**To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model**|Chengshuai Zhao et.al.|[2605.14291](http://arxiv.org/abs/2605.14291)|null|
 |**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-12**|**SafeSteer: A Decoding-level Defense Mechanism for Multimodal Large Language Models**|Xinyi Zeng et.al.|[2605.11716](http://arxiv.org/abs/2605.11716)|null|
