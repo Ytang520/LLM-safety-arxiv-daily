@@ -1,4 +1,4 @@
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**FedSDR: Federated Self-Distillation with Rectification**|Ziheng Ren et.al.|[2605.18028](http://arxiv.org/abs/2605.18028)|null|
+|**2026-05-18**|**Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling**|Ziwei Wang et.al.|[2605.17971](http://arxiv.org/abs/2605.17971)|null|
+|**2026-05-18**|**Speed Kills: Exploring Confused Deputy Attacks Through Edge AI Accelerators**|Datta Manikanta Sri Hari Danduri et.al.|[2605.17707](http://arxiv.org/abs/2605.17707)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-17**|**The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure**|Qiqi Liu et.al.|[2605.17480](http://arxiv.org/abs/2605.17480)|null|
+|**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444](http://arxiv.org/abs/2605.17444)|null|
+|**2026-05-17**|**Ablating Safety: Mechanisms for Removing Alignment in Language Models for Security Applications**|Isaac David et.al.|[2605.17413](http://arxiv.org/abs/2605.17413)|null|
+|**2026-05-16**|**Why Do Safety Guardrails Degrade Across Languages?**|Max Zhang et.al.|[2605.17173](http://arxiv.org/abs/2605.17173)|null|
+|**2026-05-16**|**A Red Teaming Framework for Evaluating Robustness of AI-enabled Security Orchestration, Automation, and Response Systems**|Ayan Javeed Shaikh et.al.|[2605.17075](http://arxiv.org/abs/2605.17075)|null|
+|**2026-05-16**|**Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework**|Xiaohua Wang et.al.|[2605.16821](http://arxiv.org/abs/2605.16821)|null|
 |**2026-05-15**|**Compositional Jailbreaking: An Empirical Analysis of Mutator Chain Interactions in Aligned LLMs**|Reinelle Jan Bugnot et.al.|[2605.15598](http://arxiv.org/abs/2605.15598)|null|
 |**2026-05-15**|**uGen: An Agentic Framework for Generating Microarchitectural Attack PoCs**|Debopriya Roy Dipta et.al.|[2605.15503](http://arxiv.org/abs/2605.15503)|**[link](https://github.com/anonymoushei4444/uGEN)**|
 |**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
@@ -2585,7 +2594,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2593,9 +2602,12 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-18**|**Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models**|Yanyun Wang et.al.|[2605.18168](http://arxiv.org/abs/2605.18168)|null|
+|**2026-05-18**|**Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection**|Jun Xue et.al.|[2605.17737](http://arxiv.org/abs/2605.17737)|null|
+|**2026-05-17**|**TAME: Test-Time Adversarial Prompt Tuning via Mixture-of-Experts for Vision-Language Models**|Xin Wang et.al.|[2605.17577](http://arxiv.org/abs/2605.17577)|null|
 |**2026-05-15**|**EntropyScan: Towards Model-level Backdoor Detection in LVLMs via Visual Attention Entropy**|Xuanyu Ge et.al.|[2605.15711](http://arxiv.org/abs/2605.15711)|null|
 |**2026-05-15**|**AGC: Adaptive Geodesic Correction for Adversarial Robustness on Vision-Language Models**|Zhiwei Li et.al.|[2605.15584](http://arxiv.org/abs/2605.15584)|null|
-|**2026-05-14**|**EVA: Editing for Versatile Alignment against Jailbreaks**|Yi Wang et.al.|[2605.14750](http://arxiv.org/abs/2605.14750)|**[link](https://github.com/wanglne/EVA)**|
+|**2026-05-14**|**EVA: Editing for Versatile Alignment against Jailbreaks**|Yi Wang et.al.|[2605.14750](http://arxiv.org/abs/2605.14750)|null|
 |**2026-05-14**|**To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model**|Chengshuai Zhao et.al.|[2605.14291](http://arxiv.org/abs/2605.14291)|null|
 |**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-12**|**SafeSteer: A Decoding-level Defense Mechanism for Multimodal Large Language Models**|Xinyi Zeng et.al.|[2605.11716](http://arxiv.org/abs/2605.11716)|null|
@@ -3792,5 +3804,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
