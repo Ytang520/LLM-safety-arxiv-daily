@@ -15,9 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**Language-Switching Triggers Take a Latent Detour Through Language Models**|Francis Kulumba et.al.|[2605.18646](http://arxiv.org/abs/2605.18646)|null|
+|**2026-05-18**|**REBAR: Reference Ethical Benchmark for Autonomy Readiness**|Jonathan Diller et.al.|[2605.18423](http://arxiv.org/abs/2605.18423)|null|
+|**2026-05-18**|**Multilingual jailbreaking of LLMs using low-resource languages**|Dylan Marx et.al.|[2605.18239](http://arxiv.org/abs/2605.18239)|null|
 |**2026-05-18**|**FedSDR: Federated Self-Distillation with Rectification**|Ziheng Ren et.al.|[2605.18028](http://arxiv.org/abs/2605.18028)|null|
 |**2026-05-18**|**Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling**|Ziwei Wang et.al.|[2605.17971](http://arxiv.org/abs/2605.17971)|null|
-|**2026-05-18**|**Speed Kills: Exploring Confused Deputy Attacks Through Edge AI Accelerators**|Datta Manikanta Sri Hari Danduri et.al.|[2605.17707](http://arxiv.org/abs/2605.17707)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-18**|**Speed Kills: Exploring Confused Deputy Attacks Through Edge AI Accelerators**|Datta Manikanta Sri Hari Danduri et.al.|[2605.17707](http://arxiv.org/abs/2605.17707)|null|
 |**2026-05-17**|**The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure**|Qiqi Liu et.al.|[2605.17480](http://arxiv.org/abs/2605.17480)|null|
 |**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444](http://arxiv.org/abs/2605.17444)|null|
 |**2026-05-17**|**Ablating Safety: Mechanisms for Removing Alignment in Language Models for Security Applications**|Isaac David et.al.|[2605.17413](http://arxiv.org/abs/2605.17413)|null|
