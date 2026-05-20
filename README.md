@@ -1,4 +1,4 @@
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Detecting Fluent Optimization-Based Adversarial Prompts via Sequential Entropy Changes**|Mohammed Alshaalan et.al.|[2605.19966](http://arxiv.org/abs/2605.19966)|null|
+|**2026-05-19**|**Making Uncertainty Visible: Multiverse Analysis for Robust Computational Social Science**|Maximilian Linde et.al.|[2605.19745](http://arxiv.org/abs/2605.19745)|null|
+|**2026-05-19**|**The Evaluation Game: Beyond Static LLM Benchmarking**|Paul Wang et.al.|[2605.19377](http://arxiv.org/abs/2605.19377)|null|
+|**2026-05-19**|**Exploring and Developing a Pre-Model Safeguard with Draft Models**|Hongyu Cai et.al.|[2605.19321](http://arxiv.org/abs/2605.19321)|null|
+|**2026-05-19**|**Backdooring Masked Diffusion Language Models**|Daniel Yiming Cao et.al.|[2605.19262](http://arxiv.org/abs/2605.19262)|null|
+|**2026-05-18**|**On the Geometric Limits of Transformer Defenses against Obfuscation Attacks: Latent Embedding Collapse & Performance Robustness Gap**|Becky Mashaido et.al.|[2605.19159](http://arxiv.org/abs/2605.19159)|null|
+|**2026-05-18**|**Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks**|John T. Halloran et.al.|[2605.19147](http://arxiv.org/abs/2605.19147)|null|
+|**2026-05-18**|**GRASP: Deterministic argument ranking in interaction graphs**|Diganta Misra et.al.|[2605.19141](http://arxiv.org/abs/2605.19141)|null|
+|**2026-05-18**|**OEP: Poisoning Self-Evolving LLM Agents via Locally Correct but Non-Transferable Experiences**|Kaixiang Wang et.al.|[2605.18930](http://arxiv.org/abs/2605.18930)|null|
 |**2026-05-18**|**Language-Switching Triggers Take a Latent Detour Through Language Models**|Francis Kulumba et.al.|[2605.18646](http://arxiv.org/abs/2605.18646)|null|
 |**2026-05-18**|**REBAR: Reference Ethical Benchmark for Autonomy Readiness**|Jonathan Diller et.al.|[2605.18423](http://arxiv.org/abs/2605.18423)|null|
 |**2026-05-18**|**Multilingual jailbreaking of LLMs using low-resource languages**|Dylan Marx et.al.|[2605.18239](http://arxiv.org/abs/2605.18239)|null|
@@ -2597,7 +2606,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2605,6 +2614,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-19**|**RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents**|Doguhuan Yeke et.al.|[2605.19328](http://arxiv.org/abs/2605.19328)|null|
+|**2026-05-18**|**Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South**|Charvi Rastogi et.al.|[2605.19190](http://arxiv.org/abs/2605.19190)|null|
+|**2026-05-18**|**Surviving the Unseen: Predictive Defense for Novel Multi-Turn Multimodal Attacks**|Doohee You et.al.|[2605.18988](http://arxiv.org/abs/2605.18988)|null|
+|**2026-05-18**|**DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs**|Wenzhuo Xu et.al.|[2605.18915](http://arxiv.org/abs/2605.18915)|null|
 |**2026-05-18**|**Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models**|Yanyun Wang et.al.|[2605.18168](http://arxiv.org/abs/2605.18168)|null|
 |**2026-05-18**|**Profiling the Voice: Speaker-Specific Phoneme Fingerprinting for Speech Deepfake Detection**|Jun Xue et.al.|[2605.17737](http://arxiv.org/abs/2605.17737)|null|
 |**2026-05-17**|**TAME: Test-Time Adversarial Prompt Tuning via Mixture-of-Experts for Vision-Language Models**|Xin Wang et.al.|[2605.17577](http://arxiv.org/abs/2605.17577)|null|
@@ -3807,5 +3820,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 
