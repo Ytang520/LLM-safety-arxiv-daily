@@ -1,4 +1,4 @@
-## Updated on 2026.05.24
+## Updated on 2026.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection**|Zhewen Tan et.al.|[2605.23723](http://arxiv.org/abs/2605.23723)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-22**|**CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference**|Guanlong Wu et.al.|[2605.23640](http://arxiv.org/abs/2605.23640)|null|
+|**2026-05-22**|**AI Security Research Should Better Incentivize Defense Research**|Youqian Zhang et.al.|[2605.23448](http://arxiv.org/abs/2605.23448)|null|
+|**2026-05-22**|**Prompt Overflow: What the Guardrail Inspects Is Not What the Model Infers**|Yuanbo Zhou et.al.|[2605.23196](http://arxiv.org/abs/2605.23196)|null|
+|**2026-05-22**|**Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection**|Kieu Dang et.al.|[2605.23175](http://arxiv.org/abs/2605.23175)|null|
+|**2026-05-22**|**What Does the Server See? Understanding Privacy Leakage from Large Language Models in Split Inference**|Mingyuan Fan et.al.|[2605.23158](http://arxiv.org/abs/2605.23158)|null|
 |**2026-05-21**|**Harder to Defend: Towards Chinese Toxicity Attacks via Implicit Enhancement and Obfuscation Rewriting**|Jingyi Kang et.al.|[2605.22258](http://arxiv.org/abs/2605.22258)|null|
 |**2026-05-21**|**AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems**|Priyamvada Tripathi et.al.|[2605.21962](http://arxiv.org/abs/2605.21962)|null|
 |**2026-05-20**|**PocketAgents: A Manifest-Driven Library of Autonomous Defense Agents**|Sidnei Barbieri et.al.|[2605.21694](http://arxiv.org/abs/2605.21694)|null|
@@ -2614,7 +2620,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2622,10 +2628,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-22**|**Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs**|Casey Ford et.al.|[2605.23157](http://arxiv.org/abs/2605.23157)|null|
 |**2026-05-21**|**Safeguarding Text-to-Image Generative Models Against Unauthorized Knowledge Distillation**|Yilan Gao et.al.|[2605.22060](http://arxiv.org/abs/2605.22060)|null|
 |**2026-05-20**|**Latent-space Attacks for Refusal Evasion in Language Models**|Giorgio Piras et.al.|[2605.21706](http://arxiv.org/abs/2605.21706)|null|
 |**2026-05-19**|**The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents**|Doguhan Yeke et.al.|[2605.20544](http://arxiv.org/abs/2605.20544)|null|
-|**2026-05-19**|**Codec-Robust Attacks on Audio LLMs**|Jaechul Roh et.al.|[2605.20519](http://arxiv.org/abs/2605.20519)|null|
+|**2026-05-21**|**Codec-Robust Attacks on Audio LLMs**|Jaechul Roh et.al.|[2605.20519](http://arxiv.org/abs/2605.20519)|null|
 |**2026-05-18**|**A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook**|Kaiwen Luo et.al.|[2605.20266](http://arxiv.org/abs/2605.20266)|null|
 |**2026-05-19**|**RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents**|Doguhuan Yeke et.al.|[2605.19328](http://arxiv.org/abs/2605.19328)|null|
 |**2026-05-18**|**Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South**|Charvi Rastogi et.al.|[2605.19190](http://arxiv.org/abs/2605.19190)|null|
@@ -3833,5 +3840,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
 
