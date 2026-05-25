@@ -1032,7 +1032,7 @@
 |**2025-08-03**|**DUP: Detection-guided Unlearning for Backdoor Purification in Language Models**|Man Hu et.al.|[2508.01647](http://arxiv.org/abs/2508.01647)|null|
 |**2025-11-11**|**ConfGuard: A Simple and Effective Backdoor Detection for Large Language Models**|Zihan Wang et.al.|[2508.01365](http://arxiv.org/abs/2508.01365)|**[link](https://github.com/hanbaoergogo/ConfGuard)**|
 |**2025-09-21**|**BlockA2A: Towards Secure and Verifiable Agent-to-Agent Interoperability**|Zhenhua Zou et.al.|[2508.01332](http://arxiv.org/abs/2508.01332)|null|
-|**2025-08-02**|**PUZZLED: Jailbreaking LLMs through Word-Based Puzzles**|Yelim Ahn et.al.|[2508.01306](http://arxiv.org/abs/2508.01306)|null|
+|**2025-08-02**|**PUZZLED: Jailbreaking LLMs through Word-Based Puzzles**|Yelim Ahn et.al.|[2508.01306](http://arxiv.org/abs/2508.01306)|**[link](https://github.com/mileyahn/puzzled)**|
 |**2025-09-05**|**AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection**|Peiran Wang et.al.|[2508.01249](http://arxiv.org/abs/2508.01249)|null|
 |**2025-08-01**|**Autonomous Penetration Testing: Solving Capture-the-Flag Challenges with LLMs**|Isabelle Bakker et.al.|[2508.01054](http://arxiv.org/abs/2508.01054)|null|
 |**2025-07-30**|**Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models**|Jiazhen Pan et.al.|[2508.00923](http://arxiv.org/abs/2508.00923)|null|
@@ -1850,7 +1850,7 @@
 |**2024-10-01**|**Privacy Evaluation Benchmarks for NLP Models**|Wei Huang et.al.|[2409.15868](http://arxiv.org/abs/2409.15868)|null|
 |**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
 |**2024-09-10**|**Advertiser Content Understanding via LLMs for Google Ads Safety**|Joseph Wallace et.al.|[2409.15343](http://arxiv.org/abs/2409.15343)|null|
-|**2025-03-03**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|null|
+|**2025-03-03**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
 |**2025-04-03**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|null|
 |**2024-09-21**|**Data-centric NLP Backdoor Defense from the Lens of Memorization**|Zhenting Wang et.al.|[2409.14200](http://arxiv.org/abs/2409.14200)|null|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
@@ -2259,9 +2259,9 @@
 |**2024-01-20**|**Deception and Manipulation in Generative AI**|Christian Tarsney et.al.|[2401.11335](http://arxiv.org/abs/2401.11335)|null|
 |**2024-10-31**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|null|
 |**2024-05-16**|**Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models**|Rima Hazra et.al.|[2401.10647](http://arxiv.org/abs/2401.10647)|null|
-|**2024-02-12**|**All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks**|Kazuhiro Takemoto et.al.|[2401.09798](http://arxiv.org/abs/2401.09798)|null|
+|**2024-02-12**|**All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks**|Kazuhiro Takemoto et.al.|[2401.09798](http://arxiv.org/abs/2401.09798)|**[link](https://github.com/kztakemoto/simbaja)**|
 |**2025-04-15**|**Lateral Phishing With Large Language Models: A Large Organization Comparative Study**|Mazal Bethany et.al.|[2401.09727](http://arxiv.org/abs/2401.09727)|null|
-|**2025-03-18**|**AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models**|Dong Shu et.al.|[2401.09002](http://arxiv.org/abs/2401.09002)|null|
+|**2025-03-18**|**AttackEval: How to Evaluate the Effectiveness of Jailbreak Attacking on Large Language Models**|Dong Shu et.al.|[2401.09002](http://arxiv.org/abs/2401.09002)|**[link](https://github.com/BWangCN/AttackEval)**|
 |**2023-12-12**|**Typification of Driver Models Using Clustering Methods**|Gergo Igneczi et.al.|[2401.08640](http://arxiv.org/abs/2401.08640)|null|
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612](http://arxiv.org/abs/2401.07612)|null|
 |**2025-02-21**|**Revisiting Jailbreaking for Large Language Models: A Representation Engineering Perspective**|Tianlong Li et.al.|[2401.06824](http://arxiv.org/abs/2401.06824)|null|
@@ -2780,9 +2780,9 @@
 |**2026-01-29**|**On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression**|Xinwei Zhang et.al.|[2601.21531](http://arxiv.org/abs/2601.21531)|null|
 |**2026-01-28**|**Multimodal Multi-Agent Ransomware Analysis Using AutoGen**|Asifullah Khan et.al.|[2601.20346](http://arxiv.org/abs/2601.20346)|null|
 |**2026-01-27**|**From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense**|Binyan Xu et.al.|[2601.19448](http://arxiv.org/abs/2601.19448)|null|
-|**2026-01-27**|**Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**|Sen Nie et.al.|[2601.19210](http://arxiv.org/abs/2601.19210)|null|
+|**2026-01-27**|**Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**|Sen Nie et.al.|[2601.19210](http://arxiv.org/abs/2601.19210)|**[link](https://github.com/Summu77/CSR)**|
 |**2026-01-27**|**Evaluating Nova 2.0 Lite model under Amazon's Frontier Model Safety Framework**|Satyapriya Krishna et.al.|[2601.19134](http://arxiv.org/abs/2601.19134)|null|
-|**2026-01-24**|**Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems**|Narek Maloyan et.al.|[2601.17548](http://arxiv.org/abs/2601.17548)|null|
+|**2026-01-24**|**Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems**|Narek Maloyan et.al.|[2601.17548](http://arxiv.org/abs/2601.17548)|**[link](https://github.com/kriskimmerle/agentconfig)**|
 |**2026-01-23**|**DeMark: A Query-Free Black-Box Attack on Deepfake Watermarking Defenses**|Wei Song et.al.|[2601.16473](http://arxiv.org/abs/2601.16473)|null|
 |**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](http://arxiv.org/abs/2601.16231)|null|
 |**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
@@ -3509,12 +3509,12 @@
 |**2023-10-10**|**Sound-skwatter (Did You Mean: Sound-squatter?) AI-powered Generator for Phishing Prevention**|Rodolfo Valentim et.al.|[2310.07005](http://arxiv.org/abs/2310.07005)|null|
 |**2023-09-03**|**Robust and Efficient Interference Neural Networks for Defending Against Adversarial Attacks in ImageNet**|Yunuo Xiong et.al.|[2310.05947](http://arxiv.org/abs/2310.05947)|null|
 |**2024-06-10**|**Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks**|Wenhan Yang et.al.|[2310.05862](http://arxiv.org/abs/2310.05862)|null|
-|**2023-10-03**|**Can Language Models be Instructed to Protect Personal Information?**|Yang Chen et.al.|[2310.02224](http://arxiv.org/abs/2310.02224)|null|
+|**2023-10-03**|**Can Language Models be Instructed to Protect Personal Information?**|Yang Chen et.al.|[2310.02224](http://arxiv.org/abs/2310.02224)|**[link](https://github.com/ethanm88/llm-access-control)**|
 |**2023-09-28**|**Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation Robustness via Hypernetworks**|Huihui Gong et.al.|[2309.16207](http://arxiv.org/abs/2309.16207)|null|
 |**2023-10-14**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751](http://arxiv.org/abs/2309.11751)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348](http://arxiv.org/abs/2309.10348)|null|
 |**2023-09-18**|**MAD: Meta Adversarial Defense Benchmark**|X. Peng et.al.|[2309.09776](http://arxiv.org/abs/2309.09776)|null|
-|**2024-06-08**|**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**|Zhi-Yi Chin et.al.|[2309.06135](http://arxiv.org/abs/2309.06135)|null|
+|**2024-06-08**|**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**|Zhi-Yi Chin et.al.|[2309.06135](http://arxiv.org/abs/2309.06135)|**[link](https://github.com/zhiyichin/P4D)**|
 |**2023-09-11**|**Efficient Defense Against Model Stealing Attacks on Convolutional Neural Networks**|Kacem Khaled et.al.|[2309.01838](http://arxiv.org/abs/2309.01838)|null|
 |**2024-03-11**|**Safe and Robust Watermark Injection with a Single OoD Image**|Shuyang Yu et.al.|[2309.01786](http://arxiv.org/abs/2309.01786)|null|
 |**2023-09-04**|**Hindering Adversarial Attacks with Multiple Encrypted Patch Embeddings**|AprilPyone MaungMaung et.al.|[2309.01620](http://arxiv.org/abs/2309.01620)|null|
