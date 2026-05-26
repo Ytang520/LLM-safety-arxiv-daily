@@ -1,4 +1,4 @@
-## Updated on 2026.05.25
+## Updated on 2026.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures**|Yuntao Wang et.al.|[2605.25435](http://arxiv.org/abs/2605.25435)|null|
+|**2026-05-25**|**Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS**|Bingyu Yan et.al.|[2605.25389](http://arxiv.org/abs/2605.25389)|null|
+|**2026-05-24**|**Trust but Verify: Prover-Verifier Deliberation for Selective LLM Prediction**|João Sedoc et.al.|[2605.25133](http://arxiv.org/abs/2605.25133)|null|
+|**2026-05-24**|**Security in the Fine-Tuning Lifecycle of Large Language Models: Threats, Defenses,Evaluation, and Future Directions**|Wenjuan Li et.al.|[2605.25073](http://arxiv.org/abs/2605.25073)|null|
+|**2026-05-24**|**Inverting the Shield: Systematically Generating Safety Tests from Policy Specifications**|Xiaoyue Lu et.al.|[2605.24883](http://arxiv.org/abs/2605.24883)|null|
+|**2026-05-24**|**Reflect-Guard: Enhancing LLM Safeguards against Adversarial Prompts via Logical Self-Reflection**|Lixing Lin et.al.|[2605.24834](http://arxiv.org/abs/2605.24834)|null|
+|**2026-05-24**|**RouteScan: A Non-Intrusive Approach to Auditing MoE LLMs Safety via Expert Routing Telemetry**|Bo Lv et.al.|[2605.24817](http://arxiv.org/abs/2605.24817)|null|
+|**2026-05-23**|**Demystifying the Mythos or Disrupting Bugonomics? From Zero-Day Asymmetry to Defender Remediation Throughput**|Alfredo Pesoli et.al.|[2605.24632](http://arxiv.org/abs/2605.24632)|null|
+|**2026-05-23**|**Ellipsoid Control: A White-list Jailbreak Defense via Benign Latent Modeling**|Luoyu Chen et.al.|[2605.24552](http://arxiv.org/abs/2605.24552)|null|
+|**2026-05-23**|**Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models**|Seokil Ham et.al.|[2605.24550](http://arxiv.org/abs/2605.24550)|null|
 |**2026-05-22**|**MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection**|Zhewen Tan et.al.|[2605.23723](http://arxiv.org/abs/2605.23723)|null|
 |**2026-05-22**|**CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference**|Guanlong Wu et.al.|[2605.23640](http://arxiv.org/abs/2605.23640)|null|
 |**2026-05-22**|**AI Security Research Should Better Incentivize Defense Research**|Youqian Zhang et.al.|[2605.23448](http://arxiv.org/abs/2605.23448)|null|
@@ -2620,7 +2630,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2628,6 +2638,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-25**|**Closed-Loop Bidirectional Prompting for Adversarial Robustness of Vision Language Models**|Xiao Liu et.al.|[2605.25922](http://arxiv.org/abs/2605.25922)|null|
+|**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
+|**2026-05-23**|**OmniEgo-R $^2$ : A Routed Reasoning Framework for the 1st Cross-Domain EgoCross Challenge at CVPR 2026**|Zixu Li et.al.|[2605.24481](http://arxiv.org/abs/2605.24481)|null|
 |**2026-05-22**|**Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs**|Casey Ford et.al.|[2605.23157](http://arxiv.org/abs/2605.23157)|null|
 |**2026-05-21**|**Safeguarding Text-to-Image Generative Models Against Unauthorized Knowledge Distillation**|Yilan Gao et.al.|[2605.22060](http://arxiv.org/abs/2605.22060)|null|
 |**2026-05-20**|**Latent-space Attacks for Refusal Evasion in Language Models**|Giorgio Piras et.al.|[2605.21706](http://arxiv.org/abs/2605.21706)|null|
@@ -3840,5 +3853,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
 
