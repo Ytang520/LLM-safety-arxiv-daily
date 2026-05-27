@@ -1,4 +1,4 @@
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**BAIT: Boundary-Guided Disclosure Escalation via Self-Conditioned Reasoning**|Xuan Luo et.al.|[2605.27110](http://arxiv.org/abs/2605.27110)|null|
+|**2026-05-26**|**Attribute-Based Diagnosis of LLM Alignment with Hate Speech Annotations**|Mohammad Amine Jradi et.al.|[2605.27025](http://arxiv.org/abs/2605.27025)|null|
+|**2026-05-26**|**AlbanianLLMSafety: A Safety Evaluation Dataset for Large Language Models in Albanian**|Wajdi Zaghouani et.al.|[2605.26954](http://arxiv.org/abs/2605.26954)|null|
+|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|**[link](https://github.com/Sadcardation/cordyceps)**|
+|**2026-05-26**|**GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning**|Haodong Zhao et.al.|[2605.26574](http://arxiv.org/abs/2605.26574)|null|
+|**2026-05-26**|**Conceptual Steganography**|Zhejian Zhou et.al.|[2605.26537](http://arxiv.org/abs/2605.26537)|null|
+|**2026-05-26**|**Open-Weight LLM Fine-Tuning Defenses are Susceptible to Simple Attacks**|Kevin Kuo et.al.|[2605.26526](http://arxiv.org/abs/2605.26526)|null|
+|**2026-05-25**|**Curriculum Learning for Safety Alignment**|Sandeep Kumar et.al.|[2605.26315](http://arxiv.org/abs/2605.26315)|null|
 |**2026-05-25**|**Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures**|Yuntao Wang et.al.|[2605.25435](http://arxiv.org/abs/2605.25435)|null|
 |**2026-05-25**|**Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS**|Bingyu Yan et.al.|[2605.25389](http://arxiv.org/abs/2605.25389)|null|
 |**2026-05-24**|**Trust but Verify: Prover-Verifier Deliberation for Selective LLM Prediction**|João Sedoc et.al.|[2605.25133](http://arxiv.org/abs/2605.25133)|null|
@@ -2630,7 +2638,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2638,6 +2646,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-05-24**|**Furina: Fragmented Uncertainty-Driven Refusal Instability Attack**|Tongxi Wu et.al.|[2605.26158](http://arxiv.org/abs/2605.26158)|null|
 |**2026-05-25**|**Closed-Loop Bidirectional Prompting for Adversarial Robustness of Vision Language Models**|Xiao Liu et.al.|[2605.25922](http://arxiv.org/abs/2605.25922)|null|
 |**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
 |**2026-05-23**|**OmniEgo-R $^2$ : A Routed Reasoning Framework for the 1st Cross-Domain EgoCross Challenge at CVPR 2026**|Zixu Li et.al.|[2605.24481](http://arxiv.org/abs/2605.24481)|null|
@@ -3853,5 +3862,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
