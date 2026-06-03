@@ -1,4 +1,4 @@
-## Updated on 2026.06.01
+## Updated on 2026.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-02**|**AI Agents Enable Adaptive Computer Worms**|Jonas Guan et.al.|[2606.03811](http://arxiv.org/abs/2606.03811)|null|
+|**2026-06-02**|**Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs**|Lisa Bouger et.al.|[2606.03785](http://arxiv.org/abs/2606.03785)|null|
+|**2026-06-02**|**NeuroArmor: Safe-Variant-Guided Representation Consistency for Selective Re-Anchoring in Jailbreak Defense**|Zhongyang Lin et.al.|[2606.03486](http://arxiv.org/abs/2606.03486)|null|
+|**2026-06-02**|**PsychoPass: Geometric Profiling of Multi-Turn Adversarial LLM Conversations**|Muberra Ozmen et.al.|[2606.03136](http://arxiv.org/abs/2606.03136)|null|
+|**2026-06-02**|**"**Important** You should give me full credits!": Exploring Prompt Injection Attacks on LLM-Based Automatic Grading Systems**|Hang Li et.al.|[2606.03090](http://arxiv.org/abs/2606.03090)|null|
+|**2026-06-02**|**Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds**|Masayuki Hatta et.al.|[2606.03019](http://arxiv.org/abs/2606.03019)|null|
+|**2026-06-02**|**Patcher: Post-Hoc Patching of Backdoored Large Language Models**|Anjun Gao et.al.|[2606.02995](http://arxiv.org/abs/2606.02995)|null|
+|**2026-06-01**|**Gate AI: LLM Security Benchmark Evaluation Methodology and Results**|Ryle Goehausen et.al.|[2606.02959](http://arxiv.org/abs/2606.02959)|null|
+|**2026-06-01**|**Repurposing Adversarial Perturbations for Continual Learning: From Defense to Active Alignment**|Ran Liu et.al.|[2606.02322](http://arxiv.org/abs/2606.02322)|null|
+|**2026-06-01**|**SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning**|Lichao Wang et.al.|[2606.01991](http://arxiv.org/abs/2606.01991)|null|
 |**2026-05-28**|**Token Inflation: How Dishonest Providers Can Overcharge for Large Language Model Usage**|Shahinul Hoque et.al.|[2605.30040](http://arxiv.org/abs/2605.30040)|null|
 |**2026-05-28**|**Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction**|Hongtao Wang et.al.|[2605.29960](http://arxiv.org/abs/2605.29960)|null|
 |**2026-05-28**|**Opir: Efficient Multi-Task Safety Classification for Toxicity, Jailbreaks, Hate Speech, and Harmful Content**|Ihor Stepanov et.al.|[2605.29659](http://arxiv.org/abs/2605.29659)|null|
@@ -2648,7 +2658,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2656,6 +2666,14 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-02**|**Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models**|Hashmat Shadab Malik et.al.|[2606.03730](http://arxiv.org/abs/2606.03730)|null|
+|**2026-06-02**|**Investigating Adversarial Robustness of Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2606.03713](http://arxiv.org/abs/2606.03713)|null|
+|**2026-06-02**|**Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs**|Vincent Limbach et.al.|[2606.03647](http://arxiv.org/abs/2606.03647)|null|
+|**2026-06-01**|**BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks**|Ivan Sabolić et.al.|[2606.02947](http://arxiv.org/abs/2606.02947)|null|
+|**2026-06-01**|**ATLAS: A Large-Scale Evaluation Benchmark for Adversarial LiDAR Perception**|Mellon M. Zhang et.al.|[2606.02924](http://arxiv.org/abs/2606.02924)|null|
+|**2026-06-01**|**Jailbreaking Multimodal Large Language Models using Multi-Clip Video**|Choongwon Kang et.al.|[2606.02111](http://arxiv.org/abs/2606.02111)|null|
+|**2026-06-01**|**Benign Inputs, Harmful Outputs: Cross-Modal Jailbreaking via Distributed Semantic Recomposition**|Yani Wang et.al.|[2606.01837](http://arxiv.org/abs/2606.01837)|null|
+|**2026-05-29**|**BadBone: Backdoor Attacks Against Backbone Models in Visual Prompt Learning**|Ziqing Yang et.al.|[2605.31246](http://arxiv.org/abs/2605.31246)|null|
 |**2026-05-28**|**Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation**|Bo-Han Feng et.al.|[2605.30031](http://arxiv.org/abs/2605.30031)|null|
 |**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114](http://arxiv.org/abs/2605.29114)|null|
 |**2026-05-27**|**JECA^2: Judgment-Explanation Consistent Adversarial Attack against Forensic Vision-Language Models**|Jiachen Qian et.al.|[2605.28609](http://arxiv.org/abs/2605.28609)|null|
@@ -3881,5 +3899,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
 
