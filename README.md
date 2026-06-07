@@ -1,4 +1,4 @@
-## Updated on 2026.06.06
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,8 +18,8 @@
 |**2026-06-04**|**CogManip: Benchmarking Manipulative Behavior in Multi-Turn Interactions with Large Language Model**|Zeyang Yue et.al.|[2606.06099](http://arxiv.org/abs/2606.06099)|null|
 |**2026-06-04**|**Steering Vectors are an Adversarial Attack Surface**|Abzal Aidakhmetov et.al.|[2606.05958](http://arxiv.org/abs/2606.05958)|null|
 |**2026-06-04**|**Membrane: A Self-Evolving Contrastive Safety Memory for LLM Agent Defense**|Minseok Choi et.al.|[2606.05743](http://arxiv.org/abs/2606.05743)|null|
-|**2026-06-04**|**Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack**|Long P. Hoang et.al.|[2606.05614](http://arxiv.org/abs/2606.05614)|null|
-|**2026-06-04**|**SlotGCG: Exploiting the Positional Vulnerability in LLMs for Jailbreak Attacks**|Seungwon Jeong et.al.|[2606.05609](http://arxiv.org/abs/2606.05609)|null|
+|**2026-06-04**|**Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack**|Long P. Hoang et.al.|[2606.05614](http://arxiv.org/abs/2606.05614)|**[link](https://github.com/iNLP-Lab/Safety-Paradox)**|
+|**2026-06-04**|**SlotGCG: Exploiting the Positional Vulnerability in LLMs for Jailbreak Attacks**|Seungwon Jeong et.al.|[2606.05609](http://arxiv.org/abs/2606.05609)|**[link](https://github.com/youai058/SlotGCG)**|
 |**2026-06-04**|**GuardNet: Ensemble Strategies of Shallow Neural Networks for Robust Prompt Injection and Jailbreak Detection**|Paulo Ricardo Ferreira Neves et.al.|[2606.05566](http://arxiv.org/abs/2606.05566)|null|
 |**2026-06-03**|**SHIELDS: Automating OS Hardening with Iterative Multi-Agent Remediation**|Andrew Hamara et.al.|[2606.05476](http://arxiv.org/abs/2606.05476)|null|
 |**2026-06-03**|**Description-Code Inconsistency in Real-world MCP Servers: Measurement, Detection, and Security Implications**|Yutao Shi et.al.|[2606.04769](http://arxiv.org/abs/2606.04769)|null|
@@ -2668,7 +2668,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3912,5 +3912,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
