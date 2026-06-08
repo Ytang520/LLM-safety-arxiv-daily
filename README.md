@@ -1500,7 +1500,7 @@
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
 |**2025-03-24**|**Masks and Mimicry: Strategic Obfuscation and Impersonation Attacks on Authorship Verification**|Kenneth Alperin et.al.|[2503.19099](http://arxiv.org/abs/2503.19099)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
-|**2025-06-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-06-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|**[link](https://github.com/google-research/camel-prompt-injection)**|
 |**2025-03-25**|**Knowledge Transfer from LLMs to Provenance Analysis: A Semantic-Augmented Method for APT Detection**|Fei Zuo et.al.|[2503.18316](http://arxiv.org/abs/2503.18316)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 |**2025-03-23**|**STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models**|Xunguang Wang et.al.|[2503.17932](http://arxiv.org/abs/2503.17932)|null|
@@ -3563,11 +3563,11 @@
 |**2023-12-07**|**Forcing Generative Models to Degenerate Ones: The Power of Data Poisoning Attacks**|Shuli Jiang et.al.|[2312.04748](http://arxiv.org/abs/2312.04748)|null|
 |**2023-11-29**|**Deepfakes, Misinformation, and Disinformation in the Era of Frontier AI, Generative AI, and Large AI Models**|Mohamed R. Shoaib et.al.|[2311.17394](http://arxiv.org/abs/2311.17394)|null|
 |**2023-11-28**|**Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model**|AprilPyone MaungMaung et.al.|[2311.16577](http://arxiv.org/abs/2311.16577)|null|
-|**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101](http://arxiv.org/abs/2311.16101)|null|
+|**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101](http://arxiv.org/abs/2311.16101)|**[link](https://github.com/UCSC-VLAA/vllm-safety-benchmark)**|
 |**2023-11-27**|**Instruct2Attack: Language-Guided Semantic Adversarial Attacks**|Jiang Liu et.al.|[2311.15551](http://arxiv.org/abs/2311.15551)|null|
-|**2023-12-31**|**Stable Unlearnable Example: Enhancing the Robustness of Unlearnable Examples via Stable Error-Minimizing Noise**|Yixin Liu et.al.|[2311.13091](http://arxiv.org/abs/2311.13091)|null|
+|**2023-12-31**|**Stable Unlearnable Example: Enhancing the Robustness of Unlearnable Examples via Stable Error-Minimizing Noise**|Yixin Liu et.al.|[2311.13091](http://arxiv.org/abs/2311.13091)|**[link](https://github.com/liuyixin-louis/Stable-Unlearnable-Example)**|
 |**2025-05-12**|**Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems**|Guangjing Wang et.al.|[2311.11796](http://arxiv.org/abs/2311.11796)|null|
-|**2024-08-19**|**Adversarial Prompt Tuning for Vision-Language Models**|Jiaming Zhang et.al.|[2311.11261](http://arxiv.org/abs/2311.11261)|null|
+|**2024-08-19**|**Adversarial Prompt Tuning for Vision-Language Models**|Jiaming Zhang et.al.|[2311.11261](http://arxiv.org/abs/2311.11261)|**[link](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)**|
 |**2024-01-20**|**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**|Yuanwei Wu et.al.|[2311.09127](http://arxiv.org/abs/2311.09127)|null|
 |**2025-01-19**|**FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|null|
 |**2023-10-26**|**Unscrambling the Rectification of Adversarial Attacks Transferability across Computer Networks**|Ehsan Nowroozi et.al.|[2311.03373](http://arxiv.org/abs/2311.03373)|null|
