@@ -1,4 +1,4 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO**|Blake Bullwinkel et.al.|[2606.09701](http://arxiv.org/abs/2606.09701)|null|
+|**2026-06-08**|**What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**|Qin Yang et.al.|[2606.09700](http://arxiv.org/abs/2606.09700)|null|
+|**2026-06-08**|**SecureClaw: Clawing Back Control of LLM Agents**|Yuhan Ma et.al.|[2606.09549](http://arxiv.org/abs/2606.09549)|null|
+|**2026-06-08**|**Now You (Still) See Me: Detecting Evasive Steganographic Payloads in LLMs**|Charles Westphal et.al.|[2606.09411](http://arxiv.org/abs/2606.09411)|null|
+|**2026-06-08**|**Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis**|Hyeji Choi et.al.|[2606.09178](http://arxiv.org/abs/2606.09178)|null|
+|**2026-06-08**|**Diffuse AI Control on Fuzzy Tasks**|Mikhail Terekhov et.al.|[2606.08892](http://arxiv.org/abs/2606.08892)|null|
+|**2026-06-06**|**Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR**|Kerri Prinos et.al.|[2606.08168](http://arxiv.org/abs/2606.08168)|null|
+|**2026-06-06**|**Defending Against Malicious Finetuning by Scaling Train-time Adversarial Attacks**|Haoming Wen et.al.|[2606.07970](http://arxiv.org/abs/2606.07970)|null|
+|**2026-06-06**|**RecurGuard: Runtime Monitoring for Reasoning-Token Consumption Attacks**|Abid Aziz et.al.|[2606.07968](http://arxiv.org/abs/2606.07968)|null|
+|**2026-06-06**|**Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs**|Omar Mahmoud et.al.|[2606.07963](http://arxiv.org/abs/2606.07963)|null|
 |**2026-06-05**|**DPAgent-in-the-Middle: Agentic Defense and Repair Against AI-Groomed Deceptive Patterns**|Zewei Shi et.al.|[2606.06914](http://arxiv.org/abs/2606.06914)|null|
 |**2026-06-04**|**CogManip: Benchmarking Manipulative Behavior in Multi-Turn Interactions with Large Language Model**|Zeyang Yue et.al.|[2606.06099](http://arxiv.org/abs/2606.06099)|null|
 |**2026-06-04**|**Steering Vectors are an Adversarial Attack Surface**|Abzal Aidakhmetov et.al.|[2606.05958](http://arxiv.org/abs/2606.05958)|null|
@@ -2669,7 +2679,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2677,12 +2687,14 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-08**|**Personalization Meets Safety:Mechanisms,Risks,and Mitigations in Personalized LLMs**|Yanyan Luo et.al.|[2606.09038](http://arxiv.org/abs/2606.09038)|null|
+|**2026-06-05**|**MLingualFC: Evaluating Jailbreak Vulnerabilities in Multilingual Vision-Language Models**|Rishabh Makwana et.al.|[2606.07706](http://arxiv.org/abs/2606.07706)|null|
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Hangtao Zhang et.al.|[2606.07335](http://arxiv.org/abs/2606.07335)|null|
 |**2026-06-05**|**SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models**|Sunoh Kim et.al.|[2606.06943](http://arxiv.org/abs/2606.06943)|null|
 |**2026-06-04**|**MalTree: Tracing Malware Evolution from Embeddings at Scale**|Akash Amalan et.al.|[2606.06570](http://arxiv.org/abs/2606.06570)|null|
 |**2026-06-04**|**Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models**|Liangsheng Liu et.al.|[2606.06186](http://arxiv.org/abs/2606.06186)|null|
 |**2026-06-04**|**RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing**|Weilin Lin et.al.|[2606.06140](http://arxiv.org/abs/2606.06140)|null|
-|**2026-06-04**|**SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech**|Virginia Ceccatelli et.al.|[2606.06037](http://arxiv.org/abs/2606.06037)|null|
+|**2026-06-08**|**SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech**|Virginia Ceccatelli et.al.|[2606.06037](http://arxiv.org/abs/2606.06037)|null|
 |**2026-06-04**|**Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models**|Hashmat Shadab Malik et.al.|[2606.03730](http://arxiv.org/abs/2606.03730)|null|
 |**2026-06-02**|**Investigating Adversarial Robustness of Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2606.03713](http://arxiv.org/abs/2606.03713)|null|
 |**2026-06-02**|**Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs**|Vincent Limbach et.al.|[2606.03647](http://arxiv.org/abs/2606.03647)|null|
@@ -3916,5 +3928,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
