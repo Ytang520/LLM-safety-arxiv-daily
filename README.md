@@ -1,4 +1,4 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**ALIGNBEAM : Inference-Time Alignment Transfer via Cross-Vocabulary Logit Mixing**|Chirag Chawla et.al.|[2606.12342](http://arxiv.org/abs/2606.12342)|null|
+|**2026-06-10**|**OCELOT: Inference-Leakage Budgets for Privacy-Preserving LLM Agents**|Jin Xie et.al.|[2606.12341](http://arxiv.org/abs/2606.12341)|null|
+|**2026-06-10**|**Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**|Yitong Zhang et.al.|[2606.11817](http://arxiv.org/abs/2606.11817)|null|
+|**2026-06-10**|**Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis**|Hongzhou Rao et.al.|[2606.11755](http://arxiv.org/abs/2606.11755)|null|
+|**2026-06-10**|**Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs**|Kazuki Iwahana et.al.|[2606.11648](http://arxiv.org/abs/2606.11648)|null|
+|**2026-06-10**|**Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference**|Sayedeh Leila Noorbakhsh et.al.|[2606.11592](http://arxiv.org/abs/2606.11592)|null|
+|**2026-06-09**|**When Roleplaying, Do Models Believe What They Say?**|Benjamin Sturgeon et.al.|[2606.11502](http://arxiv.org/abs/2606.11502)|null|
+|**2026-06-09**|**JailbreakOPT: Tool-Assisted Iterative Jailbreak Prompt Optimization**|Ge Shi et.al.|[2606.11425](http://arxiv.org/abs/2606.11425)|null|
+|**2026-06-09**|**Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models**|Malikeh Ehghaghi et.al.|[2606.11409](http://arxiv.org/abs/2606.11409)|null|
 |**2026-06-09**|**Context-Based Adversarial Attacks on AI Code Generators: Vulnerability Analysis and Implications**|Walther A. Del Orbe et.al.|[2606.10945](http://arxiv.org/abs/2606.10945)|null|
 |**2026-06-09**|**Securing Code Understanding: Detecting Natural Backdoor Vulnerability in Code Language Models**|Yuchen Chen et.al.|[2606.10846](http://arxiv.org/abs/2606.10846)|null|
 |**2026-06-09**|**Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation**|Yuchen Ling et.al.|[2606.10749](http://arxiv.org/abs/2606.10749)|null|
@@ -2684,7 +2693,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2692,6 +2701,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-09**|**Towards Fully Automated Exam Grading: Fairness-Aware Recognition of Handwritten Answers with Foundation Models**|Hartwig Grabowski et.al.|[2606.11477](http://arxiv.org/abs/2606.11477)|null|
 |**2026-06-09**|**Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models**|Bulat Nutfullin et.al.|[2606.10904](http://arxiv.org/abs/2606.10904)|null|
 |**2026-06-08**|**Personalization Meets Safety:Mechanisms,Risks,and Mitigations in Personalized LLMs**|Yanyan Luo et.al.|[2606.09038](http://arxiv.org/abs/2606.09038)|null|
 |**2026-06-05**|**MLingualFC: Evaluating Jailbreak Vulnerabilities in Multilingual Vision-Language Models**|Rishabh Makwana et.al.|[2606.07706](http://arxiv.org/abs/2606.07706)|null|
@@ -3934,5 +3944,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
