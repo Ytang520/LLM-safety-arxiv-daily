@@ -1,4 +1,4 @@
-## Updated on 2026.06.12
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -2696,7 +2696,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2704,13 +2704,13 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|**[link](https://github.com/UNITES-Lab/PaperGuard)**|
+|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
 |**2026-06-09**|**Towards Fully Automated Exam Grading: Fairness-Aware Recognition of Handwritten Answers with Foundation Models**|Hartwig Grabowski et.al.|[2606.11477](http://arxiv.org/abs/2606.11477)|null|
 |**2026-06-09**|**Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models**|Bulat Nutfullin et.al.|[2606.10904](http://arxiv.org/abs/2606.10904)|null|
 |**2026-06-08**|**Personalization Meets Safety:Mechanisms,Risks,and Mitigations in Personalized LLMs**|Yanyan Luo et.al.|[2606.09038](http://arxiv.org/abs/2606.09038)|null|
 |**2026-06-05**|**MLingualFC: Evaluating Jailbreak Vulnerabilities in Multilingual Vision-Language Models**|Rishabh Makwana et.al.|[2606.07706](http://arxiv.org/abs/2606.07706)|null|
 |**2026-06-05**|**Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics**|Hangtao Zhang et.al.|[2606.07335](http://arxiv.org/abs/2606.07335)|null|
-|**2026-06-05**|**SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models**|Sunoh Kim et.al.|[2606.06943](http://arxiv.org/abs/2606.06943)|**[link](https://github.com/sunoh-kim/SS-TPT)**|
+|**2026-06-05**|**SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models**|Sunoh Kim et.al.|[2606.06943](http://arxiv.org/abs/2606.06943)|null|
 |**2026-06-04**|**MalTree: Tracing Malware Evolution from Embeddings at Scale**|Akash Amalan et.al.|[2606.06570](http://arxiv.org/abs/2606.06570)|null|
 |**2026-06-04**|**Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models**|Liangsheng Liu et.al.|[2606.06186](http://arxiv.org/abs/2606.06186)|null|
 |**2026-06-04**|**RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing**|Weilin Lin et.al.|[2606.06140](http://arxiv.org/abs/2606.06140)|null|
@@ -3948,5 +3948,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260613>back to top</a>)</p>
 
