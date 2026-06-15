@@ -233,7 +233,7 @@
 |**2026-04-20**|**ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System**|Jiacheng Liang et.al.|[2604.18789](http://arxiv.org/abs/2604.18789)|null|
 |**2026-04-20**|**An Empirical Study of Multi-Generation Sampling for Jailbreak Detection in Large Language Models**|Hanrui Luo et.al.|[2604.18775](http://arxiv.org/abs/2604.18775)|null|
 |**2026-04-20**|**Towards Understanding the Robustness of Sparse Autoencoders**|Ahson Saiyed et.al.|[2604.18756](http://arxiv.org/abs/2604.18756)|null|
-|**2026-04-20**|**Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks**|Jin Zhao et.al.|[2604.18660](http://arxiv.org/abs/2604.18660)|null|
+|**2026-04-20**|**Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks**|Jin Zhao et.al.|[2604.18660](http://arxiv.org/abs/2604.18660)|**[link](https://github.com/epfl-ml4ed/tutor-robustness-eval)**|
 |**2026-04-20**|**Different Paths to Harmful Compliance: Behavioral Side Effects and Mechanistic Divergence Across LLM Jailbreaks**|Md Rysul Kabir et.al.|[2604.18510](http://arxiv.org/abs/2604.18510)|null|
 |**2026-04-20**|**Beyond Pattern Matching: Seven Cross-Domain Techniques for Prompt Injection Detection**|Thamilvendhan Munirathinam et.al.|[2604.18248](http://arxiv.org/abs/2604.18248)|null|
 |**2026-04-20**|**Domain-oriented RAG Assessment (DoRA): Synthetic Benchmarking for RAG-based Question Answering on Defense Documents**|Bao Gia Doan et.al.|[2604.17943](http://arxiv.org/abs/2604.17943)|null|
@@ -630,10 +630,10 @@
 |**2025-12-14**|**One Leak Away: How Pretrained Model Exposure Amplifies Jailbreak Risks in Finetuned LLMs**|Yixin Tan et.al.|[2512.14751](http://arxiv.org/abs/2512.14751)|null|
 |**2025-12-16**|**Reasoning-Style Poisoning of LLM Agents via Stealthy Style Transfer: Process-Level Attacks and Runtime Monitoring in RSV Space**|Xingfu Zhou et.al.|[2512.14448](http://arxiv.org/abs/2512.14448)|null|
 |**2025-12-14**|**The Laminar Flow Hypothesis: Detecting Jailbreaks via Semantic Turbulence in Large Language Models**|Md. Hasib Ur Rahman et.al.|[2512.13741](http://arxiv.org/abs/2512.13741)|null|
-|**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|null|
+|**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|**[link](https://github.com/packguard-dev/MalPackSlice)**|
 |**2025-12-13**|**Large Language Models have Chain-of-Affective**|Junjie Xu et.al.|[2512.12283](http://arxiv.org/abs/2512.12283)|null|
 |**2025-12-12**|**Neural Chameleons: Language Models Can Learn to Hide Their Thoughts from Unseen Activation Monitors**|Max McGuinness et.al.|[2512.11949](http://arxiv.org/abs/2512.11949)|null|
-|**2025-12-10**|**SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models**|Mohamed Afane et.al.|[2512.10998](http://arxiv.org/abs/2512.10998)|null|
+|**2025-12-10**|**SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models**|Mohamed Afane et.al.|[2512.10998](http://arxiv.org/abs/2512.10998)|**[link](https://github.com/afane/SCOUT)**|
 |**2025-12-11**|**LLM-Assisted AHP for Explainable Cyber Range Evaluation**|Vyron Kampourakis et.al.|[2512.10487](http://arxiv.org/abs/2512.10487)|null|
 |**2025-12-15**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
 |**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
@@ -1142,7 +1142,7 @@
 |**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
 |**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao et.al.|[2507.16969](http://arxiv.org/abs/2507.16969)|null|
 |**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
-|**2025-07-22**|**From Text to Actionable Intelligence: Automating STIX Entity and Relationship Extraction**|Ahmed Lekssays et.al.|[2507.16576](http://arxiv.org/abs/2507.16576)|null|
+|**2025-07-22**|**From Text to Actionable Intelligence: Automating STIX Entity and Relationship Extraction**|Ahmed Lekssays et.al.|[2507.16576](http://arxiv.org/abs/2507.16576)|**[link](https://github.com/qcri/azerg)**|
 |**2025-07-22**|**Depth Gives a False Sense of Privacy: LLM Internal States Inversion**|Tian Dong et.al.|[2507.16372](http://arxiv.org/abs/2507.16372)|null|
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
 |**2025-07-21**|**PiMRef: Detecting and Explaining Ever-evolving Spear Phishing Emails with Knowledge Base Invariants**|Ruofan Liu et.al.|[2507.15393](http://arxiv.org/abs/2507.15393)|null|
@@ -2331,7 +2331,7 @@
 |**2024-01-24**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509](http://arxiv.org/abs/2401.12509)|null|
 |**2024-01-23**|**Fast Adversarial Training against Textual Adversarial Attacks**|Yichen Yang et.al.|[2401.12461](http://arxiv.org/abs/2401.12461)|**[link](https://github.com/JHL-HUST/FAT)**|
 |**2024-07-10**|**The Ethics of Interaction: Mitigating Security Threats in LLMs**|Ashutosh Kumar et.al.|[2401.12273](http://arxiv.org/abs/2401.12273)|null|
-|**2024-01-20**|**BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models**|Zhen Xiang et.al.|[2401.12242](http://arxiv.org/abs/2401.12242)|null|
+|**2024-01-20**|**BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models**|Zhen Xiang et.al.|[2401.12242](http://arxiv.org/abs/2401.12242)|**[link](https://github.com/Django-Jiang/BadChain)**|
 |**2024-06-05**|**Text Embedding Inversion Security for Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|null|
 |**2024-08-20**|**PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety**|Zaibin Zhang et.al.|[2401.11880](http://arxiv.org/abs/2401.11880)|null|
 |**2024-01-20**|**Deception and Manipulation in Generative AI**|Christian Tarsney et.al.|[2401.11335](http://arxiv.org/abs/2401.11335)|null|
@@ -3439,7 +3439,7 @@
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|null|
 |**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
 |**2024-09-24**|**Adversarial Attacks to Multi-Modal Models**|Zhihao Dou et.al.|[2409.06793](http://arxiv.org/abs/2409.06793)|null|
-|**2025-02-12**|**TASAR: Transfer-based Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|null|
+|**2025-02-12**|**TASAR: Transfer-based Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|**[link](https://github.com/yunfengdiao/Skeleton-Robustness-Benchmark)**|
 |**2024-09-09**|**Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor**|Abdullah Arafat Miah et.al.|[2409.01952](http://arxiv.org/abs/2409.01952)|null|
 |**2024-09-02**|**A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches**|Kim Jinwoo et.al.|[2409.01219](http://arxiv.org/abs/2409.01219)|null|
 |**2025-08-06**|**Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?**|Viet-Hung Tran et.al.|[2409.01062](http://arxiv.org/abs/2409.01062)|null|
