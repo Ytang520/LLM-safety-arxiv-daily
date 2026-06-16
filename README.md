@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**The Art of Mixology: Mixup-based Obfuscation for Privacy-Preserving Split Learning in Large Language Models**|Chen Chen et.al.|[2606.16801](http://arxiv.org/abs/2606.16801)|null|
+|**2026-06-15**|**Automated jailbreak attack targeting multiple defense strategies**|Qi Wang et.al.|[2606.16751](http://arxiv.org/abs/2606.16751)|null|
+|**2026-06-15**|**DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing**|Xuanyu Yin et.al.|[2606.16527](http://arxiv.org/abs/2606.16527)|null|
+|**2026-06-15**|**Privacy from Symmetry: Orthogonally Equivariant Transformers for LLM Inference**|Alexander Yukhimchuk et.al.|[2606.16461](http://arxiv.org/abs/2606.16461)|null|
+|**2026-06-15**|**Architectural Wisdom: A Framework for Governing Optimization in AI Systems**|Edward Y. Chang et.al.|[2606.16319](http://arxiv.org/abs/2606.16319)|null|
+|**2026-06-15**|**SPARK: Security Knowledge Priming and Representation-Guided Knowledge Activation for LLM-based Secure Code Generation**|Xiaoyun Xu et.al.|[2606.16244](http://arxiv.org/abs/2606.16244)|null|
+|**2026-06-14**|**Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot**|Yuyang Dai et.al.|[2606.15810](http://arxiv.org/abs/2606.15810)|null|
+|**2026-06-14**|**GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking**|Aman Anifer et.al.|[2606.15788](http://arxiv.org/abs/2606.15788)|null|
+|**2026-06-14**|**FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion**|Zixin Rao et.al.|[2606.15609](http://arxiv.org/abs/2606.15609)|null|
+|**2026-06-14**|**EIBench: A Simulator-Based Benchmark and Turn-Credit RL for Emotion Management**|Rongzhi Zhu et.al.|[2606.15532](http://arxiv.org/abs/2606.15532)|null|
 |**2026-06-12**|**From Prompts to Responses: Dual-Sided Data Leakage and Defense in Split Large Language Models**|Zixuan Gu et.al.|[2606.14210](http://arxiv.org/abs/2606.14210)|null|
 |**2026-06-12**|**SkillMutator: Benchmarking and Defending Language-and-Code Cross-modal Attacks on LLM Agent Skills**|Youngduk Kim et.al.|[2606.14154](http://arxiv.org/abs/2606.14154)|null|
 |**2026-06-11**|**The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements**|Md Jafrin Hossain et.al.|[2606.12797](http://arxiv.org/abs/2606.12797)|null|
@@ -2698,7 +2708,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2706,6 +2716,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|null|
+|**2026-06-10**|**The Vision Encoder as a Privacy Boundary: Visual-Token Side Channels in Encoder-Free Vision-Language Models**|Chenyu Zhou et.al.|[2606.14783](http://arxiv.org/abs/2606.14783)|null|
 |**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
 |**2026-06-09**|**Towards Fully Automated Exam Grading: Fairness-Aware Recognition of Handwritten Answers with Foundation Models**|Hartwig Grabowski et.al.|[2606.11477](http://arxiv.org/abs/2606.11477)|null|
 |**2026-06-09**|**Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models**|Bulat Nutfullin et.al.|[2606.10904](http://arxiv.org/abs/2606.10904)|null|
@@ -3950,5 +3962,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
