@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models**|Nicola Franco et.al.|[2606.18193](http://arxiv.org/abs/2606.18193)|null|
+|**2026-06-16**|**Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports**|Ahmed Ryan et.al.|[2606.18166](http://arxiv.org/abs/2606.18166)|null|
+|**2026-06-16**|**ShellGames: Speculative LLM-Driven SSH Deception**|Umberto Salviati et.al.|[2606.17986](http://arxiv.org/abs/2606.17986)|null|
+|**2026-06-16**|**AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor**|Ning Ni et.al.|[2606.17872](http://arxiv.org/abs/2606.17872)|null|
 |**2026-06-15**|**The Art of Mixology: Mixup-based Obfuscation for Privacy-Preserving Split Learning in Large Language Models**|Chen Chen et.al.|[2606.16801](http://arxiv.org/abs/2606.16801)|null|
 |**2026-06-15**|**Automated jailbreak attack targeting multiple defense strategies**|Qi Wang et.al.|[2606.16751](http://arxiv.org/abs/2606.16751)|null|
 |**2026-06-15**|**DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing**|Xuanyu Yin et.al.|[2606.16527](http://arxiv.org/abs/2606.16527)|null|
@@ -2708,7 +2712,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2716,6 +2720,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-15**|**Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs**|Md Abdullah Al Mamun et.al.|[2606.17110](http://arxiv.org/abs/2606.17110)|null|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|null|
 |**2026-06-10**|**The Vision Encoder as a Privacy Boundary: Visual-Token Side Channels in Encoder-Free Vision-Language Models**|Chenyu Zhou et.al.|[2606.14783](http://arxiv.org/abs/2606.14783)|null|
 |**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
@@ -3962,5 +3967,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
