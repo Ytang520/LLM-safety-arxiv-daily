@@ -2234,7 +2234,7 @@
 |**2024-04-16**|**TEL'M: Test and Evaluation of Language Models**|George Cybenko et.al.|[2404.10200](http://arxiv.org/abs/2404.10200)|null|
 |**2024-04-15**|**Modelling Language**|Jumbly Grindrod et.al.|[2404.09579](http://arxiv.org/abs/2404.09579)|**[link](https://github.com/fighting41love/funNLP)**|
 |**2025-06-06**|**JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models**|Yingchaojie Feng et.al.|[2404.08793](http://arxiv.org/abs/2404.08793)|null|
-|**2024-06-24**|**ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming**|Simone Tedeschi et.al.|[2404.08676](http://arxiv.org/abs/2404.08676)|null|
+|**2024-06-24**|**ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming**|Simone Tedeschi et.al.|[2404.08676](http://arxiv.org/abs/2404.08676)|**[link](https://github.com/Babelscape/ALERT)**|
 |**2024-04-12**|**Subtoxic Questions: Dive Into Attitude Change of LLM's Response in Jailbreak Attempts**|Tianyu Zhang et.al.|[2404.08309](http://arxiv.org/abs/2404.08309)|null|
 |**2024-11-24**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|null|
 |**2024-04-10**|**CulturalTeaming: AI-Assisted Interactive Red-Teaming for Challenging LLMs' (Lack of) Multicultural Knowledge**|Yu Ying Chiu et.al.|[2404.06664](http://arxiv.org/abs/2404.06664)|null|
@@ -3287,11 +3287,11 @@
 |**2025-04-01**|**Multilingual and Multi-Accent Jailbreaking of Audio LLMs**|Jaechul Roh et.al.|[2504.01094](http://arxiv.org/abs/2504.01094)|null|
 |**2025-04-01**|**Unleashing the Power of Pre-trained Encoders for Universal Adversarial Attack Detection**|Yinghe Zhang et.al.|[2504.00429](http://arxiv.org/abs/2504.00429)|null|
 |**2025-04-10**|**Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning**|Ashim Dahal et.al.|[2503.23495](http://arxiv.org/abs/2503.23495)|null|
-|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
+|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|**[link](https://github.com/naver-ai/JOOD)**|
 |**2025-06-08**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|null|
 |**2025-03-27**|**SoK: How Robust is Audio Watermarking in Generative AI models?**|Yizhu Wen et.al.|[2503.19176](http://arxiv.org/abs/2503.19176)|null|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
-|**2025-05-22**|**Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback**|Jiaming Ji et.al.|[2503.17682](http://arxiv.org/abs/2503.17682)|null|
+|**2025-05-22**|**Safe RLHF-V: Safe Reinforcement Learning from Multi-modal Human Feedback**|Jiaming Ji et.al.|[2503.17682](http://arxiv.org/abs/2503.17682)|**[link](https://github.com/siruihan2024/Safe-RLHF-V)**|
 |**2025-03-21**|**Large Language Models Can Verbatim Reproduce Long Malicious Sequences**|Sharon Lin et.al.|[2503.17578](http://arxiv.org/abs/2503.17578)|null|
 |**2025-03-21**|**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**|Yongli Xiang et.al.|[2503.17198](http://arxiv.org/abs/2503.17198)|null|
 |**2025-03-20**|**REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models**|Jie Zhang et.al.|[2503.16566](http://arxiv.org/abs/2503.16566)|null|
