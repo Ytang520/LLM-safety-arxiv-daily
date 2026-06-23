@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
+|**2026-06-22**|**IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages**|Parth Bramhecha et.al.|[2606.22841](http://arxiv.org/abs/2606.22841)|null|
+|**2026-06-21**|**The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs**|Shivam Ratnakar et.al.|[2606.22686](http://arxiv.org/abs/2606.22686)|null|
+|**2026-06-21**|**AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent**|Weidi Luo et.al.|[2606.22673](http://arxiv.org/abs/2606.22673)|null|
+|**2026-06-19**|**Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs**|Charbel El Feghali et.al.|[2606.21638](http://arxiv.org/abs/2606.21638)|null|
+|**2026-06-19**|**ARENA: An Architecture for Measuring the Transferability of Autonomous Cyber Defense**|Sidnei Barbieri et.al.|[2606.21377](http://arxiv.org/abs/2606.21377)|null|
+|**2026-06-19**|**DEFENGRAPH: Knowledge Graph-Enhanced LLMs for Blue Team Cyber Defense**|Zhen Wang et.al.|[2606.21059](http://arxiv.org/abs/2606.21059)|null|
+|**2026-06-19**|**Do Large Language Model Voters Strategize? An Oracle-Based Benchmark for Manipulation under Voting Rules**|Seyed Pouyan Mousavi Davoudi et.al.|[2606.21001](http://arxiv.org/abs/2606.21001)|null|
+|**2026-06-18**|**Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**|Shanghao Shi et.al.|[2606.20922](http://arxiv.org/abs/2606.20922)|null|
+|**2026-06-18**|**Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents**|Dayeon Kang et.al.|[2606.20910](http://arxiv.org/abs/2606.20910)|null|
 |**2026-06-18**|**What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?**|Sihui Dai et.al.|[2606.20508](http://arxiv.org/abs/2606.20508)|null|
 |**2026-06-18**|**Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems**|Reza Soosahabi et.al.|[2606.20470](http://arxiv.org/abs/2606.20470)|null|
 |**2026-06-18**|**LLM agent safety, multi-turn red-teaming, jailbreak benchmarks, adversarial robustness, safety-critical systems**|Hanwool Lee et.al.|[2606.20408](http://arxiv.org/abs/2606.20408)|null|
@@ -2721,7 +2731,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2729,6 +2739,13 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-22**|**T-VSS: Test-Time Visual Subspace Steering for Adversarial Robustness of Vision-Language Models**|Jaehyuk Jang et.al.|[2606.23132](http://arxiv.org/abs/2606.23132)|null|
+|**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
+|**2026-06-21**|**SCRUB-FL: Sanitizing and Cleansing Representations via Unlearning of Backdoors**|Osama Wehbi et.al.|[2606.22700](http://arxiv.org/abs/2606.22700)|null|
+|**2026-06-20**|**Perceiving exposure segregation with open urban imagery**|Yunke Zhang et.al.|[2606.21858](http://arxiv.org/abs/2606.21858)|null|
+|**2026-06-19**|**Single-Event Upsets in 3D Gaussian Splatting Rendering: Bit-Level Criticality, Spatial Extent, and a Parallel Support Guard**|Faruk Alpay et.al.|[2606.21791](http://arxiv.org/abs/2606.21791)|null|
+|**2026-06-19**|**Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers**|Yingying Wu et.al.|[2606.21289](http://arxiv.org/abs/2606.21289)|null|
+|**2026-06-19**|**Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning**|Yongbin Huang et.al.|[2606.21052](http://arxiv.org/abs/2606.21052)|null|
 |**2026-06-18**|**Quantization as a Malicious Task: Removing Quantization-Conditioned Backdoors via Task Arithmetic**|Kaihsun Yang et.al.|[2606.20254](http://arxiv.org/abs/2606.20254)|null|
 |**2026-06-15**|**Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs**|Md Abdullah Al Mamun et.al.|[2606.17110](http://arxiv.org/abs/2606.17110)|null|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|null|
@@ -3977,5 +3994,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
