@@ -1,4 +1,4 @@
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-23**|**AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability**|Khanak Khandelwal et.al.|[2606.24589](http://arxiv.org/abs/2606.24589)|null|
+|**2026-06-23**|**Pigeonholing: Bad prompts hurt models to collapse and make mistakes**|Hyunji Nam et.al.|[2606.24267](http://arxiv.org/abs/2606.24267)|null|
+|**2026-06-23**|**Distributed Quality-Diversity Search for Toxicity in Large Language Models**|Onkar Shelar et.al.|[2606.24166](http://arxiv.org/abs/2606.24166)|null|
+|**2026-06-22**|**RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems**|Yarin Yerushalmi Levi et.al.|[2606.23927](http://arxiv.org/abs/2606.23927)|null|
 |**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
 |**2026-06-22**|**IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages**|Parth Bramhecha et.al.|[2606.22841](http://arxiv.org/abs/2606.22841)|null|
 |**2026-06-21**|**The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs**|Shivam Ratnakar et.al.|[2606.22686](http://arxiv.org/abs/2606.22686)|null|
@@ -2731,7 +2735,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2739,6 +2743,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-23**|**Poster: Exploring the Limits of Audio-Based Detection of Turkish Phone Call Scams**|Arda Eren et.al.|[2606.24523](http://arxiv.org/abs/2606.24523)|null|
+|**2026-06-23**|**PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models**|Simone Gallivanone et.al.|[2606.24388](http://arxiv.org/abs/2606.24388)|null|
+|**2026-06-22**|**REALM: A Unified Red-Teaming Benchmark for Physical-World VLMs**|Yifei Zhao et.al.|[2606.23892](http://arxiv.org/abs/2606.23892)|null|
 |**2026-06-22**|**T-VSS: Test-Time Visual Subspace Steering for Adversarial Robustness of Vision-Language Models**|Jaehyuk Jang et.al.|[2606.23132](http://arxiv.org/abs/2606.23132)|null|
 |**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
 |**2026-06-21**|**SCRUB-FL: Sanitizing and Cleansing Representations via Unlearning of Backdoors**|Osama Wehbi et.al.|[2606.22700](http://arxiv.org/abs/2606.22700)|null|
@@ -3994,5 +4001,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
