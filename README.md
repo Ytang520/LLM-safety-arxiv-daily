@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models**|Yanchen Yin et.al.|[2606.28153](http://arxiv.org/abs/2606.28153)|null|
+|**2026-06-26**|**From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond**|Paul Dubois et.al.|[2606.28127](http://arxiv.org/abs/2606.28127)|null|
+|**2026-06-26**|**ToxiREX: A Dataset on Toxic REasoning in ConteXt**|Stefan F. Schouten et.al.|[2606.27981](http://arxiv.org/abs/2606.27981)|null|
+|**2026-06-26**|**Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning**|Austin MY Cheung et.al.|[2606.27709](http://arxiv.org/abs/2606.27709)|null|
 |**2026-06-24**|**At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization**|Praneet Suresh et.al.|[2606.26396](http://arxiv.org/abs/2606.26396)|null|
 |**2026-06-24**|**Verifying Intent and Harm: A Unified Defense Against LLM-Generated Threats**|Poojitha Thota et.al.|[2606.26377](http://arxiv.org/abs/2606.26377)|null|
 |**2026-06-24**|**Detect, Unlearn, Restore: Defending Text Summarization Models Against Data Poisoning**|Poojitha Thota et.al.|[2606.26036](http://arxiv.org/abs/2606.26036)|null|
@@ -2742,7 +2746,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4009,5 +4013,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
