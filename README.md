@@ -2765,8 +2765,8 @@
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
 |**2026-06-29**|**Theory of Continual Learning Against Data Poisoning Attacks**|Yiting Hu et.al.|[2606.29841](http://arxiv.org/abs/2606.29841)|null|
 |**2026-06-28**|**Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages**|Yikai Hua et.al.|[2606.29649](http://arxiv.org/abs/2606.29649)|null|
-|**2026-06-28**|**The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training**|Tuo Chen et.al.|[2606.29451](http://arxiv.org/abs/2606.29451)|null|
-|**2026-06-26**|**Obliviate: Erasing Concepts from Autoregressive Image Generation Models**|Hossein Shakibania et.al.|[2606.28643](http://arxiv.org/abs/2606.28643)|null|
+|**2026-06-28**|**The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training**|Tuo Chen et.al.|[2606.29451](http://arxiv.org/abs/2606.29451)|**[link](https://github.com/jsrdcht/Platonic-Representation-Defense)**|
+|**2026-06-26**|**Obliviate: Erasing Concepts from Autoregressive Image Generation Models**|Hossein Shakibania et.al.|[2606.28643](http://arxiv.org/abs/2606.28643)|**[link](https://github.com/multimodal-ai-lab/Obliviate)**|
 |**2026-06-25**|**Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models**|Abrar Alotaibi et.al.|[2606.26566](http://arxiv.org/abs/2606.26566)|null|
 |**2026-06-23**|**Poster: Exploring the Limits of Audio-Based Detection of Turkish Phone Call Scams**|Arda Eren et.al.|[2606.24523](http://arxiv.org/abs/2606.24523)|null|
 |**2026-06-23**|**PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models**|Simone Gallivanone et.al.|[2606.24388](http://arxiv.org/abs/2606.24388)|null|
