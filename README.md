@@ -1,4 +1,4 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Addressing Over-Refusal in LLMs with Competing Rewards**|Taeyoun Kim et.al.|[2606.31748](http://arxiv.org/abs/2606.31748)|null|
+|**2026-06-30**|**A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems**|Seyed Bagher Hashemi Natanzi et.al.|[2606.31639](http://arxiv.org/abs/2606.31639)|null|
+|**2026-06-30**|**Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming**|Yong Yang et.al.|[2606.31227](http://arxiv.org/abs/2606.31227)|null|
+|**2026-06-29**|**Curvature-Guided Module Localization for Low-Rank Detoxification of Backdoored Large Language Models**|Arash Raftari et.al.|[2606.30899](http://arxiv.org/abs/2606.30899)|null|
+|**2026-06-29**|**A Systematic Approach to Multi-Agent AI from Advanced Regulatory Control Theory: Safe and Auditable LLM Operator Agents for Process Control**|Idelfonso B. R. Nogueira et.al.|[2606.30877](http://arxiv.org/abs/2606.30877)|null|
 |**2026-06-29**|**Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing**|Dvir Alsheich et.al.|[2606.30555](http://arxiv.org/abs/2606.30555)|null|
 |**2026-06-29**|**IHDec: Divergence-Steered Contrastive Decoding for Securing Multi-Turn Instruction Hierarchies**|Nicole Geumheon Liu et.al.|[2606.29960](http://arxiv.org/abs/2606.29960)|null|
 |**2026-06-28**|**An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios**|Caglar Uysal et.al.|[2606.29602](http://arxiv.org/abs/2606.29602)|null|
@@ -2755,7 +2760,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2763,10 +2768,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-06-30**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
 |**2026-06-29**|**Theory of Continual Learning Against Data Poisoning Attacks**|Yiting Hu et.al.|[2606.29841](http://arxiv.org/abs/2606.29841)|null|
 |**2026-06-28**|**Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages**|Yikai Hua et.al.|[2606.29649](http://arxiv.org/abs/2606.29649)|null|
-|**2026-06-28**|**The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training**|Tuo Chen et.al.|[2606.29451](http://arxiv.org/abs/2606.29451)|**[link](https://github.com/jsrdcht/Platonic-Representation-Defense)**|
-|**2026-06-26**|**Obliviate: Erasing Concepts from Autoregressive Image Generation Models**|Hossein Shakibania et.al.|[2606.28643](http://arxiv.org/abs/2606.28643)|**[link](https://github.com/multimodal-ai-lab/Obliviate)**|
+|**2026-06-28**|**The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training**|Tuo Chen et.al.|[2606.29451](http://arxiv.org/abs/2606.29451)|null|
+|**2026-06-26**|**Obliviate: Erasing Concepts from Autoregressive Image Generation Models**|Hossein Shakibania et.al.|[2606.28643](http://arxiv.org/abs/2606.28643)|null|
 |**2026-06-25**|**Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models**|Abrar Alotaibi et.al.|[2606.26566](http://arxiv.org/abs/2606.26566)|null|
 |**2026-06-23**|**Poster: Exploring the Limits of Audio-Based Detection of Turkish Phone Call Scams**|Arda Eren et.al.|[2606.24523](http://arxiv.org/abs/2606.24523)|null|
 |**2026-06-23**|**PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models**|Simone Gallivanone et.al.|[2606.24388](http://arxiv.org/abs/2606.24388)|null|
@@ -4026,5 +4032,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
