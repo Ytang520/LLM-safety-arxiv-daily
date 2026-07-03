@@ -1,4 +1,4 @@
-## Updated on 2026.07.02
+## Updated on 2026.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks**|Samiha A. Ismail et.al.|[2607.02175](http://arxiv.org/abs/2607.02175)|null|
+|**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
+|**2026-07-01**|**Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety**|Michele Guida et.al.|[2607.01277](http://arxiv.org/abs/2607.01277)|null|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208](http://arxiv.org/abs/2607.01208)|null|
 |**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|**[link](https://github.com/liujlong27/SMT)**|
 |**2026-06-30**|**Addressing Over-Refusal in LLMs with Competing Rewards**|Taeyoun Kim et.al.|[2606.31748](http://arxiv.org/abs/2606.31748)|null|
@@ -2762,7 +2765,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2770,6 +2773,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
 |**2026-07-01**|**ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models**|Zhihao Dou et.al.|[2607.00361](http://arxiv.org/abs/2607.00361)|null|
 |**2026-07-01**|**What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models**|Amirhosein Chahe et.al.|[2607.00283](http://arxiv.org/abs/2607.00283)|null|
 |**2026-06-30**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
@@ -4036,5 +4040,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260703>back to top</a>)</p>
 
