@@ -19,7 +19,7 @@
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
 |**2026-07-01**|**Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety**|Michele Guida et.al.|[2607.01277](http://arxiv.org/abs/2607.01277)|null|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208](http://arxiv.org/abs/2607.01208)|null|
-|**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|**[link](https://github.com/liujlong27/SMT)**|
+|**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|null|
 |**2026-06-30**|**Addressing Over-Refusal in LLMs with Competing Rewards**|Taeyoun Kim et.al.|[2606.31748](http://arxiv.org/abs/2606.31748)|null|
 |**2026-06-30**|**A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems**|Seyed Bagher Hashemi Natanzi et.al.|[2606.31639](http://arxiv.org/abs/2606.31639)|null|
 |**2026-06-30**|**Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming**|Yong Yang et.al.|[2606.31227](http://arxiv.org/abs/2606.31227)|null|
