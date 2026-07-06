@@ -1895,7 +1895,7 @@
 |**2024-11-18**|**Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks**|Dario Pasquini et.al.|[2410.20911](http://arxiv.org/abs/2410.20911)|null|
 |**2024-10-27**|**Deep Learning Based Dense Retrieval: A Comparative Study**|Ming Zhong et.al.|[2410.20315](http://arxiv.org/abs/2410.20315)|null|
 |**2024-10-26**|**CodePurify: Defend Backdoor Attacks on Neural Code Models via Entropy-based Purification**|Fangwen Mu et.al.|[2410.20136](http://arxiv.org/abs/2410.20136)|null|
-|**2024-10-25**|**RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**|Tanqiu Jiang et.al.|[2410.19937](http://arxiv.org/abs/2410.19937)|null|
+|**2024-10-25**|**RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction**|Tanqiu Jiang et.al.|[2410.19937](http://arxiv.org/abs/2410.19937)|**[link](https://github.com/TanqiuJiang/RobustKV)**|
 |**2025-06-15**|**An Auditing Test To Detect Behavioral Shift in Language Models**|Leo Richter et.al.|[2410.19406](http://arxiv.org/abs/2410.19406)|null|
 |**2025-11-07**|**Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities**|Chung-En Sun et.al.|[2410.18469](http://arxiv.org/abs/2410.18469)|null|
 |**2024-10-23**|**Countering Autonomous Cyber Threats**|Kade M. Heckel et.al.|[2410.18312](http://arxiv.org/abs/2410.18312)|**[link](https://github.com/AUSP59/CyberShield-AI)**|
@@ -2716,12 +2716,12 @@
 |**2021-05-06**|**A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks**|Thai Le et.al.|[2011.10492](http://arxiv.org/abs/2011.10492)|**[link](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)**|
 |**2021-11-03**|**ONION: A Simple and Effective Defense Against Textual Backdoor Attacks**|Fanchao Qi et.al.|[2011.10369](http://arxiv.org/abs/2011.10369)|**[link](https://github.com/thunlp/ONION)**|
 |**2022-03-16**|**SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**|Thai Le et.al.|[2011.08908](http://arxiv.org/abs/2011.08908)|**[link](https://github.com/lethaiq/shield-defend-adversarial-texts)**|
-|**2021-04-12**|**Concealed Data Poisoning Attacks on NLP Models**|Eric Wallace et.al.|[2010.12563](http://arxiv.org/abs/2010.12563)|null|
+|**2021-04-12**|**Concealed Data Poisoning Attacks on NLP Models**|Eric Wallace et.al.|[2010.12563](http://arxiv.org/abs/2010.12563)|**[link](https://github.com/Eric-Wallace/data-poisoning)**|
 |**2020-11-16**|**AI-lead Court Debate Case Investigation**|Changzhen Ji et.al.|[2010.11604](http://arxiv.org/abs/2010.11604)|null|
-|**2021-01-16**|**Explain2Attack: Text Adversarial Attacks via Cross-Domain Interpretability**|Mahmoud Hossam et.al.|[2010.06812](http://arxiv.org/abs/2010.06812)|null|
-|**2020-10-12**|**TextHide: Tackling Data Privacy in Language Understanding Tasks**|Yangsibo Huang et.al.|[2010.06053](http://arxiv.org/abs/2010.06053)|null|
+|**2021-01-16**|**Explain2Attack: Text Adversarial Attacks via Cross-Domain Interpretability**|Mahmoud Hossam et.al.|[2010.06812](http://arxiv.org/abs/2010.06812)|**[link](https://github.com/mahossam/Explain2Attack)**|
+|**2020-10-12**|**TextHide: Tackling Data Privacy in Language Understanding Tasks**|Yangsibo Huang et.al.|[2010.06053](http://arxiv.org/abs/2010.06053)|**[link](https://github.com/Hazelsuko07/TextHide)**|
 |**2020-10-18**|**Adversarial Attack and Defense of Structured Prediction Models**|Wenjuan Han et.al.|[2010.01610](http://arxiv.org/abs/2010.01610)|null|
-|**2021-03-29**|**Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding**|Sahar Abdelnabi et.al.|[2009.03015](http://arxiv.org/abs/2009.03015)|null|
+|**2021-03-29**|**Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding**|Sahar Abdelnabi et.al.|[2009.03015](http://arxiv.org/abs/2009.03015)|**[link](https://github.com/S-Abdelnabi/awt)**|
 |**2020-07-24**|**Opacity of Discrete Event Systems with Active Intruder**|Alireza Partovi et.al.|[2007.14960](http://arxiv.org/abs/2007.14960)|null|
 |**2021-10-05**|**Processes, Systems and Tests: Defining Contextual Equivalences**|Clément Aubert et.al.|[2007.08187](http://arxiv.org/abs/2007.08187)|null|
 |**2020-10-08**|**You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion**|Roei Schuster et.al.|[2007.02220](http://arxiv.org/abs/2007.02220)|null|
@@ -3244,7 +3244,7 @@
 |**2025-06-20**|**From Concepts to Components: Concept-Agnostic Attention Module Discovery in Transformers**|Jingtong Su et.al.|[2506.17052](http://arxiv.org/abs/2506.17052)|null|
 |**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968](http://arxiv.org/abs/2506.16968)|null|
 |**2025-06-20**|**Cross-Modal Obfuscation for Jailbreak Attacks on Large Vision-Language Models**|Lei Jiang et.al.|[2506.16760](http://arxiv.org/abs/2506.16760)|null|
-|**2025-06-24**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|null|
+|**2025-06-24**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|**[link](https://github.com/JiayinXu5499/PSIC)**|
 |**2025-08-01**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
 |**2025-09-05**|**Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents**|Xuan Wang et.al.|[2506.13205](http://arxiv.org/abs/2506.13205)|null|
 |**2025-07-11**|**Pushing the Limits of Safety: A Technical Report on the ATLAS Challenge 2025**|Zonghao Ying et.al.|[2506.12430](http://arxiv.org/abs/2506.12430)|null|
@@ -3781,7 +3781,7 @@
 |**2024-03-16**|**Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning**|Yunchao Zhang et.al.|[2211.14769](http://arxiv.org/abs/2211.14769)|null|
 |**2023-04-26**|**Privacy in Practice: Private COVID-19 Detection in X-Ray Images (Extended Version)**|Lucas Lange et.al.|[2211.11434](http://arxiv.org/abs/2211.11434)|null|
 |**2023-10-28**|**Towards Good Practices in Evaluating Transfer Adversarial Attacks**|Zhengyu Zhao et.al.|[2211.09565](http://arxiv.org/abs/2211.09565)|null|
-|**2022-11-05**|**Textual Manifold-based Defense Against Natural Language Adversarial Examples**|Dang Minh Nguyen et.al.|[2211.02878](http://arxiv.org/abs/2211.02878)|null|
+|**2022-11-05**|**Textual Manifold-based Defense Against Natural Language Adversarial Examples**|Dang Minh Nguyen et.al.|[2211.02878](http://arxiv.org/abs/2211.02878)|**[link](https://github.com/dangne/tmd)**|
 |**2022-11-03**|**Leveraging Domain Features for Detecting Adversarial Attacks Against Deep Speech Recognition in Noise**|Christian Heider Nielsen et.al.|[2211.01621](http://arxiv.org/abs/2211.01621)|null|
 |**2023-06-14**|**LMD: A Learnable Mask Network to Detect Adversarial Examples for Speaker Verification**|Xing Chen et.al.|[2211.00825](http://arxiv.org/abs/2211.00825)|null|
 |**2022-10-22**|**Hindering Adversarial Attacks with Implicit Neural Representations**|Andrei A. Rusu et.al.|[2210.13982](http://arxiv.org/abs/2210.13982)|null|
