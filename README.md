@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses**|Neeraj Karamchandani et.al.|[2607.05029](http://arxiv.org/abs/2607.05029)|null|
+|**2026-07-04**|**What is Left for Us? Second Scholarship Against the Degradation of Research by AI**|Claudio Novelli et.al.|[2607.04049](http://arxiv.org/abs/2607.04049)|null|
+|**2026-07-04**|**Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents**|Abhishek Kumar et.al.|[2607.03968](http://arxiv.org/abs/2607.03968)|null|
 |**2026-07-02**|**A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks**|Samiha A. Ismail et.al.|[2607.02175](http://arxiv.org/abs/2607.02175)|null|
 |**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|
 |**2026-07-01**|**Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety**|Michele Guida et.al.|[2607.01277](http://arxiv.org/abs/2607.01277)|null|
 |**2026-07-01**|**Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation**|Shayan Talaei et.al.|[2607.01208](http://arxiv.org/abs/2607.01208)|null|
-|**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|**[link](https://github.com/liujlong27/SMT)**|
+|**2026-07-01**|**Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces**|Junlong Liu et.al.|[2607.00481](http://arxiv.org/abs/2607.00481)|null|
 |**2026-06-30**|**Addressing Over-Refusal in LLMs with Competing Rewards**|Taeyoun Kim et.al.|[2606.31748](http://arxiv.org/abs/2606.31748)|null|
 |**2026-06-30**|**A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems**|Seyed Bagher Hashemi Natanzi et.al.|[2606.31639](http://arxiv.org/abs/2606.31639)|null|
 |**2026-06-30**|**Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming**|Yong Yang et.al.|[2606.31227](http://arxiv.org/abs/2606.31227)|null|
@@ -2765,7 +2768,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2773,10 +2776,15 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-05**|**TrustCLIP: Learning Private Visual Features via Adversarial Reconstruction**|Nikos Athanasiou et.al.|[2607.04484](http://arxiv.org/abs/2607.04484)|null|
+|**2026-07-03**|**Defending from GeoLocalization through Adversarial Road Trips**|Niccolò Niccoli et.al.|[2607.03277](http://arxiv.org/abs/2607.03277)|null|
+|**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|null|
+|**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961](http://arxiv.org/abs/2607.02961)|null|
+|**2026-07-02**|**Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data**|Daniel M. Jimenez-Gutierrez et.al.|[2607.02636](http://arxiv.org/abs/2607.02636)|null|
 |**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
 |**2026-07-01**|**ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models**|Zhihao Dou et.al.|[2607.00361](http://arxiv.org/abs/2607.00361)|null|
 |**2026-07-01**|**What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models**|Amirhosein Chahe et.al.|[2607.00283](http://arxiv.org/abs/2607.00283)|null|
-|**2026-06-30**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
+|**2026-07-05**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
 |**2026-06-29**|**Theory of Continual Learning Against Data Poisoning Attacks**|Yiting Hu et.al.|[2606.29841](http://arxiv.org/abs/2606.29841)|null|
 |**2026-06-28**|**Resolution Thresholds in VLM Detection of Harmful ASCII Art Across Construction Modes and Languages**|Yikai Hua et.al.|[2606.29649](http://arxiv.org/abs/2606.29649)|null|
 |**2026-06-28**|**The Platonic Defense: Backdoor Defense for Self-Supervised Encoders in the Era of Large Scale Pre-training**|Tuo Chen et.al.|[2606.29451](http://arxiv.org/abs/2606.29451)|null|
@@ -4040,5 +4048,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
