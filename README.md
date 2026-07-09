@@ -1,4 +1,4 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,8 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass**|Victor Giannakouris et.al.|[2607.07696](http://arxiv.org/abs/2607.07696)|null|
+|**2026-07-08**|**Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents**|Harry Owiredu-Ashley et.al.|[2607.07474](http://arxiv.org/abs/2607.07474)|null|
+|**2026-07-08**|**Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies**|Kiarash Ahi et.al.|[2607.06963](http://arxiv.org/abs/2607.06963)|null|
 |**2026-07-07**|**More Convincing, Not More Correct: Self-Play Reward Hacking of Reference-Free LLM Judges**|Chenyu Zhou et.al.|[2607.05904](http://arxiv.org/abs/2607.05904)|null|
-|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
+|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|**[link](https://github.com/Kilroy-pain/beyond-refusal-a-same-lineage-study-of-aligned-and-abliterated-llms-for-vulnerability-analysis)**|
 |**2026-07-06**|**Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses**|Neeraj Karamchandani et.al.|[2607.05029](http://arxiv.org/abs/2607.05029)|null|
 |**2026-07-04**|**What is Left for Us? Second Scholarship Against the Degradation of Research by AI**|Claudio Novelli et.al.|[2607.04049](http://arxiv.org/abs/2607.04049)|null|
 |**2026-07-04**|**Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents**|Abhishek Kumar et.al.|[2607.03968](http://arxiv.org/abs/2607.03968)|null|
@@ -2770,7 +2773,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4052,5 +4055,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
