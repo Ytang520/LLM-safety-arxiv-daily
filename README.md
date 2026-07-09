@@ -19,7 +19,7 @@
 |**2026-07-08**|**Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents**|Harry Owiredu-Ashley et.al.|[2607.07474](http://arxiv.org/abs/2607.07474)|null|
 |**2026-07-08**|**Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies**|Kiarash Ahi et.al.|[2607.06963](http://arxiv.org/abs/2607.06963)|null|
 |**2026-07-07**|**More Convincing, Not More Correct: Self-Play Reward Hacking of Reference-Free LLM Judges**|Chenyu Zhou et.al.|[2607.05904](http://arxiv.org/abs/2607.05904)|null|
-|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|**[link](https://github.com/Kilroy-pain/beyond-refusal-a-same-lineage-study-of-aligned-and-abliterated-llms-for-vulnerability-analysis)**|
+|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
 |**2026-07-06**|**Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses**|Neeraj Karamchandani et.al.|[2607.05029](http://arxiv.org/abs/2607.05029)|null|
 |**2026-07-04**|**What is Left for Us? Second Scholarship Against the Degradation of Research by AI**|Claudio Novelli et.al.|[2607.04049](http://arxiv.org/abs/2607.04049)|null|
 |**2026-07-04**|**Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents**|Abhishek Kumar et.al.|[2607.03968](http://arxiv.org/abs/2607.03968)|null|
@@ -2788,7 +2788,7 @@
 |**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|null|
 |**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961](http://arxiv.org/abs/2607.02961)|null|
 |**2026-07-02**|**Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data**|Daniel M. Jimenez-Gutierrez et.al.|[2607.02636](http://arxiv.org/abs/2607.02636)|null|
-|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|null|
+|**2026-07-02**|**Towards Robustness against Typographic Attack with Training-free Concept Localization**|Bohan Liu et.al.|[2607.02494](http://arxiv.org/abs/2607.02494)|**[link](https://github.com/ProlificTeddy/towards-robustness-against-typographic-attack-with-training-free-concept-localization)**|
 |**2026-07-01**|**ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models**|Zhihao Dou et.al.|[2607.00361](http://arxiv.org/abs/2607.00361)|null|
 |**2026-07-01**|**What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models**|Amirhosein Chahe et.al.|[2607.00283](http://arxiv.org/abs/2607.00283)|null|
 |**2026-07-05**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
