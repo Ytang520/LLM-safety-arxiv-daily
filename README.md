@@ -2788,7 +2788,7 @@
 |**2026-07-08**|**Open Models, Open Risks: Measuring Unsafe Generation in Text-to-Image Models In the Wild**|Peilin Han et.al.|[2607.07827](http://arxiv.org/abs/2607.07827)|null|
 |**2026-07-07**|**AEGIS: A Mechanism-Guided Defense against Visual Synonym Jailbreaks in Text-to-Image Models**|Yuanmin Huang et.al.|[2607.06120](http://arxiv.org/abs/2607.06120)|null|
 |**2026-07-07**|**Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**|Tianyuan Zhang et.al.|[2607.05783](http://arxiv.org/abs/2607.05783)|null|
-|**2026-07-05**|**TrustCLIP: Learning Private Visual Features via Adversarial Reconstruction**|Nikos Athanasiou et.al.|[2607.04484](http://arxiv.org/abs/2607.04484)|null|
+|**2026-07-05**|**TrustCLIP: Learning Private Visual Features via Adversarial Reconstruction**|Nikos Athanasiou et.al.|[2607.04484](http://arxiv.org/abs/2607.04484)|**[link](https://github.com/atnikos/trustclip)**|
 |**2026-07-03**|**Defending from GeoLocalization through Adversarial Road Trips**|Niccolò Niccoli et.al.|[2607.03277](http://arxiv.org/abs/2607.03277)|null|
 |**2026-07-03**|**Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions**|Eduardo Almeida Palmieri et.al.|[2607.03233](http://arxiv.org/abs/2607.03233)|null|
 |**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961](http://arxiv.org/abs/2607.02961)|null|
