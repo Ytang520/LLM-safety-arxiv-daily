@@ -1,4 +1,4 @@
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-13**|**Graph-Based Structural Evaluation of LLM-Translated Adversary Emulation Procedures**|Ahmed M. Elmisery et.al.|[2607.11517](http://arxiv.org/abs/2607.11517)|null|
+|**2026-07-13**|**HyperSafe: Inference-Time Safety Recovery for Fine-Tuned Language Models**|Aznaur Aliev et.al.|[2607.11475](http://arxiv.org/abs/2607.11475)|null|
+|**2026-07-13**|**AMT-X: Phase-Structured Multi-Turn Red-Teaming with Checklist-Gated Evaluation**|Yi Ting Shen et.al.|[2607.11151](http://arxiv.org/abs/2607.11151)|null|
+|**2026-07-13**|**MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment**|Junyoung Park et.al.|[2607.11070](http://arxiv.org/abs/2607.11070)|null|
+|**2026-07-12**|**Can Watermarking Techniques Help Prevent LLM Model Stealing?**|Elette Boyle et.al.|[2607.10794](http://arxiv.org/abs/2607.10794)|null|
+|**2026-07-11**|**ARMOR: Stabilizing On-Policy LLM RL with Off-Policy Anchor Samples**|Kexin Huang et.al.|[2607.10481](http://arxiv.org/abs/2607.10481)|null|
+|**2026-07-11**|**Large Language Models in Misinformation Ecosystems: Misuse, Defense, and Vulnerability**|Lingwei Wei et.al.|[2607.10402](http://arxiv.org/abs/2607.10402)|null|
+|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|null|
+|**2026-07-11**|**Minionese: Comprehensive Benchmark and Mechanistic Study of Multilingual LLM Safety**|Chigozirim Ifebi et.al.|[2607.10112](http://arxiv.org/abs/2607.10112)|null|
+|**2026-07-11**|**The Effect of Multi-Lingual and Keyword Adversarial Injection on LLM Relevance Judgment**|Nguyen Khoi Vo et.al.|[2607.10080](http://arxiv.org/abs/2607.10080)|null|
 |**2026-07-10**|**Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls**|Saroj Gopali et.al.|[2607.09076](http://arxiv.org/abs/2607.09076)|null|
 |**2026-07-09**|**Optimizing Against Safety Representations: Activation-Guided Adversarial Suffixes and the Geometry of Refusal**|Ege Çakar et.al.|[2607.08883](http://arxiv.org/abs/2607.08883)|null|
 |**2026-07-09**|**Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents**|Puji Wang et.al.|[2607.08395](http://arxiv.org/abs/2607.08395)|null|
@@ -2779,7 +2789,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2787,6 +2797,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yaxin Li et.al.|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
 |**2026-07-08**|**Open Models, Open Risks: Measuring Unsafe Generation in Text-to-Image Models In the Wild**|Peilin Han et.al.|[2607.07827](http://arxiv.org/abs/2607.07827)|null|
 |**2026-07-07**|**AEGIS: A Mechanism-Guided Defense against Visual Synonym Jailbreaks in Text-to-Image Models**|Yuanmin Huang et.al.|[2607.06120](http://arxiv.org/abs/2607.06120)|null|
 |**2026-07-07**|**Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**|Tianyuan Zhang et.al.|[2607.05783](http://arxiv.org/abs/2607.05783)|null|
@@ -4062,5 +4073,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
 
