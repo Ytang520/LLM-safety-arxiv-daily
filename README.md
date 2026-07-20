@@ -1,4 +1,4 @@
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-16**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
+|**2026-07-17**|**Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities**|Md Erfan et.al.|[2607.16175](http://arxiv.org/abs/2607.16175)|null|
+|**2026-07-17**|**Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning**|Ajay Patel et.al.|[2607.16057](http://arxiv.org/abs/2607.16057)|null|
+|**2026-07-17**|**Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization**|Yu Cui et.al.|[2607.15977](http://arxiv.org/abs/2607.15977)|null|
+|**2026-07-16**|**ADS-C: Antidistillation Sampling for Classification**|Khawaja Abaid Ullah et.al.|[2607.15467](http://arxiv.org/abs/2607.15467)|null|
+|**2026-07-17**|**Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents**|Paul Kassianik et.al.|[2607.15263](http://arxiv.org/abs/2607.15263)|null|
 |**2026-07-16**|**Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs**|Robert Graham et.al.|[2607.14888](http://arxiv.org/abs/2607.14888)|null|
 |**2026-07-16**|**Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation**|Rabimba Karanjai et.al.|[2607.14493](http://arxiv.org/abs/2607.14493)|null|
 |**2026-07-15**|**When Is Delegated Play Truthful? Within-Range Regret and the Trilemma of Aligned Delegation**|Taksch Dube et.al.|[2607.14357](http://arxiv.org/abs/2607.14357)|null|
@@ -2801,7 +2805,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4088,5 +4092,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
