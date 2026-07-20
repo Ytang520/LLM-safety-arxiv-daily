@@ -3200,7 +3200,7 @@
 |**2025-10-05**|**Boundary on the Table: Efficient Black-Box Decision-Based Attacks for Structured Data**|Roie Kazoom et.al.|[2509.22850](http://arxiv.org/abs/2509.22850)|null|
 |**2025-09-26**|**Jailbreaking on Text-to-Video Models via Scene Splitting Strategy**|Wonjun Lee et.al.|[2509.22292](http://arxiv.org/abs/2509.22292)|**[link](https://github.com/velpegor/SceneSplit)**|
 |**2025-10-10**|**Benchmarking and Mitigate Sycophancy in Medical Vision-Language Models**|Zikun Guo et.al.|[2509.21979](http://arxiv.org/abs/2509.21979)|null|
-|**2025-10-22**|**JaiLIP: Jailbreaking Vision-Language Models via Loss Guided Image Perturbation**|Md Jueal Mia et.al.|[2509.21401](http://arxiv.org/abs/2509.21401)|null|
+|**2025-10-22**|**JaiLIP: Jailbreaking Vision-Language Models via Loss Guided Image Perturbation**|Md Jueal Mia et.al.|[2509.21401](http://arxiv.org/abs/2509.21401)|**[link](https://github.com/valorisa/JaiLIP-Educational)**|
 |**2025-09-24**|**SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models**|Xiyu Zeng et.al.|[2509.21400](http://arxiv.org/abs/2509.21400)|**[link](https://github.com/xiyuzzz-njust/SafeSteer)**|
 |**2025-09-21**|**Multimodal Prompt Decoupling Attack on the Safety Filters in Text-to-Image Models**|Xingkai Peng et.al.|[2509.21360](http://arxiv.org/abs/2509.21360)|null|
 |**2025-09-25**|**EvoMail: Self-Evolving Cognitive Agents for Adaptive Spam and Phishing Email Defense**|Wei Huang et.al.|[2509.21129](http://arxiv.org/abs/2509.21129)|null|
