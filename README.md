@@ -1,4 +1,4 @@
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**An Early Warning of Emerging Biosecurity Risks in Frontier LLMs**|Zhida He et.al.|[2607.18056](http://arxiv.org/abs/2607.18056)|null|
+|**2026-07-20**|**Stress Testing Concept Erasure with Large Language Model Agents**|Yuyang Xue et.al.|[2607.17890](http://arxiv.org/abs/2607.17890)|null|
+|**2026-07-20**|**Zero Hallucination, by Construction: Hallucination-Aware Layered Oversight for Trustworthy Enterprise AI**|Bogdan Raduta et.al.|[2607.17883](http://arxiv.org/abs/2607.17883)|null|
+|**2026-07-19**|**How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions**|Yukai Zhou et.al.|[2607.17152](http://arxiv.org/abs/2607.17152)|null|
 |**2026-07-17**|**Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities**|Md Erfan et.al.|[2607.16175](http://arxiv.org/abs/2607.16175)|null|
 |**2026-07-17**|**Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning**|Ajay Patel et.al.|[2607.16057](http://arxiv.org/abs/2607.16057)|null|
 |**2026-07-17**|**Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization**|Yu Cui et.al.|[2607.15977](http://arxiv.org/abs/2607.15977)|null|
@@ -2805,7 +2809,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2813,6 +2817,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-09**|**3D FaceShell: Attribute Transfer in 3D Face Avatars as a VLM Defense Mechanism**|Weston Bondurant et.al.|[2607.16280](http://arxiv.org/abs/2607.16280)|null|
 |**2026-07-16**|**ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors**|Christos Korgialas et.al.|[2607.15246](http://arxiv.org/abs/2607.15246)|null|
 |**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
 |**2026-07-15**|**Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation**|Genglin Liu et.al.|[2607.14256](http://arxiv.org/abs/2607.14256)|null|
@@ -4092,5 +4097,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
 
