@@ -1,4 +1,4 @@
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science**|Davide Scarso et.al.|[2607.22513](http://arxiv.org/abs/2607.22513)|null|
+|**2026-07-24**|**SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders**|Evan Caville et.al.|[2607.21951](http://arxiv.org/abs/2607.21951)|null|
+|**2026-07-23**|**Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks**|Michael Kouremetis et.al.|[2607.21763](http://arxiv.org/abs/2607.21763)|null|
 |**2026-07-23**|**Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable**|Prerit Ahuja et.al.|[2607.21340](http://arxiv.org/abs/2607.21340)|null|
 |**2026-07-23**|**GuardianAgentBench: Where Agents Fail and How to Guard Them**|Vishal Ishwar Naik et.al.|[2607.20982](http://arxiv.org/abs/2607.20982)|null|
 |**2026-07-22**|**Defense Against LLM Backdoors using Critical Neuron Isolation Pruning**|Yuxi Li et.al.|[2607.19894](http://arxiv.org/abs/2607.19894)|null|
@@ -2817,7 +2820,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260726>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4106,5 +4109,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260726>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
