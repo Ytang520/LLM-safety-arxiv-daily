@@ -1,4 +1,4 @@
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-24**|**Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science**|Davide Scarso et.al.|[2607.22513](http://arxiv.org/abs/2607.22513)|null|
+|**2026-07-27**|**When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs**|Tong Zhang et.al.|[2607.24392](http://arxiv.org/abs/2607.24392)|null|
+|**2026-07-27**|**DeepFaith: Evidence-Grounded LLMs for Faithful Incident Reporting in Multi-Stage APT Defense**|Trung V. Phan et.al.|[2607.24348](http://arxiv.org/abs/2607.24348)|null|
+|**2026-07-27**|**Tag Questions and the Generational Reversal of Sycophancy Across 45 Language Models**|Tapan Parikh et.al.|[2607.23976](http://arxiv.org/abs/2607.23976)|null|
+|**2026-07-26**|**TriShieldRAG: A Three-Ring Defense-in-Depth Framework Against Knowledge Corruption in Retrieval-Augmented Generation**|Susil Kumar Mohanty et.al.|[2607.23838](http://arxiv.org/abs/2607.23838)|null|
+|**2026-07-26**|**The Illusion of Secure LLM Code: Closing the Security Gap via Iterative Reprompting**|Ishpuneet Singh et.al.|[2607.23710](http://arxiv.org/abs/2607.23710)|null|
+|**2026-07-26**|**Do LLMs Know Their Vulnerable Scenarios?**|Ziheng Peng et.al.|[2607.23496](http://arxiv.org/abs/2607.23496)|null|
+|**2026-07-26**|**Isolated but Exposed: Persistence-Based Memory Extraction Attack on LLM Agents**|Xinyu Gao et.al.|[2607.23444](http://arxiv.org/abs/2607.23444)|null|
+|**2026-07-25**|**Inference-Time Consensus for Mitigating Hidden Behaviors from LLM Fine-Tuning**|Adhyyan Narang et.al.|[2607.23394](http://arxiv.org/abs/2607.23394)|null|
+|**2026-07-27**|**Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science**|Davide Scarso et.al.|[2607.22513](http://arxiv.org/abs/2607.22513)|null|
 |**2026-07-24**|**SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders**|Evan Caville et.al.|[2607.21951](http://arxiv.org/abs/2607.21951)|null|
 |**2026-07-23**|**Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks**|Michael Kouremetis et.al.|[2607.21763](http://arxiv.org/abs/2607.21763)|null|
 |**2026-07-23**|**Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable**|Prerit Ahuja et.al.|[2607.21340](http://arxiv.org/abs/2607.21340)|null|
@@ -2820,7 +2828,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2828,6 +2836,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-27**|**Development of Vision-Language Model-based GNSS Spoofing Detection for Autonomous Vehicle Navigation**|Mohammed Aldeen et.al.|[2607.23962](http://arxiv.org/abs/2607.23962)|null|
+|**2026-07-22**|**A New Kind of Adversarial Example: Measuring the Human-Model Gap, and Its Relationship to OOD Detection**|Ali Borji et.al.|[2607.22722](http://arxiv.org/abs/2607.22722)|null|
+|**2026-07-21**|**Visual Token Compression Enhances Robustness of MLLMs**|Shishen Gu et.al.|[2607.22716](http://arxiv.org/abs/2607.22716)|null|
 |**2026-07-21**|**Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model**|Sibo Wang et.al.|[2607.18958](http://arxiv.org/abs/2607.18958)|null|
 |**2026-07-09**|**3D FaceShell: Attribute Transfer in 3D Face Avatars as a VLM Defense Mechanism**|Weston Bondurant et.al.|[2607.16280](http://arxiv.org/abs/2607.16280)|null|
 |**2026-07-16**|**ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors**|Christos Korgialas et.al.|[2607.15246](http://arxiv.org/abs/2607.15246)|null|
@@ -4109,5 +4120,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
