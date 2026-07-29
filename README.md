@@ -1,4 +1,4 @@
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Evaluation of Adversarial Robustness in Arabic Language Models**|Anwar Alajmi et.al.|[2607.25814](http://arxiv.org/abs/2607.25814)|null|
+|**2026-07-28**|**Bits and Memories: Measuring Verbatim Extraction Across LLM Quantization**|Akshay Sasi et.al.|[2607.25451](http://arxiv.org/abs/2607.25451)|null|
+|**2026-07-28**|**Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response**|Abu Bakar Siddik et.al.|[2607.25379](http://arxiv.org/abs/2607.25379)|null|
+|**2026-07-28**|**Inspect India Evals: An Open Benchmarking Framework for Evaluating Large Language Models in the Indian Linguistic and Cultural Context**|Abhishek Kumar Singh et.al.|[2607.25375](http://arxiv.org/abs/2607.25375)|null|
+|**2026-07-28**|**Hybrid Analysis for Secure MCP Tool Use in LLM Agents**|Ping He et.al.|[2607.25297](http://arxiv.org/abs/2607.25297)|null|
+|**2026-07-27**|**ALIBI: Adaptive Agentic Attacks on LLM-Based Vulnerability Detectors via Adversarial Code Comments**|Zixuan Wu et.al.|[2607.24964](http://arxiv.org/abs/2607.24964)|null|
 |**2026-07-27**|**When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs**|Tong Zhang et.al.|[2607.24392](http://arxiv.org/abs/2607.24392)|null|
 |**2026-07-27**|**DeepFaith: Evidence-Grounded LLMs for Faithful Incident Reporting in Multi-Stage APT Defense**|Trung V. Phan et.al.|[2607.24348](http://arxiv.org/abs/2607.24348)|null|
 |**2026-07-27**|**Tag Questions and the Generational Reversal of Sycophancy Across 45 Language Models**|Tapan Parikh et.al.|[2607.23976](http://arxiv.org/abs/2607.23976)|null|
@@ -2828,7 +2834,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2836,6 +2842,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-28**|**Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering**|Maria Rosaria Briglia et.al.|[2607.25479](http://arxiv.org/abs/2607.25479)|null|
 |**2026-07-27**|**Development of Vision-Language Model-based GNSS Spoofing Detection for Autonomous Vehicle Navigation**|Mohammed Aldeen et.al.|[2607.23962](http://arxiv.org/abs/2607.23962)|null|
 |**2026-07-22**|**A New Kind of Adversarial Example: Measuring the Human-Model Gap, and Its Relationship to OOD Detection**|Ali Borji et.al.|[2607.22722](http://arxiv.org/abs/2607.22722)|null|
 |**2026-07-21**|**Visual Token Compression Enhances Robustness of MLLMs**|Shishen Gu et.al.|[2607.22716](http://arxiv.org/abs/2607.22716)|null|
@@ -4120,5 +4127,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260729>back to top</a>)</p>
 
