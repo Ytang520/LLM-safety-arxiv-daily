@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Agent Harness Distillation: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems**|Yu Cui et.al.|[2607.28147](http://arxiv.org/abs/2607.28147)|null|
+|**2026-07-30**|**TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement**|Cheng Wei et.al.|[2607.27940](http://arxiv.org/abs/2607.27940)|null|
+|**2026-07-29**|**Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models**|Saurabh Yadav et.al.|[2607.27386](http://arxiv.org/abs/2607.27386)|null|
+|**2026-07-29**|**RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation**|Benyamin Tafreshian et.al.|[2607.27373](http://arxiv.org/abs/2607.27373)|null|
 |**2026-07-29**|**On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment**|Yongjian Guo et.al.|[2607.27081](http://arxiv.org/abs/2607.27081)|null|
 |**2026-07-29**|**AgentSnare: Learning to Delay, Divert, and Defuse Autonomous Penetration Agents**|Ruoyu Wang et.al.|[2607.26998](http://arxiv.org/abs/2607.26998)|null|
 |**2026-07-29**|**ToxScreen: Detecting Whether an LLM Has Been Poisoned**|Anthony Hughes et.al.|[2607.26849](http://arxiv.org/abs/2607.26849)|null|
@@ -2839,7 +2843,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2847,6 +2851,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-07-30**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
+|**2026-07-30**|**One Anchor for All: Unified Multilingual and Multimodal Safety Alignment for LVLMs**|Enyi Shi et.al.|[2607.27917](http://arxiv.org/abs/2607.27917)|null|
+|**2026-07-30**|**A Cross-Architecture Audit of Direction-Based Inference-Time Defences in Vision-Language Models**|Xiangyu Yin et.al.|[2607.27910](http://arxiv.org/abs/2607.27910)|null|
+|**2026-07-30**|**Unifying Adversarially Robust Model Experts in Vision-Language Models**|Nguyen Duc Thai et.al.|[2607.27897](http://arxiv.org/abs/2607.27897)|null|
+|**2026-07-29**|**VETO: Towards Protecting Images From Frontier AI Editing**|Jonas Grebe et.al.|[2607.27292](http://arxiv.org/abs/2607.27292)|null|
 |**2026-07-29**|**InkShield: Writing Style Protection Against Unauthorized Handwriting Mimicry**|Jian Xiong et.al.|[2607.26976](http://arxiv.org/abs/2607.26976)|null|
 |**2026-07-29**|**Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks**|Haoyu Zhang et.al.|[2607.26574](http://arxiv.org/abs/2607.26574)|null|
 |**2026-07-28**|**Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering**|Maria Rosaria Briglia et.al.|[2607.25479](http://arxiv.org/abs/2607.25479)|null|
@@ -4134,5 +4143,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
