@@ -1,4 +1,4 @@
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament**|Zhenran Wang et.al.|[2608.04008](http://arxiv.org/abs/2608.04008)|null|
+|**2026-08-03**|**$S^3$ : Improving Agent Safety through Multi-Stage Defense**|Zibo Xiao et.al.|[2608.02683](http://arxiv.org/abs/2608.02683)|null|
+|**2026-08-03**|**Safety in Batches? Understanding and Mitigating Safety Failures in Batch Prompting**|Kihyun Kim et.al.|[2608.02681](http://arxiv.org/abs/2608.02681)|null|
+|**2026-08-02**|**DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial**|Abay Zhurekbay et.al.|[2608.02678](http://arxiv.org/abs/2608.02678)|null|
 |**2026-08-03**|**MNC: Scope-Bound Semantic Declassification for Private LLM-Agent Communication**|Jinghan Xu et.al.|[2608.01719](http://arxiv.org/abs/2608.01719)|null|
 |**2026-08-03**|**Beyond Single-Use Tokens: Durable Authorization State for Replay-Resistant LLM Agent Actions**|Jinghan Xu et.al.|[2608.01710](http://arxiv.org/abs/2608.01710)|null|
 |**2026-08-02**|**SoK: Intent-Oriented Systematization of Multi-Turn LLM Jailbreaks**|Siyuan Li et.al.|[2608.01117](http://arxiv.org/abs/2608.01117)|null|
-|**2026-08-01**|**Behavioral Grammar: Detecting Adaptive Malware via Tiny Language Model Priors and Second-Order Temporal Analysis**|Zihan Luo et.al.|[2608.00745](http://arxiv.org/abs/2608.00745)|**[link](https://github.com/dahan6/siming)**|
+|**2026-08-01**|**Behavioral Grammar: Detecting Adaptive Malware via Tiny Language Model Priors and Second-Order Temporal Analysis**|Zihan Luo et.al.|[2608.00745](http://arxiv.org/abs/2608.00745)|null|
 |**2026-08-01**|**Adversarial Attacks in Multi-Agent LLM Pipelines: Unveiling Structural Vulnerabilities in Agentic AI Architectures**|Faisal Haque Bappy et.al.|[2608.00718](http://arxiv.org/abs/2608.00718)|null|
 |**2026-08-01**|**OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution**|Yunhao Chen et.al.|[2608.00677](http://arxiv.org/abs/2608.00677)|null|
 |**2026-07-31**|**From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems**|Yashaswi Malla et.al.|[2608.00202](http://arxiv.org/abs/2608.00202)|null|
@@ -2855,7 +2859,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2863,6 +2867,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|null|
 |**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-02**|**No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks**|Simiao Xie et.al.|[2608.01414](http://arxiv.org/abs/2608.01414)|null|
 |**2026-08-02**|**ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models**|Hashmat Shadab Malik et.al.|[2608.01067](http://arxiv.org/abs/2608.01067)|null|
@@ -4161,5 +4166,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
