@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Hardware Design and Security in the Era of Chiplets and LLMs**|Johann Knechtel et.al.|[2608.05063](http://arxiv.org/abs/2608.05063)|null|
+|**2026-08-05**|**Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning**|Yuxuan Huang et.al.|[2608.05045](http://arxiv.org/abs/2608.05045)|**[link](https://github.com/OpenCausaLab/Gradient-Immunity)**|
+|**2026-08-05**|**From Research Questions to Columns: Operationalization-Aware Data Discovery**|Houming Chen et.al.|[2608.04536](http://arxiv.org/abs/2608.04536)|null|
+|**2026-08-05**|**DeepInvert: Semi-Supervised Embedding Inversion Against Obfuscated Language Models**|Zhicong Huang et.al.|[2608.04477](http://arxiv.org/abs/2608.04477)|null|
+|**2026-08-05**|**Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions**|Junjie Xiong et.al.|[2608.04375](http://arxiv.org/abs/2608.04375)|null|
+|**2026-08-05**|**DataRx: Missingness-Aware Sampling for Safer Large Language Model Task-Specific Fine-Tuning**|Junbo Zhang et.al.|[2608.04322](http://arxiv.org/abs/2608.04322)|null|
 |**2026-08-04**|**WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament**|Zhenran Wang et.al.|[2608.04008](http://arxiv.org/abs/2608.04008)|null|
 |**2026-08-03**|**$S^3$ : Improving Agent Safety through Multi-Stage Defense**|Zibo Xiao et.al.|[2608.02683](http://arxiv.org/abs/2608.02683)|null|
 |**2026-08-03**|**Safety in Batches? Understanding and Mitigating Safety Failures in Batch Prompting**|Kihyun Kim et.al.|[2608.02681](http://arxiv.org/abs/2608.02681)|null|
@@ -2859,7 +2865,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2867,6 +2873,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-04**|**When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning**|Yiming Chen et.al.|[2608.04052](http://arxiv.org/abs/2608.04052)|null|
+|**2026-08-03**|**A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination**|Shiji Zhao et.al.|[2608.04034](http://arxiv.org/abs/2608.04034)|null|
+|**2026-08-03**|**SoK: How Frontier AI Reshapes System-Level Security Risk Dynamics in Critical Infrastructure**|Chandra Thapa et.al.|[2608.04033](http://arxiv.org/abs/2608.04033)|null|
 |**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|null|
 |**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
 |**2026-08-02**|**No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks**|Simiao Xie et.al.|[2608.01414](http://arxiv.org/abs/2608.01414)|null|
@@ -4166,5 +4175,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
 
