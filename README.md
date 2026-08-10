@@ -1,4 +1,4 @@
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits**|Elena Dumitrescu et.al.|[2608.07430](http://arxiv.org/abs/2608.07430)|null|
+|**2026-08-07**|**SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains**|Fuyao Zhang et.al.|[2608.06862](http://arxiv.org/abs/2608.06862)|null|
+|**2026-08-07**|**LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes**|Doniyorkhon Obidov et.al.|[2608.06795](http://arxiv.org/abs/2608.06795)|null|
+|**2026-08-07**|**Estimating GHG Emissions from AI Use: Framework for Corporate-Level Measurement**|John Bistline et.al.|[2608.06733](http://arxiv.org/abs/2608.06733)|null|
+|**2026-08-06**|**GRASP: Reinforcing Language Model Anonymizers with Group Relative Policy Optimization**|Sajjad Ghiasvand et.al.|[2608.06526](http://arxiv.org/abs/2608.06526)|null|
+|**2026-08-06**|**CyberForge: Verified Vulnerability Injection at Repository Level for Cybersecurity Agent Training**|Amine Lbath et.al.|[2608.06471](http://arxiv.org/abs/2608.06471)|null|
 |**2026-08-06**|**Poli-Bias: Understanding and Measuring Large Language Model Biases in International Political Conflicts**|Massi-Nissa Abboud et.al.|[2608.06123](http://arxiv.org/abs/2608.06123)|null|
 |**2026-08-05**|**Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment**|Alina Klerings et.al.|[2608.05409](http://arxiv.org/abs/2608.05409)|null|
 |**2026-08-05**|**Hardware Design and Security in the Era of Chiplets and LLMs**|Johann Knechtel et.al.|[2608.05063](http://arxiv.org/abs/2608.05063)|null|
-|**2026-08-05**|**Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning**|Yuxuan Huang et.al.|[2608.05045](http://arxiv.org/abs/2608.05045)|**[link](https://github.com/OpenCausaLab/Gradient-Immunity)**|
+|**2026-08-05**|**Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning**|Yuxuan Huang et.al.|[2608.05045](http://arxiv.org/abs/2608.05045)|null|
 |**2026-08-05**|**From Research Questions to Columns: Operationalization-Aware Data Discovery**|Houming Chen et.al.|[2608.04536](http://arxiv.org/abs/2608.04536)|null|
 |**2026-08-05**|**DeepInvert: Semi-Supervised Embedding Inversion Against Obfuscated Language Models**|Zhicong Huang et.al.|[2608.04477](http://arxiv.org/abs/2608.04477)|null|
 |**2026-08-05**|**Large Language Models and Social Media Information Integrity: Opportunities, Challenges, and Research Directions**|Junjie Xiong et.al.|[2608.04375](http://arxiv.org/abs/2608.04375)|null|
@@ -2867,7 +2873,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2875,7 +2881,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
-|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|null|
+|**2026-08-06**|**Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier**|Reza Khanmohammadi et.al.|[2608.06571](http://arxiv.org/abs/2608.06571)|null|
+|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|**[link](https://github.com/shenyizg/MMAligner)**|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-05**|**Innocent Panels, Hateful Stories: Evaluating and Detecting Hateful Intent in Multi-Turn Visual Story Generation**|Ye Leng et.al.|[2608.05210](http://arxiv.org/abs/2608.05210)|null|
@@ -4181,5 +4188,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
