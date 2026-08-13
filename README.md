@@ -1,4 +1,4 @@
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning**|Xucheng Yu et.al.|[2608.11806](http://arxiv.org/abs/2608.11806)|null|
 |**2026-08-11**|**Data Attribution of Emergent Misalignment with Persona Features**|Clemens Vetter et.al.|[2608.11025](http://arxiv.org/abs/2608.11025)|null|
 |**2026-08-11**|**IO Factory: Simulating AI-Enabled Influence Campaigns at Scale**|Lukasz Olejnik et.al.|[2608.10920](http://arxiv.org/abs/2608.10920)|null|
 |**2026-08-11**|**REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems**|Zixing Chen et.al.|[2608.10669](http://arxiv.org/abs/2608.10669)|null|
@@ -2892,7 +2893,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2900,6 +2901,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-12**|**A Comparison of Malware Image Transformations Using Grad-CAM and Hybrid Learning Models**|Vibha Bhavikatti et.al.|[2608.12077](http://arxiv.org/abs/2608.12077)|null|
 |**2026-08-11**|**Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs**|Tao Lin et.al.|[2608.10959](http://arxiv.org/abs/2608.10959)|null|
 |**2026-08-11**|**NullEdit: Stealthy Image Protection via VLM Condition Redirection**|Weiyao Huang et.al.|[2608.10870](http://arxiv.org/abs/2608.10870)|null|
 |**2026-08-11**|**SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning**|Caoyuan Ma et.al.|[2608.10513](http://arxiv.org/abs/2608.10513)|null|
@@ -2908,7 +2910,7 @@
 |**2026-08-09**|**Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles**|Pedram MohajerAnsari et.al.|[2608.08815](http://arxiv.org/abs/2608.08815)|null|
 |**2026-08-08**|**Forged Peer Judgments Mislead Multimodal LLM Judge Panels: Source-Blind Anchoring and Panel-Consensus Verification**|Yang Shu et.al.|[2608.07920](http://arxiv.org/abs/2608.07920)|null|
 |**2026-08-06**|**Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier**|Reza Khanmohammadi et.al.|[2608.06571](http://arxiv.org/abs/2608.06571)|null|
-|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|null|
+|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|**[link](https://github.com/shenyizg/MMAligner)**|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-05**|**Innocent Panels, Hateful Stories: Evaluating and Detecting Hateful Intent in Multi-Turn Visual Story Generation**|Ye Leng et.al.|[2608.05210](http://arxiv.org/abs/2608.05210)|null|
@@ -4214,5 +4216,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
 
