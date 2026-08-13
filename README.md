@@ -2910,7 +2910,7 @@
 |**2026-08-09**|**Distilling Vision-Language Models for Robust Traffic Sign Perception in Autonomous Vehicles**|Pedram MohajerAnsari et.al.|[2608.08815](http://arxiv.org/abs/2608.08815)|null|
 |**2026-08-08**|**Forged Peer Judgments Mislead Multimodal LLM Judge Panels: Source-Blind Anchoring and Panel-Consensus Verification**|Yang Shu et.al.|[2608.07920](http://arxiv.org/abs/2608.07920)|null|
 |**2026-08-06**|**Model Confidence Under Answer-Preserving Attacks: An Informativeness-Manipulability Frontier**|Reza Khanmohammadi et.al.|[2608.06571](http://arxiv.org/abs/2608.06571)|null|
-|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|**[link](https://github.com/shenyizg/MMAligner)**|
+|**2026-08-06**|**MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration**|Shenyi Zhang et.al.|[2608.05909](http://arxiv.org/abs/2608.05909)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-05**|**Innocent Panels, Hateful Stories: Evaluating and Detecting Hateful Intent in Multi-Turn Visual Story Generation**|Ye Leng et.al.|[2608.05210](http://arxiv.org/abs/2608.05210)|null|
