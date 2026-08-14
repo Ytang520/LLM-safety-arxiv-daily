@@ -1,4 +1,4 @@
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|**[link](https://github.com/epfl-dlab/spp)**|
+|**2026-08-13**|**Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research**|Xing Zhang et.al.|[2608.12984](http://arxiv.org/abs/2608.12984)|null|
+|**2026-08-13**|**Beyond Handcrafted Security: Towards Self-Evolving Defense for LLM Agents**|Jiajun Ruan et.al.|[2608.12977](http://arxiv.org/abs/2608.12977)|null|
+|**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
+|**2026-08-13**|**A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family**|Rishi Shah et.al.|[2608.12700](http://arxiv.org/abs/2608.12700)|null|
+|**2026-08-12**|**When Explanations Betray Backdoors: Black-Box Auditing for Language Model Classifiers**|Yang Liu et.al.|[2608.12623](http://arxiv.org/abs/2608.12623)|null|
 |**2026-08-12**|**Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning**|Xucheng Yu et.al.|[2608.11806](http://arxiv.org/abs/2608.11806)|null|
 |**2026-08-11**|**Data Attribution of Emergent Misalignment with Persona Features**|Clemens Vetter et.al.|[2608.11025](http://arxiv.org/abs/2608.11025)|null|
 |**2026-08-11**|**IO Factory: Simulating AI-Enabled Influence Campaigns at Scale**|Lukasz Olejnik et.al.|[2608.10920](http://arxiv.org/abs/2608.10920)|null|
@@ -2893,7 +2899,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2901,6 +2907,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-13**|**QuISE: Defense against Typographic Attacks on VLMs via Query-Irrelevant Semantic Editing**|Shubin Lu et.al.|[2608.13119](http://arxiv.org/abs/2608.13119)|null|
 |**2026-08-12**|**A Comparison of Malware Image Transformations Using Grad-CAM and Hybrid Learning Models**|Vibha Bhavikatti et.al.|[2608.12077](http://arxiv.org/abs/2608.12077)|null|
 |**2026-08-11**|**Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs**|Tao Lin et.al.|[2608.10959](http://arxiv.org/abs/2608.10959)|null|
 |**2026-08-11**|**NullEdit: Stealthy Image Protection via VLM Condition Redirection**|Weiyao Huang et.al.|[2608.10870](http://arxiv.org/abs/2608.10870)|null|
@@ -4216,5 +4223,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
