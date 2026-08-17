@@ -1,4 +1,4 @@
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|**[link](https://github.com/epfl-dlab/spp)**|
+|**2026-08-14**|**STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X**|Yasir Ech-Chammakhy et.al.|[2608.14418](http://arxiv.org/abs/2608.14418)|null|
+|**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
+|**2026-08-14**|**Detecting Contaminated Code-Generation Prompt Batches via Influence Functions**|Francesco Quinzan et.al.|[2608.14303](http://arxiv.org/abs/2608.14303)|null|
+|**2026-08-14**|**Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions**|Qinglin Yang et.al.|[2608.13844](http://arxiv.org/abs/2608.13844)|null|
+|**2026-08-13**|**Language-Specific Gaps in AI Safety Training Datasets**|Chialuka Prisca-Mary Onuoha et.al.|[2608.13695](http://arxiv.org/abs/2608.13695)|null|
+|**2026-08-13**|**Synthetic Persona Pretraining: Alignment from Token Zero**|Julian Minder et.al.|[2608.13482](http://arxiv.org/abs/2608.13482)|null|
 |**2026-08-13**|**Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research**|Xing Zhang et.al.|[2608.12984](http://arxiv.org/abs/2608.12984)|null|
 |**2026-08-13**|**Beyond Handcrafted Security: Towards Self-Evolving Defense for LLM Agents**|Jiajun Ruan et.al.|[2608.12977](http://arxiv.org/abs/2608.12977)|null|
 |**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
@@ -2899,7 +2904,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4223,5 +4228,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
 
