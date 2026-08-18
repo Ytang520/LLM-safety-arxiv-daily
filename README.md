@@ -1,4 +1,4 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**Proving the Utility of Large Language Models in Cybersecurity Simulations: A Comprehensive Examination**|Stylianos Kampakis et.al.|[2608.16422](http://arxiv.org/abs/2608.16422)|null|
+|**2026-08-17**|**Proof-of-Execution Memory: Defending LLM Agents Against Forged-Reasoning Attacks by Verifying What Actually Happened**|Md Habibur Rahman et.al.|[2608.16032](http://arxiv.org/abs/2608.16032)|null|
+|**2026-08-16**|**Breaking and Defending LLM-Powered Social Media Bot Detection Systems**|Nof Orenstein et.al.|[2608.15893](http://arxiv.org/abs/2608.15893)|null|
+|**2026-08-15**|**Beyond Direct Access: Resource Hijacking in LLM Agents**|Puyu Zeng et.al.|[2608.15108](http://arxiv.org/abs/2608.15108)|null|
+|**2026-08-15**|**Hierarchical Agentic Incident Response with Digital-Twin-Validated Attack Inference**|Yiran Gao et.al.|[2608.15016](http://arxiv.org/abs/2608.15016)|null|
+|**2026-08-15**|**SysEvolve: An AI-native, safe, autonomous adversarial attack-defense co-evolutionary system**|Yuhan Meng et.al.|[2608.15012](http://arxiv.org/abs/2608.15012)|null|
 |**2026-08-14**|**STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X**|Yasir Ech-Chammakhy et.al.|[2608.14418](http://arxiv.org/abs/2608.14418)|null|
 |**2026-08-14**|**Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons**|Wei Zhao et.al.|[2608.14392](http://arxiv.org/abs/2608.14392)|null|
 |**2026-08-14**|**Detecting Contaminated Code-Generation Prompt Batches via Influence Functions**|Francesco Quinzan et.al.|[2608.14303](http://arxiv.org/abs/2608.14303)|null|
@@ -2904,7 +2910,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2912,6 +2918,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-16**|**Conjunctive Poisoning in AI Supply-Chain Applications**|Nokimul Hasan Arif et.al.|[2608.15913](http://arxiv.org/abs/2608.15913)|null|
+|**2026-08-16**|**In Defense of OCTA: The Reconstruction-Utility Gap in OCT-to-OCTA Synthesis**|Michael Chertok et.al.|[2608.15626](http://arxiv.org/abs/2608.15626)|null|
+|**2026-08-16**|**ARENA: Automated Red-Teaming for Large Audio Language Models**|Jiaming He et.al.|[2608.15578](http://arxiv.org/abs/2608.15578)|null|
+|**2026-08-15**|**Perspective-Invariant Attack with Enhanced Transferability of Adversarial Examples**|Kaisheng Liang et.al.|[2608.15115](http://arxiv.org/abs/2608.15115)|null|
 |**2026-08-13**|**QuISE: Defense against Typographic Attacks on VLMs via Query-Irrelevant Semantic Editing**|Shubin Lu et.al.|[2608.13119](http://arxiv.org/abs/2608.13119)|null|
 |**2026-08-12**|**A Comparison of Malware Image Transformations Using Grad-CAM and Hybrid Learning Models**|Vibha Bhavikatti et.al.|[2608.12077](http://arxiv.org/abs/2608.12077)|null|
 |**2026-08-11**|**Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs**|Tao Lin et.al.|[2608.10959](http://arxiv.org/abs/2608.10959)|null|
@@ -4228,5 +4238,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
