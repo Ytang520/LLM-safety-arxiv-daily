@@ -19,7 +19,7 @@
 |**2026-08-19**|**Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning**|Shiyu Miao et.al.|[2608.18767](http://arxiv.org/abs/2608.18767)|null|
 |**2026-08-18**|**Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation**|Hollis Robbins et.al.|[2608.18041](http://arxiv.org/abs/2608.18041)|null|
 |**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
-|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|null|
+|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|**[link](https://github.com/amurlaniakea/keybound)**|
 |**2026-08-18**|**Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services**|Bowen Sun et.al.|[2608.17445](http://arxiv.org/abs/2608.17445)|null|
 |**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**Proving the Utility of Large Language Models in Cybersecurity Simulations: A Comprehensive Examination**|Stylianos Kampakis et.al.|[2608.16422](http://arxiv.org/abs/2608.16422)|null|
