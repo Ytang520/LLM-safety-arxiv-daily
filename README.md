@@ -1,4 +1,4 @@
-## Updated on 2026.08.22
+## Updated on 2026.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2026-08-19**|**Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning**|Shiyu Miao et.al.|[2608.18767](http://arxiv.org/abs/2608.18767)|null|
 |**2026-08-18**|**Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation**|Hollis Robbins et.al.|[2608.18041](http://arxiv.org/abs/2608.18041)|null|
 |**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
-|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|**[link](https://github.com/amurlaniakea/keybound)**|
+|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|null|
 |**2026-08-18**|**Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services**|Bowen Sun et.al.|[2608.17445](http://arxiv.org/abs/2608.17445)|null|
 |**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**Proving the Utility of Large Language Models in Cybersecurity Simulations: A Comprehensive Examination**|Stylianos Kampakis et.al.|[2608.16422](http://arxiv.org/abs/2608.16422)|null|
@@ -2917,7 +2917,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4248,5 +4248,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260822>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
 
