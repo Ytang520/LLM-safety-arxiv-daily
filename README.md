@@ -1,4 +1,4 @@
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
+|**2026-08-21**|**Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence**|Yang Liu et.al.|[2608.20820](http://arxiv.org/abs/2608.20820)|null|
+|**2026-08-20**|**aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy**|Fatih Deniz et.al.|[2608.20554](http://arxiv.org/abs/2608.20554)|null|
 |**2026-08-19**|**Verifiable abstention makes AI leak diagnosis accountable in water distribution networks**|Tianwei Mu et.al.|[2608.18836](http://arxiv.org/abs/2608.18836)|null|
 |**2026-08-19**|**Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning**|Shiyu Miao et.al.|[2608.18767](http://arxiv.org/abs/2608.18767)|null|
 |**2026-08-18**|**Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation**|Hollis Robbins et.al.|[2608.18041](http://arxiv.org/abs/2608.18041)|null|
 |**2026-08-18**|**Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings**|Istiaque Ahmed et.al.|[2608.17556](http://arxiv.org/abs/2608.17556)|null|
-|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|**[link](https://github.com/amurlaniakea/keybound)**|
+|**2026-08-18**|**KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation**|Bowen Sun et.al.|[2608.17485](http://arxiv.org/abs/2608.17485)|null|
 |**2026-08-18**|**Decomposition Attacks Across Unlinkable Identities: Limits of Stateful Defenses for LLM Services**|Bowen Sun et.al.|[2608.17445](http://arxiv.org/abs/2608.17445)|null|
 |**2026-08-17**|**Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models**|Mark Russinovich et.al.|[2608.17202](http://arxiv.org/abs/2608.17202)|null|
 |**2026-08-17**|**Proving the Utility of Large Language Models in Cybersecurity Simulations: A Comprehensive Examination**|Stylianos Kampakis et.al.|[2608.16422](http://arxiv.org/abs/2608.16422)|null|
@@ -2917,7 +2920,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2925,6 +2928,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-21**|**ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models**|Wenzheng Jiang et.al.|[2608.21100](http://arxiv.org/abs/2608.21100)|null|
 |**2026-08-20**|**TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling**|Ling Zhou et.al.|[2608.19737](http://arxiv.org/abs/2608.19737)|null|
 |**2026-08-18**|**MS-MFAD : Multimodal large language models for Face Anti-spoofing Detection**|Xiaoyong Yu et.al.|[2608.17328](http://arxiv.org/abs/2608.17328)|null|
 |**2026-08-18**|**COMIC: Reference-Aware Safety Gating for Multimodal Large Language Models**|Md Abdullahil Oaphy et.al.|[2608.17234](http://arxiv.org/abs/2608.17234)|null|
@@ -4248,5 +4252,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
