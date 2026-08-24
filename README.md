@@ -947,7 +947,7 @@
 |**2025-11-13**|**SOM Directions are Better than One: Multi-Directional Refusal Suppression in Language Models**|Giorgio Piras et.al.|[2511.08379](http://arxiv.org/abs/2511.08379)|null|
 |**2025-11-10**|**Making LLMs Reliable When It Matters Most: A Five-Layer Architecture for High-Stakes Decisions**|Alejandro R. Jadad et.al.|[2511.07669](http://arxiv.org/abs/2511.07669)|null|
 |**2025-11-09**|**KG-DF: A Black-box Defense Framework against Jailbreak Attacks Based on Knowledge Graphs**|Shuyuan Liu et.al.|[2511.07480](http://arxiv.org/abs/2511.07480)|null|
-|**2025-11-10**|**Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents**|Hanlin Cai et.al.|[2511.07176](http://arxiv.org/abs/2511.07176)|null|
+|**2025-11-10**|**Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents**|Hanlin Cai et.al.|[2511.07176](http://arxiv.org/abs/2511.07176)|**[link](https://github.com/GuangLun2000/IoA-Attack-GRMP)**|
 |**2025-11-10**|**MENTOR: A Metacognition-Driven Self-Evolution Framework for Uncovering and Mitigating Implicit Risks in LLMs on Domain Tasks**|Liang Shan et.al.|[2511.07107](http://arxiv.org/abs/2511.07107)|null|
 |**2025-11-11**|**Differentiated Directional Intervention A Framework for Evading LLM Safety Alignment**|Peng Zhang et.al.|[2511.06852](http://arxiv.org/abs/2511.06852)|**[link](https://github.com/PeiJieSun/DBDI-main)**|
 |**2025-11-09**|**EASE: Practical and Efficient Safety Alignment for Small Language Models**|Haonan Shi et.al.|[2511.06512](http://arxiv.org/abs/2511.06512)|**[link](https://github.com/horanshi/EASE)**|
@@ -1040,8 +1040,8 @@
 |**2025-10-14**|**Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection**|Olga E. Sorokoletova et.al.|[2510.13893](http://arxiv.org/abs/2510.13893)|null|
 |**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|**[link](https://github.com/Zhaoxinxinzi/BadSwitch)**|
 |**2025-10-15**|**Taming the Fragility of KV Cache Eviction in LLM Inference**|Yuan Feng et.al.|[2510.13334](http://arxiv.org/abs/2510.13334)|null|
-|**2025-10-29**|**A Multilingual, Large-Scale Study of the Interplay between LLM Safeguards, Personalisation, and Disinformation**|João A. Leite et.al.|[2510.12993](http://arxiv.org/abs/2510.12993)|null|
-|**2025-10-22**|**Deep Research Brings Deeper Harm**|Shuo Chen et.al.|[2510.11851](http://arxiv.org/abs/2510.11851)|null|
+|**2025-10-29**|**A Multilingual, Large-Scale Study of the Interplay between LLM Safeguards, Personalisation, and Disinformation**|João A. Leite et.al.|[2510.12993](http://arxiv.org/abs/2510.12993)|**[link](https://github.com/GateNLP/AI_TRAITS)**|
+|**2025-10-22**|**Deep Research Brings Deeper Harm**|Shuo Chen et.al.|[2510.11851](http://arxiv.org/abs/2510.11851)|**[link](https://github.com/chenxshuo/DeeperHarm)**|
 |**2025-10-13**|**Don't Walk the Line: Boundary Guidance for Filtered Generation**|Sarah Ball et.al.|[2510.11834](http://arxiv.org/abs/2510.11834)|null|
 |**2025-10-13**|**PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities**|Zicheng Liu et.al.|[2510.11688](http://arxiv.org/abs/2510.11688)|null|
 |**2025-10-22**|**Bag of Tricks for Subverting Reasoning-based Safety Guardrails**|Shuo Chen et.al.|[2510.11570](http://arxiv.org/abs/2510.11570)|null|
@@ -1390,7 +1390,7 @@
 |**2025-08-25**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|**[link](https://github.com/Sizhe-Chen/DefensiveToken)**|
 |**2025-07-10**|**Can Large Language Models Improve Phishing Defense? A Large-Scale Controlled Experiment on Warning Dialogue Explanations**|Federico Maria Cau et.al.|[2507.07916](http://arxiv.org/abs/2507.07916)|**[link](https://github.com/IVU-Laboratory/llm_warnings_explantions)**|
 |**2025-07-10**|**GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing**|Peiyan Zhang et.al.|[2507.07735](http://arxiv.org/abs/2507.07735)|null|
-|**2025-07-10**|**Rethinking the Privacy of Text Embeddings: A Reproducibility Study of "Text Embeddings Reveal (Almost) As Much As Text"**|Dominykas Seputis et.al.|[2507.07700](http://arxiv.org/abs/2507.07700)|null|
+|**2025-07-10**|**Rethinking the Privacy of Text Embeddings: A Reproducibility Study of "Text Embeddings Reveal (Almost) As Much As Text"**|Dominykas Seputis et.al.|[2507.07700](http://arxiv.org/abs/2507.07700)|**[link](https://github.com/dqmis/vec2text-repro)**|
 |**2025-07-10**|**May I have your Attention? Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks**|Nishit V. Pandya et.al.|[2507.07417](http://arxiv.org/abs/2507.07417)|null|
 |**2025-09-29**|**Medical Red Teaming Protocol of Language Models: On the Importance of User Perspectives in Healthcare Settings**|Jean-Philippe Corbeil et.al.|[2507.07248](http://arxiv.org/abs/2507.07248)|null|
 |**2025-10-14**|**Attention-Aware GNN-based Input Defense against Multi-Turn LLM Jailbreak**|Zixuan Huang et.al.|[2507.07146](http://arxiv.org/abs/2507.07146)|null|
@@ -1827,11 +1827,11 @@
 |**2025-02-21**|**Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs**|Giulio Zizzo et.al.|[2502.15427](http://arxiv.org/abs/2502.15427)|null|
 |**2025-02-21**|**Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment**|Pedram Zaree et.al.|[2502.15334](http://arxiv.org/abs/2502.15334)|null|
 |**2025-06-12**|**Obliviate: Efficient Unmemorization for Protecting Intellectual Property in Large Language Models**|Mark Russinovich et.al.|[2502.15010](http://arxiv.org/abs/2502.15010)|**[link](https://github.com/microsoft/Obliviate-Unmemorization)**|
-|**2025-06-02**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-06-02**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|**[link](https://github.com/highphysicist/MIRROR-defense-for-aitm-mas)**|
 |**2025-06-03**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|**[link](https://github.com/cooperleong00/TASA)**|
 |**2025-02-25**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603](http://arxiv.org/abs/2502.13603)|null|
 |**2025-02-19**|**Exploiting Prefix-Tree in Structured Output Interfaces for Enhancing Jailbreak Attacking**|Yanzeng Li et.al.|[2502.13527](http://arxiv.org/abs/2502.13527)|**[link](https://github.com/lsvih/attackPrefixTree)**|
-|**2025-09-22**|**Language Models Can Predict Their Own Behavior**|Dhananjay Ashok et.al.|[2502.13329](http://arxiv.org/abs/2502.13329)|null|
+|**2025-09-22**|**Language Models Can Predict Their Own Behavior**|Dhananjay Ashok et.al.|[2502.13329](http://arxiv.org/abs/2502.13329)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-02-16**|**ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs**|Ziyi Ni et.al.|[2502.13162](http://arxiv.org/abs/2502.13162)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|**[link](https://github.com/huawei-lin/UniGuardian)**|
 |**2025-09-20**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970](http://arxiv.org/abs/2502.12970)|**[link](https://github.com/chuhac/Reasoning-to-Defend)**|
@@ -3802,7 +3802,7 @@
 |**2024-06-03**|**SLANT: Spurious Logo ANalysis Toolkit**|Maan Qraitem et.al.|[2406.01449](http://arxiv.org/abs/2406.01449)|null|
 |**2024-08-21**|**Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775](http://arxiv.org/abs/2405.20775)|null|
 |**2024-06-12**|**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**|Siyuan Ma et.al.|[2405.20773](http://arxiv.org/abs/2405.20773)|null|
-|**2025-10-11**|**GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725](http://arxiv.org/abs/2405.20725)|null|
+|**2025-10-11**|**GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725](http://arxiv.org/abs/2405.20725)|**[link](https://github.com/cswbyu/GI-NAS)**|
 |**2024-05-30**|**Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters**|Haibo Jin et.al.|[2405.20413](http://arxiv.org/abs/2405.20413)|null|
 |**2025-05-17**|**Efficient Indirect LLM Jailbreak via Multimodal-LLM Jailbreak**|Zhenxing Niu et.al.|[2405.20015](http://arxiv.org/abs/2405.20015)|null|
 |**2024-05-30**|**Improving Object Detector Training on Synthetic Data by Starting With a Strong Baseline Methodology**|Frank A. Ruis et.al.|[2405.19822](http://arxiv.org/abs/2405.19822)|null|
@@ -3990,7 +3990,7 @@
 |**2023-08-18**|**REAP: A Large-Scale Realistic Adversarial Patch Benchmark**|Nabeel Hingun et.al.|[2212.05680](http://arxiv.org/abs/2212.05680)|null|
 |**2022-12-10**|**Snapshot Multispectral Imaging Using a Diffractive Optical Network**|Deniz Mengu et.al.|[2212.05217](http://arxiv.org/abs/2212.05217)|null|
 |**2022-12-05**|**Unidirectional Imaging using Deep Learning-Designed Materials**|Jingxi Li et.al.|[2212.02025](http://arxiv.org/abs/2212.02025)|null|
-|**2024-03-16**|**Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning**|Yunchao Zhang et.al.|[2211.14769](http://arxiv.org/abs/2211.14769)|null|
+|**2024-03-16**|**Navigation as Attackers Wish? Towards Building Robust Embodied Agents under Federated Learning**|Yunchao Zhang et.al.|[2211.14769](http://arxiv.org/abs/2211.14769)|**[link](https://github.com/UCSB-AI/Naivgation-as-wish)**|
 |**2023-04-26**|**Privacy in Practice: Private COVID-19 Detection in X-Ray Images (Extended Version)**|Lucas Lange et.al.|[2211.11434](http://arxiv.org/abs/2211.11434)|null|
 |**2023-10-28**|**Towards Good Practices in Evaluating Transfer Adversarial Attacks**|Zhengyu Zhao et.al.|[2211.09565](http://arxiv.org/abs/2211.09565)|null|
 |**2022-11-05**|**Textual Manifold-based Defense Against Natural Language Adversarial Examples**|Dang Minh Nguyen et.al.|[2211.02878](http://arxiv.org/abs/2211.02878)|**[link](https://github.com/dangne/tmd)**|
