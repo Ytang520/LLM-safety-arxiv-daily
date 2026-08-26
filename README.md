@@ -1,4 +1,4 @@
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-24**|**CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild**|Jian Yang et.al.|[2608.23181](http://arxiv.org/abs/2608.23181)|null|
+|**2026-08-25**|**RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation**|Yueyang Quan et.al.|[2608.23965](http://arxiv.org/abs/2608.23965)|null|
+|**2026-08-24**|**Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs**|Akash Raj et.al.|[2608.23897](http://arxiv.org/abs/2608.23897)|null|
+|**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
+|**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
+|**2026-08-24**|**Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model**|Shashwat Pandey et.al.|[2608.23663](http://arxiv.org/abs/2608.23663)|null|
+|**2026-08-25**|**CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild**|Jian Yang et.al.|[2608.23181](http://arxiv.org/abs/2608.23181)|null|
 |**2026-08-24**|**PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies**|Zeyu Feng et.al.|[2608.23028](http://arxiv.org/abs/2608.23028)|null|
 |**2026-08-24**|**Don't Repeat Yourself: Stopping Verbatim Loops at Sampling Time**|Philipp Emanuel Weidmann et.al.|[2608.22761](http://arxiv.org/abs/2608.22761)|null|
-|**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|**[link](https://github.com/xaddwell/AEGIS)**|
+|**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|null|
 |**2026-08-23**|**Whitewashing Hate, Smearing Harmless Content: Annotator-Style Rebuttal Attacks on LLM-Based Moderation**|Junyu Lu et.al.|[2608.22230](http://arxiv.org/abs/2608.22230)|null|
 |**2026-08-22**|**Redteaming Leading Arabic LLMs with ASAS**|Fidaa Abed et.al.|[2608.21985](http://arxiv.org/abs/2608.21985)|null|
 |**2026-08-22**|**Breaking the Assumptions: Auditing Input-Side Jailbreak Defenses Against Semantic Attacks**|Aaditya Pratap et.al.|[2608.21895](http://arxiv.org/abs/2608.21895)|null|
@@ -2930,7 +2935,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2938,6 +2943,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-25**|**Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs**|Jiali Wei et.al.|[2608.24354](http://arxiv.org/abs/2608.24354)|null|
+|**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
 |**2026-08-23**|**Text-Anchored Semantic Perturbations for Transferable Jailbreak Attacks on Multimodal Large Language Models**|Wenyun Li et.al.|[2608.22312](http://arxiv.org/abs/2608.22312)|null|
 |**2026-08-21**|**Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning**|Yuyang Luo et.al.|[2608.21577](http://arxiv.org/abs/2608.21577)|null|
 |**2026-08-21**|**ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models**|Wenzheng Jiang et.al.|[2608.21100](http://arxiv.org/abs/2608.21100)|null|
@@ -4264,5 +4271,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
 
