@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models**|Mahshid Rezakhani et.al.|[2608.26049](http://arxiv.org/abs/2608.26049)|null|
+|**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
+|**2026-08-26**|**SkillShield: Prompt-Space Security Skills for LLM Coding Agents**|Xiaodong Wu et.al.|[2608.25817](http://arxiv.org/abs/2608.25817)|null|
+|**2026-08-26**|**Are LLM-Enhanced GNNs Privacy-Safe?**|Longzhu He et.al.|[2608.25727](http://arxiv.org/abs/2608.25727)|null|
+|**2026-08-26**|**LMSM: LLM Security Framework Inspired by Linux Security Modules**|XiuYu Zhang et.al.|[2608.25697](http://arxiv.org/abs/2608.25697)|null|
+|**2026-08-26**|**Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks**|Andrey Labunets et.al.|[2608.25390](http://arxiv.org/abs/2608.25390)|null|
+|**2026-08-26**|**FinRiskAtlas: Decision-Aligned Evaluation of Large Language Models for Financial Risk Review**|Suyang Zhong et.al.|[2608.25325](http://arxiv.org/abs/2608.25325)|null|
+|**2026-08-25**|**Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making**|Minda Zhao et.al.|[2608.25236](http://arxiv.org/abs/2608.25236)|null|
+|**2026-08-25**|**Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation**|Minh Tran et.al.|[2608.24977](http://arxiv.org/abs/2608.24977)|null|
 |**2026-08-25**|**RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation**|Yueyang Quan et.al.|[2608.23965](http://arxiv.org/abs/2608.23965)|null|
 |**2026-08-24**|**Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs**|Akash Raj et.al.|[2608.23897](http://arxiv.org/abs/2608.23897)|null|
 |**2026-08-24**|**Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors**|Joshua Penman et.al.|[2608.23873](http://arxiv.org/abs/2608.23873)|null|
@@ -2935,7 +2944,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2943,6 +2952,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
 |**2026-08-25**|**Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs**|Jiali Wei et.al.|[2608.24354](http://arxiv.org/abs/2608.24354)|null|
 |**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
 |**2026-08-23**|**Text-Anchored Semantic Perturbations for Transferable Jailbreak Attacks on Multimodal Large Language Models**|Wenyun Li et.al.|[2608.22312](http://arxiv.org/abs/2608.22312)|null|
@@ -4271,5 +4281,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
