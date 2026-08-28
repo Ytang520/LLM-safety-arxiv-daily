@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**SPA: Securing Persistent LLM Agents Across Queries with Plan-First Information-Flow Control**|Dylan Girrens et.al.|[2608.27234](http://arxiv.org/abs/2608.27234)|null|
+|**2026-08-27**|**X-WAD: eXplainable Web Anomaly Detection**|Matteo Bitussi et.al.|[2608.27172](http://arxiv.org/abs/2608.27172)|**[link](https://github.com/mattebit/x-wad)**|
+|**2026-08-27**|**Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents**|Chenhao Wu et.al.|[2608.27141](http://arxiv.org/abs/2608.27141)|null|
+|**2026-08-27**|**JudgeStealer: Extracting LLM Judging Capabilities across Evaluation Protocols**|Chen Chen et.al.|[2608.26982](http://arxiv.org/abs/2608.26982)|null|
+|**2026-08-27**|**PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical Impact?**|Yitian Zhou et.al.|[2608.26882](http://arxiv.org/abs/2608.26882)|null|
+|**2026-08-27**|**Beyond Vector Hiding: Breaking and Mitigating Shared-Direction Weight Obfuscation in TEE-Offloaded Large Language Models**|Menghui Zhang et.al.|[2608.26651](http://arxiv.org/abs/2608.26651)|null|
+|**2026-08-27**|**Unsaid, Unsafe? Implicit Security Obligations in LLM-Based RTL Code Generation**|Guang Yang et.al.|[2608.26588](http://arxiv.org/abs/2608.26588)|null|
 |**2026-08-26**|**RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models**|Mahshid Rezakhani et.al.|[2608.26049](http://arxiv.org/abs/2608.26049)|null|
 |**2026-08-26**|**A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks**|Tongyan Hu et.al.|[2608.26008](http://arxiv.org/abs/2608.26008)|null|
 |**2026-08-26**|**SkillShield: Prompt-Space Security Skills for LLM Coding Agents**|Xiaodong Wu et.al.|[2608.25817](http://arxiv.org/abs/2608.25817)|null|
@@ -2944,7 +2951,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2952,6 +2959,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
+|**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
 |**2026-08-25**|**Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs**|Jiali Wei et.al.|[2608.24354](http://arxiv.org/abs/2608.24354)|null|
 |**2026-08-25**|**NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution**|Anjun Gao et.al.|[2608.23959](http://arxiv.org/abs/2608.23959)|null|
@@ -4281,5 +4290,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
