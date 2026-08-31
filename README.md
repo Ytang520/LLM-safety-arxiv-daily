@@ -2802,9 +2802,9 @@
 |**2024-02-26**|**Defending Against Disinformation Attacks in Open-Domain Question Answering**|Orion Weller et.al.|[2212.10002](http://arxiv.org/abs/2212.10002)|null|
 |**2022-12-20**|**Towards Robustness of Text-to-SQL Models Against Natural and Realistic Adversarial Table Perturbation**|Xinyu Pi et.al.|[2212.09994](http://arxiv.org/abs/2212.09994)|null|
 |**2022-12-12**|**In Defense of Cross-Encoders for Zero-Shot Retrieval**|Guilherme Rosa et.al.|[2212.06121](http://arxiv.org/abs/2212.06121)|null|
-|**2023-07-30**|**How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**|Guang Yang et.al.|[2211.15844](http://arxiv.org/abs/2211.15844)|null|
+|**2023-07-30**|**How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**|Guang Yang et.al.|[2211.15844](http://arxiv.org/abs/2211.15844)|**[link](https://github.com/NTDXYG/RADAR)**|
 |**2022-11-22**|**A Survey on Backdoor Attack and Defense in Natural Language Processing**|Xuan Sheng et.al.|[2211.11958](http://arxiv.org/abs/2211.11958)|null|
-|**2022-11-18**|**DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation**|Yuhang Lai et.al.|[2211.11501](http://arxiv.org/abs/2211.11501)|null|
+|**2022-11-18**|**DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation**|Yuhang Lai et.al.|[2211.11501](http://arxiv.org/abs/2211.11501)|**[link](https://github.com/xlang-ai/DS-1000)**|
 |**2022-11-21**|**cegpy: Modelling with Chain Event Graphs in Python**|Gareth Walley et.al.|[2211.11366](http://arxiv.org/abs/2211.11366)|null|
 |**2023-12-10**|**Impact of Adversarial Training on Robustness and Generalizability of Language Models**|Enes Altinisik et.al.|[2211.05523](http://arxiv.org/abs/2211.05523)|null|
 |**2022-11-10**|**MSDT: Masked Language Model Scoring Defense in Text Domain**|Jaechul Roh et.al.|[2211.05371](http://arxiv.org/abs/2211.05371)|**[link](https://github.com/jrohsc/MSDT)**|
