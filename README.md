@@ -1,4 +1,4 @@
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**A SoK for SoCs: Reading the TI Leaves on AI for Cyber Threat Intelligence Generation and Sharing**|Saastha Vasan et.al.|[2609.01174](http://arxiv.org/abs/2609.01174)|null|
+|**2026-09-01**|**Pre-carved Niches: The Formation Dynamics of Modular Task Partitions in Early LLM Training**|Guangqi Li et.al.|[2609.01170](http://arxiv.org/abs/2609.01170)|null|
+|**2026-09-01**|**CopyShield: A Cross-Level Benchmark of Copyright Defenses in LLMs**|Maryam Alshehyari et.al.|[2609.01161](http://arxiv.org/abs/2609.01161)|null|
+|**2026-09-01**|**Same Request, Different Boundary: Evaluating Cybersecurity Assistance across Conversational Contexts**|Rui Yang et.al.|[2609.00578](http://arxiv.org/abs/2609.00578)|null|
+|**2026-08-31**|**Validity-Aware Jailbreak Evaluation for Large Language Models**|Qilong Wu et.al.|[2609.00498](http://arxiv.org/abs/2609.00498)|null|
+|**2026-08-31**|**EvoFlint: An Evolutionary Atlas of Multi-Turn LLM Vulnerabilities**|Feitong Qiao et.al.|[2609.00487](http://arxiv.org/abs/2609.00487)|null|
+|**2026-08-31**|**TRIS: A Tri-Layer Retrieval Integrity Sieve Against Knowledge Poisoning**|Muhaimin Bin Munir et.al.|[2609.00470](http://arxiv.org/abs/2609.00470)|null|
+|**2026-08-31**|**Generative artificial intelligence for reliable mechanistic reasoning for corrosion**|Bharath M N et.al.|[2609.00099](http://arxiv.org/abs/2609.00099)|null|
 |**2026-08-31**|**The Safety Relay in Roleplay Jailbreaks: A Component-Resolved Causal Analysis of Harm Recognition and Refusal**|Md Mokarram Chowdhury et.al.|[2608.30585](http://arxiv.org/abs/2608.30585)|null|
 |**2026-08-31**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
 |**2026-08-31**|**Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders**|Yizhe Zeng et.al.|[2608.30403](http://arxiv.org/abs/2608.30403)|null|
@@ -2966,7 +2974,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2974,6 +2982,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-01**|**Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling**|Stefano Leggio et.al.|[2609.01232](http://arxiv.org/abs/2609.01232)|null|
+|**2026-08-30**|**Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents**|Timothy Kassis et.al.|[2609.00065](http://arxiv.org/abs/2609.00065)|null|
 |**2026-08-31**|**Do VLMs Share Safety Neurons Across Modalities?**|Jiaxuan Li et.al.|[2608.30750](http://arxiv.org/abs/2608.30750)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-30**|**JITterFlip: Uncovering Fault Attack Surfaces in JIT-Compiled LLM Serving**|Tairui Wang et.al.|[2608.29745](http://arxiv.org/abs/2608.29745)|null|
@@ -4310,5 +4320,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
 
