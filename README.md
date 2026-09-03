@@ -1,4 +1,4 @@
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Counter-GEO-Bench: Evaluating Defenses Against Information-Distorting Generative Engine Optimization**|Bing Zheng et.al.|[2609.02316](http://arxiv.org/abs/2609.02316)|null|
+|**2026-09-02**|**SEAL: Reinforcing Global Safety in Mixture-of-Experts through Shared Expert ALignment**|Qingyu Meng et.al.|[2609.02293](http://arxiv.org/abs/2609.02293)|null|
 |**2026-09-01**|**A SoK for SoCs: Reading the TI Leaves on AI for Cyber Threat Intelligence Generation and Sharing**|Saastha Vasan et.al.|[2609.01174](http://arxiv.org/abs/2609.01174)|null|
 |**2026-09-01**|**Pre-carved Niches: The Formation Dynamics of Modular Task Partitions in Early LLM Training**|Guangqi Li et.al.|[2609.01170](http://arxiv.org/abs/2609.01170)|null|
 |**2026-09-01**|**CopyShield: A Cross-Level Benchmark of Copyright Defenses in LLMs**|Maryam Alshehyari et.al.|[2609.01161](http://arxiv.org/abs/2609.01161)|null|
@@ -2974,7 +2976,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -2982,6 +2984,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-02**|**CAPTCHAs in the Agentic Era: Solvers That Learn from Every Encounter**|Oguzhan Salman et.al.|[2609.02393](http://arxiv.org/abs/2609.02393)|null|
 |**2026-09-01**|**Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling**|Stefano Leggio et.al.|[2609.01232](http://arxiv.org/abs/2609.01232)|null|
 |**2026-08-30**|**Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents**|Timothy Kassis et.al.|[2609.00065](http://arxiv.org/abs/2609.00065)|null|
 |**2026-08-31**|**Do VLMs Share Safety Neurons Across Modalities?**|Jiaxuan Li et.al.|[2608.30750](http://arxiv.org/abs/2608.30750)|null|
@@ -4320,5 +4323,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
 
