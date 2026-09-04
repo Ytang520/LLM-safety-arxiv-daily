@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2026-09-03**|**SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center**|Uday Vallabhaneni et.al.|[2609.04159](http://arxiv.org/abs/2609.04159)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
-|**2026-09-03**|**Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness**|Hoang Cuong Nguyen et.al.|[2609.03887](http://arxiv.org/abs/2609.03887)|**[link](https://github.com/hoangcuongnguyen2001/Beyond-Shallow-Alignment)**|
+|**2026-09-03**|**Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness**|Hoang Cuong Nguyen et.al.|[2609.03887](http://arxiv.org/abs/2609.03887)|null|
 |**2026-09-03**|**IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks**|Saikat Mondal et.al.|[2609.03781](http://arxiv.org/abs/2609.03781)|null|
 |**2026-09-03**|**AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks**|Jakub Reš et.al.|[2609.03693](http://arxiv.org/abs/2609.03693)|null|
 |**2026-09-03**|**Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models**|Syed Ghazanfar Abbas et.al.|[2609.03247](http://arxiv.org/abs/2609.03247)|null|
