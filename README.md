@@ -2999,7 +2999,7 @@
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-30**|**JITterFlip: Uncovering Fault Attack Surfaces in JIT-Compiled LLM Serving**|Tairui Wang et.al.|[2608.29745](http://arxiv.org/abs/2608.29745)|null|
 |**2026-08-30**|**ARMOR: Manifold-Oriented Training for Adversarially Robust Aerial Object Detection under Data Scarcity**|Haoran Wang et.al.|[2608.29510](http://arxiv.org/abs/2608.29510)|null|
-|**2026-09-03**|**Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models**|Benlei Cui et.al.|[2608.27531](http://arxiv.org/abs/2608.27531)|null|
+|**2026-09-03**|**Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models**|Benlei Cui et.al.|[2608.27531](http://arxiv.org/abs/2608.27531)|**[link](https://github.com/Alibaba-VELLDEPTH/MetaJailbreak-VLM)**|
 |**2026-08-28**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
 |**2026-08-26**|**NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation**|Zhiyuan Xu et.al.|[2608.26222](http://arxiv.org/abs/2608.26222)|null|
 |**2026-08-26**|**MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities**|Tianshi Wang et.al.|[2608.25490](http://arxiv.org/abs/2608.25490)|null|
