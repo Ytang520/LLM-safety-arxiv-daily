@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Active Adaptation, Not Static Defense: Temporal Dynamics of Preventative Steering in Adversarial Fine-Tuning**|Jing Guan et.al.|[2609.10142](http://arxiv.org/abs/2609.10142)|null|
+|**2026-09-09**|**Understanding the Security Boundary of Obfuscation-based On-Device LLM Protection**|Hanyi Zhou et.al.|[2609.10117](http://arxiv.org/abs/2609.10117)|null|
+|**2026-09-09**|**Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability**|Arnab Chattopadhayay et.al.|[2609.10036](http://arxiv.org/abs/2609.10036)|**[link](https://github.com/debdipta-h/bse-llm)**|
+|**2026-09-09**|**CS-Guard: Benchmarking LLM Guardrails for Code Generation Security**|Jinyang Li et.al.|[2609.09798](http://arxiv.org/abs/2609.09798)|null|
+|**2026-09-09**|**Privacy-Preserving Split Learning for Federated LLM Fine-Tuning**|Heng Jin et.al.|[2609.09794](http://arxiv.org/abs/2609.09794)|null|
+|**2026-09-09**|**Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning**|Thomas Rivasseau et.al.|[2609.09553](http://arxiv.org/abs/2609.09553)|null|
+|**2026-09-08**|**Early Epistemic Settlement in AI-Assisted Writing**|Han-yu Wang et.al.|[2609.09332](http://arxiv.org/abs/2609.09332)|null|
 |**2026-09-08**|**PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation**|Yixuan Liu et.al.|[2609.09087](http://arxiv.org/abs/2609.09087)|null|
 |**2026-09-08**|**Combating Instruction Conflict via Energy-Driven Latent Conflict Detection**|Mingyu Ma et.al.|[2609.08646](http://arxiv.org/abs/2609.08646)|null|
-|**2026-09-08**|**Compositional Multilingual and Behavioral Attribute Steering**|Hyun Gu Kang et.al.|[2609.08410](http://arxiv.org/abs/2609.08410)|**[link](https://github.com/hyun-gu-kang/compositional-steering)**|
+|**2026-09-08**|**Compositional Multilingual and Behavioral Attribute Steering**|Hyun Gu Kang et.al.|[2609.08410](http://arxiv.org/abs/2609.08410)|null|
 |**2026-09-08**|**Structural Jailbreaks Generalize but Do Not Compound: A cross-provider and multilingual study of Involuntary In-Context Learning**|Tejasvi C. Addagada et.al.|[2609.08373](http://arxiv.org/abs/2609.08373)|null|
 |**2026-09-08**|**Revoked but Still Authoritative: An Empirical Study of Revocation Enforcement in Agent-Memory Systems**|Yi Ting Shen et.al.|[2609.08258](http://arxiv.org/abs/2609.08258)|null|
 |**2026-09-08**|**ACEA: An Adversarial Co-Evolution Arena for Head-to-Head Red-Team and Blue-Team LLM Testing**|Yi Ting Shen et.al.|[2609.08256](http://arxiv.org/abs/2609.08256)|null|
@@ -2996,7 +3003,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3004,6 +3011,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-08**|**Neither Adversarial Training Nor Purification: Emergent Adversarial Robustness from Oscillatory Predictive Learning**|Mohammed-Yassine Habibi et.al.|[2609.08683](http://arxiv.org/abs/2609.08683)|null|
 |**2026-09-08**|**Do Input-Level Defenses Transfer to Observation-Level Attacks on VideoLLMs?**|Bangshuo Zhu et.al.|[2609.08331](http://arxiv.org/abs/2609.08331)|null|
 |**2026-09-07**|**CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models**|Feifei Liu et.al.|[2609.07499](http://arxiv.org/abs/2609.07499)|null|
@@ -4351,5 +4359,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
