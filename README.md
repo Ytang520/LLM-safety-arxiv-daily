@@ -1,4 +1,4 @@
-## Updated on 2026.09.14
+## Updated on 2026.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**CiteShade: Citation Laundering in Multi-Source Retrieval-Augmented Generation and Its Counterfactual Defense**|Guo Fuzheng et.al.|[2609.15660](http://arxiv.org/abs/2609.15660)|null|
+|**2026-09-14**|**Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs**|Mark Russinovich et.al.|[2609.15383](http://arxiv.org/abs/2609.15383)|null|
+|**2026-09-14**|**ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents**|Bingzheng Wang et.al.|[2609.14987](http://arxiv.org/abs/2609.14987)|null|
+|**2026-09-13**|**The Stochastic Deputy: Structural Tenant Isolation for Tool-Using LLM Agents**|Mirza Samad Ahmed Baig et.al.|[2609.14780](http://arxiv.org/abs/2609.14780)|null|
+|**2026-09-13**|**Detecting and Localizing Segment-Level Poisoning in Multi-Source LLM-Agent Inputs**|Xue Tan et.al.|[2609.14723](http://arxiv.org/abs/2609.14723)|null|
+|**2026-09-13**|**CIG-MIA: Context-Induced Information Gain Membership Inference Attacks against Retrieval-Augmented Generation**|Tan Xue et.al.|[2609.14649](http://arxiv.org/abs/2609.14649)|null|
+|**2026-09-12**|**Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control**|Minsun Shim et.al.|[2609.14003](http://arxiv.org/abs/2609.14003)|null|
+|**2026-09-11**|**Harmfulness Propagation Dynamics: Layer-wise Trajectories of Adversarial Intent in Large Language Models**|Noor Islam S. Mohammad et.al.|[2609.13534](http://arxiv.org/abs/2609.13534)|null|
+|**2026-09-11**|**Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration**|Nilesh Jaiswal et.al.|[2609.12464](http://arxiv.org/abs/2609.12464)|null|
+|**2026-09-11**|**SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Consideration**|Md Jueal Mia et.al.|[2609.12413](http://arxiv.org/abs/2609.12413)|null|
 |**2026-09-10**|**BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense**|Simona Boboila et.al.|[2609.11852](http://arxiv.org/abs/2609.11852)|null|
 |**2026-09-09**|**Big Enough to Break Out: Tracking the Rising Capability of LLM Penetration-Testing Agents**|Victoria Lovelace et.al.|[2609.10780](http://arxiv.org/abs/2609.10780)|null|
 |**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
@@ -3006,7 +3016,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3014,6 +3024,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al.|[2609.15671](http://arxiv.org/abs/2609.15671)|null|
+|**2026-09-13**|**SPARK: Representation-Level KV Memory Alignment for Safer Vision-Language Models**|Mohd Azfar et.al.|[2609.14258](http://arxiv.org/abs/2609.14258)|null|
 |**2026-09-09**|**Small-Body Science with the Nautilus Space Observatory: From Cislunar Space Resilience to Mapping the Kuiper-Belt-to-Oort-Cloud Transition**|J. de Wit et.al.|[2609.10663](http://arxiv.org/abs/2609.10663)|null|
 |**2026-09-08**|**Understanding In-Context Multimodal Jailbreaks via Posterior Reweighting**|Xu Zhang et.al.|[2609.10613](http://arxiv.org/abs/2609.10613)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
@@ -4364,5 +4376,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
 
