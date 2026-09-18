@@ -1,4 +1,4 @@
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**ALIBI: Adversarial Legitimacy Injection in Binary Input against LLM Malware Analyzers**|Hyeongjun Choi et.al.|[2609.19722](http://arxiv.org/abs/2609.19722)|null|
+|**2026-09-16**|**Closed-World Resolution Against Tool Hallucination in LLM Agents**|Laxmipriya Ganesh Iyer et.al.|[2609.19425](http://arxiv.org/abs/2609.19425)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-16**|**Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents**|Dohun Lee et.al.|[2609.18357](http://arxiv.org/abs/2609.18357)|null|
 |**2026-09-16**|**QuanText: Protecting Dataset-Level Secrets in Textual Data Sharing**|Shuaiqi Wang et.al.|[2609.17995](http://arxiv.org/abs/2609.17995)|null|
 |**2026-09-15**|**Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs**|Kisu Yang et.al.|[2609.16984](http://arxiv.org/abs/2609.16984)|null|
-|**2026-09-15**|**InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation**|Jiachang Zhang et.al.|[2609.16818](http://arxiv.org/abs/2609.16818)|**[link](https://github.com/ZJU-TrustAID/InceptionRAG)**|
+|**2026-09-15**|**InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation**|Jiachang Zhang et.al.|[2609.16818](http://arxiv.org/abs/2609.16818)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
 |**2026-09-14**|**Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance**|Candace S. Y. Chan et.al.|[2609.16213](http://arxiv.org/abs/2609.16213)|null|
 |**2026-09-14**|**Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration**|Aashiq Muhamed et.al.|[2609.16204](http://arxiv.org/abs/2609.16204)|null|
@@ -3027,7 +3029,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4390,5 +4392,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 
