@@ -827,9 +827,9 @@
 |**2026-02-02**|**Provable Defense Framework for LLM Jailbreaks via Noise-Augumented Alignment**|Zehua Cheng et.al.|[2602.01587](http://arxiv.org/abs/2602.01587)|null|
 |**2026-02-02**|**MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety**|Xiaoyu Wen et.al.|[2602.01539](http://arxiv.org/abs/2602.01539)|null|
 |**2026-02-01**|**GradingAttack: Attacking Large Language Models Towards Short Answer Grading Ability**|Xueyi Li et.al.|[2602.00979](http://arxiv.org/abs/2602.00979)|null|
-|**2026-01-31**|**Provably Protecting Fine-Tuned LLMs from Training Data Extraction**|Tom Segal et.al.|[2602.00688](http://arxiv.org/abs/2602.00688)|null|
-|**2026-01-31**|**Jailbreaking LLMs via Calibration**|Yuxuan Lu et.al.|[2602.00619](http://arxiv.org/abs/2602.00619)|null|
-|**2026-01-31**|**When Agents "Misremember" Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems**|Naen Xu et.al.|[2602.00428](http://arxiv.org/abs/2602.00428)|null|
+|**2026-01-31**|**Provably Protecting Fine-Tuned LLMs from Training Data Extraction**|Tom Segal et.al.|[2602.00688](http://arxiv.org/abs/2602.00688)|**[link](https://github.com/ppo1/scp_dr)**|
+|**2026-01-31**|**Jailbreaking LLMs via Calibration**|Yuxuan Lu et.al.|[2602.00619](http://arxiv.org/abs/2602.00619)|**[link](https://github.com/natalimuca/jailbreak-activation-detection)**|
+|**2026-01-31**|**When Agents "Misremember" Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems**|Naen Xu et.al.|[2602.00428](http://arxiv.org/abs/2602.00428)|**[link](https://github.com/bluedream02/Mandela-Effect)**|
 |**2026-01-30**|**Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures**|Yanghao Su et.al.|[2601.23081](http://arxiv.org/abs/2601.23081)|null|
 |**2026-01-30**|**Protecting Private Code in IDE Autocomplete using Differential Privacy**|Evgeny Grigorenko et.al.|[2601.22935](http://arxiv.org/abs/2601.22935)|null|
 |**2026-01-30**|**Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models**|Charles Westphal et.al.|[2601.22818](http://arxiv.org/abs/2601.22818)|null|
@@ -1643,7 +1643,7 @@
 |**2025-05-30**|**Chances and Challenges of the Model Context Protocol in Digital Forensics and Incident Response**|Jan-Niclas Hilgert et.al.|[2506.00274](http://arxiv.org/abs/2506.00274)|null|
 |**2025-10-27**|**SafeCOMM: A Study on Safety Degradation in Fine-Tuned Telecom Large Language Models**|Aladin Djuhera et.al.|[2506.00062](http://arxiv.org/abs/2506.00062)|null|
 |**2025-10-05**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842](http://arxiv.org/abs/2505.24842)|null|
-|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|**[link](https://github.com/FishT0ucher/TRIDENT)**|
 |**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
 |**2025-05-30**|**A Reward-driven Automated Webshell Malicious-code Generator for Red-teaming**|Yizhong Ding et.al.|[2505.24252](http://arxiv.org/abs/2505.24252)|null|
 |**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
@@ -3490,7 +3490,7 @@
 |**2025-10-07**|**Text-to-Image Models Leave Identifiable Signatures: Implications for Leaderboard Security**|Ali Naseh et.al.|[2510.06525](http://arxiv.org/abs/2510.06525)|null|
 |**2025-10-15**|**SafeGuider: Robust and Practical Content Safety Control for Text-to-Image Models**|Peigui Qi et.al.|[2510.05173](http://arxiv.org/abs/2510.05173)|null|
 |**2025-10-06**|**Imperceptible Jailbreaking against Large Language Models**|Kuofeng Gao et.al.|[2510.05025](http://arxiv.org/abs/2510.05025)|**[link](https://github.com/sail-sg/imperceptible-jailbreaks)**|
-|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|null|
+|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|**[link](https://github.com/PolyLiYJ/AgentTypo)**|
 |**2025-10-05**|**COSMO-RL: Towards Trustworthy LMRMs via Joint Safety and Stability**|Yizhuo Ding et.al.|[2510.04196](http://arxiv.org/abs/2510.04196)|null|
 |**2025-10-04**|**Spatial CAPTCHA: Generatively Benchmarking Spatial Reasoning for Human-Machine Differentiation**|Arina Kharlamova et.al.|[2510.03863](http://arxiv.org/abs/2510.03863)|null|
 |**2025-10-04**|**Cross-Modal Content Optimization for Steering Web Agent Preferences**|Tanqiu Jiang et.al.|[2510.03612](http://arxiv.org/abs/2510.03612)|null|
