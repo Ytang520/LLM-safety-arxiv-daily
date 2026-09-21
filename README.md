@@ -1,4 +1,4 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|**[link](https://github.com/Singa-pirate/CASCADE-jailbreak-defense-combi)**|
+|**2026-09-18**|**ServeGuard: Verifiable, Bounded-Residual Confinement of Operator-Invisible Channels Without Revealing the Certified Read Factor**|Dominik Dahlem et.al.|[2609.21515](http://arxiv.org/abs/2609.21515)|null|
+|**2026-09-18**|**HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference**|Byeongseo Min et.al.|[2609.21484](http://arxiv.org/abs/2609.21484)|null|
+|**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
 |**2026-09-17**|**ALIBI: Adversarial Legitimacy Injection in Binary Input against LLM Malware Analyzers**|Hyeongjun Choi et.al.|[2609.19722](http://arxiv.org/abs/2609.19722)|null|
 |**2026-09-16**|**Closed-World Resolution Against Tool Hallucination in LLM Agents**|Laxmipriya Ganesh Iyer et.al.|[2609.19425](http://arxiv.org/abs/2609.19425)|null|
 |**2026-09-16**|**Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models**|Youjia Wang et.al.|[2609.18515](http://arxiv.org/abs/2609.18515)|null|
 |**2026-09-16**|**Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents**|Dohun Lee et.al.|[2609.18357](http://arxiv.org/abs/2609.18357)|null|
-|**2026-09-16**|**QuanText: Protecting Dataset-Level Secrets in Textual Data Sharing**|Shuaiqi Wang et.al.|[2609.17995](http://arxiv.org/abs/2609.17995)|null|
+|**2026-09-18**|**QuanText: Protecting Dataset-Level Secrets in Textual Data Sharing**|Shuaiqi Wang et.al.|[2609.17995](http://arxiv.org/abs/2609.17995)|null|
 |**2026-09-15**|**Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs**|Kisu Yang et.al.|[2609.16984](http://arxiv.org/abs/2609.16984)|null|
 |**2026-09-15**|**InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation**|Jiachang Zhang et.al.|[2609.16818](http://arxiv.org/abs/2609.16818)|null|
 |**2026-09-15**|**Benchmarking Factual Robustness of LLMs via Multi-conversation Persuasion**|Zhuoang Cai et.al.|[2609.16777](http://arxiv.org/abs/2609.16777)|null|
@@ -3029,7 +3033,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3037,6 +3041,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-16**|**Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot**|Suphannee Sivakorn et.al.|[2609.18518](http://arxiv.org/abs/2609.18518)|null|
 |**2026-09-15**|**The Unbearable Weight: Scaling Models and Methods for UAV Audio Classification**|Andrew P. Berg et.al.|[2609.17884](http://arxiv.org/abs/2609.17884)|null|
 |**2026-09-15**|**Investigating Adversarial Robustness of Heterogeneous Cooperative Perception**|Chenyi Wang et.al.|[2609.17856](http://arxiv.org/abs/2609.17856)|null|
@@ -4392,5 +4397,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
