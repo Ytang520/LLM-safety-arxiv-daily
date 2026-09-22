@@ -19,7 +19,7 @@
 |**2026-09-21**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
 |**2026-09-20**|**GRACE: Grounded Adversarial Reasoning over Canadian Law**|Jiakang Xu et.al.|[2609.23726](http://arxiv.org/abs/2609.23726)|null|
 |**2026-09-20**|**When the Agent Becomes the Kernel: A Systematization of Security on the Path to AI-Native Operating Systems**|Li Zhang et.al.|[2609.23700](http://arxiv.org/abs/2609.23700)|null|
-|**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|null|
+|**2026-09-18**|**CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation**|Jiale Luo et.al.|[2609.21793](http://arxiv.org/abs/2609.21793)|**[link](https://github.com/Singa-pirate/CASCADE-jailbreak-defense-combi)**|
 |**2026-09-18**|**ServeGuard: Verifiable, Bounded-Residual Confinement of Operator-Invisible Channels Without Revealing the Certified Read Factor**|Dominik Dahlem et.al.|[2609.21515](http://arxiv.org/abs/2609.21515)|null|
 |**2026-09-18**|**HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference**|Byeongseo Min et.al.|[2609.21484](http://arxiv.org/abs/2609.21484)|null|
 |**2026-09-17**|**Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation**|Yuxuan Zhang et.al.|[2609.21088](http://arxiv.org/abs/2609.21088)|null|
