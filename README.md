@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2026-09-24**|**PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations**|Luciano Maldonado et.al.|[2609.30094](http://arxiv.org/abs/2609.30094)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
-|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|null|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|**[link](https://github.com/rubichandrap/system-one-guard)**|
 |**2026-09-23**|**Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks**|Ewelina Gajewska et.al.|[2609.28673](http://arxiv.org/abs/2609.28673)|null|
 |**2026-09-23**|**Reward Hacking Challenges Oversight of Autonomous Research Agents**|Yue Huang et.al.|[2609.28614](http://arxiv.org/abs/2609.28614)|null|
 |**2026-09-23**|**Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams**|Mingyuan Li et.al.|[2609.27996](http://arxiv.org/abs/2609.27996)|null|
