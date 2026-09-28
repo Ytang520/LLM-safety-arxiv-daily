@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-24**|**PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations**|Luciano Maldonado et.al.|[2609.30094](http://arxiv.org/abs/2609.30094)|null|
+|**2026-09-25**|**AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents**|Weida Liang et.al.|[2609.31318](http://arxiv.org/abs/2609.31318)|null|
+|**2026-09-25**|**AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots**|Saidattu Chepuri et.al.|[2609.31110](http://arxiv.org/abs/2609.31110)|null|
+|**2026-09-25**|**Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms**|Zhenhao Fu et.al.|[2609.30940](http://arxiv.org/abs/2609.30940)|null|
+|**2026-09-25**|**Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis**|Thong Bach et.al.|[2609.30841](http://arxiv.org/abs/2609.30841)|null|
+|**2026-09-24**|**Reinforcement Learning of Communication in a Mesh of Small Language Models**|Mehmet Kerem Turkcan et.al.|[2609.30578](http://arxiv.org/abs/2609.30578)|null|
+|**2026-09-25**|**PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations**|Luciano Maldonado et.al.|[2609.30094](http://arxiv.org/abs/2609.30094)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
-|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|**[link](https://github.com/jkf87/jev-rlcd-replication)**|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|null|
 |**2026-09-23**|**Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks**|Ewelina Gajewska et.al.|[2609.28673](http://arxiv.org/abs/2609.28673)|null|
 |**2026-09-23**|**Reward Hacking Challenges Oversight of Autonomous Research Agents**|Yue Huang et.al.|[2609.28614](http://arxiv.org/abs/2609.28614)|null|
 |**2026-09-23**|**Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams**|Mingyuan Li et.al.|[2609.27996](http://arxiv.org/abs/2609.27996)|null|
@@ -3047,7 +3052,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3055,6 +3060,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-25**|**Revisiting Certified Defense with Differential Privacy on Vision Transformers**|Jun Yan et.al.|[2609.31310](http://arxiv.org/abs/2609.31310)|null|
+|**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
+|**2026-09-25**|**A Large-Scale Empirical Study of Modern Phishing Email Content**|Jaehwan Park et.al.|[2609.30683](http://arxiv.org/abs/2609.30683)|null|
 |**2026-09-24**|**AEGIS: Audio Endogenous Guarding via Internal Signals Against Large Audio-Language Model Jailbreaks**|Yu-Ling Liao et.al.|[2609.29287](http://arxiv.org/abs/2609.29287)|null|
 |**2026-09-23**|**"What I See is What I Hear": Deepfake Detection Across Diverse Hearing Abilities**|Magdalena Pasternak et.al.|[2609.28659](http://arxiv.org/abs/2609.28659)|null|
 |**2026-09-22**|**Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism**|Christopher Burger et.al.|[2609.26733](http://arxiv.org/abs/2609.26733)|null|
@@ -4414,5 +4422,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
