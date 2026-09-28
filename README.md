@@ -2675,7 +2675,7 @@
 |**2024-01-30**|**Large Language Models in Cybersecurity: State-of-the-Art**|Farzad Nourmohammadzadeh Motlagh et.al.|[2402.00891](http://arxiv.org/abs/2402.00891)|null|
 |**2024-11-14**|**Security and Privacy Challenges of Large Language Models: A Survey**|Badhan Chandra Das et.al.|[2402.00888](http://arxiv.org/abs/2402.00888)|null|
 |**2024-02-01**|**Investigating Bias Representations in Llama 2 Chat via Activation Steering**|Dawn Lu et.al.|[2402.00402](http://arxiv.org/abs/2402.00402)|null|
-|**2024-01-29**|**TrackGPT -- A generative pre-trained transformer for cross-domain entity trajectory forecasting**|Nicholas Stroh et.al.|[2402.00066](http://arxiv.org/abs/2402.00066)|null|
+|**2024-01-29**|**TrackGPT -- A generative pre-trained transformer for cross-domain entity trajectory forecasting**|Nicholas Stroh et.al.|[2402.00066](http://arxiv.org/abs/2402.00066)|**[link](https://github.com/tyleph/TrackGPT-mini)**|
 |**2024-06-03**|**On Prompt-Driven Safeguarding for Large Language Models**|Chujie Zheng et.al.|[2401.18018](http://arxiv.org/abs/2401.18018)|null|
 |**2025-02-28**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
 |**2025-07-23**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256](http://arxiv.org/abs/2401.17256)|null|
@@ -3084,7 +3084,7 @@
 |**2026-09-04**|**MURAL: Multimodal Uncertainty-aware Recommendation via Adaptive edge Learning**|Ahmad Mousavi et.al.|[2609.04574](http://arxiv.org/abs/2609.04574)|null|
 |**2026-09-03**|**Preprocessing Failure and Adversarial Detection in Depthwise-Separable Edge Vision Systems**|Jannatul Masruk Mukta et.al.|[2609.03453](http://arxiv.org/abs/2609.03453)|null|
 |**2026-09-02**|**CAPTCHAs in the Agentic Era: Solvers That Learn from Every Encounter**|Oguzhan Salman et.al.|[2609.02393](http://arxiv.org/abs/2609.02393)|null|
-|**2026-09-01**|**Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling**|Stefano Leggio et.al.|[2609.01232](http://arxiv.org/abs/2609.01232)|null|
+|**2026-09-01**|**Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling**|Stefano Leggio et.al.|[2609.01232](http://arxiv.org/abs/2609.01232)|**[link](https://github.com/stenaflow/position-matters)**|
 |**2026-09-02**|**Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents**|Timothy Kassis et.al.|[2609.00065](http://arxiv.org/abs/2609.00065)|null|
 |**2026-08-31**|**Do VLMs Share Safety Neurons Across Modalities?**|Jiaxuan Li et.al.|[2608.30750](http://arxiv.org/abs/2608.30750)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
