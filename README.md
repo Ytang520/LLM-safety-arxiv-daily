@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
 |**2026-09-28**|**Distillation Defenses Easily Break After Reinforcement Learning**|Shidan Javaheri et.al.|[2609.35699](http://arxiv.org/abs/2609.35699)|null|
-|**2026-09-28**|**"Nothing to See Here'': Unintended Disclosure through Revision Traces of LLM Deliverables**|Yage Zhang et.al.|[2609.35408](http://arxiv.org/abs/2609.35408)|null|
+|**2026-09-28**|**"Nothing to See Here'': Unintended Disclosure through Revision Traces of LLM Deliverables**|Yage Zhang et.al.|[2609.35408](http://arxiv.org/abs/2609.35408)|**[link](https://github.com/TrustAIRLab/RevLeakBench)**|
 |**2026-09-28**|**Jailbreak Context Lingers: Divergent Safety Routing and Its Cross-Task Predictability in Tool Agents**|Xi Wang et.al.|[2609.34686](http://arxiv.org/abs/2609.34686)|null|
 |**2026-09-28**|**AuxMark: Defending Against Unauthorized Agent Distillation via Auxiliary Behavioral Watermarking**|Yiqing Feng et.al.|[2609.34597](http://arxiv.org/abs/2609.34597)|null|
 |**2026-09-28**|**SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents**|Xinjie Shen et.al.|[2609.34518](http://arxiv.org/abs/2609.34518)|null|
