@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**TokenCast: Forecasting Token Consumption During LLM Agent Execution**|Chaoqian Ouyang et.al.|[2609.35760](http://arxiv.org/abs/2609.35760)|null|
+|**2026-09-28**|**Distillation Defenses Easily Break After Reinforcement Learning**|Shidan Javaheri et.al.|[2609.35699](http://arxiv.org/abs/2609.35699)|null|
+|**2026-09-28**|**"Nothing to See Here'': Unintended Disclosure through Revision Traces of LLM Deliverables**|Yage Zhang et.al.|[2609.35408](http://arxiv.org/abs/2609.35408)|null|
+|**2026-09-28**|**Jailbreak Context Lingers: Divergent Safety Routing and Its Cross-Task Predictability in Tool Agents**|Xi Wang et.al.|[2609.34686](http://arxiv.org/abs/2609.34686)|null|
+|**2026-09-28**|**AuxMark: Defending Against Unauthorized Agent Distillation via Auxiliary Behavioral Watermarking**|Yiqing Feng et.al.|[2609.34597](http://arxiv.org/abs/2609.34597)|null|
+|**2026-09-28**|**SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents**|Xinjie Shen et.al.|[2609.34518](http://arxiv.org/abs/2609.34518)|null|
+|**2026-09-28**|**How to Tame a Multi-Headed Hydra? Adaptive Multi-Category Safety Steering for Large Language Models**|Chenxi Wang et.al.|[2609.34514](http://arxiv.org/abs/2609.34514)|null|
+|**2026-09-28**|**CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents**|Xiao Yang et.al.|[2609.34463](http://arxiv.org/abs/2609.34463)|null|
+|**2026-09-28**|**PROACT-Agent: Progressive Runtime Oversight and Active Circuit-breaking for Real-Time Safety**|Ding Jia et.al.|[2609.34415](http://arxiv.org/abs/2609.34415)|null|
+|**2026-09-27**|**Can Prompt Anonymity Protect Your Identity From LLM Providers?**|Dzung Pham et.al.|[2609.33903](http://arxiv.org/abs/2609.33903)|null|
 |**2026-09-25**|**AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents**|Weida Liang et.al.|[2609.31318](http://arxiv.org/abs/2609.31318)|null|
 |**2026-09-25**|**AuthGuard-R: Safety-Compliant Mission Hijacking and Dual-Gate Defense for LLM-Controlled Robots**|Saidattu Chepuri et.al.|[2609.31110](http://arxiv.org/abs/2609.31110)|null|
 |**2026-09-25**|**Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms**|Zhenhao Fu et.al.|[2609.30940](http://arxiv.org/abs/2609.30940)|null|
@@ -3052,7 +3062,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3060,6 +3070,14 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Shunchang Liu et.al.|[2609.35291](http://arxiv.org/abs/2609.35291)|null|
+|**2026-09-28**|**Still There, No Longer Seen: Exposing Compression-Induced Risk in Large Vision-Language Models**|Qiankun Li et.al.|[2609.35002](http://arxiv.org/abs/2609.35002)|null|
+|**2026-09-28**|**Backdoor as Probe: Test-Time Adversarial Defense for CLIP**|Zhongqi Wang et.al.|[2609.34641](http://arxiv.org/abs/2609.34641)|null|
+|**2026-09-28**|**Show your work: An exploratory study of student experiences of Turnitin Clarity**|J. Roe et.al.|[2609.34618](http://arxiv.org/abs/2609.34618)|null|
+|**2026-09-27**|**One Attack to Fool Them All: Highly Transferable Black-Box Adversarial Attacks on Frontier MLLMs**|Sen Nie et.al.|[2609.33833](http://arxiv.org/abs/2609.33833)|null|
+|**2026-09-27**|**SafeMol: Dual-Modality Safety Alignment for Molecular Multimodal Models**|Xinmiao Wang et.al.|[2609.33640](http://arxiv.org/abs/2609.33640)|null|
+|**2026-09-26**|**Residual Transferability in Neural Image Watermarking**|Ziping Dong et.al.|[2609.32241](http://arxiv.org/abs/2609.32241)|null|
+|**2026-09-25**|**Hardware-Rooted PUF Fingerprinting for Device-Level Traceability in Knowledge Distillation**|Ning Lyu et.al.|[2609.31968](http://arxiv.org/abs/2609.31968)|null|
 |**2026-09-25**|**Revisiting Certified Defense with Differential Privacy on Vision Transformers**|Jun Yan et.al.|[2609.31310](http://arxiv.org/abs/2609.31310)|null|
 |**2026-09-25**|**TempQ-Jail: Query-Constrained Candidate Ranking for Text-to-Video Jailbreak Attacks**|Tianmeng Fang et.al.|[2609.31032](http://arxiv.org/abs/2609.31032)|null|
 |**2026-09-25**|**A Large-Scale Empirical Study of Modern Phishing Email Content**|Jaehwan Park et.al.|[2609.30683](http://arxiv.org/abs/2609.30683)|null|
@@ -4422,5 +4440,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
