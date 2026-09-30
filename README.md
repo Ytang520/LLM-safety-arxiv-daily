@@ -18,7 +18,7 @@
 |**2026-09-29**|**Correct, Don't Delete: Mitigating Emergent Misalignment with Corrective Supervision**|Jacob Epifano et.al.|[2609.37624](http://arxiv.org/abs/2609.37624)|null|
 |**2026-09-29**|**Backdoor Mitigation in Decentralized LLM Fine-Tuning**|Sayan Biswas et.al.|[2609.37367](http://arxiv.org/abs/2609.37367)|null|
 |**2026-09-29**|**actr: aligning thoughts and responses for multilingual safety in reasoning llms**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
-|**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|**[link](https://github.com/JessonWong/controlled-decoding)**|
+|**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|null|
 |**2026-09-29**|**Safer Content or Firmer Refusals? A Hybrid Perturbation Defense for Alignment under Harmful Fine-tuning**|Muhammad Zeeshan Akram et.al.|[2609.36862](http://arxiv.org/abs/2609.36862)|null|
 |**2026-09-29**|**Does the Unsafe Gradient Survive a Conversation? On the Fragility of Gradient-Based Jailbreak Detection in Multi-Turn Dialogue**|Omar Sheta et.al.|[2609.36849](http://arxiv.org/abs/2609.36849)|null|
 |**2026-09-29**|**Self-Evolving Defense: Continual Security Policy Learning for LLM Agents**|Minh Nhat Le et.al.|[2609.36603](http://arxiv.org/abs/2609.36603)|null|
