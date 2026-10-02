@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined**|Zhangshu Joshua Jiang et.al.|[2610.01938](http://arxiv.org/abs/2610.01938)|null|
+|**2026-10-01**|**Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning**|Meghana Sunil et.al.|[2610.01936](http://arxiv.org/abs/2610.01936)|null|
+|**2026-10-01**|**PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents**|Fengpeng Li et.al.|[2610.01349](http://arxiv.org/abs/2610.01349)|null|
+|**2026-10-01**|**MOMAT: Mixture of Multiple Atlases for Low-Power Jailbreak Defense of Quantized LLMs**|Boyang Li et.al.|[2610.01058](http://arxiv.org/abs/2610.01058)|null|
+|**2026-09-30**|**Do Defenses Against LLM Extraction Work Across Attacks? A Lifecycle Benchmark of Black-Box Model Extraction**|Shuze Liu et.al.|[2610.00839](http://arxiv.org/abs/2610.00839)|null|
+|**2026-09-30**|**Backdoor Containment via Expert Quarantine and Shutdown in LLMs**|Jianwei Li et.al.|[2610.00663](http://arxiv.org/abs/2610.00663)|null|
+|**2026-09-30**|**Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution**|Harshith Doppalapudi et.al.|[2610.00590](http://arxiv.org/abs/2610.00590)|null|
+|**2026-09-30**|**No One Architecture Fits All: A Cross-Environment Evaluation of Hierarchical Red Team Agents**|Ayan Javeed Shaikh et.al.|[2610.00557](http://arxiv.org/abs/2610.00557)|null|
+|**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
 |**2026-09-30**|**CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion**|Zhen Liang et.al.|[2609.39902](http://arxiv.org/abs/2609.39902)|null|
 |**2026-09-30**|**Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks**|Zezhong Wang et.al.|[2609.39549](http://arxiv.org/abs/2609.39549)|null|
 |**2026-09-30**|**APTInvestBench: Evaluating Autonomous APT Investigation under Varying Telemetry**|Yu Wang et.al.|[2609.38954](http://arxiv.org/abs/2609.38954)|null|
@@ -3076,7 +3085,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3084,6 +3093,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-01**|**Anti-Persona: Disrupting Unauthorized Identity Binding and Recognition in Personalized Vision--Language Models**|Abhishek Basu et.al.|[2610.01944](http://arxiv.org/abs/2610.01944)|null|
+|**2026-09-29**|**UnifiedAttack: Evaluating the Safety of Large Multimodal Models in Synergistic Harmful Image-Text Generation**|Bingjun Luo et.al.|[2610.00341](http://arxiv.org/abs/2610.00341)|null|
 |**2026-09-30**|**SteerProbe: Learning to Bypass Safety Steering in Vision-Language Models**|Xinwei Zhang et.al.|[2609.39117](http://arxiv.org/abs/2609.39117)|null|
 |**2026-09-30**|**BadAction: Backdoor Attacks on Interactive Video Generation via Action-Guided Triggers**|Zhihang Wu et.al.|[2609.39047](http://arxiv.org/abs/2609.39047)|null|
 |**2026-09-30**|**Refusals That Bend: Measuring and Predicting Task Malleability in Embodied VLM Planners**|Leo Y. Lin et.al.|[2609.38971](http://arxiv.org/abs/2609.38971)|null|
@@ -4461,5 +4472,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
