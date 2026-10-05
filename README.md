@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
+|**2026-10-02**|**Jumping the Line: Exploiting Length Predictions in LLM Scheduling**|Yuyang Dai et.al.|[2610.03430](http://arxiv.org/abs/2610.03430)|null|
+|**2026-10-02**|**Defense-in-Depth at the Perception-Reasoning Interface of LLM-Centric Agentic UAV Swarms**|Mohammadhossein Homaei et.al.|[2610.03319](http://arxiv.org/abs/2610.03319)|null|
+|**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
+|**2026-10-02**|**Bounded Reachability & Jailbreak Detection via Contraction-Constrained State Space Models**|Omanshu Thapliyal et.al.|[2610.02853](http://arxiv.org/abs/2610.02853)|null|
+|**2026-10-02**|**MLCommons Jailbreak Benchmark v1.0**|Carsten Maple et.al.|[2610.02827](http://arxiv.org/abs/2610.02827)|null|
+|**2026-10-01**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
+|**2026-10-01**|**Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents**|Yekun Chai et.al.|[2610.02425](http://arxiv.org/abs/2610.02425)|null|
+|**2026-10-01**|**Mitigating Private Data Leakage in LLMs with Whiteout**|Anna Yoo Jeong Ha et.al.|[2610.02418](http://arxiv.org/abs/2610.02418)|null|
+|**2026-10-01**|**MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication**|Ryuichi Yamafuji Lun et.al.|[2610.02349](http://arxiv.org/abs/2610.02349)|null|
 |**2026-10-01**|**A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined**|Zhangshu Joshua Jiang et.al.|[2610.01938](http://arxiv.org/abs/2610.01938)|null|
 |**2026-10-01**|**Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning**|Meghana Sunil et.al.|[2610.01936](http://arxiv.org/abs/2610.01936)|null|
 |**2026-10-01**|**PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents**|Fengpeng Li et.al.|[2610.01349](http://arxiv.org/abs/2610.01349)|null|
@@ -3085,7 +3095,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3093,6 +3103,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-02**|**Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally**|Arun Josephraj Arokiaraj et.al.|[2610.03445](http://arxiv.org/abs/2610.03445)|null|
 |**2026-10-01**|**Anti-Persona: Disrupting Unauthorized Identity Binding and Recognition in Personalized Vision--Language Models**|Abhishek Basu et.al.|[2610.01944](http://arxiv.org/abs/2610.01944)|null|
 |**2026-09-29**|**UnifiedAttack: Evaluating the Safety of Large Multimodal Models in Synergistic Harmful Image-Text Generation**|Bingjun Luo et.al.|[2610.00341](http://arxiv.org/abs/2610.00341)|null|
 |**2026-09-30**|**SteerProbe: Learning to Bypass Safety Steering in Vision-Language Models**|Xinwei Zhang et.al.|[2609.39117](http://arxiv.org/abs/2609.39117)|null|
@@ -4472,5 +4483,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
