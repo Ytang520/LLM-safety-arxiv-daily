@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
+|**2026-10-04**|**AgentDoxx: Agentic Re-identification of Anonymized Text with Web Search**|Jianing Wen et.al.|[2610.05586](http://arxiv.org/abs/2610.05586)|null|
+|**2026-10-04**|**AI Safety via Debate is Compromised by Cognitive Biases**|Gefei Liu et.al.|[2610.05461](http://arxiv.org/abs/2610.05461)|null|
+|**2026-10-04**|**Reflections and Fragments: Securing LLMs Against Sequential Mosaic Attacks**|Emanuele La Malfa et.al.|[2610.05346](http://arxiv.org/abs/2610.05346)|null|
+|**2026-10-04**|**Red-TTT: Test-Time Training for Automated Jailbreaking Large Language Models**|Tongyan Hu et.al.|[2610.05282](http://arxiv.org/abs/2610.05282)|null|
+|**2026-10-03**|**Forecasting Cybersecurity Incidents Using Geopolitical Data and Large Language Models**|Mark Fesenko et.al.|[2610.04798](http://arxiv.org/abs/2610.04798)|null|
+|**2026-10-03**|**The Same Zero: Why Identical ASR Can Imply Different Guarantees in LLM-Agent Security**|YaJie Yin et.al.|[2610.04504](http://arxiv.org/abs/2610.04504)|null|
+|**2026-10-03**|**Reactivating Alignment: Defending LLMs from Jailbreaks via Intention-Aware Input-Output Matching**|Luoyu Chen et.al.|[2610.04470](http://arxiv.org/abs/2610.04470)|null|
+|**2026-10-03**|**Target-free Latent Safety Alignment**|Luoyu Chen et.al.|[2610.04467](http://arxiv.org/abs/2610.04467)|null|
+|**2026-10-03**|**COPEX: Benchmarking LLM Robustness to Adversarial Context Across Model Context Protocol Layers**|Nahom Birhan et.al.|[2610.04378](http://arxiv.org/abs/2610.04378)|null|
 |**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
 |**2026-10-02**|**Jumping the Line: Exploiting Length Predictions in LLM Scheduling**|Yuyang Dai et.al.|[2610.03430](http://arxiv.org/abs/2610.03430)|null|
 |**2026-10-02**|**Defense-in-Depth at the Perception-Reasoning Interface of LLM-Centric Agentic UAV Swarms**|Mohammadhossein Homaei et.al.|[2610.03319](http://arxiv.org/abs/2610.03319)|null|
@@ -3095,7 +3105,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3103,6 +3113,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-05**|**Harmful Content Generation in Text-to-Image Models: Capabilities and Moderation Limitations**|Paschalis Giakoumoglou et.al.|[2610.06503](http://arxiv.org/abs/2610.06503)|null|
+|**2026-10-05**|**Benchmarking Jailbreak Guardrails for Embodied Agents**|Xunguang Wang et.al.|[2610.06122](http://arxiv.org/abs/2610.06122)|null|
 |**2026-10-02**|**Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally**|Arun Josephraj Arokiaraj et.al.|[2610.03445](http://arxiv.org/abs/2610.03445)|null|
 |**2026-10-01**|**Anti-Persona: Disrupting Unauthorized Identity Binding and Recognition in Personalized Vision--Language Models**|Abhishek Basu et.al.|[2610.01944](http://arxiv.org/abs/2610.01944)|null|
 |**2026-09-29**|**UnifiedAttack: Evaluating the Safety of Large Multimodal Models in Synergistic Harmful Image-Text Generation**|Bingjun Luo et.al.|[2610.00341](http://arxiv.org/abs/2610.00341)|null|
@@ -4483,5 +4495,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
