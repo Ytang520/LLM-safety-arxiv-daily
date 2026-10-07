@@ -20,7 +20,7 @@
 |**2026-10-06**|**Does On-Policy Distillation for Safety Pose Backdoor Risks?**|Jian Luo et.al.|[2610.07654](http://arxiv.org/abs/2610.07654)|null|
 |**2026-10-05**|**Defense-in-Depth for LLMs: Evaluating Memory Gates Against Activation-Induced and Memory-Induced Sycophancy**|Ritvij Sharma et.al.|[2610.07403](http://arxiv.org/abs/2610.07403)|null|
 |**2026-10-05**|**Dynamic Budget Allocation for LLM Evaluation under Hard Resource Constraints**|Shai Feldman et.al.|[2610.07362](http://arxiv.org/abs/2610.07362)|null|
-|**2026-10-05**|**From Sandbox to Enforcement: Confidence-Qualified Threat Intelligence for Critical Infrastructure**|Nikolaos Kekatos et.al.|[2610.07310](http://arxiv.org/abs/2610.07310)|**[link](https://github.com/nikos-kekatos/cg-cti-critis2026)**|
+|**2026-10-05**|**From Sandbox to Enforcement: Confidence-Qualified Threat Intelligence for Critical Infrastructure**|Nikolaos Kekatos et.al.|[2610.07310](http://arxiv.org/abs/2610.07310)|null|
 |**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
 |**2026-10-04**|**AgentDoxx: Agentic Re-identification of Anonymized Text with Web Search**|Jianing Wen et.al.|[2610.05586](http://arxiv.org/abs/2610.05586)|null|
 |**2026-10-04**|**AI Safety via Debate is Compromised by Cognitive Biases**|Gefei Liu et.al.|[2610.05461](http://arxiv.org/abs/2610.05461)|null|
