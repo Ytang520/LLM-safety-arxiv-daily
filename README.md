@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|**[link](https://github.com/YichiCS/Secure-Speculative-Decoding)**|
+|**2026-10-06**|**The Model Plants the Trigger: Answer-Side Backdoor Attacks in Multi-Turn Large Language Models**|Yibo Zhang et.al.|[2610.07723](http://arxiv.org/abs/2610.07723)|null|
+|**2026-10-06**|**Does On-Policy Distillation for Safety Pose Backdoor Risks?**|Jian Luo et.al.|[2610.07654](http://arxiv.org/abs/2610.07654)|null|
+|**2026-10-05**|**Defense-in-Depth for LLMs: Evaluating Memory Gates Against Activation-Induced and Memory-Induced Sycophancy**|Ritvij Sharma et.al.|[2610.07403](http://arxiv.org/abs/2610.07403)|null|
+|**2026-10-05**|**Dynamic Budget Allocation for LLM Evaluation under Hard Resource Constraints**|Shai Feldman et.al.|[2610.07362](http://arxiv.org/abs/2610.07362)|null|
+|**2026-10-05**|**From Sandbox to Enforcement: Confidence-Qualified Threat Intelligence for Critical Infrastructure**|Nikolaos Kekatos et.al.|[2610.07310](http://arxiv.org/abs/2610.07310)|**[link](https://github.com/nikos-kekatos/cg-cti-critis2026)**|
 |**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
 |**2026-10-04**|**AgentDoxx: Agentic Re-identification of Anonymized Text with Web Search**|Jianing Wen et.al.|[2610.05586](http://arxiv.org/abs/2610.05586)|null|
 |**2026-10-04**|**AI Safety via Debate is Compromised by Cognitive Biases**|Gefei Liu et.al.|[2610.05461](http://arxiv.org/abs/2610.05461)|null|
@@ -3105,7 +3111,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3113,6 +3119,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-06**|**BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors**|Habibur Rahaman et.al.|[2610.08739](http://arxiv.org/abs/2610.08739)|null|
+|**2026-10-06**|**Ariadne's Thread of LipSync: Unraveling Forgeries via Inconsistency between Lip Motions and Head Poses**|Tianyi She et.al.|[2610.08417](http://arxiv.org/abs/2610.08417)|null|
+|**2026-10-06**|**Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving**|Heyam Bin Jahlan Areej Alhothali Abeer Alhothali et.al.|[2610.08331](http://arxiv.org/abs/2610.08331)|null|
 |**2026-10-05**|**Harmful Content Generation in Text-to-Image Models: Capabilities and Moderation Limitations**|Paschalis Giakoumoglou et.al.|[2610.06503](http://arxiv.org/abs/2610.06503)|null|
 |**2026-10-05**|**Benchmarking Jailbreak Guardrails for Embodied Agents**|Xunguang Wang et.al.|[2610.06122](http://arxiv.org/abs/2610.06122)|null|
 |**2026-10-02**|**Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally**|Arun Josephraj Arokiaraj et.al.|[2610.03445](http://arxiv.org/abs/2610.03445)|null|
@@ -4495,5 +4504,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
