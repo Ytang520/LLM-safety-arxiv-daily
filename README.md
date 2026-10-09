@@ -20,7 +20,7 @@
 |**2026-10-07**|**How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**|Zhankai Ye et.al.|[2610.11005](http://arxiv.org/abs/2610.11005)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models**|Yi Wang et.al.|[2610.10625](http://arxiv.org/abs/2610.10625)|null|
-|**2026-10-07**|**SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing**|Hui Zhang et.al.|[2610.10345](http://arxiv.org/abs/2610.10345)|**[link](https://github.com/Stardust457/SLDR)**|
+|**2026-10-07**|**SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing**|Hui Zhang et.al.|[2610.10345](http://arxiv.org/abs/2610.10345)|null|
 |**2026-10-07**|**Robust Decentralized Fairness Auditing**|Sayan Biswas et.al.|[2610.10199](http://arxiv.org/abs/2610.10199)|null|
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
 |**2026-10-07**|**Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy**|Georgios Koutidis et.al.|[2610.09906](http://arxiv.org/abs/2610.09906)|null|
