@@ -1,4 +1,4 @@
-## Updated on 2026.10.09
+## Updated on 2026.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@
 |**2026-10-07**|**How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**|Zhankai Ye et.al.|[2610.11005](http://arxiv.org/abs/2610.11005)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models**|Yi Wang et.al.|[2610.10625](http://arxiv.org/abs/2610.10625)|null|
-|**2026-10-07**|**SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing**|Hui Zhang et.al.|[2610.10345](http://arxiv.org/abs/2610.10345)|null|
+|**2026-10-07**|**SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing**|Hui Zhang et.al.|[2610.10345](http://arxiv.org/abs/2610.10345)|**[link](https://github.com/Stardust457/SLDR)**|
 |**2026-10-07**|**Robust Decentralized Fairness Auditing**|Sayan Biswas et.al.|[2610.10199](http://arxiv.org/abs/2610.10199)|null|
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
 |**2026-10-07**|**Constrained-Action AI Remediation for SIEM/XDR via a NeMo-Guardrails Proxy**|Georgios Koutidis et.al.|[2610.09906](http://arxiv.org/abs/2610.09906)|null|
@@ -3125,7 +3125,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261010>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4524,5 +4524,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261010>back to top</a>)</p>
 
