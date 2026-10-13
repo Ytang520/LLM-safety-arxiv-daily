@@ -19,7 +19,7 @@
 |**2026-10-09**|**Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents**|Lei Liu et.al.|[2610.13267](http://arxiv.org/abs/2610.13267)|null|
 |**2026-10-09**|**Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs**|Zixuan Weng et.al.|[2610.13078](http://arxiv.org/abs/2610.13078)|null|
 |**2026-10-08**|**DistressBench: Evaluating Multi-Dimensional Crisis Support in Large Language Models**|Drew Rein et.al.|[2610.12758](http://arxiv.org/abs/2610.12758)|null|
-|**2026-10-08**|**Byzantine-Resilient Federated Large Language Model via Hypergraph Message Passing**|Kai Li et.al.|[2610.12711](http://arxiv.org/abs/2610.12711)|null|
+|**2026-10-08**|**Byzantine-Resilient Federated Large Language Model via Hypergraph Message Passing**|Kai Li et.al.|[2610.12711](http://arxiv.org/abs/2610.12711)|**[link](https://github.com/GuangLun2000/HMP-GAE)**|
 |**2026-10-08**|**Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness**|Saisab Sadhu et.al.|[2610.12361](http://arxiv.org/abs/2610.12361)|null|
 |**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
 |**2026-10-07**|**How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**|Zhankai Ye et.al.|[2610.11005](http://arxiv.org/abs/2610.11005)|null|
