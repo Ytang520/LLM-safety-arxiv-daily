@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
+|**2026-10-13**|**FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation**|Xi Chen et.al.|[2610.18430](http://arxiv.org/abs/2610.18430)|null|
+|**2026-10-13**|**SpecCloak: Probing Harmful Code Generation through Engineering Specifications**|Wenbin Chen et.al.|[2610.17907](http://arxiv.org/abs/2610.17907)|null|
+|**2026-10-13**|**The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision**|Amman Yusuf et.al.|[2610.17636](http://arxiv.org/abs/2610.17636)|null|
+|**2026-10-12**|**Reinforcement Learning In Partially Verifiable Environments for Colon Cancer Treatment Planning**|Li-Ching Chen et.al.|[2610.17426](http://arxiv.org/abs/2610.17426)|null|
+|**2026-10-12**|**TRAP: Tree-Guided Reinforcement-Augmented Probing for Automated LLM Jailbreaking**|Mohammad Reza Mirbagheri et.al.|[2610.17313](http://arxiv.org/abs/2610.17313)|null|
+|**2026-10-12**|**StableJudge: A Lightweight Adversarial Defense Framework for LLM-as-a-Judge**|Anning Hu et.al.|[2610.16814](http://arxiv.org/abs/2610.16814)|null|
+|**2026-10-12**|**ATTCK-R: Knowledge-Aware Long-Horizon Jailbreaking for Protected LLMs**|Md Mushfiqur Rahman et.al.|[2610.16305](http://arxiv.org/abs/2610.16305)|null|
+|**2026-10-12**|**The Sharp Directions Are Against You: Curvature Analysis of Activation Steering**|Seyedarmin Azizi et.al.|[2610.16084](http://arxiv.org/abs/2610.16084)|null|
+|**2026-10-11**|**Unfair and Unsafe: Everyday Bias Triggers Emergent Misalignment**|Alex Martí Guiu et.al.|[2610.15961](http://arxiv.org/abs/2610.15961)|null|
 |**2026-10-09**|**SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle**|Xiting Liu et.al.|[2610.13626](http://arxiv.org/abs/2610.13626)|null|
 |**2026-10-09**|**Forgetting is Not Always Bad: A Neuro-Inspired Memory Repair Mechanism for Poisoned LLM Agents**|Lei Liu et.al.|[2610.13267](http://arxiv.org/abs/2610.13267)|null|
 |**2026-10-09**|**Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs**|Zixuan Weng et.al.|[2610.13078](http://arxiv.org/abs/2610.13078)|null|
@@ -3130,7 +3140,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3138,6 +3148,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-12**|**Detecting Chain-of-Thought Hijacking in Backdoored Multimodal Large Reasoning Models**|Zhifang Zhang et.al.|[2610.16598](http://arxiv.org/abs/2610.16598)|null|
+|**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
+|**2026-10-11**|**From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents**|Binhong Wang et.al.|[2610.15390](http://arxiv.org/abs/2610.15390)|null|
+|**2026-10-10**|**Red-Teaming of Vision-Language-Action Models via Quality Diversity Environment Generation**|Shihan Zhao et.al.|[2610.14415](http://arxiv.org/abs/2610.14415)|null|
+|**2026-10-08**|**Scenes as an Attack Surface: Uncovering Scene-Grounded Safety Failures in MLLMs**|Tongxi Wu et.al.|[2610.14094](http://arxiv.org/abs/2610.14094)|null|
 |**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|null|
 |**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|null|
 |**2026-10-08**|**False Claims, Credible Images: A Red-Teaming Benchmark for Commercial Image Generators**|Zeyu Ye et.al.|[2610.11112](http://arxiv.org/abs/2610.11112)|null|
@@ -4529,5 +4544,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
