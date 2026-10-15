@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Gap Detection: Mitigating Homogenization through Demand and Defensibility**|Xucheng Yu et.al.|[2610.20162](http://arxiv.org/abs/2610.20162)|null|
+|**2026-10-14**|**SoK: Grading Open-Text Legal Answers, from Law School Exams to Trustworthy Rubric Judges**|Sebastian Nagl et.al.|[2610.19992](http://arxiv.org/abs/2610.19992)|null|
+|**2026-10-14**|**Safe-FCL: Continual Risk Awareness and Fine-Grained Safety Aggregation for Federated Continual Learning of LLMs**|Shuaijie Ma et.al.|[2610.19968](http://arxiv.org/abs/2610.19968)|null|
+|**2026-10-14**|**Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs**|Adel Khorramrouz et.al.|[2610.19587](http://arxiv.org/abs/2610.19587)|null|
+|**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
+|**2026-10-13**|**Did the LLM Answer the Question? A Semantic Reconstruction Game for Jailbreak Evaluation**|Liam Davis et.al.|[2610.19306](http://arxiv.org/abs/2610.19306)|null|
 |**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
 |**2026-10-13**|**FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation**|Xi Chen et.al.|[2610.18430](http://arxiv.org/abs/2610.18430)|null|
 |**2026-10-13**|**SpecCloak: Probing Harmful Code Generation through Engineering Specifications**|Wenbin Chen et.al.|[2610.17907](http://arxiv.org/abs/2610.17907)|null|
@@ -3140,7 +3146,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3148,6 +3154,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-14**|**Beyond Static Cues: Unified Dynamic Detection of MLLM Backdoors via Dual-Flow Trajectory Analysis**|Yinzhen Huang et.al.|[2610.20319](http://arxiv.org/abs/2610.20319)|null|
+|**2026-10-14**|**DarKnight: Retrieval-Guided Agentic Framework for Breaking Dark Web CAPTCHA Gates**|Binghui Wu et.al.|[2610.19830](http://arxiv.org/abs/2610.19830)|null|
 |**2026-10-12**|**Detecting Chain-of-Thought Hijacking in Backdoored Multimodal Large Reasoning Models**|Zhifang Zhang et.al.|[2610.16598](http://arxiv.org/abs/2610.16598)|null|
 |**2026-10-12**|**ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs**|Anthony Etim et.al.|[2610.16164](http://arxiv.org/abs/2610.16164)|null|
 |**2026-10-11**|**From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents**|Binhong Wang et.al.|[2610.15390](http://arxiv.org/abs/2610.15390)|null|
@@ -4544,5 +4552,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
