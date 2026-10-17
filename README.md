@@ -3167,7 +3167,7 @@
 |**2026-10-11**|**From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents**|Binhong Wang et.al.|[2610.15390](http://arxiv.org/abs/2610.15390)|null|
 |**2026-10-10**|**Red-Teaming of Vision-Language-Action Models via Quality Diversity Environment Generation**|Shihan Zhao et.al.|[2610.14415](http://arxiv.org/abs/2610.14415)|null|
 |**2026-10-08**|**Scenes as an Attack Surface: Uncovering Scene-Grounded Safety Failures in MLLMs**|Tongxi Wu et.al.|[2610.14094](http://arxiv.org/abs/2610.14094)|null|
-|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|null|
+|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|**[link](https://github.com/ankit-pn/mimo-v2.6-reading-guide)**|
 |**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|null|
 |**2026-10-08**|**False Claims, Credible Images: A Red-Teaming Benchmark for Commercial Image Generators**|Zeyu Ye et.al.|[2610.11112](http://arxiv.org/abs/2610.11112)|null|
 |**2026-10-07**|**Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions**|Bojun Yang et.al.|[2610.09941](http://arxiv.org/abs/2610.09941)|null|
