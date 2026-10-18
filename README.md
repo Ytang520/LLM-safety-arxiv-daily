@@ -1,4 +1,4 @@
-## Updated on 2026.10.17
+## Updated on 2026.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -3150,7 +3150,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3167,7 +3167,7 @@
 |**2026-10-11**|**From Acoustic Sensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents**|Binhong Wang et.al.|[2610.15390](http://arxiv.org/abs/2610.15390)|null|
 |**2026-10-10**|**Red-Teaming of Vision-Language-Action Models via Quality Diversity Environment Generation**|Shihan Zhao et.al.|[2610.14415](http://arxiv.org/abs/2610.14415)|null|
 |**2026-10-08**|**Scenes as an Attack Surface: Uncovering Scene-Grounded Safety Failures in MLLMs**|Tongxi Wu et.al.|[2610.14094](http://arxiv.org/abs/2610.14094)|null|
-|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|**[link](https://github.com/ankit-pn/mimo-v2.6-reading-guide)**|
+|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|null|
 |**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|null|
 |**2026-10-08**|**False Claims, Credible Images: A Red-Teaming Benchmark for Commercial Image Generators**|Zeyu Ye et.al.|[2610.11112](http://arxiv.org/abs/2610.11112)|null|
 |**2026-10-07**|**Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions**|Bojun Yang et.al.|[2610.09941](http://arxiv.org/abs/2610.09941)|null|
@@ -4558,5 +4558,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
 
