@@ -1,4 +1,4 @@
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**S-GAP: Stealthy Graph Attack Primitives for Graph Large Language Models**|Wenda Li et.al.|[2610.23465](http://arxiv.org/abs/2610.23465)|null|
+|**2026-10-16**|**Regulating for an AI Commons: Adopting, sustaining, and defending people-first innovation trajectories**|Abhineet Nayyar et.al.|[2610.23212](http://arxiv.org/abs/2610.23212)|null|
+|**2026-10-16**|**When Approval Becomes Execution: Authorization-Grounded Workflow Attacks on Tool-Using Agents**|Chenggong Shi et.al.|[2610.23077](http://arxiv.org/abs/2610.23077)|null|
+|**2026-10-16**|**ECHO: Replacing the Compliance Proxy with Response Harmfulness in Optimization-Based Jailbreak Attack**|Yuanwei Wu et.al.|[2610.23030](http://arxiv.org/abs/2610.23030)|**[link](https://github.com/STANWYW/echo)**|
+|**2026-10-16**|**Surprise Masking: Private Data Filtering with Model Likelihoods**|Riya Tyagi et.al.|[2610.22988](http://arxiv.org/abs/2610.22988)|null|
+|**2026-10-16**|**SAFE-Mem: Secure Agentic Memory with Fine-Grained Authority and Governance-Aware Retrieval**|Haoming Li et.al.|[2610.22959](http://arxiv.org/abs/2610.22959)|null|
+|**2026-10-16**|**Multiple Turns, Short Horizons: Measuring Effective-Horizon Compression in Jailbreaks**|Zhipeng Wei et.al.|[2610.22928](http://arxiv.org/abs/2610.22928)|null|
+|**2026-10-16**|**GRAD: Graph-Structured Antibody Defense for LLM Agents**|Tianqi Song et.al.|[2610.22828](http://arxiv.org/abs/2610.22828)|null|
+|**2026-10-16**|**Prune the Leaky Neurons: Mitigating Private Data Leakage in Fine-Tuned LLMs via Joint-Embedding-Guided Pruning**|Mohamed Shaaban et.al.|[2610.22792](http://arxiv.org/abs/2610.22792)|null|
+|**2026-10-15**|**Refusal Is Not Robustness: Measuring Harmful Reachability in Autoregressive Language Models**|Parv Kapoor et.al.|[2610.22754](http://arxiv.org/abs/2610.22754)|null|
 |**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124](http://arxiv.org/abs/2610.22124)|null|
 |**2026-10-15**|**ContextLift: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment**|Florian Mai et.al.|[2610.21633](http://arxiv.org/abs/2610.21633)|null|
 |**2026-10-15**|**Poisoning the Neighborhood: A Topology-Aware Topic-Level Attack on Large-Scale HNSW-based RAG Systems**|Yufei Chen et.al.|[2610.21464](http://arxiv.org/abs/2610.21464)|null|
@@ -3150,7 +3160,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3158,6 +3168,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-16**|**ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers**|Kun Zhai et.al.|[2610.22871](http://arxiv.org/abs/2610.22871)|null|
 |**2026-10-15**|**Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization**|Sai Varun Kodathala et.al.|[2610.21063](http://arxiv.org/abs/2610.21063)|null|
 |**2026-10-14**|**Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models**|Tianshi Wang et.al.|[2610.20679](http://arxiv.org/abs/2610.20679)|null|
 |**2026-10-14**|**Beyond Static Cues: Unified Dynamic Detection of MLLM Backdoors via Dual-Flow Trajectory Analysis**|Yinzhen Huang et.al.|[2610.20319](http://arxiv.org/abs/2610.20319)|null|
@@ -4558,5 +4569,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
