@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates**|Leon Tu Nguyen et.al.|[2610.26595](http://arxiv.org/abs/2610.26595)|null|
+|**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
+|**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
+|**2026-10-19**|**SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense**|Yinxiang Wang et.al.|[2610.26013](http://arxiv.org/abs/2610.26013)|null|
+|**2026-10-19**|**RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation**|Yuchen Chen et.al.|[2610.25937](http://arxiv.org/abs/2610.25937)|null|
+|**2026-10-19**|**Budgeted Attack Scheduling for LLM Red-Teaming: The Roles of Static Priors, Semantic Guidance, and Online Feedback**|Zhicheng Fang et.al.|[2610.25897](http://arxiv.org/abs/2610.25897)|null|
+|**2026-10-19**|**When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations**|Zhiyuan Wang et.al.|[2610.25683](http://arxiv.org/abs/2610.25683)|null|
+|**2026-10-18**|**Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI**|Silvia Fernández-Sabido et.al.|[2610.25298](http://arxiv.org/abs/2610.25298)|null|
+|**2026-10-18**|**Morpheus: a fully local, defense-in-depth de-identification engine for Greek clinical text - a benchmark evaluation**|Filippos-Paschalis Rorris et.al.|[2610.25155](http://arxiv.org/abs/2610.25155)|null|
+|**2026-10-18**|**SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space**|Stavros Damianakis et.al.|[2610.24999](http://arxiv.org/abs/2610.24999)|null|
 |**2026-10-16**|**S-GAP: Stealthy Graph Attack Primitives for Graph Large Language Models**|Wenda Li et.al.|[2610.23465](http://arxiv.org/abs/2610.23465)|null|
 |**2026-10-16**|**Regulating for an AI Commons: Adopting, sustaining, and defending people-first innovation trajectories**|Abhineet Nayyar et.al.|[2610.23212](http://arxiv.org/abs/2610.23212)|null|
 |**2026-10-16**|**When Approval Becomes Execution: Authorization-Grounded Workflow Attacks on Tool-Using Agents**|Chenggong Shi et.al.|[2610.23077](http://arxiv.org/abs/2610.23077)|null|
@@ -3160,7 +3170,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3168,6 +3178,10 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-19**|**GeoEdit: Adversarial De-Evidencing for Silent Geoprivacy Protection via Image Editing**|Yu Yan et.al.|[2610.26194](http://arxiv.org/abs/2610.26194)|null|
+|**2026-10-19**|**Autonomous adaptive spectral analysis with an LLM agent for self-driving laboratories**|Yuki K. Wakabayashi et.al.|[2610.25619](http://arxiv.org/abs/2610.25619)|null|
+|**2026-10-17**|**Defending Against Dormant Poisoning Attacks Across Language and Multimodal Agents**|Wonjun Lee et.al.|[2610.24379](http://arxiv.org/abs/2610.24379)|null|
+|**2026-10-16**|**PREEMPT: Proactive Robustness Evaluation under Editing for Media Protection Techniques**|Qiuyu Tang et.al.|[2610.24205](http://arxiv.org/abs/2610.24205)|null|
 |**2026-10-16**|**ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers**|Kun Zhai et.al.|[2610.22871](http://arxiv.org/abs/2610.22871)|null|
 |**2026-10-15**|**Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization**|Sai Varun Kodathala et.al.|[2610.21063](http://arxiv.org/abs/2610.21063)|null|
 |**2026-10-14**|**Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models**|Tianshi Wang et.al.|[2610.20679](http://arxiv.org/abs/2610.20679)|null|
@@ -4569,5 +4583,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
