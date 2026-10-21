@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems**|Mohammad Kachuee et.al.|[2610.28397](http://arxiv.org/abs/2610.28397)|null|
+|**2026-10-20**|**Poisoning-Based Backdoors Are Not Cryptographic**|Masahiro Kaneko et.al.|[2610.28045](http://arxiv.org/abs/2610.28045)|null|
+|**2026-10-20**|**Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure**|Vlad Mihal et.al.|[2610.27739](http://arxiv.org/abs/2610.27739)|null|
+|**2026-10-20**|**Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models**|Niccolò Ronchetti et.al.|[2610.27490](http://arxiv.org/abs/2610.27490)|null|
 |**2026-10-19**|**Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates**|Leon Tu Nguyen et.al.|[2610.26595](http://arxiv.org/abs/2610.26595)|null|
 |**2026-10-19**|**Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks**|Rohan Menon et.al.|[2610.26589](http://arxiv.org/abs/2610.26589)|null|
 |**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
@@ -3170,7 +3174,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3178,6 +3182,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-20**|**Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging**|Md Morshedul Islam et.al.|[2610.27470](http://arxiv.org/abs/2610.27470)|null|
 |**2026-10-19**|**GeoEdit: Adversarial De-Evidencing for Silent Geoprivacy Protection via Image Editing**|Yu Yan et.al.|[2610.26194](http://arxiv.org/abs/2610.26194)|null|
 |**2026-10-19**|**Autonomous adaptive spectral analysis with an LLM agent for self-driving laboratories**|Yuki K. Wakabayashi et.al.|[2610.25619](http://arxiv.org/abs/2610.25619)|null|
 |**2026-10-17**|**Defending Against Dormant Poisoning Attacks Across Language and Multimodal Agents**|Wonjun Lee et.al.|[2610.24379](http://arxiv.org/abs/2610.24379)|null|
@@ -4583,5 +4588,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
