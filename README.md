@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
+|**2026-10-22**|**Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models**|Jinwei Gan et.al.|[2610.31331](http://arxiv.org/abs/2610.31331)|null|
+|**2026-10-22**|**GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing**|Zhilong Fang et.al.|[2610.31096](http://arxiv.org/abs/2610.31096)|null|
+|**2026-10-22**|**Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate**|Abhishek Mishra et.al.|[2610.30727](http://arxiv.org/abs/2610.30727)|**[link](https://github.com/abhishek9909/faithfulness-harm-monitors)**|
+|**2026-10-21**|**Data-Void Exploits in Web-Searching LLMs**|Michele Guerra et.al.|[2610.30365](http://arxiv.org/abs/2610.30365)|null|
 |**2026-10-21**|**WRDO: Weighted Refusal Direction Optimization in Aligned Language Models**|Grigoriy Evseev et.al.|[2610.29555](http://arxiv.org/abs/2610.29555)|null|
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
 |**2026-10-20**|**Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise**|Pedro H. Barcha Correia et.al.|[2610.28810](http://arxiv.org/abs/2610.28810)|null|
 |**2026-10-20**|**MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems**|Mohammad Kachuee et.al.|[2610.28397](http://arxiv.org/abs/2610.28397)|null|
-|**2026-10-20**|**Poisoning-Based Backdoors Are Not Cryptographic**|Masahiro Kaneko et.al.|[2610.28045](http://arxiv.org/abs/2610.28045)|null|
+|**2026-10-22**|**Poisoning-Based Backdoors Are Not Cryptographic**|Masahiro Kaneko et.al.|[2610.28045](http://arxiv.org/abs/2610.28045)|null|
 |**2026-10-20**|**Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure**|Vlad Mihal et.al.|[2610.27739](http://arxiv.org/abs/2610.27739)|null|
 |**2026-10-20**|**Orthogonal Boundary Unlearning for Dual-Use Concepts in Large Language Models**|Niccolò Ronchetti et.al.|[2610.27490](http://arxiv.org/abs/2610.27490)|null|
 |**2026-10-19**|**Concerns in Benchmarking Jailbreaks: An Empirical Study of Attack Success Rates**|Leon Tu Nguyen et.al.|[2610.26595](http://arxiv.org/abs/2610.26595)|null|
@@ -3177,7 +3182,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3185,6 +3190,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-21**|**Not Where You Think: Protecting Location Privacy Against Reasoning-Based Geolocation**|Shanghao Shi et.al.|[2610.30439](http://arxiv.org/abs/2610.30439)|null|
+|**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
 |**2026-10-20**|**LEAN: Loss-Engineered Modulation of the Model Weight-Sensitivity Distribution for Efficient, Error-Tolerant Neural Networks**|Habibur Rahaman et.al.|[2610.28872](http://arxiv.org/abs/2610.28872)|null|
 |**2026-10-20**|**Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging**|Md Morshedul Islam et.al.|[2610.27470](http://arxiv.org/abs/2610.27470)|null|
 |**2026-10-19**|**GeoEdit: Adversarial De-Evidencing for Silent Geoprivacy Protection via Image Editing**|Yu Yan et.al.|[2610.26194](http://arxiv.org/abs/2610.26194)|null|
@@ -4592,5 +4599,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
