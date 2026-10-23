@@ -18,7 +18,7 @@
 |**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
 |**2026-10-22**|**Harmful Responses Are Jailbreak Templates: Transferring Autoregressive Jailbreaks to Diffusion Language Models**|Jinwei Gan et.al.|[2610.31331](http://arxiv.org/abs/2610.31331)|null|
 |**2026-10-22**|**GeoAgent: Contract-Constrained LLM Agents for Seismic Data Processing**|Zhilong Fang et.al.|[2610.31096](http://arxiv.org/abs/2610.31096)|null|
-|**2026-10-22**|**Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate**|Abhishek Mishra et.al.|[2610.30727](http://arxiv.org/abs/2610.30727)|**[link](https://github.com/abhishek9909/faithfulness-harm-monitors)**|
+|**2026-10-22**|**Faithful Latent Harm Monitors Work No Better Than the Models Own Behaviour at a Matched False Alarm Rate**|Abhishek Mishra et.al.|[2610.30727](http://arxiv.org/abs/2610.30727)|null|
 |**2026-10-21**|**Data-Void Exploits in Web-Searching LLMs**|Michele Guerra et.al.|[2610.30365](http://arxiv.org/abs/2610.30365)|null|
 |**2026-10-21**|**WRDO: Weighted Refusal Direction Optimization in Aligned Language Models**|Grigoriy Evseev et.al.|[2610.29555](http://arxiv.org/abs/2610.29555)|null|
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](http://arxiv.org/abs/2610.28966)|null|
