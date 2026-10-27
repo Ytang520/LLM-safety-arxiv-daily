@@ -1,4 +1,4 @@
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models**|Amine Lbath et.al.|[2610.35829](http://arxiv.org/abs/2610.35829)|null|
+|**2026-10-26**|**GuardRAG: A Post-Retrieval Defense against Poisoning Attacks in Retrieval-Augmented Generation**|Linghui Jiao et.al.|[2610.35071](http://arxiv.org/abs/2610.35071)|null|
+|**2026-10-26**|**Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain**|Yu Yan et.al.|[2610.35043](http://arxiv.org/abs/2610.35043)|null|
+|**2026-10-26**|**The Target Agent Is Its Own Best Critic but a Poor Proposer: Self-Improved Red Teaming**|Mintong Kang et.al.|[2610.34965](http://arxiv.org/abs/2610.34965)|null|
+|**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
+|**2026-10-25**|**Factual Yet One-Sided: Stance Poisoning and Evidence Balancing in Retrieval-Augmented Generation**|Puyuan Yang et.al.|[2610.34294](http://arxiv.org/abs/2610.34294)|null|
+|**2026-10-25**|**NameTrap: Steering AI Coding Agents Toward Security Vulnerabilities via Variable Names**|Chieh-Yuan Chang et.al.|[2610.34253](http://arxiv.org/abs/2610.34253)|null|
+|**2026-10-25**|**Identically Trained Language Models Break on Different Jailbreaks**|Chi-Wei Chang et.al.|[2610.34074](http://arxiv.org/abs/2610.34074)|null|
+|**2026-10-25**|**Beyond Belief: Evaluating and Mitigating LLM Susceptibility to Misinformation**|Emran Kanaan et.al.|[2610.33962](http://arxiv.org/abs/2610.33962)|null|
+|**2026-10-24**|**Task Format as a Factor in Adaptation: A Controlled Comparison of LoRA and Full Fine-Tuning for Prompt-Safety Classification**|John Alderete et.al.|[2610.33813](http://arxiv.org/abs/2610.33813)|null|
 |**2026-10-22**|**TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs**|Mengying Zhang et.al.|[2610.31995](http://arxiv.org/abs/2610.31995)|**[link](https://github.com/mengyingz969/TRACE)**|
 |**2026-10-22**|**$M^3$ : A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process**|Yuqing Huang et.al.|[2610.31937](http://arxiv.org/abs/2610.31937)|null|
 |**2026-10-22**|**Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure**|Pellegrino Casoria et.al.|[2610.31573](http://arxiv.org/abs/2610.31573)|null|
@@ -3184,7 +3194,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3192,6 +3202,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-25**|**Conviction Without Evidence: Verdict Stability Is Independent of Visual Grounding in Medical Vision--Language Models**|Federico Felizzi et.al.|[2610.34520](http://arxiv.org/abs/2610.34520)|null|
+|**2026-10-25**|**Accuracy Is Not Enough: An Efficiency- and Statistics-Aware Benchmark of ResNet50 and Vision Transformer for Explainable Multi-Class Gastrointestinal Diseases Classification**|Akwasi Asare et.al.|[2610.33965](http://arxiv.org/abs/2610.33965)|null|
 |**2026-10-23**|**Label-Budgeted Attribute Inference from Protected Features in Edge-Cloud Split Multimodal LLMs**|Junguang Yao et.al.|[2610.32079](http://arxiv.org/abs/2610.32079)|null|
 |**2026-10-22**|**Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability**|Junhao Wang et.al.|[2610.31713](http://arxiv.org/abs/2610.31713)|null|
 |**2026-10-21**|**Not Where You Think: Protecting Location Privacy Against Reasoning-Based Geolocation**|Shanghao Shi et.al.|[2610.30439](http://arxiv.org/abs/2610.30439)|null|
@@ -4603,5 +4615,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
