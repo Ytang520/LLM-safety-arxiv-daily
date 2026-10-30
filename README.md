@@ -22,7 +22,7 @@
 |**2026-10-28**|**TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics**|Evangelos Apostolakis et.al.|[2610.38917](http://arxiv.org/abs/2610.38917)|null|
 |**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|**[link](https://github.com/SaFo-Lab/FlipJev)**|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
-|**2026-10-28**|**Adversarial Self-Distillation**|Mohammad Sadegh Akhondzadeh et.al.|[2610.38732](http://arxiv.org/abs/2610.38732)|**[link](https://github.com/BigAandSmallq/SAD)**|
+|**2026-10-28**|**Adversarial Self-Distillation**|Mohammad Sadegh Akhondzadeh et.al.|[2610.38732](http://arxiv.org/abs/2610.38732)|null|
 |**2026-10-28**|**Value Probes: Learned Value Functions for Beam-Search Red Teaming**|Jonathan F. Jao et.al.|[2610.38526](http://arxiv.org/abs/2610.38526)|null|
 |**2026-10-28**|**WebMaze: Defending Against LLM-Powered Web Scanners with Functionality-Coupled Deception**|Pengfei Zeng et.al.|[2610.38524](http://arxiv.org/abs/2610.38524)|null|
 |**2026-10-27**|**Probabilistic Sequential Safety for Stochastic Dynamical Systems**|Abhijit Mazumdar et.al.|[2610.37311](http://arxiv.org/abs/2610.37311)|null|
