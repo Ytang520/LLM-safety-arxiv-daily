@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
+|**2026-10-29**|**Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin**|Paula Chikaodinaka Anyanwu et.al.|[2610.39590](http://arxiv.org/abs/2610.39590)|null|
+|**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|**[link](https://github.com/Mdniloykhan/jailbreak-eval-7llms)**|
+|**2026-10-29**|**AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers**|Zhiyi Liu et.al.|[2610.39234](http://arxiv.org/abs/2610.39234)|null|
+|**2026-10-28**|**TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics**|Evangelos Apostolakis et.al.|[2610.38917](http://arxiv.org/abs/2610.38917)|null|
+|**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|**[link](https://github.com/SaFo-Lab/FlipJev)**|
+|**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
+|**2026-10-28**|**Adversarial Self-Distillation**|Mohammad Sadegh Akhondzadeh et.al.|[2610.38732](http://arxiv.org/abs/2610.38732)|**[link](https://github.com/BigAandSmallq/SAD)**|
+|**2026-10-28**|**Value Probes: Learned Value Functions for Beam-Search Red Teaming**|Jonathan F. Jao et.al.|[2610.38526](http://arxiv.org/abs/2610.38526)|null|
+|**2026-10-28**|**WebMaze: Defending Against LLM-Powered Web Scanners with Functionality-Coupled Deception**|Pengfei Zeng et.al.|[2610.38524](http://arxiv.org/abs/2610.38524)|null|
 |**2026-10-27**|**Probabilistic Sequential Safety for Stochastic Dynamical Systems**|Abhijit Mazumdar et.al.|[2610.37311](http://arxiv.org/abs/2610.37311)|null|
 |**2026-10-27**|**PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses**|Krishna Kanth Nakka et.al.|[2610.36711](http://arxiv.org/abs/2610.36711)|null|
 |**2026-10-27**|**What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks**|Zihan Chen et.al.|[2610.36422](http://arxiv.org/abs/2610.36422)|null|
@@ -3198,7 +3208,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3206,6 +3216,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
+|**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
 |**2026-10-27**|**Autonomous fixed-wing interception using reinforcement learning**|Daan van Hamersveld et.al.|[2610.37470](http://arxiv.org/abs/2610.37470)|null|
 |**2026-10-27**|**RePAIR: Inverting Backdoor Attacks in Semantic Segmentation**|Arnold Brosch et.al.|[2610.37015](http://arxiv.org/abs/2610.37015)|null|
 |**2026-10-25**|**Conviction Without Evidence: Verdict Stability Is Independent of Visual Grounding in Medical Vision--Language Models**|Federico Felizzi et.al.|[2610.34520](http://arxiv.org/abs/2610.34520)|null|
@@ -4621,5 +4633,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
