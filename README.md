@@ -20,7 +20,7 @@
 |**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|**[link](https://github.com/Mdniloykhan/jailbreak-eval-7llms)**|
 |**2026-10-29**|**AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers**|Zhiyi Liu et.al.|[2610.39234](http://arxiv.org/abs/2610.39234)|null|
 |**2026-10-28**|**TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics**|Evangelos Apostolakis et.al.|[2610.38917](http://arxiv.org/abs/2610.38917)|null|
-|**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|**[link](https://github.com/SaFo-Lab/FlipJev)**|
+|**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
 |**2026-10-28**|**Discovering Jailbreaks via Curriculum of Models**|Michał Burzyński et.al.|[2610.38833](http://arxiv.org/abs/2610.38833)|null|
 |**2026-10-28**|**Adversarial Self-Distillation**|Mohammad Sadegh Akhondzadeh et.al.|[2610.38732](http://arxiv.org/abs/2610.38732)|null|
 |**2026-10-28**|**Value Probes: Learned Value Functions for Beam-Search Red Teaming**|Jonathan F. Jao et.al.|[2610.38526](http://arxiv.org/abs/2610.38526)|null|
