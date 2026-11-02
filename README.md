@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice**|Artin Yousefi et.al.|[2610.42039](http://arxiv.org/abs/2610.42039)|null|
+|**2026-10-29**|**Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents**|Runze Zhao et.al.|[2610.41056](http://arxiv.org/abs/2610.41056)|null|
+|**2026-10-29**|**Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense**|Khawaja Abaid Ullah et.al.|[2610.41044](http://arxiv.org/abs/2610.41044)|null|
+|**2026-10-29**|**CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**|Jialin Song et.al.|[2610.40926](http://arxiv.org/abs/2610.40926)|null|
+|**2026-10-29**|**ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**|Ayana Hussain et.al.|[2610.40890](http://arxiv.org/abs/2610.40890)|null|
 |**2026-10-29**|**ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender**|Qiyao Ma et.al.|[2610.40627](http://arxiv.org/abs/2610.40627)|null|
 |**2026-10-29**|**Red-Teaming Large Language Models in Low-Resource African Languages: A Case Study of Yoruba and Nigerian Pidgin**|Paula Chikaodinaka Anyanwu et.al.|[2610.39590](http://arxiv.org/abs/2610.39590)|null|
-|**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|**[link](https://github.com/Mdniloykhan/jailbreak-eval-7llms)**|
+|**2026-10-29**|**Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models**|Md. Robiul Islam Niloy et.al.|[2610.39509](http://arxiv.org/abs/2610.39509)|null|
 |**2026-10-29**|**AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers**|Zhiyi Liu et.al.|[2610.39234](http://arxiv.org/abs/2610.39234)|null|
 |**2026-10-28**|**TrussTutor-Bench: Benchmarking large language models on solution accuracy, sycophancy, and error detection in statics**|Evangelos Apostolakis et.al.|[2610.38917](http://arxiv.org/abs/2610.38917)|null|
 |**2026-10-28**|**FlipJev: Fast Black-Box Red Teaming Finds Universal Adversarial Suffixes for Typed Decision Models**|Xiaogeng Liu et.al.|[2610.38895](http://arxiv.org/abs/2610.38895)|null|
@@ -3208,7 +3213,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4633,5 +4638,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
