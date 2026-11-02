@@ -161,8 +161,8 @@
 |**2026-09-29**|**Correct, Don't Delete: Mitigating Emergent Misalignment with Corrective Supervision**|Jacob Epifano et.al.|[2609.37624](http://arxiv.org/abs/2609.37624)|null|
 |**2026-09-29**|**Backdoor Mitigation in Decentralized LLM Fine-Tuning**|Sayan Biswas et.al.|[2609.37367](http://arxiv.org/abs/2609.37367)|null|
 |**2026-09-30**|**ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs**|Xianhui Zhang et.al.|[2609.37054](http://arxiv.org/abs/2609.37054)|null|
-|**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|null|
-|**2026-09-29**|**Safer Content or Firmer Refusals? A Hybrid Perturbation Defense for Alignment under Harmful Fine-tuning**|Muhammad Zeeshan Akram et.al.|[2609.36862](http://arxiv.org/abs/2609.36862)|null|
+|**2026-09-29**|**Controlled Decoding Attacks on Black-Box LLMs**|Jesson Wang et.al.|[2609.36956](http://arxiv.org/abs/2609.36956)|**[link](https://github.com/JessonWong/controlled-decoding)**|
+|**2026-09-29**|**Safer Content or Firmer Refusals? A Hybrid Perturbation Defense for Alignment under Harmful Fine-tuning**|Muhammad Zeeshan Akram et.al.|[2609.36862](http://arxiv.org/abs/2609.36862)|**[link](https://github.com/elascano/ESPE2609-OOPSW36862)**|
 |**2026-09-29**|**Does the Unsafe Gradient Survive a Conversation? On the Fragility of Gradient-Based Jailbreak Detection in Multi-Turn Dialogue**|Omar Sheta et.al.|[2609.36849](http://arxiv.org/abs/2609.36849)|null|
 |**2026-09-29**|**Self-Evolving Defense: Continual Security Policy Learning for LLM Agents**|Minh Nhat Le et.al.|[2609.36603](http://arxiv.org/abs/2609.36603)|null|
 |**2026-09-29**|**FinRT: Distilling Adaptive Red-Teaming Strategies into Reusable Adversarial Generators in Consumer Finance**|Rikhiya Ghosh et.al.|[2609.36474](http://arxiv.org/abs/2609.36474)|null|
@@ -2352,7 +2352,7 @@
 |**2025-02-09**|**Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models**|Weidi Luo et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/IDEA-XL/G4D)**|
 |**2024-10-23**|**BadFair: Backdoored Fairness Attacks with Group-conditioned Triggers**|Jiaqi Xue et.al.|[2410.17492](http://arxiv.org/abs/2410.17492)|null|
 |**2025-05-31**|**AdvAgent: Controllable Blackbox Red-teaming on Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
-|**2024-10-22**|**Remote Timing Attacks on Efficient Language Model Inference**|Nicholas Carlini et.al.|[2410.17175](http://arxiv.org/abs/2410.17175)|null|
+|**2024-10-22**|**Remote Timing Attacks on Efficient Language Model Inference**|Nicholas Carlini et.al.|[2410.17175](http://arxiv.org/abs/2410.17175)|**[link](https://github.com/nhlich03/LLMS-Topic13-RTA)**|
 |**2025-09-22**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
 |**2024-11-16**|**Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis**|Jonathan Brokman et.al.|[2410.16527](http://arxiv.org/abs/2410.16527)|null|
 |**2025-07-08**|**Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**|Rui Pu et.al.|[2410.16327](http://arxiv.org/abs/2410.16327)|null|
