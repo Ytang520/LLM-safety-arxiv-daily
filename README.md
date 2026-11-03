@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably**|Wei-Lin Chen et.al.|[2611.03575](http://arxiv.org/abs/2611.03575)|null|
+|**2026-11-02**|**MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study**|Farooq Shaikh et.al.|[2611.03555](http://arxiv.org/abs/2611.03555)|null|
+|**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
+|**2026-11-02**|**StateFence: Task-State Protection Against Evidence-Chain Contamination in Blue-Team LLM Agents**|Haowen Dai et.al.|[2611.02605](http://arxiv.org/abs/2611.02605)|null|
+|**2026-11-02**|**Cumulative and Audited Guardrail Tool Evolution for LLM Agent Safety**|Xiao Yang et.al.|[2611.02516](http://arxiv.org/abs/2611.02516)|null|
+|**2026-11-02**|**Detect, Repair and Audit: A Hierarchical Multi-Agent Defense Against Adversarial Attacks in Energy Forecasting**|Zewei Shi et.al.|[2611.02310](http://arxiv.org/abs/2611.02310)|null|
+|**2026-11-01**|**Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security**|Shiyu Kan et.al.|[2611.01976](http://arxiv.org/abs/2611.01976)|null|
+|**2026-10-31**|**J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration**|Running Yang et.al.|[2611.01342](http://arxiv.org/abs/2611.01342)|null|
+|**2026-10-31**|**The Blind Spots of Detection: Adversarial Perturbation Attacks against Watchdogs in Distributed LLM Inference**|Siu Wai Shi et.al.|[2611.01097](http://arxiv.org/abs/2611.01097)|null|
+|**2026-10-31**|**Illusion: Safeguarding Topology Confidentiality in LLM Multi-Agent Systems via Behavior-Preserving Obfuscation**|Yiu-Fai Cheung et.al.|[2611.00923](http://arxiv.org/abs/2611.00923)|null|
 |**2026-10-30**|**Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice**|Artin Yousefi et.al.|[2610.42039](http://arxiv.org/abs/2610.42039)|null|
 |**2026-10-29**|**Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents**|Runze Zhao et.al.|[2610.41056](http://arxiv.org/abs/2610.41056)|null|
 |**2026-10-29**|**Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense**|Khawaja Abaid Ullah et.al.|[2610.41044](http://arxiv.org/abs/2610.41044)|null|
@@ -3221,9 +3231,11 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-02**|**MS-DOTT: A Multi-Modal Dataset for Off-Road Traversability Estimation**|Shivani Subramanyan et.al.|[2611.02992](http://arxiv.org/abs/2611.02992)|null|
+|**2026-11-02**|**PGuard: A Native, Streaming, and Plug-in Guardrail for Multimodal Large Language Models**|Junyu Lin et.al.|[2611.02791](http://arxiv.org/abs/2611.02791)|null|
 |**2026-10-28**|**Rethinking LLM Jailbreak Evaluation: Continuous Risk Landscapes Beyond Binary Outcomes**|Yukai Zhou et.al.|[2610.38595](http://arxiv.org/abs/2610.38595)|null|
 |**2026-10-28**|**Jailbreak Connectivity: Towards Diverse, Transferable, and Universal Multimodal Large Language Model Jailbreak**|Xu Zhang et.al.|[2610.38091](http://arxiv.org/abs/2610.38091)|null|
-|**2026-10-27**|**Autonomous fixed-wing interception using reinforcement learning**|Daan van Hamersveld et.al.|[2610.37470](http://arxiv.org/abs/2610.37470)|null|
+|**2026-11-01**|**Autonomous fixed-wing interception using reinforcement learning**|Daan van Hamersveld et.al.|[2610.37470](http://arxiv.org/abs/2610.37470)|null|
 |**2026-10-27**|**RePAIR: Inverting Backdoor Attacks in Semantic Segmentation**|Arnold Brosch et.al.|[2610.37015](http://arxiv.org/abs/2610.37015)|null|
 |**2026-10-25**|**Conviction Without Evidence: Verdict Stability Is Independent of Visual Grounding in Medical Vision--Language Models**|Federico Felizzi et.al.|[2610.34520](http://arxiv.org/abs/2610.34520)|null|
 |**2026-10-25**|**Accuracy Is Not Enough: An Efficiency- and Statistics-Aware Benchmark of ResNet50 and Vision Transformer for Explainable Multi-Class Gastrointestinal Diseases Classification**|Akwasi Asare et.al.|[2610.33965](http://arxiv.org/abs/2610.33965)|null|
