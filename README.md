@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense**|Junsheng Fu et.al.|[2611.12807](http://arxiv.org/abs/2611.12807)|null|
+|**2026-11-09**|**SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations**|Melih Coşğun et.al.|[2611.12241](http://arxiv.org/abs/2611.12241)|null|
+|**2026-11-08**|**RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks**|Hongjie Zhang et.al.|[2611.11399](http://arxiv.org/abs/2611.11399)|null|
+|**2026-11-08**|**Tracing MCP Security Vulnerabilities: Constructing and Analyzing an MCP Security Vulnerability Dataset**|Xu He et.al.|[2611.11104](http://arxiv.org/abs/2611.11104)|null|
+|**2026-11-08**|**Beyond AUROC: Deployment-Aware Evaluation of Model-Internal Jailbreak Detectors**|Mohammad Tehabsim et.al.|[2611.11067](http://arxiv.org/abs/2611.11067)|null|
+|**2026-11-07**|**Agents of Chaos: A Systematization of Knowledge (SoK) on Malicious Attacks on Agentic AI Systems**|Thanh M. Truong-Le et.al.|[2611.10843](http://arxiv.org/abs/2611.10843)|null|
+|**2026-11-07**|**Mirage: Provable Defense Against LLM KV Cache Timing Side Channels with Topology-Aware Isolation**|Xiaobei Yan et.al.|[2611.10756](http://arxiv.org/abs/2611.10756)|null|
+|**2026-11-06**|**Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs**|Adam Hazimeh et.al.|[2611.10258](http://arxiv.org/abs/2611.10258)|null|
+|**2026-11-06**|**META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM**|Mahabubur Rahman Miraj et.al.|[2611.10089](http://arxiv.org/abs/2611.10089)|null|
 |**2026-11-06**|**GuardrailAgent: An Agentic Framework for Jailbreak Defense**|Tianze Chang et.al.|[2611.09734](http://arxiv.org/abs/2611.09734)|null|
 |**2026-11-05**|**Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate**|Liting Huang et.al.|[2611.08756](http://arxiv.org/abs/2611.08756)|null|
 |**2026-11-05**|**AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling**|Doniyorkhon Obidov et.al.|[2611.08752](http://arxiv.org/abs/2611.08752)|null|
@@ -3246,6 +3255,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-07**|**PrivMark: Pixel-Space Steering against Privacy Leakage in Vision-Language Models**|Ruofan Xing et.al.|[2611.10528](http://arxiv.org/abs/2611.10528)|null|
 |**2026-11-04**|**Compositional Unalignment: Auditing Safety in Large Vision-Language Models**|Hong kyu Lee et.al.|[2611.07216](http://arxiv.org/abs/2611.07216)|null|
 |**2026-11-04**|**Timing is Everything: Inferring Temporal Membership in Continually Updated Models**|Jie Fu et.al.|[2611.05781](http://arxiv.org/abs/2611.05781)|null|
 |**2026-11-04**|**TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport**|Chuancheng Shi et.al.|[2611.04878](http://arxiv.org/abs/2611.04878)|null|
