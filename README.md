@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**From Attack Surface to Defense Architecture: Compositional Security for Agentic Coding Harnesses**|Simon Hegelich et.al.|[2611.13960](http://arxiv.org/abs/2611.13960)|null|
+|**2026-11-10**|**BypassGym: A Benchmark for Evaluating AI Agents' Endpoint Defense Evasion Capabilities**|Weifeng Yuan et.al.|[2611.13684](http://arxiv.org/abs/2611.13684)|null|
+|**2026-11-10**|**POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling**|Haoyi Wu et.al.|[2611.13578](http://arxiv.org/abs/2611.13578)|null|
+|**2026-11-10**|**TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation**|Yunkai Dang et.al.|[2611.13577](http://arxiv.org/abs/2611.13577)|null|
+|**2026-11-09**|**Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts**|Bogdan Mamaev et.al.|[2611.13339](http://arxiv.org/abs/2611.13339)|**[link](https://github.com/octner/nips-tae-definition-sensitivity)**|
+|**2026-11-09**|**Code-Grounded Agentic Explanations for Static Analysis Vulnerability Findings**|Oshando Johnson et.al.|[2611.13041](http://arxiv.org/abs/2611.13041)|null|
 |**2026-11-09**|**Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense**|Junsheng Fu et.al.|[2611.12807](http://arxiv.org/abs/2611.12807)|null|
 |**2026-11-09**|**SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations**|Melih Coşğun et.al.|[2611.12241](http://arxiv.org/abs/2611.12241)|null|
-|**2026-11-08**|**RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks**|Hongjie Zhang et.al.|[2611.11399](http://arxiv.org/abs/2611.11399)|null|
+|**2026-11-10**|**RoCoMark: Robust Code Watermarking Against LLM-Based Functionality-Preserving Rewriting Attacks**|Hongjie Zhang et.al.|[2611.11399](http://arxiv.org/abs/2611.11399)|null|
 |**2026-11-08**|**Tracing MCP Security Vulnerabilities: Constructing and Analyzing an MCP Security Vulnerability Dataset**|Xu He et.al.|[2611.11104](http://arxiv.org/abs/2611.11104)|null|
 |**2026-11-08**|**Beyond AUROC: Deployment-Aware Evaluation of Model-Internal Jailbreak Detectors**|Mohammad Tehabsim et.al.|[2611.11067](http://arxiv.org/abs/2611.11067)|null|
 |**2026-11-07**|**Agents of Chaos: A Systematization of Knowledge (SoK) on Malicious Attacks on Agentic AI Systems**|Thanh M. Truong-Le et.al.|[2611.10843](http://arxiv.org/abs/2611.10843)|null|
@@ -3247,7 +3253,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4680,5 +4686,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
