@@ -19,7 +19,7 @@
 |**2026-11-10**|**BypassGym: A Benchmark for Evaluating AI Agents' Endpoint Defense Evasion Capabilities**|Weifeng Yuan et.al.|[2611.13684](http://arxiv.org/abs/2611.13684)|null|
 |**2026-11-10**|**POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling**|Haoyi Wu et.al.|[2611.13578](http://arxiv.org/abs/2611.13578)|null|
 |**2026-11-10**|**TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation**|Yunkai Dang et.al.|[2611.13577](http://arxiv.org/abs/2611.13577)|null|
-|**2026-11-09**|**Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts**|Bogdan Mamaev et.al.|[2611.13339](http://arxiv.org/abs/2611.13339)|null|
+|**2026-11-09**|**Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts**|Bogdan Mamaev et.al.|[2611.13339](http://arxiv.org/abs/2611.13339)|**[link](https://github.com/octner/nips-tae-definition-sensitivity)**|
 |**2026-11-09**|**Code-Grounded Agentic Explanations for Static Analysis Vulnerability Findings**|Oshando Johnson et.al.|[2611.13041](http://arxiv.org/abs/2611.13041)|null|
 |**2026-11-09**|**Suppression Is Not Erasure: Mechanistic Analysis and Reactivation Boundaries of Subspace Projection for LoRA Backdoor Defense**|Junsheng Fu et.al.|[2611.12807](http://arxiv.org/abs/2611.12807)|null|
 |**2026-11-09**|**SNAPRAG: Cost-Efficient Knowledge Extraction Attack on RAG Systems via Adversarial Perturbations**|Melih Coşğun et.al.|[2611.12241](http://arxiv.org/abs/2611.12241)|null|
