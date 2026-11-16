@@ -1,4 +1,4 @@
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**LLMs are Vulnerable to Malicious Requests with Indistinguishable Intent**|Wenzhuo Xu et.al.|[2611.17818](http://arxiv.org/abs/2611.17818)|null|
+|**2026-11-13**|**Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption**|Anh Tu Ngo et.al.|[2611.17772](http://arxiv.org/abs/2611.17772)|null|
+|**2026-11-12**|**Creating Steering Vectors via Input Optimisation**|Batuhan Akar et.al.|[2611.17481](http://arxiv.org/abs/2611.17481)|null|
+|**2026-11-12**|**Alignment with Reflect-Reasoning: Learning How To Follow Principles**|Henry Bell et.al.|[2611.17398](http://arxiv.org/abs/2611.17398)|null|
 |**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
 |**2026-11-12**|**Bait: Mitigating Harmful Agentic Reinforcement Learning via Probing Reward Function**|Tiansheng Huang et.al.|[2611.16369](http://arxiv.org/abs/2611.16369)|null|
 |**2026-11-11**|**Protecting Sensitive Knowledge Under LLM Unlearning: The Proxy Threat and a Superposition-Aware Defense**|Jiayang Li et.al.|[2611.15013](http://arxiv.org/abs/2611.15013)|null|
@@ -3256,7 +3260,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -4690,5 +4694,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
 
