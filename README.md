@@ -3155,7 +3155,7 @@
 |**2022-02-14**|**White-Box Attacks on Hate-speech BERT Classifiers in German with Explicit and Implicit Character Level Defense**|Shahrukh Khan et.al.|[2202.05778](http://arxiv.org/abs/2202.05778)|null|
 |**2022-02-11**|**Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models**|Abigail Swenor et.al.|[2202.05758](http://arxiv.org/abs/2202.05758)|null|
 |**2022-02-11**|**Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense**|Guangyu Shen et.al.|[2202.05749](http://arxiv.org/abs/2202.05749)|null|
-|**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286](http://arxiv.org/abs/2202.03286)|null|
+|**2022-02-07**|**Red Teaming Language Models with Language Models**|Ethan Perez et.al.|[2202.03286](http://arxiv.org/abs/2202.03286)|**[link](https://github.com/hubertyoo/GPTFuzz)**|
 |**2022-02-16**|**Rethink the Evaluation for Attack Strength of Backdoor Attacks in Natural Language Processing**|Lingfeng Shen et.al.|[2201.02993](http://arxiv.org/abs/2201.02993)|null|
 |**2021-12-22**|**How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?**|Xinhsuai Dong et.al.|[2112.11668](http://arxiv.org/abs/2112.11668)|null|
 |**2021-12-06**|**JUSTICE: A Benchmark Dataset for Supreme Court's Judgment Prediction**|Mohammad Alali et.al.|[2112.03414](http://arxiv.org/abs/2112.03414)|null|
@@ -4023,7 +4023,7 @@
 |**2025-03-21**|**TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**|Xiangyu Yin et.al.|[2503.10872](http://arxiv.org/abs/2503.10872)|null|
 |**2025-03-13**|**Thinking Machines: A Survey of LLM based Reasoning Strategies**|Dibyanayan Bandyopadhyay et.al.|[2503.10814](http://arxiv.org/abs/2503.10814)|null|
 |**2025-03-21**|**CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models**|Xiangyu Yin et.al.|[2503.10661](http://arxiv.org/abs/2503.10661)|null|
-|**2025-03-13**|**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**|Bhavik Chandna et.al.|[2503.09964](http://arxiv.org/abs/2503.09964)|null|
+|**2025-03-13**|**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**|Bhavik Chandna et.al.|[2503.09964](http://arxiv.org/abs/2503.09964)|**[link](https://github.com/TheProParadox/ExtremeAIGC)**|
 |**2025-03-12**|**In-Context Defense in Computer Agents: An Empirical Study**|Pei Yang et.al.|[2503.09241](http://arxiv.org/abs/2503.09241)|null|
 |**2025-03-10**|**Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs**|Amira Guesmi et.al.|[2503.07058](http://arxiv.org/abs/2503.07058)|null|
 |**2025-08-28**|**Probabilistic Modeling of Jailbreak on Multimodal LLMs: From Quantification to Application**|Wenzhuo Xu et.al.|[2503.06989](http://arxiv.org/abs/2503.06989)|null|
