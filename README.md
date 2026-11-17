@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions**|Quoc Nguyen et.al.|[2611.20472](http://arxiv.org/abs/2611.20472)|null|
+|**2026-11-14**|**VAST: Compiling Grounded Vulnerability Scenarios into Verifiable, Multi-Step Environments for Evaluating LLM Red-Team Agents**|Zhen Wan et.al.|[2611.19465](http://arxiv.org/abs/2611.19465)|null|
+|**2026-11-14**|**Hardening Agentic Web Populations Through Multi-Criterion Competitive Co-Evolution: Lessons from Wargame Strategy Optimization**|Shashank Raj et.al.|[2611.19319](http://arxiv.org/abs/2611.19319)|null|
+|**2026-11-14**|**Optional Traps: An Empirical Study of LLM Agents Against Credential Deception and Alert-Driven Revocation**|Raditio Ghifiardi et.al.|[2611.19295](http://arxiv.org/abs/2611.19295)|null|
 |**2026-11-13**|**LLMs are Vulnerable to Malicious Requests with Indistinguishable Intent**|Wenzhuo Xu et.al.|[2611.17818](http://arxiv.org/abs/2611.17818)|null|
 |**2026-11-13**|**Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption**|Anh Tu Ngo et.al.|[2611.17772](http://arxiv.org/abs/2611.17772)|null|
 |**2026-11-12**|**Creating Steering Vectors via Input Optimisation**|Batuhan Akar et.al.|[2611.17481](http://arxiv.org/abs/2611.17481)|null|
@@ -3268,6 +3272,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-16**|**SmoothShift: Disrupting Visual Adversarial Attacks on LVLMs at Test Time**|Xiaoqing Chen et.al.|[2611.20537](http://arxiv.org/abs/2611.20537)|null|
+|**2026-11-15**|**AlphaTruck: A Platform for High-Speed Off-Road Autonomy on Unstructured Terrain**|Rwik Rana et.al.|[2611.19730](http://arxiv.org/abs/2611.19730)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-07**|**PrivMark: Pixel-Space Steering against Privacy Leakage in Vision-Language Models**|Ruofan Xing et.al.|[2611.10528](http://arxiv.org/abs/2611.10528)|null|
 |**2026-11-04**|**Compositional Unalignment: Auditing Safety in Large Vision-Language Models**|Hong kyu Lee et.al.|[2611.07216](http://arxiv.org/abs/2611.07216)|null|
