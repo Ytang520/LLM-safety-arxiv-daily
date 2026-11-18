@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Adaptive LLM-Driven Honeypots vs. LLM-Driven Attackers: Does Narrative Coherence Improve Deception?**|Pedro Beltrán-López et.al.|[2611.22589](http://arxiv.org/abs/2611.22589)|null|
+|**2026-11-17**|**Evolution Under Fire: Evolving Agent Safety Harnesses with Adaptive Injection Stressors**|Yujun Wang et.al.|[2611.22583](http://arxiv.org/abs/2611.22583)|null|
+|**2026-11-17**|**ConfGuard: a physics-grounded reference monitor for predictive-maintenance large-language-model agents**|Arunkumar V et.al.|[2611.22288](http://arxiv.org/abs/2611.22288)|null|
+|**2026-11-17**|**DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment**|Peng Yu et.al.|[2611.22278](http://arxiv.org/abs/2611.22278)|**[link](https://github.com/PursuitYP/DACE-NeurIPS)**|
+|**2026-11-17**|**GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**|Chaklam Cheong et.al.|[2611.22223](http://arxiv.org/abs/2611.22223)|**[link](https://github.com/Hunter-CCL/GapLeak_release)**|
+|**2026-11-17**|**EGS: A Complementary Safety Framework for Educational LLMs**|Zexuan Fei et.al.|[2611.22203](http://arxiv.org/abs/2611.22203)|null|
+|**2026-11-16**|**Supporting Researcher Control in AI-Assisted Social Media Analysis: A Mixed-Methods Study of AI4OSN**|Qile Wang et.al.|[2611.22006](http://arxiv.org/abs/2611.22006)|null|
+|**2026-11-16**|**Eight in Ten LLMs Leak System-Prompt Secrets: Nevan, an Agentic Capture-the-Flag Study**|Ana Clara Zoppi Serpa et.al.|[2611.21956](http://arxiv.org/abs/2611.21956)|null|
 |**2026-11-16**|**Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions**|Quoc Nguyen et.al.|[2611.20472](http://arxiv.org/abs/2611.20472)|null|
 |**2026-11-14**|**VAST: Compiling Grounded Vulnerability Scenarios into Verifiable, Multi-Step Environments for Evaluating LLM Red-Team Agents**|Zhen Wan et.al.|[2611.19465](http://arxiv.org/abs/2611.19465)|null|
 |**2026-11-14**|**Hardening Agentic Web Populations Through Multi-Criterion Competitive Co-Evolution: Lessons from Wargame Strategy Optimization**|Shashank Raj et.al.|[2611.19319](http://arxiv.org/abs/2611.19319)|null|
@@ -3272,6 +3280,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-17**|**Reading Scene States: Uncovering Safety Failures in Vision-Language Models**|Tongxi Wu et.al.|[2611.23206](http://arxiv.org/abs/2611.23206)|null|
+|**2026-11-17**|**Dressed in Authority: Practical Black-Box Jailbreaking of MLLMs via Visual Trust Bias**|Weihang Liu et.al.|[2611.22292](http://arxiv.org/abs/2611.22292)|null|
+|**2026-11-17**|**Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations**|Ege Kaya et.al.|[2611.22186](http://arxiv.org/abs/2611.22186)|null|
 |**2026-11-16**|**SmoothShift: Disrupting Visual Adversarial Attacks on LVLMs at Test Time**|Xiaoqing Chen et.al.|[2611.20537](http://arxiv.org/abs/2611.20537)|null|
 |**2026-11-15**|**AlphaTruck: A Platform for High-Speed Off-Road Autonomy on Unstructured Terrain**|Rwik Rana et.al.|[2611.19730](http://arxiv.org/abs/2611.19730)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
