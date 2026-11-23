@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**The Assistant Persona Differs Across Languages in Activation Space**|Daniel Yoo et.al.|[2611.27504](http://arxiv.org/abs/2611.27504)|null|
+|**2026-11-20**|**Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation**|Miaoqing Tian et.al.|[2611.27495](http://arxiv.org/abs/2611.27495)|null|
+|**2026-11-20**|**Cleave: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs**|Feng Huang et.al.|[2611.27426](http://arxiv.org/abs/2611.27426)|null|
+|**2026-11-20**|**Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization**|Ramneek Agnihotri et.al.|[2611.27424](http://arxiv.org/abs/2611.27424)|**[link](https://github.com/juvenile34/274240bede8c2611)**|
+|**2026-11-20**|**Learning Adaptive Defense Strategies: Fine-Tuned LLMs for Network Security Games under Network Mobility**|Md Abu Sayed et.al.|[2611.27180](http://arxiv.org/abs/2611.27180)|null|
+|**2026-11-20**|**Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming**|Chengming Liu et.al.|[2611.26998](http://arxiv.org/abs/2611.26998)|null|
 |**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
 |**2026-11-19**|**BlockJack: Cross-Tenant Redirection Fault Attacks on Paged KV Cache Address Translation in LLM Serving**|Qifan Wang et.al.|[2611.25945](http://arxiv.org/abs/2611.25945)|null|
 |**2026-11-19**|**DriftGuard: Online Memory-Drift Detection via Causal Attribution for LLM Agents**|Licheng Pan et.al.|[2611.25583](http://arxiv.org/abs/2611.25583)|null|
@@ -3279,7 +3285,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3287,6 +3293,8 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
+|**2026-11-20**|**GeoCloak: Defending Against Geolocation Reasoning in Multimodal Language Models via Perceptual Image Editing**|Haoyang Xu et.al.|[2611.26987](http://arxiv.org/abs/2611.26987)|null|
 |**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-19**|**TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs**|Xuwei Ding et.al.|[2611.25387](http://arxiv.org/abs/2611.25387)|null|
 |**2026-11-17**|**Reading Scene States: Uncovering Safety Failures in Vision-Language Models**|Tongxi Wu et.al.|[2611.23206](http://arxiv.org/abs/2611.23206)|null|
@@ -4720,5 +4728,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
