@@ -1282,7 +1282,7 @@
 |**2025-11-20**|**AutoBackdoor: Automating Backdoor Attacks via LLM Agents**|Yige Li et.al.|[2511.16709](http://arxiv.org/abs/2511.16709)|null|
 |**2025-11-20**|**Large Language Model-Based Reward Design for Deep Reinforcement Learning-Driven Autonomous Cyber Defense**|Sayak Mukherjee et.al.|[2511.16483](http://arxiv.org/abs/2511.16483)|null|
 |**2025-11-20**|**PSM: Prompt Sensitivity Minimization via LLM-Guided Black-Box Optimization**|Huseein Jawad et.al.|[2511.16209](http://arxiv.org/abs/2511.16209)|null|
-|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|null|
+|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|**[link](https://github.com/proventra/proventra-core)**|
 |**2025-11-20**|**Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models**|Piercosma Bisconti et.al.|[2511.15304](http://arxiv.org/abs/2511.15304)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-18**|**When AI Democratizes Exploitation: LLM-Assisted Strategic Manipulation of Fair Division Algorithms**|Priyanka Verma et.al.|[2511.14722](http://arxiv.org/abs/2511.14722)|null|
