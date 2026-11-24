@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,10 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-22**|**Persistent Jailbreak Backdoor Attack**|Haichuan Zhang et.al.|[2611.29217](http://arxiv.org/abs/2611.29217)|null|
+|**2026-11-21**|**Persuasion from Within: Model-Based Insider Attacks in Multi-Agent LLM Debate and Consensus**|Bangyan Ju et.al.|[2611.28660](http://arxiv.org/abs/2611.28660)|null|
+|**2026-11-21**|**Mitigating Backdoors in Masked Diffusion Language Models**|Chengzhong Wang et.al.|[2611.28640](http://arxiv.org/abs/2611.28640)|null|
+|**2026-11-21**|**Understanding and Mitigating the Fragility of Self-Rewarding Optimization**|Rongyi Zhu et.al.|[2611.28582](http://arxiv.org/abs/2611.28582)|null|
+|**2026-11-21**|**Weight-Space Backdoors in Open-Weight LLMs: Cross-Architecture Attacks and Blind Model Forensics**|Mohammed Tanveer et.al.|[2611.28543](http://arxiv.org/abs/2611.28543)|null|
+|**2026-11-20**|**INSEP: Refusal-Direction Inseparability as a Defense Against Abliteration**|Ivan Brugere et.al.|[2611.28314](http://arxiv.org/abs/2611.28314)|null|
 |**2026-11-20**|**The Assistant Persona Differs Across Languages in Activation Space**|Daniel Yoo et.al.|[2611.27504](http://arxiv.org/abs/2611.27504)|null|
 |**2026-11-20**|**Trained on Harm, Still Refusing: A Training-Time Defense for Code Generation**|Miaoqing Tian et.al.|[2611.27495](http://arxiv.org/abs/2611.27495)|null|
 |**2026-11-20**|**Cleave: Severing Guardrails and Auditing Spectral Coupling in Open-Weight LLMs**|Feng Huang et.al.|[2611.27426](http://arxiv.org/abs/2611.27426)|null|
-|**2026-11-20**|**Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization**|Ramneek Agnihotri et.al.|[2611.27424](http://arxiv.org/abs/2611.27424)|**[link](https://github.com/juvenile34/274240bede8c2611)**|
+|**2026-11-20**|**Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization**|Ramneek Agnihotri et.al.|[2611.27424](http://arxiv.org/abs/2611.27424)|null|
 |**2026-11-20**|**Learning Adaptive Defense Strategies: Fine-Tuned LLMs for Network Security Games under Network Mobility**|Md Abu Sayed et.al.|[2611.27180](http://arxiv.org/abs/2611.27180)|null|
 |**2026-11-20**|**Reward Integrity in Adversarial Reinforcement Learning for LLM Guardrail Red-Teaming**|Chengming Liu et.al.|[2611.26998](http://arxiv.org/abs/2611.26998)|null|
 |**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
@@ -3285,7 +3291,7 @@
 |**2014-09-09**|**Object-Oriented Programming, Functional Programming and R**|John M. Chambers et.al.|[1409.3531](http://arxiv.org/abs/1409.3531)|**[link](https://github.com/Saadnadeem07/Cricbuzz-Management-System-OOP)**|
 |**2013-12-11**|**Semantic Types, Lexical Sorts and Classifiers**|Bruno Mery et.al.|[1312.3168](http://arxiv.org/abs/1312.3168)|**[link](https://github.com/m77203211/scp035)**|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## MultiModal Jailbreak & Defense
 
@@ -3293,6 +3299,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-15**|**Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers**|Ahmed Loughzali et.al.|[2611.28078](http://arxiv.org/abs/2611.28078)|null|
 |**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
 |**2026-11-20**|**GeoCloak: Defending Against Geolocation Reasoning in Multimodal Language Models via Perceptual Image Editing**|Haoyang Xu et.al.|[2611.26987](http://arxiv.org/abs/2611.26987)|null|
 |**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
@@ -4728,5 +4735,5 @@
 |**2009-08-31**|**Generation of Sound Bullets with a Nonlinear Acoustic Lens**|Alessandro Spadoni et.al.|[0909.0068](http://arxiv.org/abs/0909.0068)|null|
 |**2007-12-10**|**A Catalog of Bright Star Clusters in the Interacting Galaxy M51**|Narae Hwang et.al.|[0712.1420](http://arxiv.org/abs/0712.1420)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
