@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models**|Magnus Saebo et.al.|[2611.30533](http://arxiv.org/abs/2611.30533)|null|
+|**2026-11-23**|**Bounded Autonomy: A Trust-Anchored Defense Against Resource-Exhaustion Attacks on Tool-Augmented LLM Agents**|Ziyuan Chen et.al.|[2611.30383](http://arxiv.org/abs/2611.30383)|null|
+|**2026-11-23**|**Sequential Selection against an Adaptive Opponent**|Zhongyuan Lyu et.al.|[2611.30006](http://arxiv.org/abs/2611.30006)|null|
+|**2026-11-22**|**Adaptation or Poisoning? Security Risks of Conversational Test-Time Learning in Large Language Models**|Honghao Feng et.al.|[2611.29532](http://arxiv.org/abs/2611.29532)|null|
+|**2026-11-22**|**Detectable Epistemic Attack Layers: A Coverage Theorem and Standardized Harness for Conversation-History Integrity**|Fahrell Giovanny et.al.|[2611.29449](http://arxiv.org/abs/2611.29449)|null|
+|**2026-11-22**|**From Vanishing Gradients to Recursive Self-Improvement: Evaluating the Most Influential Papers in Large Language Model Evolution (1997-2026)**|Saadh Jawwadh et.al.|[2611.29303](http://arxiv.org/abs/2611.29303)|null|
 |**2026-11-22**|**Persistent Jailbreak Backdoor Attack**|Haichuan Zhang et.al.|[2611.29217](http://arxiv.org/abs/2611.29217)|null|
 |**2026-11-21**|**Persuasion from Within: Model-Based Insider Attacks in Multi-Agent LLM Debate and Consensus**|Bangyan Ju et.al.|[2611.28660](http://arxiv.org/abs/2611.28660)|null|
 |**2026-11-21**|**Mitigating Backdoors in Masked Diffusion Language Models**|Chengzhong Wang et.al.|[2611.28640](http://arxiv.org/abs/2611.28640)|null|
