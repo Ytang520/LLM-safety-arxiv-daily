@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment**|Shivank Rajput et.al.|[2611.33030](http://arxiv.org/abs/2611.33030)|null|
+|**2026-11-24**|**"I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?**|Megan Squire et.al.|[2611.32957](http://arxiv.org/abs/2611.32957)|null|
+|**2026-11-24**|**ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models**|Wonjune Seo et.al.|[2611.32755](http://arxiv.org/abs/2611.32755)|null|
+|**2026-11-24**|**Red-Teaming a Sovereign LLM, Its Reasoning and Its Training Stages**|Hatef Otroshi Shahreza et.al.|[2611.32710](http://arxiv.org/abs/2611.32710)|null|
+|**2026-11-24**|**Steerable by Design: Conditional Pretraining for Robust Control of Language Models**|Henry Castillo et.al.|[2611.32199](http://arxiv.org/abs/2611.32199)|null|
+|**2026-11-24**|**ExpGuard: Guarding Long-Horizon LLM Agents against Corrupted Experience**|Yuzhou Chen et.al.|[2611.32085](http://arxiv.org/abs/2611.32085)|null|
+|**2026-11-23**|**Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense**|Venkata Muttineni et.al.|[2611.31429](http://arxiv.org/abs/2611.31429)|null|
 |**2026-11-23**|**CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models**|Magnus Saebo et.al.|[2611.30533](http://arxiv.org/abs/2611.30533)|null|
 |**2026-11-23**|**Bounded Autonomy: A Trust-Anchored Defense Against Resource-Exhaustion Attacks on Tool-Augmented LLM Agents**|Ziyuan Chen et.al.|[2611.30383](http://arxiv.org/abs/2611.30383)|null|
 |**2026-11-23**|**Sequential Selection against an Adaptive Opponent**|Zhongyuan Lyu et.al.|[2611.30006](http://arxiv.org/abs/2611.30006)|null|
@@ -3305,6 +3312,7 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-23**|**What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations**|Yuhan Bian et.al.|[2611.31346](http://arxiv.org/abs/2611.31346)|null|
 |**2026-11-15**|**Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers**|Ahmed Loughzali et.al.|[2611.28078](http://arxiv.org/abs/2611.28078)|null|
 |**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
 |**2026-11-20**|**GeoCloak: Defending Against Geolocation Reasoning in Multimodal Language Models via Perceptual Image Editing**|Haoyang Xu et.al.|[2611.26987](http://arxiv.org/abs/2611.26987)|null|
