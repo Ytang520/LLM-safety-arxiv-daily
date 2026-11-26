@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense**|Alessandro Cantelli-Forti et.al.|[2611.34770](http://arxiv.org/abs/2611.34770)|null|
+|**2026-11-25**|**From Models to Services: Systematizing Security Assurance for Model-as-a-Service**|Jianming Zhou et.al.|[2611.34623](http://arxiv.org/abs/2611.34623)|null|
+|**2026-11-25**|**Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems**|Manit Baser et.al.|[2611.34278](http://arxiv.org/abs/2611.34278)|null|
+|**2026-11-25**|**Unstable Action Boundaries in Lethal Drone Agents**|Jacques Dumora et.al.|[2611.34121](http://arxiv.org/abs/2611.34121)|null|
+|**2026-11-24**|**Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion**|Jeremy Canale et.al.|[2611.33470](http://arxiv.org/abs/2611.33470)|null|
 |**2026-11-24**|**SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment**|Shivank Rajput et.al.|[2611.33030](http://arxiv.org/abs/2611.33030)|null|
 |**2026-11-24**|**"I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?**|Megan Squire et.al.|[2611.32957](http://arxiv.org/abs/2611.32957)|null|
 |**2026-11-24**|**ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models**|Wonjune Seo et.al.|[2611.32755](http://arxiv.org/abs/2611.32755)|null|
@@ -3312,6 +3317,9 @@
 |---|---|---|---|---|
 |**2006-08-21**|**AEGIS: Galaxy Spectral Energy Distributions from the X-Ray to Radio**|N. P. Konidaris et.al.|[astro-ph/0608378](http://arxiv.org/abs/astro-ph/0608378)|null|
 |**2004-02-12**|**The Team Keck Treasury Redshift Survey of the GOODS-North Field**|Gregory D. Wirth et.al.|[astro-ph/0401353](http://arxiv.org/abs/astro-ph/0401353)|null|
+|**2026-11-25**|**VisualMontage: Manipulating the Beliefs of Vision-Language Agents with Authentic Image Sequences**|Jinwei Hu et.al.|[2611.34603](http://arxiv.org/abs/2611.34603)|null|
+|**2026-11-24**|**AVERT: Anomalous Value Erasure with Response Testing against Visual Prompt Injection**|Newt Hue-Nam K. Nguyen et.al.|[2611.33532](http://arxiv.org/abs/2611.33532)|null|
+|**2026-11-24**|**A Semantics-First Approach to Multimodal Video Captioning with Frozen Encoders and Stabilized Reinforcement Learning**|Albert Chiwara et.al.|[2611.33409](http://arxiv.org/abs/2611.33409)|null|
 |**2026-11-23**|**What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations**|Yuhan Bian et.al.|[2611.31346](http://arxiv.org/abs/2611.31346)|null|
 |**2026-11-15**|**Adversarial Attacks Expose Path-Dependent Failures in Discrete Medical Image Tokenizers**|Ahmed Loughzali et.al.|[2611.28078](http://arxiv.org/abs/2611.28078)|null|
 |**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
